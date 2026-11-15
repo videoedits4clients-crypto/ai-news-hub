@@ -98,6 +98,15 @@ def short_date(iso):
         return ""
 
 
+def snippet(s, limit=140):
+    """One-line summary: strip, truncate on a word boundary, skip filler."""
+    s = " ".join((s or "").split())
+    if len(s) <= limit:
+        return s
+    cut = s[:limit].rsplit(" ", 1)[0]
+    return cut.rstrip(",.;:!") + "…"
+
+
 # ---------------------------------------------------------------- html
 
 def esc(s):
@@ -134,7 +143,12 @@ def build_html(trending, grouped, n_articles, top_sources, n_sources, site_url):
     </div>
   </div>
 
-  <div style="padding:0 16px;">"""]
+  <div style="padding:0 16px;">
+    <div style="margin:2px 16px 0;border-top:1px solid #21262d;"></div>
+
+    <p style="font-size:14.5px;line-height:1.65;color:#c9d1d9;margin:22px 18px 0;">
+      Here's the AI week in one read &#8212; the <b style="color:#6ee7b7;">{sum(len(v) for v in grouped.values())} stories that mattered</b>,
+      trending first, then grouped by topic. Skim the bold lines, tap anything interesting.</p>"""]
 
     if trending:
         parts.append("""
@@ -161,20 +175,28 @@ def build_html(trending, grouped, n_articles, top_sources, n_sources, site_url):
 
     for section, items in grouped.items():
         emoji, color = SECTION_STYLE.get(section, ("📰", "#8b949e"))
+        n = len(items)
         parts.append(f"""
     <div style="margin:28px 0 10px;">
       <div style="font-weight:800;font-size:14px;letter-spacing:1.5px;color:{color};">
         {emoji}&nbsp; {section.upper()}
-      </div>""")
+        <span style="float:right;font-weight:700;font-size:11px;color:#6e7681;letter-spacing:0.5px;">{n} STORIES</span>
+      </div>
+      <div style="margin-top:8px;border-top:1px solid #21262d;"></div>""")
         for it in items:
             meta = esc(it["source"])
             if it["date"]:
                 meta += f' &#183; {esc(short_date(it["date"]))}'
+            snip = snippet(it.get("summary", ""))
+            if snip and snip.lower() != it["title"].lower():
+                snip_html = (f'<div style="font-size:13px;line-height:1.55;color:#8b949e;margin-top:6px;">{esc(snip)}</div>')
+            else:
+                snip_html = ""
             parts.append(f"""      <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:14px 16px;margin-bottom:8px;">
         <div style="font-size:11px;color:{color};font-weight:700;text-transform:uppercase;letter-spacing:0.7px;">{meta}</div>
         <div style="font-size:15px;font-weight:600;line-height:1.45;margin-top:4px;">
           <a href="{esc(it["link"])}" style="color:#e6edf3;text-decoration:none;">{esc(it["title"])}</a>
-        </div>
+        </div>{snip_html}
       </div>""")
         parts.append("    </div>")
 
