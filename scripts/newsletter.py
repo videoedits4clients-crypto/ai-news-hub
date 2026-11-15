@@ -34,8 +34,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_FILE = ROOT / "data" / "news.json"
 
-SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-SMTP_PORT = int(os.environ.get("SMTP_PORT", "465"))
+SMTP_HOST = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
+SMTP_PORT = int(os.environ.get("SMTP_PORT") or "465")
 
 TOPIC_EMOJI = {"Models": "🤖", "Research": "🔬", "Funding": "💰",
                "Policy": "⚖️", "Chips": "🔌", "Business": "💼"}
