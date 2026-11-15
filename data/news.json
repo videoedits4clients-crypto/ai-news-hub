@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:33:23.709555+00:00",
+  "updated": "2026-11-15T17:44:34.140842+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -150,6 +150,22 @@
   ],
   "items": [
     {
+      "title": "[Open Source / MIT] How we stopped coding agents from hallucinating citations and repeating failed ML experiments (281 modular SKILL.md workflows",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1xx1lpj/open_source_mit_how_we_stopped_coding_agents_from/",
+      "summary": "",
+      "date": "2026-11-15T17:40:04+00:00",
+      "image": "",
+      "source": "r/LLMDevs"
+    },
+    {
+      "title": "Minimax H3 video: unrealistic bulge in female underwear",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx1h18/minimax_h3_video_unrealistic_bulge_in_female/",
+      "summary": "",
+      "date": "2026-11-15T17:35:02+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Something wierd has happened..",
       "link": "https://www.reddit.com/r/OpenAI/comments/1xx19nv/something_wierd_has_happened/",
       "summary": "",
@@ -184,15 +200,23 @@
     {
       "title": "Groma.md: Stay in control of your architecture as AI agents write code",
       "link": "https://github.com/MrLesk/Groma.md",
-      "summary": "Article URL: https://github.com/MrLesk/Groma.md Comments URL: https://news.ycombinator.com/item?id=50508688 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://github.com/MrLesk/Groma.md Comments URL: https://news.ycombinator.com/item?id=50508688 Points: 2 # Comments: 1",
       "date": "2026-11-15T17:18:44+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
+      "title": "what image model will run on this specs..",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx11lv/what_image_model_will_run_on_this_specs/",
+      "summary": "",
+      "date": "2026-11-15T17:18:28+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Tuning a Linux laptop for AI-assisted development",
       "link": "https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development/",
-      "summary": "Article URL: https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development/ Comments URL: https://news.ycombinator.com/item?id=50508649 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development/ Comments URL: https://news.ycombinator.com/item?id=50508649 Points: 2 # Comments: 0",
       "date": "2026-11-15T17:15:35+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -200,7 +224,7 @@
     {
       "title": "GitSeed – Self-hosted control plane for AI coding agents",
       "link": "https://github.com/gitseed-dev/gitseed",
-      "summary": "Article URL: https://github.com/gitseed-dev/gitseed Comments URL: https://news.ycombinator.com/item?id=50508614 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/gitseed-dev/gitseed Comments URL: https://news.ycombinator.com/item?id=50508614 Points: 2 # Comments: 0",
       "date": "2026-11-15T17:12:48+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -280,7 +304,7 @@
     {
       "title": "What Picasso taught me about building AI Agents",
       "link": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
-      "summary": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50508076 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50508076 Points: 5 # Comments: 1",
       "date": "2026-11-15T16:16:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -464,7 +488,7 @@
     {
       "title": "All AI-generated code should be Open Source",
       "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 412 # Comments: 255",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 470 # Comments: 286",
       "date": "2026-11-15T14:46:58+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -552,7 +576,7 @@
     {
       "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
       "link": "https://github.com/db-branch/db-branch",
-      "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 4 # Comments: 1",
       "date": "2026-11-15T13:50:51+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -862,6 +886,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "Terence Tao and Peter L.: LIVE Math with Open Math OS",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwnt6i/terence_tao_and_peter_l_live_math_with_open_math/",
+      "summary": "",
+      "date": "2026-11-15T05:52:59+00:00",
+      "image": "https://external-preview.redd.it/71H1EYwge-8SoZssx6bViBzLp_j01wmHcX7OZBgW14k.jpeg?width=320&crop=smart&auto=webp&s=5c6582c7c6f837e136cf186c3d502e97ca2df354",
+      "source": "r/singularity"
+    },
+    {
       "title": "built a fact-checker that catches politicians lying in real-time",
       "link": "https://www.reddit.com/r/OpenAI/comments/1xwmzgl/built_a_factchecker_that_catches_politicians/",
       "summary": "",
@@ -934,14 +966,6 @@
       "source": "r/LLMDevs"
     },
     {
-      "title": "I've upgraded Fooocus and added modern features for SDXL",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xwjqln/ive_upgraded_fooocus_and_added_modern_features/",
-      "summary": "",
-      "date": "2026-11-15T02:10:54+00:00",
-      "image": "https://preview.redd.it/4tx4qdg4qo1i1.jpeg?width=140&height=66&auto=webp&s=9d182387460459556b63e80420413c4f31063c91",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "The Chrisrmas Tree Test. Fable, Opus, Haiku. You decide...Just for fun",
       "link": "https://www.reddit.com/r/artificial/comments/1xwj5u8/the_chrisrmas_tree_test_fable_opus_haiku_you/",
       "summary": "",
@@ -972,14 +996,6 @@
       "date": "2026-11-15T01:05:10+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "What ECI score do you expect for the impending Astra & Sol releases?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwidfr/what_eci_score_do_you_expect_for_the_impending/",
-      "summary": "",
-      "date": "2026-11-15T01:00:13+00:00",
-      "image": "https://preview.redd.it/244f8kwfdo1i1.png?width=640&crop=smart&auto=webp&s=860db6b9ec183b5eedaeef2c724f430aa5da320a",
-      "source": "r/singularity"
     },
     {
       "title": "I need a local character swap model.",
@@ -1236,14 +1252,6 @@
       "date": "2026-11-14T17:46:06+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Styles Atlas nodes for Comfyui: +1000 styles +800 characters.",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xw8708/styles_atlas_nodes_for_comfyui_1000_styles_800/",
-      "summary": "",
-      "date": "2026-11-14T17:34:20+00:00",
-      "image": "https://preview.redd.it/439rya836m1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=6476963808114727d5b01f61ed4194adcd799811",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Do you test your RAG pipeline against poisoned documents",
@@ -1564,14 +1572,6 @@
       "date": "2026-11-14T06:33:13+00:00",
       "image": "https://preview.redd.it/yflpdcdmqi1i1.jpeg?width=640&crop=smart&auto=webp&s=5df1b567261b25c29eaa82ec8c76b5597aa9ec8a",
       "source": "r/singularity"
-    },
-    {
-      "title": "What are the best AI agent platforms for an enterprise rollout?",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1xvv3n1/what_are_the_best_ai_agent_platforms_for_an/",
-      "summary": "",
-      "date": "2026-11-14T06:14:10+00:00",
-      "image": "",
-      "source": "r/LLMDevs"
     },
     {
       "title": "🔥 GPT keeps quietly shrinking your limits. Meanwhile, the neighbors are stretching theirs.",
