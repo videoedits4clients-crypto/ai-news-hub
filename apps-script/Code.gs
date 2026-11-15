@@ -24,64 +24,100 @@ function getSheet_() {
 // ------------------------------------------------------ welcome email
 
 function welcomeHtml_() {
-  return ""
-  + "<div style='margin:0;padding:0;background:#f6f8fa;'>"
-  + "<div style='max-width:600px;margin:0 auto;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#1f2328;'>"
+  // Dark, brand-matching design (mirrors the site's dark + mint identity).
+  // Emoji are HTML entities — never literal — so Gmail never mojibakes them.
+  // Logo: hosted icon.png from GitHub Pages (works in Gmail, no attachment).
+  var ICON = SITE_URL + "icon.png";
 
-  // header
-  + "<div style='background:#0e1116;border-radius:16px 16px 0 0;padding:36px 24px;text-align:center;'>"
-  + "<div style='font-size:34px;font-weight:800;color:#6ee7b7;'>&#9889; AI Pulse</div>"
-  + "<div style='color:#8b949e;font-size:13px;margin-top:6px;'>Artificial intelligence news, decoded weekly</div>"
+  return ""
+  + "<div style='margin:0;padding:0;background:#0b0f14;'>"
+  + "<div style='max-width:600px;margin:0 auto;background:#0b0f14;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#e6edf3;'>"
+
+  // ===== header: hosted logo + wordmark =====
+  + "<div style='text-align:center;padding:40px 24px 26px;'>"
+  + "<img src='" + ICON + "' width='76' height='76' alt='AI Pulse' style='border-radius:18px;display:inline-block;'>"
+  + "<div style='font-size:34px;font-weight:800;color:#6ee7b7;letter-spacing:0.5px;margin-top:14px;'>AI Pulse</div>"
+  + "<div style='color:#8b949e;font-size:13px;margin-top:6px;letter-spacing:1.5px;text-transform:uppercase;'>Artificial intelligence news, decoded weekly</div>"
   + "</div>"
 
-  // body
-  + "<div style='background:#ffffff;border:1px solid #e1e4e8;border-top:none;padding:32px 28px;border-radius:0 0 16px 16px;'>"
-  + "<h1 style='font-size:22px;margin:0 0 12px;'>Welcome aboard! &#127881;</h1>"
-  + "<p style='font-size:15px;line-height:1.6;margin:0 0 18px;'>"
-  + "You've just joined readers who get <b>one beautifully structured email every week</b> "
-  + "&#8212; the trending AI stories, the big model releases, the funding moves, and the skills the industry is talking about. No spam. Unsubscribe anytime by replying.</p>"
+  // ===== hero card =====
+  + "<div style='background:#161b22;border:1px solid #21262d;border-radius:16px;padding:30px 28px;margin:0 16px;'>"
+  + "<div style='font-size:24px;font-weight:800;color:#ffffff;'>Welcome aboard! &#127881;</div>"
+  + "<p style='font-size:15px;line-height:1.65;color:#c9d1d9;margin:12px 0 0;'>"
+  + "You just joined readers who get <b style='color:#ffffff;'>one sharp, structured email every Monday</b> "
+  + "&#8212; the trending AI stories, the big model releases, the funding moves and the policy shifts. "
+  + "Every headline links to the original source. No spam, ever.</p>"
+  + "</div>"
 
-  // what you get
-  + "<div style='background:#f6f8fa;border:1px solid #e1e4e8;border-radius:12px;padding:18px 20px;margin-bottom:24px;'>"
-  + "<div style='font-weight:800;font-size:13px;color:#57606a;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;'>Every week you'll get</div>"
-  + "<div style='font-size:14.5px;line-height:2;'>"
-  + "&#128293; <b>Trending</b> &#8212; stories covered by multiple sources<br>"
-  + "&#129302; <b>Models &amp; releases</b> &#8212; straight from the labs<br>"
-  + "&#128176; <b>Funding &amp; business</b> &#8212; who raised, who shipped<br>"
-  + "&#9878;&#65039; <b>Policy</b> &#8212; the rules shaping AI"
-  + "</div></div>"
-
-  // CTAs
+  // ===== what you get: 2x2 card grid =====
+  + "<div style='padding:26px 16px 0;'>"
+  + "<div style='color:#6ee7b7;font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;margin-bottom:12px;'>&#128073; What lands in your inbox</div>"
   + "<table width='100%' cellpadding='0' cellspacing='0'><tr>"
-  + "<td style='padding-right:6px;' width='50%'>"
-  + "<a href='" + SITE_URL + "' style='display:block;background:#0a9d68;color:#ffffff;font-weight:700;font-size:14px;padding:13px 10px;border-radius:10px;text-decoration:none;text-align:center;'>&#9889; Open AI Pulse</a>"
+  + "<td width='50%' style='padding:0 6px 12px 0;'>"
+  +   "<div style='background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;'>"
+  +   "<div style='font-size:22px;'>&#128293;</div>"
+  +   "<div style='font-weight:700;color:#ffffff;font-size:14px;margin-top:6px;'>Trending</div>"
+  +   "<div style='color:#8b949e;font-size:12.5px;line-height:1.5;margin-top:3px;'>Stories covered by multiple sources, ranked</div></div>"
   + "</td>"
-  + "<td style='padding-left:6px;' width='50%'>"
-  + "<a href='" + SKILLATLAS_URL + "' style='display:block;background:#1f2328;color:#ffffff;font-weight:700;font-size:14px;padding:13px 10px;border-radius:10px;text-decoration:none;text-align:center;'>&#129517; Explore SkillAtlas</a>"
+  + "<td width='50%' style='padding:0 0 12px 6px;'>"
+  +   "<div style='background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;'>"
+  +   "<div style='font-size:22px;'>&#129302;</div>"
+  +   "<div style='font-weight:700;color:#ffffff;font-size:14px;margin-top:6px;'>Models &amp; releases</div>"
+  +   "<div style='color:#8b949e;font-size:12.5px;line-height:1.5;margin-top:3px;'>New launches, straight from the labs</div></div>"
+  + "</td>"
+  + "</tr><tr>"
+  + "<td width='50%' style='padding:0 6px 0 0;'>"
+  +   "<div style='background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;'>"
+  +   "<div style='font-size:22px;'>&#128176;</div>"
+  +   "<div style='font-weight:700;color:#ffffff;font-size:14px;margin-top:6px;'>Money &amp; business</div>"
+  +   "<div style='color:#8b949e;font-size:12.5px;line-height:1.5;margin-top:3px;'>Who raised, who shipped, who's hiring</div></div>"
+  + "</td>"
+  + "<td width='50%' style='padding:0 0 0 6px;'>"
+  +   "<div style='background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;'>"
+  +   "<div style='font-size:22px;'>&#9878;&#65039;</div>"
+  +   "<div style='font-weight:700;color:#ffffff;font-size:14px;margin-top:6px;'>Policy &amp; law</div>"
+  +   "<div style='color:#8b949e;font-size:12.5px;line-height:1.5;margin-top:3px;'>The rules shaping AI, decoded</div></div>"
   + "</td>"
   + "</tr></table>"
-
-  // skillatlas blurb
-  + "<div style='border:1px dashed #d0d7de;border-radius:12px;padding:16px 18px;margin-top:22px;'>"
-  + "<div style='font-weight:800;font-size:14px;margin-bottom:6px;'>Also from us: &#129517; SkillAtlas</div>"
-  + "<p style='font-size:13.5px;line-height:1.55;color:#57606a;margin:0;'>"
-  + "Every Claude &amp; AI-agent skill on GitHub &#8212; sorted into plain-English categories, "
-  + "refreshed twice a day. Search, preview, and install in one click."
-  + " <a href='" + SKILLATLAS_URL + "' style='color:#0969da;font-weight:700;text-decoration:none;'>Take a look &#8594;</a></p>"
   + "</div>"
 
-  // whatsapp channel
-  + "<p style='font-size:14px;line-height:1.6;margin:22px 0 0;'>"
-  + "Prefer WhatsApp? Follow our daily news channel:<br>"
-  + "<a href='" + CHANNEL_URL + "' style='color:#0969da;font-weight:700;text-decoration:none;'>&#128241; AI Pulse on WhatsApp &#8594;</a></p>"
-
-  // footer
-  + "<div style='color:#8b949e;font-size:12px;text-align:center;padding-top:26px;line-height:1.6;'>"
-  + "You received this because you subscribed at AI Pulse.<br>"
-  + "Headlines belong to their publishers."
+  // ===== primary CTA =====
+  + "<div style='text-align:center;padding:28px 16px 6px;'>"
+  + "<a href='" + SITE_URL + "' style='display:block;background:#0a9d68;color:#ffffff;font-weight:800;font-size:15px;padding:15px 10px;border-radius:12px;text-decoration:none;'>&#9889; Open AI Pulse &#8212; it's live now</a>"
+  + "<div style='color:#8b949e;font-size:12.5px;margin-top:10px;'>Fresh headlines every 15 minutes &#8212; bookmark it.</div>"
   + "</div>"
 
-  + "</div></div></div>";
+  // ===== skillatlas card =====
+  + "<div style='background:#161b22;border:1px solid #21262d;border-radius:14px;padding:20px;margin:24px 16px 0;'>"
+  + "<table width='100%' cellpadding='0' cellspacing='0'><tr>"
+  + "<td style='vertical-align:top;padding-right:14px;font-size:24px;'>&#129517;</td>"
+  + "<td style='vertical-align:top;'>"
+  + "<div style='font-weight:800;color:#ffffff;font-size:14.5px;'>Also from us: SkillAtlas</div>"
+  + "<p style='color:#8b949e;font-size:13px;line-height:1.55;margin:6px 0 10px;'>"
+  + "Every Claude &amp; AI-agent skill on GitHub &#8212; sorted into plain-English categories, refreshed twice a day. Search, preview, install in one click.</p>"
+  + "<a href='" + SKILLATLAS_URL + "' style='display:inline-block;background:#e6edf3;color:#0b0f14;font-weight:700;font-size:12.5px;padding:9px 16px;border-radius:9px;text-decoration:none;'>Explore SkillAtlas &#8594;</a>"
+  + "</td></tr></table>"
+  + "</div>"
+
+  // ===== whatsapp card =====
+  + "<div style='background:#161b22;border:1px solid #1a7f37;border-radius:14px;padding:20px;margin:12px 16px 0;'>"
+  + "<table width='100%' cellpadding='0' cellspacing='0'><tr>"
+  + "<td style='vertical-align:top;padding-right:14px;font-size:24px;'>&#128241;</td>"
+  + "<td style='vertical-align:top;'>"
+  + "<div style='font-weight:800;color:#ffffff;font-size:14.5px;'>Prefer WhatsApp?</div>"
+  + "<p style='color:#8b949e;font-size:13px;line-height:1.55;margin:6px 0 10px;'>"
+  + "Follow our channel for daily AI headlines between the weekly emails.</p>"
+  + "<a href='" + CHANNEL_URL + "' style='display:inline-block;background:#1a7f37;color:#ffffff;font-weight:700;font-size:12.5px;padding:9px 16px;border-radius:9px;text-decoration:none;'>Follow AI Pulse on WhatsApp &#8594;</a>"
+  + "</td></tr></table>"
+  + "</div>"
+
+  // ===== footer =====
+  + "<div style='color:#6e7681;font-size:12px;text-align:center;padding:30px 24px 34px;line-height:1.7;'>"
+  + "You're receiving this because you subscribed at AI Pulse.<br>"
+  + "Headlines belong to their publishers. Reply any time &#8212; a human reads it."
+  + "</div>"
+
+  + "</div></div>";
 }
 
 function sendWelcome_(email) {
