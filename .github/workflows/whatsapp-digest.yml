@@ -38,4 +38,7 @@ jobs:
           META_TOKEN: ${{ secrets.META_TOKEN }}
           META_PHONE_NUMBER_ID: ${{ secrets.META_PHONE_NUMBER_ID }}
           META_TO: ${{ secrets.META_TO }}
+          DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
         run: python scripts/whatsapp_digest.py

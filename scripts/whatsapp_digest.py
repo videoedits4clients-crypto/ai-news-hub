@@ -99,6 +99,25 @@ def send_meta(text, token, phone_number_id, to_numbers):
     return result
 
 
+def send_email_digest(text, to_email, sender, app_password):
+    """Optionally email the same digest text (handy for copy-pasting into
+    a WhatsApp Channel post). Enabled by setting DIGEST_EMAIL_TO."""
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = "⚡ AI Pulse — today's WhatsApp digest (ready to forward)"
+    msg["From"] = sender
+    msg["To"] = to_email
+    msg.attach(MIMEText(text, "plain", "utf-8"))
+
+    host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
+    port = int(os.environ.get("SMTP_PORT", "465"))
+    smtp_cls = smtplib.SMTP_SSL if port == 465 else smtplib.SMTP
+    with smtp_cls(host, port) as smtp:
+        if port != 465:
+            smtp.starttls()
+        smtp.login(sender, app_password)
+        smtp.send_message(msg)
+
+
 def main():
     top = int(sys.argv[sys.argv.index("--top") + 1]) if "--top" in sys.argv else 6
     provider = os.environ.get("WHATSAPP_PROVIDER", "callmebot")
@@ -108,18 +127,32 @@ def main():
         sys.exit("No stories found in data/news.json")
     text = format_digest(items)
 
+    sent_whatsapp = False
     if provider == "callmebot":
         phone = os.environ["CALLMEBOT_PHONE"]
         apikey = os.environ["CALLMEBOT_APIKEY"]
         send_callmebot(text, phone, apikey)
+        sent_whatsapp = True
     elif provider == "meta":
         token = os.environ["META_TOKEN"]
         phone_number_id = os.environ["META_PHONE_NUMBER_ID"]
         recipients = [x.strip() for x in os.environ["META_TO"].split(",") if x.strip()]
         for r in recipients:
             send_meta(text, token, phone_number_id, r)
+        sent_whatsapp = True
     else:
         sys.exit(f"Unknown provider: {provider}")
+
+    # Daily email copy for the WhatsApp Channel workflow (optional)
+    email_to = os.environ.get("DIGEST_EMAIL_TO")
+    email_from = os.environ.get("SMTP_USER")
+    email_pass = os.environ.get("SMTP_APP_PASSWORD")
+    if email_to and email_from and email_pass:
+        try:
+            send_email_digest(text, email_to, email_from, email_pass)
+            print("✉️  Also emailed a copy for your Channel")
+        except Exception as exc:
+            print(f"⚠️  Digest email failed (non-fatal): {exc}")
 
     print(f"✅ Sent {len(items)} stories via {provider}")
 
