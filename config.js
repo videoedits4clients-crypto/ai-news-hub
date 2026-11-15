@@ -6,6 +6,5 @@ window.SITE_CONFIG = {
   newsletterEndpoint: "",
 
   // Public URL of the deployed site, used in the newsletter header.
-  // e.g. "https://yourusername.github.io/ai-news-hub/"
-  siteUrl: "",
+  siteUrl: "https://videoedits4clients-crypto.github.io/ai-news-hub/",
 };

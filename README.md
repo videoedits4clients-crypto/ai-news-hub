@@ -31,6 +31,25 @@ RSS feeds ──▶ scripts/fetch_news.py ──▶ data/news.json ──▶ sta
 - GitHub Actions refreshes `data/news.json` every hour and commits it.
 - Sources live in `feeds.json` — add or remove feeds by editing that file.
 
+## Weekly email newsletter (free)
+
+Visitor flow: popup on the site → email stored in a Google Sheet →
+automated styled digest every Monday via Gmail.
+
+1. **Signup backend:** create a Google Sheet → Extensions → Apps Script →
+   paste `apps-script/Code.gs` → Deploy as Web app (Anyone can access) →
+   copy the `/exec` URL.
+2. **Wire it up:** paste that URL into `config.js` → `newsletterEndpoint`.
+   The popup on the site activates automatically. Signups land in the Sheet.
+3. **Gmail app password:** enable 2-Step Verification, create an app password
+   at https://myaccount.google.com/apppasswords
+4. **GitHub secrets** (Settings → Secrets and variables → Actions):
+   `SMTP_USER` (your Gmail), `SMTP_APP_PASSWORD`, `NEWSLETTER_ENDPOINT`,
+   `SITE_URL` (https://yourusername.github.io/ai-news-hub/)
+5. The `weekly-newsletter.yml` workflow sends every Monday 09:00 UTC.
+   Preview what the email looks like: `python scripts/newsletter.py --dry-run`
+   then open `preview.html`.
+
 ## WhatsApp daily digest
 
 The site can push the top headlines to your WhatsApp every morning — free.
