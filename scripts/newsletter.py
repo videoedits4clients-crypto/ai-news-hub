@@ -104,54 +104,54 @@ def esc(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-# Per-section look: (emoji, accent color, header tint).
-# Section names are internal constants — print them raw, never esc() them,
-# otherwise titles like "Models & Releases" render as "MODELS &AMP; RELEASES".
-SECTION_STYLE = {
-    "Models & Releases":  ("\U0001F916", "#1f6feb", "#eaf2fd"),
-    "Research & Science": ("\U0001F52C", "#8250df", "#f5f0fd"),
-    "Money & Business":   ("\U0001F4B0", "#1a7f37", "#eaf6ee"),
-    "Policy & Law":       ("\u2696\uFE0F",  "#9a6700", "#fff8e6"),
-    "Chips & Hardware":   ("\U0001F50C", "#cf222e", "#fdeef0"),
-    "More from the week": ("\U0001F4F0", "#57606a", "#f6f8fa"),
-}
-
-
 def build_html(trending, grouped, n_articles, top_sources, n_sources, site_url):
     updated = datetime.now(timezone.utc).strftime("%B %d, %Y")
     site_url = site_url or "http://localhost:8000/"
+    icon = (site_url.rstrip("/") + "/icon.png") if site_url.startswith("http") else "icon.png"
+
+    # Dark, brand-matching design — mirrors the site + welcome email identity.
+    # Section look on dark: (emoji, accent color, source-line color).
+    SECTION_STYLE = {
+        "Models & Releases":  ("🤖", "#58a6ff"),
+        "Research & Science": ("🔬", "#bc8cff"),
+        "Money & Business":   ("💰", "#3fb950"),
+        "Policy & Law":       ("⚖️", "#d29922"),
+        "Chips & Hardware":   ("🔌", "#f85149"),
+        "More from the week": ("📰", "#8b949e"),
+    }
 
     parts = [f"""<!DOCTYPE html>
-<html><body style="margin:0;padding:0;background:#eef1f4;font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#1f2328;">
-<div style="max-width:640px;margin:0 auto;padding:20px 12px;">
+<html><body style="margin:0;padding:0;background:#0b0f14;font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#e6edf3;">
+<div style="max-width:640px;margin:0 auto;background:#0b0f14;">
 
-  <div style="background:#0e1116;border-radius:18px 18px 0 0;padding:32px 28px 26px;text-align:center;">
-    <div style="font-size:36px;font-weight:800;color:#6ee7b7;letter-spacing:1px;">&#9889; AI PULSE</div>
-    <div style="color:#e6edf3;font-size:12.5px;margin-top:9px;letter-spacing:2.5px;text-transform:uppercase;">Weekly AI digest &#183; {updated}</div>
+  <div style="text-align:center;padding:40px 24px 26px;">
+    <img src="{icon}" width="72" height="72" alt="AI Pulse" style="border-radius:17px;display:inline-block;">
+    <div style="font-size:34px;font-weight:800;color:#6ee7b7;letter-spacing:1px;margin-top:13px;">AI PULSE</div>
+    <div style="color:#8b949e;font-size:12.5px;margin-top:7px;letter-spacing:2.5px;text-transform:uppercase;">The week in AI &#183; {updated}</div>
     <div style="margin-top:16px;">
-      <span style="display:inline-block;background:#1c2129;color:#6ee7b7;font-size:11.5px;font-weight:700;padding:6px 13px;border-radius:20px;margin:2px 3px;">{n_articles} stories scanned</span>
-      <span style="display:inline-block;background:#1c2129;color:#8b949e;font-size:11.5px;font-weight:700;padding:6px 13px;border-radius:20px;margin:2px 3px;">{n_sources} sources tracked</span>
+      <span style="display:inline-block;background:#161b22;border:1px solid #21262d;color:#6ee7b7;font-size:11.5px;font-weight:700;padding:6px 13px;border-radius:20px;margin:2px 3px;">{n_articles} stories scanned</span>
+      <span style="display:inline-block;background:#161b22;border:1px solid #21262d;color:#8b949e;font-size:11.5px;font-weight:700;padding:6px 13px;border-radius:20px;margin:2px 3px;">{n_sources} sources</span>
     </div>
   </div>
 
-  <div style="background:#ffffff;border:1px solid #e1e4e8;border-top:none;padding:6px 22px 24px;border-radius:0 0 18px 18px;">"""]
+  <div style="padding:0 16px;">"""]
 
     if trending:
         parts.append("""
-    <div style="background:#fff8e6;border:1px solid #efd86e;border-radius:14px;padding:20px;margin:24px 0 6px;">
-      <div style="font-weight:800;font-size:13px;color:#9a6700;letter-spacing:1.5px;margin-bottom:14px;">&#128293; TRENDING THIS WEEK</div>""")
+    <div style="background:#221a08;border:1px solid #8f6a10;border-radius:14px;padding:20px;">
+      <div style="font-weight:800;font-size:13px;color:#e3b341;letter-spacing:2px;margin-bottom:14px;">🔥 TRENDING THIS WEEK</div>""")
         for i, t in enumerate(trending, 1):
             links = "".join(
-                f'<a href="{esc(l["link"])}" style="display:inline-block;background:#ffffff;border:1px solid #e6c95e;color:#9a6700;font-size:11.5px;font-weight:700;padding:3px 11px;border-radius:14px;text-decoration:none;margin:0 5px 5px 0;">{esc(l["source"])} &#8599;</a>'
+                f'<a href="{esc(l["link"])}" style="display:inline-block;background:#161b22;border:1px solid #3d3320;color:#e3b341;font-size:11.5px;font-weight:700;padding:3px 11px;border-radius:14px;text-decoration:none;margin:0 5px 5px 0;">{esc(l["source"])} ↗</a>'
                 for l in t["links"][:4])
-            parts.append(f"""      <div style="background:#ffffff;border-radius:11px;padding:15px 16px;margin-bottom:10px;">
+            parts.append(f"""      <div style="background:#161b22;border:1px solid #21262d;border-radius:11px;padding:15px 16px;margin-bottom:10px;">
         <table cellpadding="0" cellspacing="0" width="100%"><tr>
           <td style="width:36px;vertical-align:top;padding-right:12px;">
-            <div style="background:#f5d76e;color:#7a5200;font-weight:800;font-size:16px;width:30px;height:30px;line-height:30px;text-align:center;border-radius:9px;">{i}</div>
+            <div style="background:#f5d76e;color:#201400;font-weight:800;font-size:16px;width:30px;height:30px;line-height:30px;text-align:center;border-radius:9px;">{i}</div>
           </td>
           <td style="vertical-align:top;">
             <div style="font-weight:700;font-size:15px;line-height:1.4;">
-              <a href="{esc(t["links"][0]["link"])}" style="color:#1f2328;text-decoration:none;">{esc(t["title"])}</a>
+              <a href="{esc(t["links"][0]["link"])}" style="color:#e6edf3;text-decoration:none;">{esc(t["title"])}</a>
             </div>
             <div style="margin-top:7px;">{links}</div>
           </td>
@@ -160,36 +160,36 @@ def build_html(trending, grouped, n_articles, top_sources, n_sources, site_url):
         parts.append("    </div>")
 
     for section, items in grouped.items():
-        emoji, color, tint = SECTION_STYLE.get(section, ("\U0001F4F0", "#57606a", "#f6f8fa"))
+        emoji, color = SECTION_STYLE.get(section, ("📰", "#8b949e"))
         parts.append(f"""
-    <div style="margin:28px 0 8px;">
-      <div style="background:{tint};border-left:5px solid {color};border-radius:9px;padding:11px 15px;font-weight:800;font-size:14px;color:{color};">
+    <div style="margin:28px 0 10px;">
+      <div style="font-weight:800;font-size:14px;letter-spacing:1.5px;color:{color};">
         {emoji}&nbsp; {section.upper()}
       </div>""")
-        for j, it in enumerate(items):
-            divider = "border-bottom:none;" if j == len(items) - 1 else "border-bottom:1px solid #eef1f4;"
+        for it in items:
             meta = esc(it["source"])
             if it["date"]:
                 meta += f' &#183; {esc(short_date(it["date"]))}'
-            parts.append(f"""      <div style="padding:13px 14px;{divider}">
-        <div style="font-size:11px;color:#0a9d68;font-weight:700;text-transform:uppercase;letter-spacing:0.6px;">{meta}</div>
+            parts.append(f"""      <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:14px 16px;margin-bottom:8px;">
+        <div style="font-size:11px;color:{color};font-weight:700;text-transform:uppercase;letter-spacing:0.7px;">{meta}</div>
         <div style="font-size:15px;font-weight:600;line-height:1.45;margin-top:4px;">
-          <a href="{esc(it["link"])}" style="color:#24292f;text-decoration:none;">{esc(it["title"])}</a>
+          <a href="{esc(it["link"])}" style="color:#e6edf3;text-decoration:none;">{esc(it["title"])}</a>
         </div>
       </div>""")
         parts.append("    </div>")
 
     parts.append(f"""
-    <div style="text-align:center;padding:28px 0 8px;">
-      <a href="{esc(site_url)}" style="background:#0a9d68;color:#ffffff;font-weight:800;font-size:14.5px;
-        padding:14px 30px;border-radius:12px;text-decoration:none;display:inline-block;">&#9889; Read the live feed</a>
+    <div style="text-align:center;padding:26px 0 8px;">
+      <a href="{esc(site_url)}" style="display:block;background:#0a9d68;color:#ffffff;font-weight:800;font-size:15px;
+        padding:15px 10px;border-radius:12px;text-decoration:none;">⚡ Open the live feed &#8212; updated every 15 min</a>
       <div style="margin-top:12px;font-size:13px;">
-        <a href="https://whatsapp.com/channel/0029Vb8mlry8F2pN2kfEZT0L" style="color:#0a9d68;font-weight:700;text-decoration:none;">&#128241; Get daily headlines on WhatsApp &#8594;</a>
+        <a href="https://whatsapp.com/channel/0029Vb8mlry8F2pN2kfEZT0L" style="color:#3fb950;font-weight:700;text-decoration:none;">📱 Get daily headlines on WhatsApp →</a>
       </div>
     </div>
-    <div style="color:#8b949e;font-size:12px;text-align:center;padding-top:14px;line-height:1.7;">
+    <div style="color:#6e7681;font-size:12px;text-align:center;padding:16px 24px 34px;line-height:1.7;">
       You're receiving this because you subscribed at AI Pulse.<br>
-      Headlines belong to their publishers &#8212; click any title to read the original.
+      Headlines belong to their publishers — click any card to read the original.<br>
+      Reply any time — a human reads it.
     </div>
   </div>
 </div>
