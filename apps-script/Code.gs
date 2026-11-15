@@ -36,19 +36,19 @@ function welcomeHtml_() {
 
   // body
   + "<div style='background:#ffffff;border:1px solid #e1e4e8;border-top:none;padding:32px 28px;border-radius:0 0 16px 16px;'>"
-  + "<h1 style='font-size:22px;margin:0 0 12px;'>Welcome aboard! 🎉</h1>"
+  + "<h1 style='font-size:22px;margin:0 0 12px;'>Welcome aboard! &#127881;</h1>"
   + "<p style='font-size:15px;line-height:1.6;margin:0 0 18px;'>"
-  + "You've just joined readers who get <b>one beautifully structured email every week</b> — "
-  + "the trending AI stories, the big model releases, the funding moves, and the skills the industry is talking about. No spam. Unsubscribe anytime by replying.</p>"
+  + "You've just joined readers who get <b>one beautifully structured email every week</b> "
+  + "&#8212; the trending AI stories, the big model releases, the funding moves, and the skills the industry is talking about. No spam. Unsubscribe anytime by replying.</p>"
 
   // what you get
   + "<div style='background:#f6f8fa;border:1px solid #e1e4e8;border-radius:12px;padding:18px 20px;margin-bottom:24px;'>"
   + "<div style='font-weight:800;font-size:13px;color:#57606a;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;'>Every week you'll get</div>"
   + "<div style='font-size:14.5px;line-height:2;'>"
-  + "&#128293; <b>Trending</b> — stories covered by multiple sources<br>"
-  + "&#129302; <b>Models &amp; releases</b> — straight from the labs<br>"
-  + "&#128176; <b>Funding &amp; business</b> — who raised, who shipped<br>"
-  + "&#9878;&#65039; <b>Policy</b> — the rules shaping AI"
+  + "&#128293; <b>Trending</b> &#8212; stories covered by multiple sources<br>"
+  + "&#129302; <b>Models &amp; releases</b> &#8212; straight from the labs<br>"
+  + "&#128176; <b>Funding &amp; business</b> &#8212; who raised, who shipped<br>"
+  + "&#9878;&#65039; <b>Policy</b> &#8212; the rules shaping AI"
   + "</div></div>"
 
   // CTAs
@@ -65,7 +65,7 @@ function welcomeHtml_() {
   + "<div style='border:1px dashed #d0d7de;border-radius:12px;padding:16px 18px;margin-top:22px;'>"
   + "<div style='font-weight:800;font-size:14px;margin-bottom:6px;'>Also from us: &#129517; SkillAtlas</div>"
   + "<p style='font-size:13.5px;line-height:1.55;color:#57606a;margin:0;'>"
-  + "Every Claude &amp; AI-agent skill on GitHub — sorted into plain-English categories, "
+  + "Every Claude &amp; AI-agent skill on GitHub &#8212; sorted into plain-English categories, "
   + "refreshed twice a day. Search, preview, and install in one click."
   + " <a href='" + SKILLATLAS_URL + "' style='color:#0969da;font-weight:700;text-decoration:none;'>Take a look &#8594;</a></p>"
   + "</div>"
@@ -87,12 +87,12 @@ function welcomeHtml_() {
 function sendWelcome_(email) {
   MailApp.sendEmail({
     to: email,
-    subject: "⚡ Welcome to AI Pulse — your weekly AI digest",
-    body: "Welcome to AI Pulse! Weekly AI digest incoming every Monday.\n\n"
+    subject: "Welcome to AI Pulse - your weekly AI digest",
+    body: "Welcome to AI Pulse! Your weekly AI digest arrives every Monday.\n\n"
         + "News feed: " + SITE_URL + "\n"
         + "SkillAtlas: " + SKILLATLAS_URL + "\n"
         + "WhatsApp channel: " + CHANNEL_URL + "\n\n"
-        + "— AI Pulse",
+        + "- AI Pulse",
     htmlBody: welcomeHtml_(),
   });
 }
@@ -152,4 +152,13 @@ function json_(obj) {
   return ContentService
     .createTextOutput(JSON.stringify(obj))
     .setMimeType(ContentService.MimeType.JSON);
+}
+
+// TEST HELPER — select this in the Run ▶ dropdown and press Run.
+// It sends the welcome email to your own account and triggers any
+// missing authorization prompt. Delete it later if you want.
+function testWelcomeEmail() {
+  var me = Session.getActiveUser().getEmail();
+  sendWelcome_(me);
+  Logger.log("Welcome email sent to: " + me);
 }

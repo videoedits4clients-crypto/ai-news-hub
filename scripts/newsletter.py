@@ -178,7 +178,7 @@ def send(sender, app_password, subject, html, subscribers, sender_name="AI Pulse
     msg["Bcc"] = ", ".join(subscribers)
     msg.attach(MIMEText("Your email client doesn't support HTML. "
                         "Visit the AI Pulse website for the latest AI news.", "plain"))
-    msg.attach(MIMEText(html, "html"))
+    msg.attach(MIMEText(html, "html", "utf-8"))
 
     with (smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) if SMTP_PORT == 465
           else smtplib.SMTP(SMTP_HOST, SMTP_PORT)) as smtp:
