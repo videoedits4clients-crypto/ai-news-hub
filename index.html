@@ -620,10 +620,13 @@ function updateHeaderSubscribe() {
   if (isSubscribed()) {
     btn.textContent = '✓ Subscribed';
     btn.classList.add('subscribed');
-    btn.title = 'Subscribed — click to add another email';
+    btn.title = 'Subscribed! (add another email via the footer link)';
+    btn.disabled = true;
   }
 }
-document.getElementById('header-subscribe').addEventListener('click', openPopup);
+document.getElementById('header-subscribe').addEventListener('click', () => {
+  if (!isSubscribed()) openPopup();
+});
 
 popupClose.addEventListener('click', () => { closePopup(); markDismissed(); });
 popupDismiss.addEventListener('click', () => { closePopup(); markDismissed(); });
