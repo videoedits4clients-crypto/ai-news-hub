@@ -87,6 +87,7 @@ function welcomeHtml_() {
 function sendWelcome_(email) {
   MailApp.sendEmail({
     to: email,
+    name: "AI Pulse",                     // sender shows as "AI Pulse", not the raw Gmail address
     subject: "Welcome to AI Pulse - your weekly AI digest",
     body: "Welcome to AI Pulse! Your weekly AI digest arrives every Monday.\n\n"
         + "News feed: " + SITE_URL + "\n"
