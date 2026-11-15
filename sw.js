@@ -1,5 +1,5 @@
 /* AI Pulse service worker — makes the site installable and offline-capable */
-const CACHE = 'ai-pulse-v6';
+const CACHE = 'ai-pulse-v7';
 const SHELL = ['./', './index.html', './manifest.json', './icon.png'];
 
 self.addEventListener('install', (e) => {

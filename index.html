@@ -622,8 +622,8 @@ function updateHeaderSubscribe() {
     btn.classList.add('subscribed');
     btn.title = 'Subscribed — click to add another email';
   }
-  btn.onclick = openPopup;               // always openable (add another email etc.)
 }
+document.getElementById('header-subscribe').addEventListener('click', openPopup);
 
 popupClose.addEventListener('click', () => { closePopup(); markDismissed(); });
 popupDismiss.addEventListener('click', () => { closePopup(); markDismissed(); });
