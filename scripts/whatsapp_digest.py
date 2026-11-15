@@ -113,7 +113,7 @@ def send_email_digest(text, to_email, sender, app_password):
     a WhatsApp Channel post). Enabled by setting DIGEST_EMAIL_TO."""
     msg = MIMEMultipart("alternative")
     msg["Subject"] = "⚡ AI Pulse — today's WhatsApp digest (ready to forward)"
-    msg["From"] = sender
+    msg["From"] = f"AI Pulse <{sender}>"     # show "AI Pulse", not the raw Gmail address
     msg["To"] = to_email
     msg.attach(MIMEText(text, "plain", "utf-8"))
 
