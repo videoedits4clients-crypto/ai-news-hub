@@ -108,8 +108,8 @@ def send_email_digest(text, to_email, sender, app_password):
     msg["To"] = to_email
     msg.attach(MIMEText(text, "plain", "utf-8"))
 
-    host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-    port = int(os.environ.get("SMTP_PORT", "465"))
+    host = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
+    port = int(os.environ.get("SMTP_PORT") or "465")
     smtp_cls = smtplib.SMTP_SSL if port == 465 else smtplib.SMTP
     with smtp_cls(host, port) as smtp:
         if port != 465:
@@ -129,17 +129,24 @@ def main():
 
     sent_whatsapp = False
     if provider == "callmebot":
-        phone = os.environ["CALLMEBOT_PHONE"]
-        apikey = os.environ["CALLMEBOT_APIKEY"]
-        send_callmebot(text, phone, apikey)
-        sent_whatsapp = True
+        phone = os.environ.get("CALLMEBOT_PHONE") or ""
+        apikey = os.environ.get("CALLMEBOT_APIKEY") or ""
+        if not apikey:
+            print("⏭️  CallMeBot API key not set yet — skipping WhatsApp send "
+                  "(waiting on the key; the email copy still goes out)")
+        else:
+            send_callmebot(text, phone, apikey)
+            sent_whatsapp = True
     elif provider == "meta":
-        token = os.environ["META_TOKEN"]
-        phone_number_id = os.environ["META_PHONE_NUMBER_ID"]
-        recipients = [x.strip() for x in os.environ["META_TO"].split(",") if x.strip()]
-        for r in recipients:
-            send_meta(text, token, phone_number_id, r)
-        sent_whatsapp = True
+        token = os.environ.get("META_TOKEN") or ""
+        recipients = [x.strip() for x in (os.environ.get("META_TO") or "").split(",") if x.strip()]
+        if not token or not recipients:
+            print("⏭️  Meta Cloud API not configured yet — skipping WhatsApp send")
+        else:
+            phone_number_id = os.environ["META_PHONE_NUMBER_ID"]
+            for r in recipients:
+                send_meta(text, token, phone_number_id, r)
+            sent_whatsapp = True
     else:
         sys.exit(f"Unknown provider: {provider}")
 
@@ -154,7 +161,8 @@ def main():
         except Exception as exc:
             print(f"⚠️  Digest email failed (non-fatal): {exc}")
 
-    print(f"✅ Sent {len(items)} stories via {provider}")
+    print(f"✅ Sent {len(items)} stories via {provider}" if sent_whatsapp
+          else "✅ Digest email sent (WhatsApp send skipped — not configured yet)")
 
 
 if __name__ == "__main__":
