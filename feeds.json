@@ -1,0 +1,46 @@
+{
+  "major_outlets": [
+    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+    { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+    { "name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed/" },
+    { "name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss" },
+    { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+    { "name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/" },
+    { "name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml" },
+    { "name": "The Guardian AI", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss" },
+    { "name": "CNBC Technology", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910" },
+    { "name": "IEEE Spectrum AI", "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss" },
+    { "name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/feed/" },
+    { "name": "The Register", "url": "https://www.theregister.com/headlines.atom",
+      "filter": ["ai", "artificial intelligence", "machine learning", "llm", "chatgpt", "openai", "chatbot", "copilot", "gpu", "nvidia"] },
+    { "name": "ScienceDaily AI", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" }
+  ],
+  "official_labs": [
+    { "name": "OpenAI News", "url": "https://openai.com/news/rss.xml" },
+    { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml" },
+    { "name": "Meta AI Engineering", "url": "https://engineering.fb.com/feed/" },
+    { "name": "Google Research", "url": "https://research.google/blog/rss/" },
+    { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml" },
+    { "name": "Microsoft Research", "url": "https://www.microsoft.com/en-us/research/feed/" }
+  ],
+  "reddit": [
+    { "name": "r/artificial", "url": "https://www.reddit.com/r/artificial/hot/.rss" },
+    { "name": "r/MachineLearning", "url": "https://www.reddit.com/r/MachineLearning/hot/.rss" },
+    { "name": "r/singularity", "url": "https://www.reddit.com/r/singularity/hot/.rss" },
+    { "name": "r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/hot/.rss" },
+    { "name": "r/OpenAI", "url": "https://www.reddit.com/r/OpenAI/hot/.rss" },
+    { "name": "r/ChatGPT", "url": "https://www.reddit.com/r/ChatGPT/hot/.rss" },
+    { "name": "r/StableDiffusion", "url": "https://www.reddit.com/r/StableDiffusion/hot/.rss" },
+    { "name": "r/AI_Agents", "url": "https://www.reddit.com/r/AI_Agents/hot/.rss" },
+    { "name": "r/LLMDevs", "url": "https://www.reddit.com/r/LLMDevs/hot/.rss" }
+  ],
+  "ai_community": [
+    { "name": "Hacker News AI", "url": "https://hnrss.org/newest?q=AI&count=30" },
+    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" },
+    { "name": "Import AI", "url": "https://jack-clark.net/feed/" },
+    { "name": "Interconnects", "url": "https://www.interconnects.ai/feed" },
+    { "name": "Last Week in AI", "url": "https://lastweekin.ai/feed" },
+    { "name": "Synced", "url": "https://medium.com/feed/syncedreview" },
+    { "name": "Towards Data Science", "url": "https://towardsdatascience.com/feed" }
+  ]
+}

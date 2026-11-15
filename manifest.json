@@ -1,0 +1,13 @@
+{
+  "name": "AI Pulse — Latest AI News",
+  "short_name": "AI Pulse",
+  "description": "A live feed of the latest artificial intelligence news, aggregated from the web's best AI sources.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

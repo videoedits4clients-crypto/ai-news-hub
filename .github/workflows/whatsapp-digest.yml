@@ -1,0 +1,41 @@
+name: WhatsApp daily digest
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # every day 09:00 UTC (adjust: 14:30 IST = "30 9 * * *")
+  workflow_dispatch:       # allows manual "Run workflow" button for testing
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch fresh news
+        run: python scripts/fetch_news.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh news feed [skip ci]" && git push
+          fi
+
+      - name: Send WhatsApp digest
+        env:
+          WHATSAPP_PROVIDER: ${{ secrets.WHATSAPP_PROVIDER }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_PHONE_NUMBER_ID: ${{ secrets.META_PHONE_NUMBER_ID }}
+          META_TO: ${{ secrets.META_TO }}
+        run: python scripts/whatsapp_digest.py

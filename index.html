@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Pulse — Latest AI News</title>
+<meta name="description" content="A live feed of the latest artificial intelligence news, aggregated from the web's best AI sources.">
+<meta name="theme-color" content="#0e1116">
+<link rel="icon" href="icon.png">
+<link rel="manifest" href="manifest.json">
+<script src="config.js"></script>
+<style>
+  :root {
+    --bg: #0e1116;
+    --surface: #161b22;
+    --surface2: #1c2330;
+    --border: #2a313c;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #6ee7b7;
+    --accent-dim: rgba(110, 231, 183, 0.12);
+    --danger: #f87171;
+    --gold: #fbbf24;
+    --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  [data-theme="light"] {
+    --bg: #f6f8fa;
+    --surface: #ffffff;
+    --surface2: #eef1f5;
+    --border: #d0d7de;
+    --text: #1f2328;
+    --muted: #57606a;
+    --accent: #0a9d68;
+    --accent-dim: rgba(10, 157, 104, 0.10);
+    --danger: #cf222e;
+    --gold: #9a6700;
+    --shadow: 0 8px 24px rgba(31, 35, 40, 0.12);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5; transition: background 0.2s, color 0.2s;
+  }
+  a { color: inherit; text-decoration: none; }
+  button { font-family: inherit; }
+
+  /* ---------- header ---------- */
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: color-mix(in srgb, var(--bg) 85%, transparent);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+  }
+  .header-inner { max-width: 1100px; margin: 0 auto; padding: 12px 20px 0; }
+  .header-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .logo { font-weight: 800; font-size: 20px; letter-spacing: -0.5px; display: flex; align-items: center; gap: 8px; }
+  .logo .zap { color: var(--accent); }
+  .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); display: inline-block; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+  .header-actions { display: flex; align-items: center; gap: 10px; }
+  .icon-btn {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    width: 36px; height: 36px; border-radius: 9px; cursor: pointer; font-size: 16px;
+    display: flex; align-items: center; justify-content: center; transition: border-color 0.15s;
+  }
+  .icon-btn:hover { border-color: var(--muted); }
+  #search {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    padding: 8px 14px; border-radius: 8px; font-size: 14px; width: 220px;
+    outline: none; transition: border-color 0.15s;
+  }
+  #search:focus { border-color: var(--accent); }
+  #search::placeholder { color: var(--muted); }
+
+  /* ---------- tabs ---------- */
+  .tabs { display: flex; gap: 4px; margin-top: 12px; border-bottom: 1px solid var(--border); }
+  .tab {
+    background: none; border: none; color: var(--muted); font-size: 14px; font-weight: 600;
+    padding: 10px 14px; cursor: pointer; border-bottom: 2px solid transparent;
+    margin-bottom: -1px; display: flex; align-items: center; gap: 6px;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--text); border-bottom-color: var(--accent); }
+  .tab .badge {
+    background: var(--accent-dim); color: var(--accent); font-size: 11px;
+    padding: 1px 7px; border-radius: 999px; font-weight: 700;
+  }
+
+  /* ---------- controls ---------- */
+  .controls { max-width: 1100px; margin: 0 auto; padding: 14px 20px 0; }
+  .ctl-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+  .ctl-label { font-size: 12px; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .seg button { background: var(--surface); border: none; color: var(--muted); font-size: 12.5px; padding: 6px 12px; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--border); }
+  .seg button.active { background: var(--accent-dim); color: var(--accent); font-weight: 600; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    background: var(--surface); border: 1px solid var(--border); color: var(--muted);
+    font-size: 13px; padding: 5px 13px; border-radius: 999px; cursor: pointer; transition: all 0.15s;
+  }
+  .chip:hover { color: var(--text); border-color: var(--muted); }
+  .chip.active { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
+  .updated-note { color: var(--muted); font-size: 12.5px; margin-top: 10px; }
+
+  /* ---------- card grid ---------- */
+  main { max-width: 1100px; margin: 0 auto; padding: 8px 20px 60px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 18px; padding-top: 18px; }
+  .card {
+    display: flex; flex-direction: column;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+    overflow: hidden; transition: transform 0.18s, box-shadow 0.18s, border-color 0.18s;
+    position: relative;
+  }
+  .card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
+  .hero { grid-column: 1 / -1; flex-direction: row; }
+  .hero .thumb { width: 58%; min-height: 300px; aspect-ratio: auto; }
+  .hero .card-body { width: 42%; padding: 22px; }
+  .hero .card-title { font-size: 24px; }
+
+  .thumb {
+    position: relative; aspect-ratio: 16 / 9; overflow: hidden;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .thumb img {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    object-fit: cover; transition: transform 0.3s;
+  }
+  .card:hover .thumb img { transform: scale(1.045); }
+  .thumb-emoji { font-size: 44px; opacity: 0.9; }
+  .grad-models { background: linear-gradient(135deg, #312e81, #6d28d9); }
+  .grad-research { background: linear-gradient(135deg, #0c4a6e, #2563eb); }
+  .grad-funding { background: linear-gradient(135deg, #14532d, #16a34a); }
+  .grad-policy { background: linear-gradient(135deg, #7c2d12, #ea580c); }
+  .grad-chips { background: linear-gradient(135deg, #134e4a, #0d9488); }
+  .grad-business { background: linear-gradient(135deg, #1e293b, #475569); }
+  .grad-general { background: linear-gradient(135deg, #1f2937, #374151); }
+  [data-theme="light"] .grad-general { background: linear-gradient(135deg, #64748b, #94a3b8); }
+  [data-theme="light"] .thumb-emoji { filter: saturate(0.9); }
+
+  .source-tag {
+    position: absolute; top: 10px; left: 10px; z-index: 2;
+    color: var(--accent); font-weight: 700; font-size: 12px;
+    background: rgba(14, 17, 22, 0.78); padding: 3px 10px; border-radius: 999px;
+    backdrop-filter: blur(4px);
+  }
+  .bm-btn {
+    position: absolute; top: 8px; right: 8px; z-index: 2;
+    width: 32px; height: 32px; border-radius: 999px; border: none; cursor: pointer;
+    background: rgba(14, 17, 22, 0.78); color: var(--muted); font-size: 16px;
+    backdrop-filter: blur(4px); transition: color 0.15s, transform 0.15s;
+  }
+  .bm-btn:hover { color: var(--gold); transform: scale(1.1); }
+  .bm-btn.saved { color: var(--gold); }
+
+  .card-body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .card-meta { display: flex; align-items: center; gap: 8px; font-size: 12.5px; color: var(--muted); flex-wrap: wrap; }
+  .topic-tag {
+    color: var(--gold); font-weight: 600; font-size: 11.5px;
+    background: rgba(251, 191, 36, 0.12); padding: 1px 8px; border-radius: 4px;
+  }
+  .card-title { font-size: 16px; font-weight: 700; line-height: 1.35; letter-spacing: -0.2px; }
+  .card-title:hover { color: var(--accent); }
+  .card-summary {
+    color: var(--muted); font-size: 13.5px; margin-top: auto;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .card.hidden { display: none; }
+
+  /* ---------- trending ---------- */
+  .trend-grid { display: flex; flex-direction: column; gap: 14px; padding-top: 18px; }
+  .trend {
+    padding: 18px 18px; border: 1px solid var(--border);
+    border-radius: 14px; background: var(--surface);
+    transition: transform 0.18s, box-shadow 0.18s, border-color 0.18s;
+  }
+  .trend:hover { transform: translateY(-2px); box-shadow: var(--shadow); border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
+  .trend.top {
+    border-color: color-mix(in srgb, var(--gold) 55%, var(--border));
+    background: linear-gradient(0deg, rgba(251, 191, 36, 0.05), transparent), var(--surface);
+  }
+  .trend-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+  .hot-count {
+    font-size: 12.5px; font-weight: 800; color: var(--gold);
+    background: rgba(251, 191, 36, 0.12); padding: 3px 10px; border-radius: 999px;
+  }
+  .trend-title { font-size: 18px; font-weight: 800; line-height: 1.35; }
+  .trend-title:hover { color: var(--accent); }
+  .trend-links { margin-top: 10px; display: flex; flex-direction: column; gap: 4px; }
+  .trend-links a {
+    font-size: 13.5px; color: var(--muted); padding: 5px 8px; border-radius: 6px;
+    display: flex; gap: 8px; align-items: baseline;
+  }
+  .trend-links a:hover { background: var(--surface2); color: var(--text); }
+  .trend-links .src { color: var(--accent); font-weight: 600; font-size: 12px; white-space: nowrap; }
+
+  /* ---------- signup popup ---------- */
+  .popup-overlay {
+    position: fixed; inset: 0; z-index: 50; display: none;
+    background: rgba(0, 0, 0, 0.55); backdrop-filter: blur(3px);
+    align-items: center; justify-content: center; padding: 20px;
+  }
+  .popup-overlay.open { display: flex; }
+  .popup {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+    max-width: 420px; width: 100%; padding: 28px; text-align: center; position: relative;
+    box-shadow: var(--shadow); animation: popin 0.25s ease;
+  }
+  @keyframes popin { from { transform: scale(0.92); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+  .popup .popup-emoji { font-size: 40px; margin-bottom: 10px; }
+  .popup h3 { font-size: 19px; font-weight: 800; letter-spacing: -0.3px; margin-bottom: 6px; }
+  .popup p { color: var(--muted); font-size: 14px; margin-bottom: 18px; }
+  .popup input {
+    width: 100%; background: var(--bg); border: 1px solid var(--border); color: var(--text);
+    padding: 11px 14px; border-radius: 9px; font-size: 14.5px; outline: none;
+  }
+  .popup input:focus { border-color: var(--accent); }
+  .popup .sub-btn {
+    width: 100%; margin-top: 10px; background: var(--accent); color: #0b120e;
+    font-weight: 800; font-size: 15px; border: none; border-radius: 9px;
+    padding: 12px; cursor: pointer; transition: filter 0.15s;
+  }
+  [data-theme="light"] .popup .sub-btn { color: #fff; }
+  .popup .sub-btn:hover { filter: brightness(1.08); }
+  .popup .sub-btn:disabled { opacity: 0.6; cursor: default; }
+  .popup .dismiss {
+    background: none; border: none; color: var(--muted); font-size: 13px;
+    margin-top: 12px; cursor: pointer; text-decoration: underline;
+  }
+  .popup .popup-close {
+    position: absolute; top: 10px; right: 12px; background: none; border: none;
+    color: var(--muted); font-size: 20px; cursor: pointer; line-height: 1;
+  }
+  .popup-msg { font-size: 14px; margin-top: 10px; font-weight: 600; }
+  .popup-msg.ok { color: var(--accent); }
+  .popup-msg.err { color: var(--danger); }
+
+  .status { text-align: center; color: var(--muted); padding: 60px 0; font-size: 15px; }
+  .status.error { color: var(--danger); }
+  .spinner {
+    width: 28px; height: 28px; margin: 0 auto 14px;
+    border: 3px solid var(--border); border-top-color: var(--accent);
+    border-radius: 50%; animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  footer {
+    border-top: 1px solid var(--border); padding: 24px 20px;
+    text-align: center; color: var(--muted); font-size: 13px;
+  }
+  footer a { color: var(--muted); text-decoration: underline; }
+  footer a:hover { color: var(--accent); }
+
+  @media (max-width: 720px) {
+    #search { width: 100%; order: 3; }
+    .grid { grid-template-columns: 1fr; }
+    .hero { flex-direction: column; }
+    .hero .thumb { width: 100%; min-height: 0; aspect-ratio: 16 / 9; }
+    .hero .card-body { width: 100%; }
+    .hero .card-title { font-size: 19px; }
+    .card-summary { -webkit-line-clamp: 2; }
+    .trend-links a { font-size: 12.5px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="header-row">
+      <div class="logo"><span class="zap">⚡</span>AI Pulse <span class="live-dot" title="auto-updating"></span></div>
+      <div class="header-actions">
+        <input id="search" type="search" placeholder="Search headlines…" autocomplete="off">
+        <button class="icon-btn" id="theme-btn" title="Toggle light/dark">☀️</button>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="latest">Latest</button>
+      <button class="tab" data-tab="trending">🔥 Trending <span class="badge" id="trending-badge" hidden></span></button>
+      <button class="tab" data-tab="saved">🔖 Reading list <span class="badge" id="saved-badge" hidden>0</span></button>
+    </nav>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="ctl-row">
+    <span class="ctl-label">When</span>
+    <div class="seg" id="time-seg">
+      <button data-time="any" class="active">Any time</button>
+      <button data-time="24h">24 hours</button>
+      <button data-time="7d">This week</button>
+    </div>
+    <span class="ctl-label" style="margin-left:8px">Topic</span>
+    <div class="chips" id="topic-chips"></div>
+  </div>
+  <div class="ctl-row">
+    <span class="ctl-label">Source</span>
+    <div class="chips" id="source-chips"></div>
+  </div>
+  <div class="updated-note" id="updated"></div>
+</div>
+
+<main>
+  <div id="feed" aria-live="polite">
+    <div class="status"><div class="spinner"></div>Loading latest AI news…</div>
+  </div>
+</main>
+
+<footer>
+  Headlines aggregated from
+  <a href="https://techcrunch.com/category/artificial-intelligence/">TechCrunch</a>,
+  <a href="https://www.theverge.com/ai-artificial-intelligence">The Verge</a>,
+  <a href="https://arstechnica.com/ai/">Ars Technica</a>,
+  <a href="https://openai.com/news">OpenAI</a>,
+  <a href="https://deepmind.google">DeepMind</a> and more.<br>
+  <button id="footer-subscribe" style="background:none;border:none;color:var(--accent);cursor:pointer;font-size:13px;text-decoration:underline;margin-top:6px">✉️ Get the weekly AI digest by email</button><br>
+  All articles belong to their publishers — click a headline to read the original.
+</footer>
+
+<!-- ---------- newsletter signup popup ---------- -->
+<div class="popup-overlay" id="popup-overlay">
+  <div class="popup" role="dialog" aria-modal="true">
+    <button class="popup-close" id="popup-close" aria-label="Close">×</button>
+    <div class="popup-emoji">⚡</div>
+    <h3>Never miss what's hot in AI</h3>
+    <p>One beautifully structured email every week: trending stories, big model
+    releases and the skills the industry is talking about. No spam, ever.</p>
+    <form id="sub-form">
+      <input type="email" id="sub-email" placeholder="you@gmail.com" required autocomplete="email">
+      <button class="sub-btn" id="sub-btn" type="submit">Subscribe — it's free</button>
+    </form>
+    <div class="popup-msg" id="popup-msg" hidden></div>
+    <button class="dismiss" id="popup-dismiss">No thanks, maybe later</button>
+  </div>
+</div>
+
+<script>
+const feed = document.getElementById('feed');
+const topicChipsEl = document.getElementById('topic-chips');
+const sourceChipsEl = document.getElementById('source-chips');
+const searchEl = document.getElementById('search');
+const updatedEl = document.getElementById('updated');
+const tabsEl = document.getElementById('tabs');
+const timeSegEl = document.getElementById('time-seg');
+const themeBtn = document.getElementById('theme-btn');
+const trendingBadge = document.getElementById('trending-badge');
+const savedBadge = document.getElementById('saved-badge');
+
+let ARTICLES = [], TRENDING = [];
+let state = { tab: 'latest', topic: 'All', source: 'All', time: 'any', query: '' };
+
+/* ---------- theme ---------- */
+function applyTheme(t) {
+  document.documentElement.dataset.theme = t;
+  themeBtn.textContent = t === 'dark' ? '☀️' : '🌙';
+  document.querySelector('meta[name="theme-color"]').content = t === 'dark' ? '#0e1116' : '#f6f8fa';
+  localStorage.setItem('theme', t);
+}
+themeBtn.addEventListener('click', () =>
+  applyTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'));
+applyTheme(localStorage.getItem('theme') || 'dark');
+
+/* ---------- bookmarks ---------- */
+function loadBookmarks() { try { return JSON.parse(localStorage.getItem('bookmarks') || '{}'); } catch { return {}; } }
+function saveBookmarks(b) { localStorage.setItem('bookmarks', JSON.stringify(b)); }
+let bookmarks = loadBookmarks();
+
+function toggleBookmark(link, article) {
+  if (bookmarks[link]) delete bookmarks[link];
+  else bookmarks[link] = { title: article.title, source: article.source, date: article.date, link };
+  saveBookmarks(bookmarks);
+  updateSavedBadge();
+  render();
+}
+function updateSavedBadge() {
+  const n = Object.keys(bookmarks).length;
+  savedBadge.textContent = n;
+  savedBadge.hidden = n === 0;
+}
+
+/* ---------- helpers ---------- */
+function timeAgo(iso) {
+  if (!iso) return '';
+  const s = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (isNaN(s)) return '';
+  if (s < 3600) return Math.max(1, Math.floor(s / 60)) + 'm ago';
+  if (s < 86400) return Math.floor(s / 3600) + 'h ago';
+  return Math.floor(s / 86400) + 'd ago';
+}
+function ageHours(iso) { return iso ? (Date.now() - new Date(iso).getTime()) / 3.6e6 : Infinity; }
+function esc(str) {
+  const d = document.createElement('div');
+  d.textContent = str || '';
+  return d.innerHTML;
+}
+
+/* ---------- topic classification ---------- */
+const TOPIC_RULES = [
+  ['Models', ['gpt', 'claude', 'gemini', 'llama', 'llm', 'mistral', 'deepseek', 'qwen', 'grok', 'chatbot', 'model', 'openai', 'anthropic', 'copilot', 'agents']],
+  ['Research', ['research', 'paper', 'study', 'benchmark', 'arxiv', 'breakthrough', 'scientist', 'university', 'neural', 'physics', 'math']],
+  ['Funding', ['funding', 'ipo', 'raise', 'series', 'billion', 'million', 'valuation', 'invest', 'acquisition', 'acquires', 'stock', 'earnings', 'market cap']],
+  ['Policy', ['regulat', 'policy', 'law', 'lawsuit', 'sue', 'court', 'copyright', 'privacy', 'ban', 'senate', 'congress', 'commission', 'petition']],
+  ['Chips', ['nvidia', 'chip', 'gpu', 'tpu', 'semiconductor', 'intel', 'amd', 'tsmc', 'silicon']],
+  ['Business', ['launch', 'startup', 'ceo', 'hiring', 'job', 'product', 'enterprise', 'market', 'industry', 'customer', 'revenue']],
+];
+const TOPIC_EMOJI = { Models: '🤖', Research: '🔬', Funding: '💰', Policy: '⚖️', Chips: '🔌', Business: '💼', General: '✨' };
+function topicsOf(a) {
+  const t = ((a.title || '') + ' ' + (a.summary || '')).toLowerCase();
+  const found = [];
+  for (const [name, kws] of TOPIC_RULES) if (kws.some(k => t.includes(k))) found.push(name);
+  return found;
+}
+
+/* ---------- filtering ---------- */
+function passesFilters(a) {
+  if (state.topic !== 'All' && !topicsOf(a).includes(state.topic)) return false;
+  if (state.source !== 'All' && a.source !== state.source) return false;
+  if (state.time === '24h' && ageHours(a.date) > 24) return false;
+  if (state.time === '7d' && ageHours(a.date) > 24 * 7) return false;
+  const q = state.query.toLowerCase();
+  if (q && !(a.title.toLowerCase().includes(q) || (a.summary || '').toLowerCase().includes(q))) return false;
+  return true;
+}
+
+/* ---------- card rendering ---------- */
+function thumbHTML(a) {
+  const topic = topicsOf(a)[0] || 'General';
+  const emoji = TOPIC_EMOJI[topic] || '✨';
+  const grad = 'grad-' + topic.toLowerCase();
+  return `<div class="thumb ${grad}">
+    <span class="thumb-emoji">${emoji}</span>
+    ${a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}
+  </div>`;
+}
+
+function cardHTML(a, isHero) {
+  const isSaved = !!bookmarks[a.link];
+  const topics = topicsOf(a).slice(0, 2);
+  return `
+  <article class="card ${isHero ? 'hero' : ''}">
+    ${thumbHTML(a)}
+    <span class="source-tag">${esc(a.source)}</span>
+    <button class="bm-btn ${isSaved ? 'saved' : ''}" data-link="${esc(a.link)}"
+      title="${isSaved ? 'Remove from reading list' : 'Save for later'}">${isSaved ? '★' : '☆'}</button>
+    <div class="card-body">
+      <div class="card-meta">
+        <span>${timeAgo(a.date)}</span>
+        ${topics.map(t => `<span class="topic-tag">${t}</span>`).join('')}
+      </div>
+      <a class="card-title" href="${esc(a.link)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a>
+      ${a.summary ? `<p class="card-summary">${esc(a.summary)}</p>` : ''}
+    </div>
+  </article>`;
+}
+
+function trendingCard(c, i) {
+  return `
+  <article class="trend ${i === 0 ? 'top' : ''}">
+    <div class="trend-head">
+      <span class="hot-count">🔥 ${c.count} sources covering this</span>
+      <span style="color:var(--muted);font-size:12.5px">${timeAgo(c.date)}</span>
+    </div>
+    <a class="trend-title" href="${esc(c.links[0].link)}" target="_blank" rel="noopener noreferrer">${esc(c.title)}</a>
+    <div class="trend-links">
+      ${c.links.map(l => `<a href="${esc(l.link)}" target="_blank" rel="noopener noreferrer"><span class="src">${esc(l.source)}</span><span>${esc(l.title)}</span></a>`).join('')}
+    </div>
+  </article>`;
+}
+
+/* ---------- master render ---------- */
+function render() {
+  const q = state.query.toLowerCase();
+  if (state.tab === 'trending') {
+    const items = TRENDING.filter(c =>
+      !q || c.title.toLowerCase().includes(q) || c.links.some(l => l.title.toLowerCase().includes(q)));
+    feed.innerHTML = items.length
+      ? `<div class="trend-grid">${items.map((c, i) => trendingCard(c, i)).join('')}</div>`
+      : '<div class="status">No trending clusters right now — wide coverage stories will appear here.</div>';
+    return;
+  }
+
+  let items = ARTICLES;
+  if (state.tab === 'saved') items = items.filter(a => bookmarks[a.link]);
+  items = items.filter(passesFilters);
+
+  if (!items.length) {
+    feed.innerHTML = state.tab === 'saved'
+      ? '<div class="status">Your reading list is empty.<br><small>Tap ☆ on any card to save it here — it stays in your browser.</small></div>'
+      : '<div class="status">No articles match. Try another filter or search.</div>';
+    return;
+  }
+  feed.innerHTML = `<div class="grid">${items.map((a, i) => cardHTML(a, state.tab === 'latest' && i === 0)).join('')}</div>`;
+}
+
+/* ---------- chips & controls ---------- */
+function renderChips() {
+  const topics = ['All', ...TOPIC_RULES.map(r => r[0])];
+  topicChipsEl.innerHTML = topics.map(t =>
+    `<button class="chip ${t === state.topic ? 'active' : ''}" data-topic="${esc(t)}">${t === 'All' ? 'All topics' : t}</button>`).join('');
+  const sources = ['All', ...new Set(ARTICLES.map(a => a.source))];
+  sourceChipsEl.innerHTML = sources.map(s =>
+    `<button class="chip ${s === state.source ? 'active' : ''}" data-source="${esc(s)}">${esc(s)}</button>`).join('');
+}
+
+function setTab(tab) {
+  state.tab = tab;
+  tabsEl.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tab));
+  const filters = document.querySelectorAll('.controls .ctl-row');
+  filters.forEach(f => f.style.display = tab === 'trending' ? 'none' : 'flex');
+  render();
+}
+
+/* ---------- events ---------- */
+tabsEl.addEventListener('click', e => { const t = e.target.closest('.tab'); if (t) setTab(t.dataset.tab); });
+timeSegEl.addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  state.time = b.dataset.time;
+  timeSegEl.querySelectorAll('button').forEach(x => x.classList.toggle('active', x === b));
+  render();
+});
+document.addEventListener('click', e => {
+  const topic = e.target.closest('[data-topic]');
+  if (topic) { state.topic = topic.dataset.topic; renderChips(); render(); return; }
+  const src = e.target.closest('[data-source]');
+  if (src) { state.source = src.dataset.source; renderChips(); render(); return; }
+  const bm = e.target.closest('.bm-btn');
+  if (bm) {
+    const link = bm.dataset.link;
+    const article = ARTICLES.find(a => a.link === link);
+    if (article) toggleBookmark(link, article);
+  }
+});
+searchEl.addEventListener('input', e => { state.query = e.target.value.trim(); render(); });
+
+/* ---------- init ---------- */
+async function init() {
+  try {
+    const res = await fetch('data/news.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    ARTICLES = data.items || [];
+    TRENDING = data.trending || [];
+    updatedEl.textContent = data.updated
+      ? `Updated ${timeAgo(data.updated)} · ${data.count} articles from ${data.sources.length} sources`
+      : '';
+    trendingBadge.textContent = TRENDING.length;
+    trendingBadge.hidden = TRENDING.length === 0;
+    updateSavedBadge();
+    renderChips();
+    render();
+  } catch (e) {
+    feed.innerHTML = `<div class="status error">Couldn't load the news feed.<br>
+      <small>${esc(e.message)} — run <code>python scripts/fetch_news.py</code> to generate <code>data/news.json</code>.</small></div>`;
+  }
+}
+
+/* ---------- newsletter popup ---------- */
+const overlay = document.getElementById('popup-overlay');
+const subForm = document.getElementById('sub-form');
+const subEmail = document.getElementById('sub-email');
+const subBtn = document.getElementById('sub-btn');
+const popupMsg = document.getElementById('popup-msg');
+const popupClose = document.getElementById('popup-close');
+const popupDismiss = document.getElementById('popup-dismiss');
+const footerSubscribe = document.getElementById('footer-subscribe');
+
+function openPopup() { overlay.classList.add('open'); subEmail.focus(); }
+function closePopup() { overlay.classList.remove('open'); }
+
+function showMsg(text, ok) {
+  popupMsg.textContent = text;
+  popupMsg.className = 'popup-msg ' + (ok ? 'ok' : 'err');
+  popupMsg.hidden = false;
+}
+
+function isSubscribed() { return localStorage.getItem('newsletterSub') === '1'; }
+function shouldAutoShow() {
+  if (isSubscribed() || localStorage.getItem('popupSeen')) return false;
+  return !!(window.SITE_CONFIG && window.SITE_CONFIG.newsletterEndpoint);
+}
+
+popupClose.addEventListener('click', () => { closePopup(); localStorage.setItem('popupSeen', '1'); });
+popupDismiss.addEventListener('click', () => { closePopup(); localStorage.setItem('popupSeen', '1'); });
+overlay.addEventListener('click', e => { if (e.target === overlay) { closePopup(); localStorage.setItem('popupSeen', '1'); } });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closePopup(); });
+footerSubscribe.addEventListener('click', openPopup);
+setTimeout(() => { if (shouldAutoShow()) openPopup(); }, 6000);
+
+subForm.addEventListener('submit', async e => {
+  e.preventDefault();
+  const endpoint = window.SITE_CONFIG && window.SITE_CONFIG.newsletterEndpoint;
+  if (!endpoint) { showMsg('Newsletter backend not configured yet.', false); return; }
+  const email = subEmail.value.trim();
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { showMsg('Please enter a valid email.', false); return; }
+  subBtn.disabled = true; subBtn.textContent = 'Subscribing…';
+  try {
+    // text/plain body avoids a CORS preflight; Apps Script accepts it
+    await fetch(endpoint, {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({ email }),
+    });
+    localStorage.setItem('newsletterSub', '1');
+    showMsg('🎉 You\'re in! Watch your inbox every week.', true);
+    setTimeout(closePopup, 1800);
+  } catch (err) {
+    showMsg('Something went wrong — please try again.', false);
+  } finally {
+    subBtn.disabled = false; subBtn.textContent = 'Subscribe — it\'s free';
+  }
+});
+
+/* ---------- PWA ---------- */
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+
+init();
+</script>
+</body>
+</html>
