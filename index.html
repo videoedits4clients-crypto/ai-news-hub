@@ -620,10 +620,9 @@ function updateHeaderSubscribe() {
   if (isSubscribed()) {
     btn.textContent = '✓ Subscribed';
     btn.classList.add('subscribed');
-    btn.onclick = null;
-  } else {
-    btn.onclick = openPopup;
+    btn.title = 'Subscribed — click to add another email';
   }
+  btn.onclick = openPopup;               // always openable (add another email etc.)
 }
 
 popupClose.addEventListener('click', () => { closePopup(); markDismissed(); });
