@@ -13,6 +13,9 @@ Required environment variables:
   NEWSLETTER_ENDPOINT  the Apps Script web-app URL (must allow GET ?action=emails)
 Optional:
   SITE_URL          public URL of the site, linked in the header
+Optional:
+  SMTP_HOST         SMTP server (default smtp.gmail.com)
+  SMTP_PORT         465 = SSL (default), 587 = STARTTLS
 Usage:
   python scripts/newsletter.py --dry-run     # write preview.html, send nothing
   python scripts/newsletter.py               # send for real
@@ -30,6 +33,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_FILE = ROOT / "data" / "news.json"
+
+SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
+SMTP_PORT = int(os.environ.get("SMTP_PORT", "465"))
 
 TOPIC_EMOJI = {"Models": "🤖", "Research": "🔬", "Funding": "💰",
                "Policy": "⚖️", "Chips": "🔌", "Business": "💼"}
@@ -174,7 +180,10 @@ def send(sender, app_password, subject, html, subscribers, sender_name="AI Pulse
                         "Visit the AI Pulse website for the latest AI news.", "plain"))
     msg.attach(MIMEText(html, "html"))
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+    with (smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) if SMTP_PORT == 465
+          else smtplib.SMTP(SMTP_HOST, SMTP_PORT)) as smtp:
+        if SMTP_PORT != 465:
+            smtp.starttls()
         smtp.login(sender, app_password)
         smtp.send_message(msg)
 
