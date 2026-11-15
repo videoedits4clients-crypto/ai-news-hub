@@ -6,4 +6,7 @@ window.SITE_CONFIG = {
 
   // Public URL of the deployed site, used in the newsletter header.
   siteUrl: "https://videoedits4clients-crypto.github.io/ai-news-hub/",
+
+  // WhatsApp Channel invite link — shown as a follow button in the header.
+  whatsappChannel: "https://whatsapp.com/channel/0029Vb8mlry8F2pN2kfEZT0L",
 };

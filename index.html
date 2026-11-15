@@ -65,6 +65,12 @@
     display: flex; align-items: center; justify-content: center; transition: border-color 0.15s;
   }
   .icon-btn:hover { border-color: var(--muted); }
+  .channel-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: #25D366; color: #07321c; font-weight: 700; font-size: 13px;
+    padding: 8px 14px; border-radius: 999px; transition: filter 0.15s, transform 0.15s;
+  }
+  .channel-btn:hover { filter: brightness(1.08); transform: translateY(-1px); }
   #search {
     background: var(--surface); border: 1px solid var(--border); color: var(--text);
     padding: 8px 14px; border-radius: 8px; font-size: 14px; width: 220px;
@@ -271,6 +277,10 @@
     <div class="header-row">
       <div class="logo"><span class="zap">⚡</span>AI Pulse <span class="live-dot" title="auto-updating"></span></div>
       <div class="header-actions">
+        <a id="channel-btn" class="channel-btn" href="#" target="_blank" rel="noopener noreferrer" title="Follow our WhatsApp Channel" hidden>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.87 9.87 0 0 0 4.74 1.21c5.46 0 9.91-4.45 9.91-9.91S17.5 2 12.04 2zm5.8 14.06c-.24.68-1.4 1.3-1.93 1.35-.53.05-1.03.24-2.9-.6-2.26-1.02-3.68-3.4-3.79-3.56-.11-.16-.9-1.23-.9-2.35 0-1.12.58-1.67.79-1.9.2-.23.44-.29.59-.29h.42c.14 0 .32-.05.5.38.18.44.63 1.54.68 1.65.06.11.09.24.02.38-.07.15-.14.24-.26.38-.13.14-.27.31-.38.42-.13.12-.26.25-.11.5.15.24.66 1.09 1.42 1.76.97.87 1.79 1.14 2.04 1.26.24.12.39.1.53-.06.15-.16.63-.73.8-.98.17-.25.34-.2.57-.11.23.09 1.49.7 1.74.83.25.13.42.19.48.3.06.1.06.6-.18 1.28z"/></svg>
+          Follow
+        </a>
         <input id="search" type="search" placeholder="Search headlines…" autocomplete="off">
         <button class="icon-btn" id="theme-btn" title="Toggle light/dark">☀️</button>
       </div>
@@ -553,6 +563,13 @@ async function init() {
     feed.innerHTML = `<div class="status error">Couldn't load the news feed.<br>
       <small>${esc(e.message)} — run <code>python scripts/fetch_news.py</code> to generate <code>data/news.json</code>.</small></div>`;
   }
+}
+
+/* ---------- WhatsApp Channel button ---------- */
+const channelBtn = document.getElementById('channel-btn');
+if (window.SITE_CONFIG && window.SITE_CONFIG.whatsappChannel) {
+  channelBtn.href = window.SITE_CONFIG.whatsappChannel;
+  channelBtn.hidden = false;
 }
 
 /* ---------- newsletter popup ---------- */
