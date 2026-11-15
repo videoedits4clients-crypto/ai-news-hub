@@ -29,9 +29,12 @@ Usage:
 """
 import json
 import os
+import smtplib
 import sys
 import urllib.parse
 import urllib.request
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -132,7 +135,7 @@ def main():
         phone = os.environ.get("CALLMEBOT_PHONE") or ""
         apikey = os.environ.get("CALLMEBOT_APIKEY") or ""
         if not apikey:
-            print("⏭️  CallMeBot API key not set yet — skipping WhatsApp send "
+            print("[SKIP] CallMeBot API key not set yet - skipping WhatsApp send "
                   "(waiting on the key; the email copy still goes out)")
         else:
             send_callmebot(text, phone, apikey)
@@ -141,7 +144,7 @@ def main():
         token = os.environ.get("META_TOKEN") or ""
         recipients = [x.strip() for x in (os.environ.get("META_TO") or "").split(",") if x.strip()]
         if not token or not recipients:
-            print("⏭️  Meta Cloud API not configured yet — skipping WhatsApp send")
+            print("[SKIP] Meta Cloud API not configured yet - skipping WhatsApp send")
         else:
             phone_number_id = os.environ["META_PHONE_NUMBER_ID"]
             for r in recipients:
@@ -154,15 +157,23 @@ def main():
     email_to = os.environ.get("DIGEST_EMAIL_TO")
     email_from = os.environ.get("SMTP_USER")
     email_pass = os.environ.get("SMTP_APP_PASSWORD")
+    email_sent = False
     if email_to and email_from and email_pass:
         try:
             send_email_digest(text, email_to, email_from, email_pass)
-            print("✉️  Also emailed a copy for your Channel")
+            email_sent = True
+            print("[OK] Also emailed a copy for your Channel")
         except Exception as exc:
-            print(f"⚠️  Digest email failed (non-fatal): {exc}")
+            print(f"[WARN] Digest email failed (non-fatal): {exc}")
 
-    print(f"✅ Sent {len(items)} stories via {provider}" if sent_whatsapp
-          else "✅ Digest email sent (WhatsApp send skipped — not configured yet)")
+    status = []
+    if sent_whatsapp:
+        status.append(f"sent {len(items)} stories via {provider}")
+    else:
+        status.append("WhatsApp send skipped (not configured yet)")
+    status.append("email copy sent" if email_sent else
+                  "no email copy (DIGEST_EMAIL_TO/SMTP not set)")
+    print("[OK] " + "; ".join(status))
 
 
 if __name__ == "__main__":
