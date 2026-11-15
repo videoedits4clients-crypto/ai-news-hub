@@ -30,8 +30,8 @@ function welcomeHtml_() {
   var ICON = SITE_URL + "icon.png";
 
   return ""
-  + "<div style='margin:0;padding:0;background:#0b0f14;'>"
-  + "<div style='max-width:600px;margin:0 auto;background:#0b0f14;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#e6edf3;'>"
+  + "<div style='margin:0;padding:26px 12px;background:#eef1f4;'>"
+  + "<div style='max-width:600px;margin:0 auto;background:#0b0f14;border:1px solid #d0d7de;border-radius:20px;overflow:hidden;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#e6edf3;'>"
 
   // ===== header: hosted logo + wordmark =====
   + "<div style='text-align:center;padding:40px 24px 26px;'>"
