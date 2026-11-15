@@ -26,8 +26,10 @@ function getSheet_() {
 function welcomeHtml_() {
   // Dark, brand-matching design (mirrors the site's dark + mint identity).
   // Emoji are HTML entities — never literal — so Gmail never mojibakes them.
-  // Logo: hosted icon.png from GitHub Pages (works in Gmail, no attachment).
-  var ICON = SITE_URL + "icon.png";
+  // Logo: hosted email-logo.png from GitHub Pages (works in Gmail, no attachment).
+  // Named differently from icon.png so Gmail's image-proxy cache never serves
+  // a stale/corrupted copy of the PWA icon.
+  var ICON = SITE_URL + "email-logo.png";
 
   return ""
   + "<div style='margin:0;padding:26px 12px;background:#eef1f4;'>"

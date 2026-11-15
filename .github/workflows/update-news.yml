@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Serialize runs: a new run waits instead of racing a still-running one
+# (prevents "fetch first" push rejections when triggers overlap).
+concurrency:
+  group: update-news
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -30,5 +35,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: refresh news feed [skip ci]"
+            git pull --rebase --autostash
             git push
           fi
