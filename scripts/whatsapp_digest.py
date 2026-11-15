@@ -53,18 +53,24 @@ def load_news():
     return json.loads(NEWS_FILE.read_text(encoding="utf-8"))
 
 
-def pick_stories(data, top):
-    """Fresh stories, spread across sources, with the most recent first."""
-    seen_src, picked = {}, []
-    for item in data["items"]:                      # already sorted newest first
+def pick_stories(data, top, scan_limit=120):
+    """Fresh stories, most recent first. Real news sources are preferred;
+    community posts (Reddit r/*, Hacker News) only fill in when news runs
+    short — so the digest reads like headlines, not forum chatter."""
+    def is_community(src):
+        s = src.lower()
+        return s.startswith("r/") or "hacker news" in s
+
+    max_per_src = max(1, top // 3)          # spread across sources
+    seen_src, news, chatter = {}, [], []
+    for item in data["items"][:scan_limit]:  # bounded window = stays fresh
         src = item["source"]
-        if seen_src.get(src, 0) >= max(1, top // 4):  # max ~25% from one source
+        if seen_src.get(src, 0) >= max_per_src:
             continue
         seen_src[src] = seen_src.get(src, 0) + 1
-        picked.append(item)
-        if len(picked) >= top:
-            break
-    return picked
+        (chatter if is_community(src) else news).append(item)
+    picked = news[:top]
+    return (picked + chatter)[:top]
 
 
 def format_digest(items):

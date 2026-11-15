@@ -2,7 +2,7 @@ name: WhatsApp daily digest
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # every day 09:00 UTC (adjust: 14:30 IST = "30 9 * * *")
+    - cron: "30 2 * * *"  # every day 02:30 UTC = 08:00 IST morning digest (backup; cron-job.org is primary)
   workflow_dispatch:       # allows manual "Run workflow" button for testing
 
 permissions:
