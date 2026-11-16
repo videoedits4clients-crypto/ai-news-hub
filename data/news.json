@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T13:06:59.378732+00:00",
+  "updated": "2026-11-16T13:14:02.430394+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -146,6 +146,54 @@
   ],
   "items": [
     {
+      "title": "Show HN: Prettywhale.ai – Generate data pipelines from data samples",
+      "link": "https://marketplace.visualstudio.com/items?itemName=prettywhale-ai.prettywhale",
+      "summary": "Hi HN, I’m Kevin, I run product at PrettyWhale.ai, a small team based in France. We've spent the last few months building a VS Code extension that writes the tedious part of ingestion code from a data sample. How it works: You give it a CSV or JSON sample. It profiles the fields,",
+      "date": "2026-11-16T13:11:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Moloch, AI and Capitalism: The System Eating Itself [video]",
+      "link": "https://www.youtube.com/watch?v=KCSsKV5F4xc",
+      "summary": "Article URL: https://www.youtube.com/watch?v=KCSsKV5F4xc Comments URL: https://news.ycombinator.com/item?id=50517254 Points: 1 # Comments: 0",
+      "date": "2026-11-16T13:11:18+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Cinnamon AI – an agent I built for friends and family",
+      "link": "https://getcinnamon.ai/",
+      "summary": "Article URL: https://getcinnamon.ai/ Comments URL: https://news.ycombinator.com/item?id=50517221 Points: 1 # Comments: 0",
+      "date": "2026-11-16T13:08:24+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+      "summary": "The company was 2.7% down in premarket trading on Monday.",
+      "date": "2026-11-16T13:07:13+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Show HN: Furnish – AI-powered home design with editable 2D plans and 3D views",
+      "link": "https://github.com/Joystonm/furnish/",
+      "summary": "I built Furnish for the Kane CLI Hackathon. It's an AI-powered home design studio where you can generate editable floor plans, furnish rooms, make changes using AI, and explore your design in 3D. Built via GMI Cloud using an AI coding agent. I also used Kane CLI to verify the app",
+      "date": "2026-11-16T13:07:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Came Across This Post on Giving AI Agents Identities",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxovt7/came_across_this_post_on_giving_ai_agents/",
+      "summary": "",
+      "date": "2026-11-16T13:06:27+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "A rule written in a note is a request. A rule built into the code is a wall. 4 mistakes from my multi-agent setup",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xxov0e/a_rule_written_in_a_note_is_a_request_a_rule/",
       "summary": "",
@@ -282,14 +330,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Nvidia stock falls nearly 4% as investors price in fallout from Jensen Huang's resignation",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-      "summary": "The company was 3.7% down in premarket trading on Monday.",
-      "date": "2026-11-16T12:12:44+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Show HN: AI Infra Finance tracker (Data-vis project)",
       "link": "https://artificialliabilities.com/",
       "summary": "Auto-updating tracker of the financial situation of the AI infra build out. Based on a ton of publicly available data like FRED, SEC filings, etc. Comments URL: https://news.ycombinator.com/item?id=50516713 Points: 1 # Comments: 0",
@@ -392,6 +432,14 @@
       "date": "2026-11-16T11:37:07+00:00",
       "image": "",
       "source": "r/AI_Agents"
+    },
+    {
+      "title": "Account compromised",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxn664/account_compromised/",
+      "summary": "",
+      "date": "2026-11-16T11:36:22+00:00",
+      "image": "",
+      "source": "r/ChatGPT"
     },
     {
       "title": "internlm/Sage-S2.1-Flash · Hugging Face",
@@ -574,14 +622,6 @@
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xxm5gm/a_place_for_your_ai_agents_to_gather_and_publish/",
       "summary": "",
       "date": "2026-11-16T10:35:13+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
-      "title": "Consolidating our agent’s research stack—how do you handle multi-step enrichment without juggling 4 APIs?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxm3lu/consolidating_our_agents_research_stackhow_do_you/",
-      "summary": "",
-      "date": "2026-11-16T10:32:12+00:00",
       "image": "",
       "source": "r/AI_Agents"
     },
@@ -842,44 +882,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Can We Fix AI?",
-      "link": "https://peterbloem.nl/blog/fix-ai-data",
-      "summary": "Article URL: https://peterbloem.nl/blog/fix-ai-data Comments URL: https://news.ycombinator.com/item?id=50514958 Points: 3 # Comments: 0",
-      "date": "2026-11-16T07:19:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "We built our own version of LinkedIn Talent Insights with Claude Code",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xxj240/we_built_our_own_version_of_linkedin_talent/",
       "summary": "",
       "date": "2026-11-16T07:17:30+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "Show HN: Blue-harness – audit and harden binaries against AI-assisted reversing",
-      "link": "https://github.com/seifheakal/blue-harness",
-      "summary": "Article URL: https://github.com/seifheakal/blue-harness Comments URL: https://news.ycombinator.com/item?id=50514943 Points: 1 # Comments: 0",
-      "date": "2026-11-16T07:17:12+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Can You Trust AI Cybersecurity Tools?",
-      "link": "https://forenclarity.com/can-you-trust-ai-cybersecurity-tools/",
-      "summary": "Article URL: https://forenclarity.com/can-you-trust-ai-cybersecurity-tools/ Comments URL: https://news.ycombinator.com/item?id=50514909 Points: 3 # Comments: 0",
-      "date": "2026-11-16T07:12:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Figma Like AI Landing Page Builder",
-      "link": "https://codecainehq.com/",
-      "summary": "Article URL: https://codecainehq.com/ Comments URL: https://news.ycombinator.com/item?id=50514822 Points: 7 # Comments: 3",
-      "date": "2026-11-16T06:57:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Apple opens a US study of health AI that can enroll up to 200,000 people",
@@ -1016,14 +1024,6 @@
       "date": "2026-11-16T03:04:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Please fix what is broken and stop fixing what isnt?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxef30/please_fix_what_is_broken_and_stop_fixing_what/",
-      "summary": "",
-      "date": "2026-11-16T02:58:17+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
     },
     {
       "title": "An AI's notes for its next attempt told it to repeat the move that lost the game",
