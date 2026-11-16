@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:50:52.131526+00:00",
+  "updated": "2026-11-16T13:06:59.378732+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -146,12 +146,36 @@
   ],
   "items": [
     {
-      "title": "Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxog2f/alibaba_releases_qwen4max_its_new_flagship/",
+      "title": "A rule written in a note is a request. A rule built into the code is a wall. 4 mistakes from my multi-agent setup",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxov0e/a_rule_written_in_a_note_is_a_request_a_rule/",
       "summary": "",
-      "date": "2026-11-16T12:45:05+00:00",
-      "image": "https://external-preview.redd.it/zZOQvEIJwxkSHREfOh9TWzx92Qm4-GDUGsyXRBONWN8.png?width=70&height=70&auto=webp&s=c8a96b7afc8e2564b039cc514298ecfd19ba1dc2",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-16T13:05:22+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Marvell and Penguin Solutions aim to end the RAMpocalypse with photonic memory fabric",
+      "link": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921",
+      "summary": "Appliances can share 16 TB of DRAM and half a terabyte of HBM across up to 16 systems",
+      "date": "2026-11-16T13:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=253714&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Los Alamos boffins to put NextSilicon's Maverick-2 through natural selection in Darwin testbed",
+      "link": "https://www.theregister.com/systems/2026/11/16/los-alamos-boffins-to-put-nextsilicons-maverick-2-through-natural-selection-in-darwin-testbed/5309862",
+      "summary": "Tiny test system opens door to a new generation of GPU-less supers",
+      "date": "2026-11-16T13:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=260525&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "No more verbs",
+      "link": "https://www.reddit.com/r/artificial/comments/1xxonlr/no_more_verbs/",
+      "summary": "",
+      "date": "2026-11-16T12:56:01+00:00",
+      "image": "",
+      "source": "r/artificial"
     },
     {
       "title": "HN: Guru – an uncensored, privacy focused open-source self-evolving AI Framework",
@@ -290,6 +314,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Datacenters' share of UK planning applications nearly triples in three years",
+      "link": "https://www.theregister.com/on-prem/2026/11/16/datacenters-share-of-uk-planning-applications-nearly-triples-in-three-years/5310029",
+      "summary": "Councils waving through majority of proposals as government turns on the AI-friendly planning taps",
+      "date": "2026-11-16T12:01:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5289080&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "AI agents attempted exploits on Epoch AI's website during an alignment eval",
       "link": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
       "summary": "Article URL: https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website Comments URL: https://news.ycombinator.com/item?id=50516629 Points: 7 # Comments: 0",
@@ -370,6 +402,14 @@
       "source": "r/LocalLLaMA"
     },
     {
+      "title": "Elon Musk leads Silicon Valley's campaign to put Jensen Huang back in charge at Nvidia",
+      "link": "https://www.theregister.com/systems/2026/11/16/elon-musk-leads-silicon-valleys-campaign-to-put-jensen-huang-back-in-charge-at-nvidia/5310050",
+      "summary": "More than 173,000 signatures, a few famous billionaires, and absolutely no guarantee they're genuine",
+      "date": "2026-11-16T11:31:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5309407&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
       "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
       "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen",
@@ -392,6 +432,14 @@
       "date": "2026-11-16T11:23:57+00:00",
       "image": "https://external-preview.redd.it/PLxve_pbucYqiuys3klgT20ZKvbl-e3HblnxhloI22s.jpeg?width=640&crop=smart&auto=webp&s=fe7c149dab3277855685209524ed28daa421dc66",
       "source": "r/artificial"
+    },
+    {
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "summary": "Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back",
+      "date": "2026-11-16T11:15:07+00:00",
+      "image": "https://image.theregister.com/?imageId=254046&width=800",
+      "source": "The Register"
     },
     {
       "title": "Given the flood of new inference engines any recommendations for 2x 7900xtx ?",
@@ -780,7 +828,7 @@
     {
       "title": "OpenTelemetry and AI Agents' Observability",
       "link": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
-      "summary": "Article URL: https://signoz.io/blog/opentelemetry-ai-agent-observability/ Comments URL: https://news.ycombinator.com/item?id=50515018 Points: 8 # Comments: 0",
+      "summary": "Article URL: https://signoz.io/blog/opentelemetry-ai-agent-observability/ Comments URL: https://news.ycombinator.com/item?id=50515018 Points: 9 # Comments: 0",
       "date": "2026-11-16T07:30:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1002,14 +1050,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "AI Use Cases",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxcz37/ai_use_cases/",
-      "summary": "",
-      "date": "2026-11-16T01:46:19+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Apple launches new app to study how people use AI for health",
       "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "summary": "Apple's new app for a study will answer everyday medical questions",
@@ -1056,6 +1096,14 @@
       "date": "2026-11-16T00:56:03+00:00",
       "image": "",
       "source": "r/AI_Agents"
+    },
+    {
+      "title": "The Nvidia scandal isn’t slowing down",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has",
+      "date": "2026-11-16T00:45:34+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "ICLR did you post reminder of rebuttal response? [D]",
@@ -1240,14 +1288,6 @@
       "date": "2026-11-15T21:12:55+00:00",
       "image": "https://preview.redd.it/uqv95y1mdu1i1.jpeg?width=640&crop=smart&auto=webp&s=5e58d566656fa5ed005a5067e6934005b88a00b5",
       "source": "r/ChatGPT"
-    },
-    {
-      "title": "NVidea Drivers for Linux",
-      "link": "https://www.reddit.com/r/artificial/comments/1xx6k88/nvidea_drivers_for_linux/",
-      "summary": "",
-      "date": "2026-11-15T20:57:45+00:00",
-      "image": "",
-      "source": "r/artificial"
     },
     {
       "title": "Llama.cpp performance improvement over time (Gemma4 models)",
@@ -1504,6 +1544,14 @@
       "date": "2026-11-15T12:03:27+00:00",
       "image": "",
       "source": "r/MachineLearning"
+    },
+    {
+      "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
+      "summary": "",
+      "date": "2026-11-15T12:02:35+00:00",
+      "image": "https://preview.redd.it/hbwsi2vj5r1i1.png?width=140&height=75&auto=webp&s=38249d6dfb889a2504ee82eeec61432a84fd08a5",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
@@ -2370,14 +2418,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world",
-      "link": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
-      "summary": "In the aftermath of Jensen Huang's resignation, not only may the AI bubble pop, but the world economy is in some peril",
-      "date": "2026-11-13T14:45:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5309819&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
       "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
       "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
@@ -2408,14 +2448,6 @@
       "date": "2026-11-13T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Quantum Systems drones back in the air after malware scare",
-      "link": "https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658",
-      "summary": "Germany's Bundeswehr lifted precautionary grounding after malicious update reportedly reached military servers",
-      "date": "2026-11-13T13:14:00+00:00",
-      "image": "https://image.theregister.com/?imageId=246156&width=800",
-      "source": "The Register"
     },
     {
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
@@ -2450,14 +2482,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Palantir adds three UK police forces to its beat with £10.1M deal",
-      "link": "https://www.theregister.com/public-sector/2026/11/13/palantir-adds-three-uk-police-forces-to-its-beat-with-101m-deal/5309699",
-      "summary": "Five-year contract follows London setback as former Met chief Cressida Dick emerges as a paid adviser",
-      "date": "2026-11-13T12:33:45+00:00",
-      "image": "https://image.theregister.com/?imageId=5309719&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Jensen Huang didn’t show confidence in his successor, report says",
       "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
       "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
@@ -2490,14 +2514,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "BOFH: The best way to stop an idea spreading is a controlled burn",
-      "link": "https://www.theregister.com/bofh/2026/11/13/bofh-the-best-way-to-stop-an-idea-spreading-is-a-controlled-burn/5309292",
-      "summary": "The Boss mentions 'AI security,' triggering an entirely proportionate incident response",
-      "date": "2026-11-13T11:45:00+00:00",
-      "image": "https://image.theregister.com/?imageId=224487&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
       "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
       "summary": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for",
@@ -2520,14 +2536,6 @@
       "date": "2026-11-13T05:26:41+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's b",
-      "date": "2026-11-13T00:23:32+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "llm-gemini 0.37",
@@ -3335,14 +3343,6 @@
       "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and auto",
       "date": "2026-11-09T05:00:40+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell",
-      "date": "2026-11-09T05:00:39+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
       "source": "NVIDIA Blog"
     }
   ]
