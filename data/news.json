@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:50:59.681108+00:00",
+  "updated": "2026-11-16T18:07:08.314518+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -125,6 +125,62 @@
   ],
   "items": [
     {
+      "title": "We built an AI agent that assists you while a meeting is happening",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxwd07/we_built_an_ai_agent_that_assists_you_while_a/",
+      "summary": "",
+      "date": "2026-11-16T18:02:41+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
+      "date": "2026-11-16T18:01:33+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
+      "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+      "summary": "Opt-in Edge archive gives Pro subscribers early access before full testing, while normal updates remain human-validated",
+      "date": "2026-11-16T18:01:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5244798&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Would you let AI call a business for you?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxw9ku/would_you_let_ai_call_a_business_for_you/",
+      "summary": "",
+      "date": "2026-11-16T17:59:21+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+      "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
+      "date": "2026-11-16T17:52:38+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "AI usage as a database",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxw2js/ai_usage_as_a_database/",
+      "summary": "",
+      "date": "2026-11-16T17:51:54+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Under 9gb model comparison",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/",
+      "summary": "",
+      "date": "2026-11-16T17:39:46+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
@@ -181,6 +237,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Robert Pattinson cast as next James Bond",
+      "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+      "summary": "Pattinson has been in major films this year including Christopher Nolan's \"The Odyssey\" and will soon appear in \"Dune: Part Three.\"",
+      "date": "2026-11-16T17:25:51+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Serious spaces? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
       "summary": "",
@@ -205,28 +269,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Working on a passion project without monetization, would love to get a Claude Pass if available.",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxv6qn/working_on_a_passion_project_without_monetization/",
-      "summary": "",
-      "date": "2026-11-16T17:18:36+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Encrypt Every Prompt: protect AI chats with on AI GPUs by the end of 2027",
       "link": "https://encrypteveryprompt.org/",
       "summary": "Article URL: https://encrypteveryprompt.org/ Comments URL: https://news.ycombinator.com/item?id=50520038 Points: 1 # Comments: 0",
       "date": "2026-11-16T17:17:35+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "I am building a correction UI for document parsing/extraction: looking for feedback from people who’ve dealt with this",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxv3t4/i_am_building_a_correction_ui_for_document/",
-      "summary": "",
-      "date": "2026-11-16T17:15:31+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "What you want from a conscious AI is what you never got from people",
@@ -845,14 +893,6 @@
       "source": "r/artificial"
     },
     {
-      "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-      "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-      "date": "2026-11-16T14:29:19+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "\"One important distiction\", \"One thing I'm curious about\", \"One important caveat\", \"One important catch\"",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1xxqn5h/one_important_distiction_one_thing_im_curious/",
       "summary": "",
@@ -1059,14 +1099,6 @@
       "date": "2026-11-16T12:22:26+00:00",
       "image": "",
       "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-      "date": "2026-11-16T12:14:46+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Datacenters' share of UK planning applications nearly triples in three years",
@@ -1765,14 +1797,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "I'm tired of AI explaining things instead of actually doing them. How do I get AI agents to work like real engineers?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xx5l8s/im_tired_of_ai_explaining_things_instead_of/",
-      "summary": "",
-      "date": "2026-11-15T20:17:38+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
       "summary": "",
@@ -1835,14 +1859,6 @@
       "date": "2026-11-15T17:38:16+00:00",
       "image": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3",
       "source": "r/MachineLearning"
-    },
-    {
-      "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
-      "summary": "",
-      "date": "2026-11-15T17:30:31+00:00",
-      "image": "https://external-preview.redd.it/aDVxeDJsMXo0dDFpMXSsguq7RzI5TbnEdxYNshMh74sYqM9VzKczylkqkXW3.png?width=640&crop=smart&auto=webp&s=da4fc07a3d165f8bee2a2024b0ca57514c1ec236",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
@@ -2491,14 +2507,6 @@
       "date": "2026-11-13T19:00:03+00:00",
       "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-planet-earth-surrounded-by-educational-objects-such-as-a-microscope-beaker-and-textbook.jpg?id=68675346&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-      "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
-      "date": "2026-11-13T18:56:26+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -3315,14 +3323,6 @@
       "date": "2026-11-09T19:51:47+00:00",
       "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest",
-      "date": "2026-11-09T19:35:33+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     }
   ]
 }
