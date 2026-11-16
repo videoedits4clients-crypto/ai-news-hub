@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:20:55.215786+00:00",
+  "updated": "2026-11-16T12:35:54.108046+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -83,6 +83,26 @@
     },
     {
       "count": 2,
+      "title": "r/Singularity Daily Discussion Thread — November 15, 2026",
+      "date": "2026-11-15T16:01:51+00:00",
+      "sources": [
+        "r/singularity"
+      ],
+      "links": [
+        {
+          "source": "r/singularity",
+          "title": "r/Singularity Daily Discussion Thread — November 15, 2026",
+          "link": "https://www.reddit.com/r/singularity/comments/1xwz2u8/rsingularity_daily_discussion_thread_november_15/"
+        },
+        {
+          "source": "r/singularity",
+          "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
+          "link": "https://www.reddit.com/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/"
+        }
+      ]
+    },
+    {
+      "count": 2,
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "date": "2026-11-15T13:37:45+00:00",
       "sources": [
@@ -146,12 +166,52 @@
   ],
   "items": [
     {
-      "title": "Fortnox kapar personalstyrkan och investerar 5 miljarder I AI",
-      "link": "https://www.di.se/nyheter/fortnox-kapar-personalstyrkan-och-investerar-miljarder-i-ai/",
-      "summary": "Article URL: https://www.di.se/nyheter/fortnox-kapar-personalstyrkan-och-investerar-miljarder-i-ai/ Comments URL: https://news.ycombinator.com/item?id=50516786 Points: 1 # Comments: 0",
-      "date": "2026-11-16T12:17:27+00:00",
+      "title": "Let’s build a community that makes everything open source with AI",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxo7k2/lets_build_a_community_that_makes_everything_open/",
+      "summary": "",
+      "date": "2026-11-16T12:32:29+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "date": "2026-11-16T12:30:00+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "AI Killed the MVP – Long Live the IUP",
+      "link": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/",
+      "summary": "Article URL: https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/ Comments URL: https://news.ycombinator.com/item?id=50516893 Points: 1 # Comments: 0",
+      "date": "2026-11-16T12:28:27+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "US to designate AI \"national champions\"",
+      "link": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344 Comments URL: https://news.ycombinator.com/item?id=50516837 Points: 1 # Comments: 1",
+      "date": "2026-11-16T12:22:04+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "date": "2026-11-16T12:20:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
+      "summary": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
+      "date": "2026-11-16T12:17:00+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
@@ -172,7 +232,7 @@
     {
       "title": "Show HN: Otus – EU web analytics with a Mistral powered AI analyst",
       "link": "https://otusanalytics.com/",
-      "summary": "Article URL: https://otusanalytics.com/ Comments URL: https://news.ycombinator.com/item?id=50516749 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://otusanalytics.com/ Comments URL: https://news.ycombinator.com/item?id=50516749 Points: 2 # Comments: 0",
       "date": "2026-11-16T12:13:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -234,14 +294,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "GPT weird streamer like answer across several chat",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxndls/gpt_weird_streamer_like_answer_across_several_chat/",
-      "summary": "",
-      "date": "2026-11-16T11:48:38+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
-    },
-    {
       "title": "Honest question: Has anyone here built a profitable business using AI agents yet?",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xxnddc/honest_question_has_anyone_here_built_a/",
       "summary": "",
@@ -250,36 +302,20 @@
       "source": "r/AI_Agents"
     },
     {
-      "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "summary": "Tech leaders, including Elon Musk, are among those backing a campaign to \"Bring Jensen Back\".",
-      "date": "2026-11-16T11:45:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/119c/live/eaafa8b0-e1a5-11f1-8433-4325183b3814.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "Yuval Harari's AI Prediction Includes a Warning of Extinction and More [video]",
       "link": "https://www.youtube.com/watch?v=XPb0GzjeoE4",
-      "summary": "Article URL: https://www.youtube.com/watch?v=XPb0GzjeoE4 Comments URL: https://news.ycombinator.com/item?id=50516504 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XPb0GzjeoE4 Comments URL: https://news.ycombinator.com/item?id=50516504 Points: 3 # Comments: 0",
       "date": "2026-11-16T11:43:45+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Did we hit a wall in context length?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length/",
-      "summary": "",
-      "date": "2026-11-16T11:41:37+00:00",
+      "title": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
+      "link": "https://www.cnbc.com/2026/11/16/morning-squawk-nvidia-share-calls-reinstate-huang-ceo.html",
+      "summary": "Chip stocks are in the red as exports face additional scrutiny",
+      "date": "2026-11-16T11:42:44+00:00",
       "image": "",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "DeepSeek is aware of its own censorship filter and works around it.",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxn918/deepseek_is_aware_of_its_own_censorship_filter/",
-      "summary": "",
-      "date": "2026-11-16T11:41:06+00:00",
-      "image": "https://preview.redd.it/ipqp41eqny1i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=2b7f4e0de35facbbf6badef593d87ac444ce297b",
-      "source": "r/ChatGPT"
+      "source": "CNBC Technology"
     },
     {
       "title": "Custom DeepFaceLive (DFM/RTM) Model Creator",
@@ -290,20 +326,20 @@
       "source": "r/AI_Agents"
     },
     {
-      "title": "internlm/Sage-S2.1-Flash · Hugging Face",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/",
-      "summary": "",
-      "date": "2026-11-16T11:36:14+00:00",
-      "image": "https://external-preview.redd.it/bb-AwTPyf7TAAs2yjUYzv72iv0aQXOGtgvEiNxg5JTA.png?width=640&crop=smart&auto=webp&s=5785ec9e8396166ec91c1f5dc0781d90935e716f",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
       "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
       "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen",
       "date": "2026-11-16T11:30:35+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Account compromised",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxn1kl/account_compromised/",
+      "summary": "",
+      "date": "2026-11-16T11:28:50+00:00",
+      "image": "",
+      "source": "r/OpenAI"
     },
     {
       "title": "The small African lab sounding the alarm on AI bioweapons",
@@ -322,12 +358,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Given the flood of new inference engines any recommendations for 2x 7900xtx ?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any/",
+      "title": "AI doom axnxiety",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxmwni/ai_doom_axnxiety/",
       "summary": "",
-      "date": "2026-11-16T11:11:35+00:00",
+      "date": "2026-11-16T11:20:35+00:00",
       "image": "",
-      "source": "r/LocalLLaMA"
+      "source": "r/singularity"
     },
     {
       "title": "I ran NVIDIA's SkillSpector on four popular Agent Skills repos. Read the findings, not the score",
@@ -338,12 +374,12 @@
       "source": "r/AI_Agents"
     },
     {
-      "title": "It's so over",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxmpfu/its_so_over/",
+      "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxmpkr/ai_singer_tops_south_koreas_melon_chart_for_first/",
       "summary": "",
-      "date": "2026-11-16T11:08:39+00:00",
-      "image": "https://preview.redd.it/mr4tnq53jy1i1.png?width=640&crop=smart&auto=webp&s=6a24ed42107065aad70377c4f6516c01060f5978",
-      "source": "r/ChatGPT"
+      "date": "2026-11-16T11:08:52+00:00",
+      "image": "https://external-preview.redd.it/cuZcls1_SgzkbJBlPNlBFzBHKvQ9fXIbYoAeDHASJWw.jpeg?width=640&crop=smart&auto=webp&s=513b9eff1f3ffb2c13a9fd0d47abf450470307e3",
+      "source": "r/singularity"
     },
     {
       "title": "A local, read-only UI for AWS AI-DLC workflows",
@@ -354,12 +390,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/",
+      "title": "It's so over",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxmkyl/its_so_over/",
       "summary": "",
-      "date": "2026-11-16T11:07:24+00:00",
-      "image": "https://external-preview.redd.it/cuZcls1_SgzkbJBlPNlBFzBHKvQ9fXIbYoAeDHASJWw.jpeg?width=640&crop=smart&auto=webp&s=513b9eff1f3ffb2c13a9fd0d47abf450470307e3",
-      "source": "r/artificial"
+      "date": "2026-11-16T11:01:23+00:00",
+      "image": "https://preview.redd.it/2xnsikurhy1i1.png?width=640&crop=smart&auto=webp&s=bad3d84dfe6c91913bdfe162ec9ba0cea5711c3e",
+      "source": "r/OpenAI"
     },
     {
       "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
@@ -368,14 +404,6 @@
       "date": "2026-11-16T11:00:00+00:00",
       "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "[Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/",
-      "summary": "",
-      "date": "2026-11-16T10:58:50+00:00",
-      "image": "https://preview.redd.it/iyknzc0chy1i1.png?width=640&crop=smart&auto=webp&s=bdca6ab0bc9f836ca233f4afaeb14a9064f77d50",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "New models keep shipping faster than my eval process. how do you decide when to switch?",
@@ -402,22 +430,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "How do we feel about bots posting & commenting?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd9a/how_do_we_feel_about_bots_posting_commenting/",
-      "summary": "",
-      "date": "2026-11-16T10:48:39+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "[Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/",
-      "summary": "",
-      "date": "2026-11-16T10:48:24+00:00",
-      "image": "https://preview.redd.it/hiysxawefy1i1.gif?width=640&crop=smart&s=d87a4946485d9c270a40ca52d7fb70be0043628d",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Agents keep making TypeScript errors go away instead of fixing them",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xxmb72/agents_keep_making_typescript_errors_go_away/",
       "summary": "",
@@ -442,6 +454,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Just release the Bel model bro 💔",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxm9br/just_release_the_bel_model_bro/",
+      "summary": "",
+      "date": "2026-11-16T10:41:55+00:00",
+      "image": "https://preview.redd.it/mnjy0jv9ey1i1.png?width=640&crop=smart&auto=webp&s=b2edddb5d8332a04388b7f5cebfea56c69e9dd31",
+      "source": "r/singularity"
+    },
+    {
       "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
       "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
       "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fai",
@@ -464,14 +484,6 @@
       "date": "2026-11-16T10:32:12+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "[Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/",
-      "summary": "",
-      "date": "2026-11-16T10:30:58+00:00",
-      "image": "https://preview.redd.it/svkldflbcy1i1.gif?width=640&crop=smart&s=d318a9b273f5a149e34eeb6da9af01a65d2bb6b4",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "Omaxian takes the Omarchy look down a different Linux backstreet",
@@ -506,30 +518,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Working too hard to close loose ends?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxljjw/working_too_hard_to_close_loose_ends/",
-      "summary": "",
-      "date": "2026-11-16T09:58:05+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "The beginning of the becoming of the beginning begins",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
-      "summary": "",
-      "date": "2026-11-16T09:55:51+00:00",
-      "image": "https://preview.redd.it/czvg7r846y1i1.jpeg?width=640&crop=smart&auto=webp&s=0d95847d857439747ef780d17c267701e20384b5",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "Introducing Hy4 flash",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/",
-      "summary": "",
-      "date": "2026-11-16T09:52:44+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
       "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
       "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared ",
@@ -544,6 +532,14 @@
       "date": "2026-11-16T09:40:29+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "My life now",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxl98r/my_life_now/",
+      "summary": "",
+      "date": "2026-11-16T09:39:00+00:00",
+      "image": "https://preview.redd.it/8ybl8uo03y1i1.png?width=140&height=57&auto=webp&s=acb3c58220f5d67eba3733380d226f918ef14aaf",
+      "source": "r/OpenAI"
     },
     {
       "title": "AI cheating scandal spooks South Korea ahead of high-stakes college entrance exam",
@@ -576,6 +572,14 @@
       "date": "2026-11-16T09:21:48+00:00",
       "image": "https://external-preview.redd.it/oZgwu0rdng563JRJbxUGE5JiYvp5LMzPaA0E_aV2SW4.jpeg?width=640&crop=smart&auto=webp&s=955dd549601ec0aa50d52e791de571a247456bf9",
       "source": "r/artificial"
+    },
+    {
+      "title": "CEOs are getting paranoid",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
+      "summary": "",
+      "date": "2026-11-16T09:16:57+00:00",
+      "image": "https://external-preview.redd.it/Z2FnZWZiaDZ6eDFpMVPyNBaAguJUvd1iTzgej47gvu7yd-FpzQA0rcmbRxfx.png?width=320&crop=smart&auto=webp&s=fd72443ca34258b91763792011525a8b60b3e5bb",
+      "source": "r/OpenAI"
     },
     {
       "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
@@ -626,20 +630,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "6.0 is garbage. You have to constantly fight with it, and it refuses to work with you. It's like a toddler, where even the most minor things are run through a billion censors only designed to piss you off. Except it's not your child, it's a product you're paying for.",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxjwxq/60_is_garbage_you_have_to_constantly_fight_with/",
+      "title": "A ChatGPT share link isn't a copy of your chat. Delete the chat and the link goes with it, and it only ever shows the chat as it was when you made the link",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxjz3a/a_chatgpt_share_link_isnt_a_copy_of_your_chat/",
       "summary": "",
-      "date": "2026-11-16T08:11:29+00:00",
+      "date": "2026-11-16T08:15:22+00:00",
       "image": "",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "ChatGPT would be so dope if they didn't throttle the holy balls out of it every couple days",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxjvnz/chatgpt_would_be_so_dope_if_they_didnt_throttle/",
-      "summary": "",
-      "date": "2026-11-16T08:09:16+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
+      "source": "r/OpenAI"
     },
     {
       "title": "Alibaba says new AI model cuts task costs by 60% and tightens cyber safeguards",
@@ -688,14 +684,6 @@
       "date": "2026-11-16T07:36:21+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "I cant believe this.",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxjb3g/i_cant_believe_this/",
-      "summary": "",
-      "date": "2026-11-16T07:33:16+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
     },
     {
       "title": "OpenTelemetry and AI Agents' Observability",
@@ -786,20 +774,12 @@
       "source": "The Register"
     },
     {
-      "title": "New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/",
+      "title": "This 2017 song Technocrat from retired rapper Samsa is one of my favorites and I find it pretty relevant, lot's of talking points.",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxidbf/this_2017_song_technocrat_from_retired_rapper/",
       "summary": "",
-      "date": "2026-11-16T06:32:08+00:00",
-      "image": "https://preview.redd.it/c4l0ag0s5x1i1.png?width=640&crop=smart&auto=webp&s=79913074944b977b0763783a1649a8e75f83d4ff",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "The Best Prompts Cannot Rescue A Broken Ai Agent Infrastructure",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxiadw/the_best_prompts_cannot_rescue_a_broken_ai_agent/",
-      "summary": "",
-      "date": "2026-11-16T06:30:37+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
+      "date": "2026-11-16T06:35:22+00:00",
+      "image": "https://external-preview.redd.it/NXZibTlld2w1eDFpMTYmzZaeGm_XbPXyePAOgM2n3KZnwjWTVWJjorc1pQgu.png?width=640&crop=smart&auto=webp&s=fc18887c9fafb53f92f85a7e540f0d7328d1e3f6",
+      "source": "r/singularity"
     },
     {
       "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
@@ -818,20 +798,20 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Flova AI",
-      "link": "https://www.crunchbase.com/organization/flova-tech-inc",
-      "summary": "Article URL: https://www.crunchbase.com/organization/flova-tech-inc Comments URL: https://news.ycombinator.com/item?id=50514646 Points: 2 # Comments: 0",
-      "date": "2026-11-16T06:24:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "Anthropic Researcher: \"Pretty Much All Humans Will Become Permanently Unemployable\"",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxi8az/anthropic_researcher_pretty_much_all_humans_will/",
+      "summary": "",
+      "date": "2026-11-16T06:27:07+00:00",
+      "image": "https://external-preview.redd.it/XK7ig1oQBtaBlkBNHEARD7B2jkEv3KChE0pw6SQo1Pw.jpeg?width=320&crop=smart&auto=webp&s=3a1e8783199ebc1a13ba14133230aca89ca7d6ff",
+      "source": "r/singularity"
     },
     {
-      "title": "Is my chatGPT account hacked?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxi5bv/is_my_chatgpt_account_hacked/",
+      "title": "Data Analysis on News Coverage about Jensen",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxi6p2/data_analysis_on_news_coverage_about_jensen/",
       "summary": "",
-      "date": "2026-11-16T06:22:04+00:00",
-      "image": "https://preview.redd.it/j5gm27sr3x1i1.png?width=320&crop=smart&auto=webp&s=6c8d5bba09f8345129f90e18a4ee1903852d4ce1",
-      "source": "r/ChatGPT"
+      "date": "2026-11-16T06:24:28+00:00",
+      "image": "https://external-preview.redd.it/gr563UvCts9diGJqONcnSvp2Z1PgZV7lVmxKAwdb7T0.png?width=640&crop=smart&auto=webp&s=9c89eebe0ff49055be906ed6b06734c24beceb61",
+      "source": "r/singularity"
     },
     {
       "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
@@ -858,6 +838,14 @@
       "source": "r/artificial"
     },
     {
+      "title": "Gemini models at the end of the year:",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxhlxf/gemini_models_at_the_end_of_the_year/",
+      "summary": "",
+      "date": "2026-11-16T05:50:38+00:00",
+      "image": "https://preview.redd.it/6dh8bdedyw1i1.jpeg?width=640&crop=smart&auto=webp&s=a930812e61cfffb67273f2a8196a259473358fbd",
+      "source": "r/singularity"
+    },
+    {
       "title": "South Korea is currently in an uproar over exam cheating involving AI.",
       "link": "https://www.reddit.com/r/artificial/comments/1xxhk3a/south_korea_is_currently_in_an_uproar_over_exam/",
       "summary": "",
@@ -866,20 +854,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Apparently they're onto my new business idea",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxh6e6/apparently_theyre_onto_my_new_business_idea/",
+      "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxh1tf/nvidias_problem_openai_is_90_plus_percent_nvidia/",
       "summary": "",
-      "date": "2026-11-16T05:25:38+00:00",
-      "image": "https://external-preview.redd.it/I9JCTPOuDIOBN2AJQJCoF_4FFOwDzw5_qRxh6mvYej0.png?width=640&crop=smart&auto=webp&s=ffbffa4879e647765e32f126ff6b1e2ef7a58e81",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "ChatGPT Plus major regression last two weeks",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxh21l/chatgpt_plus_major_regression_last_two_weeks/",
-      "summary": "",
-      "date": "2026-11-16T05:18:46+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
+      "date": "2026-11-16T05:18:26+00:00",
+      "image": "https://external-preview.redd.it/IEetB_E3Tav1FyS-ZuJDhBTJs13vJf0jphIYjbGLsHc.jpeg?width=640&crop=smart&auto=webp&s=603dabbacffd42f15dae11d14ed96d06df343a70",
+      "source": "r/OpenAI"
     },
     {
       "title": "Yay or Nah",
@@ -890,14 +870,6 @@
       "source": "r/artificial"
     },
     {
-      "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
-      "summary": "",
-      "date": "2026-11-16T04:22:20+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
       "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might ",
@@ -906,20 +878,20 @@
       "source": "The Verge AI"
     },
     {
-      "title": "GitHub - icryo/GLM-Tandem: GLM-5.3-Flash on two Mac Studios, tensor-parallel: about 140 tokens/s on fresh prose",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfcr6/github_icryoglmtandem_glm53flash_on_two_mac/",
-      "summary": "",
-      "date": "2026-11-16T03:46:33+00:00",
-      "image": "https://external-preview.redd.it/zZrd0xGthhUpCgm-cm-QYEGrEWFYT0plghwhnyovOCc.png?width=640&crop=smart&auto=webp&s=f7d836a113037b72663a625a01b153c901a1eac0",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Could there be some hidden context behind this emphasis and nervous laugh?",
       "link": "https://www.reddit.com/r/artificial/comments/1xxf0tn/could_there_be_some_hidden_context_behind_this/",
       "summary": "",
       "date": "2026-11-16T03:28:57+00:00",
       "image": "https://external-preview.redd.it/dDU2YXVhOHo4dzFpMQ9SmMAqP5OpfRMM652UKQrwUyUEgyLAtbOQK7_QWhL_.jpeg?width=640&crop=smart&auto=webp&s=8a0a1f7db9034f944050d46cd895752c4461b525",
       "source": "r/artificial"
+    },
+    {
+      "title": "GPT-6 Astra led proof for candidate lattice definition of the Standard Model",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxellh/gpt6_astra_led_proof_for_candidate_lattice/",
+      "summary": "",
+      "date": "2026-11-16T03:07:09+00:00",
+      "image": "",
+      "source": "r/OpenAI"
     },
     {
       "title": "Intel sued by investors after PC sales slump hits share price",
@@ -936,6 +908,30 @@
       "date": "2026-11-16T02:47:37+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "Highly anticipated Qwen4 Max scores a disappointing 43 on Artificial Analysis.",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxe7en/highly_anticipated_qwen4_max_scores_a/",
+      "summary": "",
+      "date": "2026-11-16T02:47:28+00:00",
+      "image": "https://preview.redd.it/475hbiui1w1i1.png?width=640&crop=smart&auto=webp&s=48fb9d7a7ced6cd06bc7f1942058381e0907852a",
+      "source": "r/singularity"
+    },
+    {
+      "title": "ChatGPT Vs ChatGPT Plus, is ChatGPT enough?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxdsoz/chatgpt_vs_chatgpt_plus_is_chatgpt_enough/",
+      "summary": "",
+      "date": "2026-11-16T02:26:40+00:00",
+      "image": "https://preview.redd.it/yop1cifzxv1i1.jpeg?width=640&crop=smart&auto=webp&s=005e080dfba4b62f55ba4bb965b9a6e79fdc85d3",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Qwen4-Max: Your New Teammate Has Arrived",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxdj2b/qwen4max_your_new_teammate_has_arrived/",
+      "summary": "",
+      "date": "2026-11-16T02:13:42+00:00",
+      "image": "https://preview.redd.it/g6aquspnvv1i1.jpeg?width=640&crop=smart&auto=webp&s=38d0cce0fce38272e1d01a82db2993657b7a3abd",
+      "source": "r/singularity"
     },
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -986,12 +982,36 @@
       "source": "r/artificial"
     },
     {
+      "title": "Open AIs new blog for science",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxc5tq/open_ais_new_blog_for_science/",
+      "summary": "",
+      "date": "2026-11-16T01:06:40+00:00",
+      "image": "",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Bay Area Lawyers are seeing a ‘stunning’ rise in AI employee prenups this year — and more postnups too",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxc0mn/bay_area_lawyers_are_seeing_a_stunning_rise_in_ai/",
+      "summary": "",
+      "date": "2026-11-16T00:59:59+00:00",
+      "image": "https://external-preview.redd.it/qZj2E56R9Jr7TuOmIxD-CbEE1Goi7c6BJBbiTDYI10w.png?width=640&crop=smart&auto=webp&s=ec7d0638f37880eb58fff8f9db9cdf975e855ef8",
+      "source": "r/OpenAI"
+    },
+    {
       "title": "The jagged edge of the AI boom — Stanford HAI on why AI's gains are so uneven",
       "link": "https://www.reddit.com/r/artificial/comments/1xxbzrh/the_jagged_edge_of_the_ai_boom_stanford_hai_on/",
       "summary": "",
       "date": "2026-11-16T00:58:49+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "Anthropic Researcher: Broadly Superhuman AI Could Arrive in as Little as 1.3 Years",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxbyo8/anthropic_researcher_broadly_superhuman_ai_could/",
+      "summary": "",
+      "date": "2026-11-16T00:57:22+00:00",
+      "image": "https://external-preview.redd.it/cWdzajhvOXhndjFpMQk-pacSGMlBidtbO2E0qp9qb4WfTXvdbzG8-LCXiTJ4.png?width=640&crop=smart&auto=webp&s=2dcfccd92441ca512851e492e4d81b3b6e1e4882",
+      "source": "r/singularity"
     },
     {
       "title": "What are some good alternatives to Manus for building AI agent workflows?",
@@ -1002,20 +1022,12 @@
       "source": "r/AI_Agents"
     },
     {
-      "title": "What’s the most dystopian way you’ve caught yourself using ChatGPT?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxbcbm/whats_the_most_dystopian_way_youve_caught/",
+      "title": "Six months ago someone posted about how frontier AI's were failing at AI research, and a bunch of people said to check back in six months...",
+      "link": "https://www.reddit.com/r/singularity/comments/1xxb8fi/six_months_ago_someone_posted_about_how_frontier/",
       "summary": "",
-      "date": "2026-11-16T00:26:44+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "Why download abliterated Flash Next models when LoRA exists?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
-      "summary": "",
-      "date": "2026-11-16T00:06:16+00:00",
-      "image": "https://external-preview.redd.it/GV7ZHfSlQHB7eh5ofVSsj4GRn0FsitN8yAMq3HNWJT0.png?width=640&crop=smart&auto=webp&s=d94020ad3ac7d5febac6195b621c42da6578643a",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-16T00:21:47+00:00",
+      "image": "https://preview.redd.it/7i9llm2m9v1i1.png?width=640&crop=smart&auto=webp&s=19a6c057a800da4c362059a1646e471de6db5661",
+      "source": "r/singularity"
     },
     {
       "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
@@ -1050,6 +1062,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "“If we don’t build it, China will” they said, as the US didn’t blacklist a single Chinese company in more than a year and knew about a potential spy and did nothing…",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxanjc/if_we_dont_build_it_china_will_they_said_as_the/",
+      "summary": "",
+      "date": "2026-11-15T23:56:46+00:00",
+      "image": "",
+      "source": "r/OpenAI"
+    },
+    {
       "title": "How to keep agent failover routing from breaking your privacy policy?",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xxam50/how_to_keep_agent_failover_routing_from_breaking/",
       "summary": "",
@@ -1074,12 +1094,28 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Did something go wrong on my end or is OpenAI making Codex harder to work with?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xxa0op/did_something_go_wrong_on_my_end_or_is_openai/",
+      "summary": "",
+      "date": "2026-11-15T23:27:27+00:00",
+      "image": "",
+      "source": "r/OpenAI"
+    },
+    {
       "title": "datasette 1.0a43",
       "link": "https://simonwillison.net/2026/Nov/15/datasette/",
       "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this ",
       "date": "2026-11-15T23:20:27+00:00",
       "image": "",
       "source": "Simon Willison"
+    },
+    {
+      "title": "Opus 5.5 Designs an Analog Synthesizer PCB from 200 Discrete Components and brings it up.",
+      "link": "https://www.reddit.com/r/singularity/comments/1xx9uhf/opus_55_designs_an_analog_synthesizer_pcb_from/",
+      "summary": "",
+      "date": "2026-11-15T23:19:34+00:00",
+      "image": "https://external-preview.redd.it/qs95d0MvkD-E3NMD1_zvs4UOpkq9tcVKXm0M9k6713A.png?width=640&crop=smart&auto=webp&s=0c452d36c8b8359c7c55c2a2221dc436b9c12763",
+      "source": "r/singularity"
     },
     {
       "title": "datasette 0.65.6",
@@ -1090,20 +1126,36 @@
       "source": "Simon Willison"
     },
     {
-      "title": "I get paid to break AI with maths problems. Honestly, I’m starting to lose now....",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xx9le8/i_get_paid_to_break_ai_with_maths_problems/",
+      "title": "Claude Fable 5.2 wrote a working Transformer AI, while Opus 5.5 generated its training data. The result: a 367,000-parameter language model that fits on a floppy disk and runs on a 1990s Pentium PC with just 540 KB of RAM.",
+      "link": "https://www.reddit.com/r/singularity/comments/1xx8w9q/claude_fable_52_wrote_a_working_transformer_ai/",
       "summary": "",
-      "date": "2026-11-15T23:08:13+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
+      "date": "2026-11-15T22:37:29+00:00",
+      "image": "https://external-preview.redd.it/YXdjejBmYzN0dTFpMZ4mRCal5Zi8ebrkfET3BcjxOxZv54TqgOT0aJlDtKNv.png?width=640&crop=smart&auto=webp&s=86ceacce537ab48a9b9e602aa3299133c1c348b5",
+      "source": "r/singularity"
     },
     {
-      "title": "Someone should do an analysis on the rate of Self-promo here.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
+      "title": "Haven't seen this in a while",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xx8bo9/havent_seen_this_in_a_while/",
       "summary": "",
-      "date": "2026-11-15T22:05:21+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-15T22:12:36+00:00",
+      "image": "https://preview.redd.it/8bibi7oznu1i1.png?width=640&crop=smart&auto=webp&s=0d3a7692eb679199bbb3c5c22ef6396e998b4f9f",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Chinese robot handles hotel laundry workflow in just 18.6 seconds",
+      "link": "https://www.reddit.com/r/singularity/comments/1xx87ra/chinese_robot_handles_hotel_laundry_workflow_in/",
+      "summary": "",
+      "date": "2026-11-15T22:07:53+00:00",
+      "image": "https://external-preview.redd.it/wViyfif4zo3dnIlh-VMsXmG8gwEf1OfAQsdGYdYSh9Y.jpeg?width=640&crop=smart&auto=webp&s=419f237b5c6671b16e0396f1b9c1c46b0d610162",
+      "source": "r/singularity"
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "link": "https://www.reddit.com/r/singularity/comments/1xx83bk/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+      "summary": "",
+      "date": "2026-11-15T22:02:32+00:00",
+      "image": "https://external-preview.redd.it/_0cGXgGSNWztI6HKBJevgDHn4mOtn4c9K8_nu3KPZAE.jpeg?width=640&crop=smart&auto=webp&s=7e064e4c829a226763e131d4bb13277563d68b92",
+      "source": "r/singularity"
     },
     {
       "title": "A step toward defining the Standard Model on a lattice",
@@ -1130,36 +1182,12 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+      "title": "Is gpt6 getting erratic today?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xx6u78/is_gpt6_getting_erratic_today/",
       "summary": "",
-      "date": "2026-11-15T21:46:56+00:00",
-      "image": "https://external-preview.redd.it/YTU2aGRkZXVqdTFpMbuQjYKuS0e50jz76JAFlHw97tpbQhsuU6u19fp57dBZ.png?width=640&crop=smart&auto=webp&s=261b9343ee57563464332114f08ca1138cfb07fc",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "Wasn't expecting that final punchline...",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xx73yj/wasnt_expecting_that_final_punchline/",
-      "summary": "",
-      "date": "2026-11-15T21:20:48+00:00",
-      "image": "https://preview.redd.it/kq7p34x7fu1i1.png?width=640&crop=smart&auto=webp&s=59856a6f5155a3ece06e334da009732f76dbec37",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "An owl explained the human condition",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xx6yp7/an_owl_explained_the_human_condition/",
-      "summary": "",
-      "date": "2026-11-15T21:14:41+00:00",
-      "image": "https://preview.redd.it/gi3vftp5eu1i1.png?width=640&crop=smart&auto=webp&s=13929ebfbbe07f5132abe2a094a112db0a2eb188",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "ChatGPT impressions, anyone?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xx6x6r/chatgpt_impressions_anyone/",
-      "summary": "",
-      "date": "2026-11-15T21:12:55+00:00",
-      "image": "https://preview.redd.it/uqv95y1mdu1i1.jpeg?width=640&crop=smart&auto=webp&s=5e58d566656fa5ed005a5067e6934005b88a00b5",
-      "source": "r/ChatGPT"
+      "date": "2026-11-15T21:09:26+00:00",
+      "image": "",
+      "source": "r/OpenAI"
     },
     {
       "title": "NVidea Drivers for Linux",
@@ -1168,14 +1196,6 @@
       "date": "2026-11-15T20:57:45+00:00",
       "image": "",
       "source": "r/artificial"
-    },
-    {
-      "title": "Llama.cpp performance improvement over time (Gemma4 models)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
-      "summary": "",
-      "date": "2026-11-15T20:34:44+00:00",
-      "image": "https://preview.redd.it/sgekm82a5u1i1.png?width=640&crop=smart&auto=webp&s=6ac3afac160e482bcfa0455a7f1fd0af0a54c51d",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
@@ -1192,14 +1212,6 @@
       "date": "2026-11-15T20:17:38+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
-      "summary": "",
-      "date": "2026-11-15T20:11:18+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch",
@@ -1226,12 +1238,36 @@
       "source": "The Verge AI"
     },
     {
-      "title": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/",
+      "title": "Why does OpenAI suddenly not work for me and goes in wrong direction of my goal?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xx3yy3/why_does_openai_suddenly_not_work_for_me_and_goes/",
       "summary": "",
-      "date": "2026-11-15T18:29:39+00:00",
-      "image": "https://external-preview.redd.it/dzlmeXIyamRodDFpMcNJOd1EiFaJC5GTyme9hEuaQy34dVDwhu3zRDsImhkG.png?width=640&crop=smart&auto=webp&s=93ab06020eebb6bdf3abb09c7da25815ab37674b",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-15T19:13:07+00:00",
+      "image": "",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "OpenAI made ~$13B last year and has committed ~$1.15T to compute. I animated where that money comes from, and how much of it goes back to Nvidia.",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xx3tzv/openai_made_13b_last_year_and_has_committed_115t/",
+      "summary": "",
+      "date": "2026-11-15T19:07:43+00:00",
+      "image": "https://external-preview.redd.it/cXR0ZGYweWdydDFpMWqi5fpkC3OY8pGShN6cmNk1P8xsxLyI3qnK3h2LoJPa.png?width=640&crop=smart&auto=webp&s=c8b52aa1f581b92790e5fd826dfa08d5f8f4380a",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Embodied AI robots take over night-shift parcel sorting in China’s tech hub Shenzhen",
+      "link": "https://www.reddit.com/r/singularity/comments/1xx3a6r/embodied_ai_robots_take_over_nightshift_parcel/",
+      "summary": "",
+      "date": "2026-11-15T18:45:42+00:00",
+      "image": "https://external-preview.redd.it/9TNAdQvr40rxlO0SoI67LiD9P6ZC-54whv43ONGc7pg.jpeg?width=640&crop=smart&auto=webp&s=47a44c7490f9bbabcf11e3dfaff4b9281a068dcd",
+      "source": "r/singularity"
+    },
+    {
+      "title": "In the EU are deleted chats really deleted after 30 days?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xx2qy8/in_the_eu_are_deleted_chats_really_deleted_after/",
+      "summary": "",
+      "date": "2026-11-15T18:24:40+00:00",
+      "image": "",
+      "source": "r/OpenAI"
     },
     {
       "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
@@ -1242,12 +1278,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+      "title": "For years now, the internal monologues of Gemini models have always been so dramatic. Is it performative (because it knows we can read it), or is there something more going on here?",
+      "link": "https://www.reddit.com/r/singularity/comments/1xx21py/for_years_now_the_internal_monologues_of_gemini/",
       "summary": "",
-      "date": "2026-11-15T17:30:31+00:00",
-      "image": "https://external-preview.redd.it/aDVxeDJsMXo0dDFpMXSsguq7RzI5TbnEdxYNshMh74sYqM9VzKczylkqkXW3.png?width=640&crop=smart&auto=webp&s=da4fc07a3d165f8bee2a2024b0ca57514c1ec236",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-15T17:57:27+00:00",
+      "image": "https://preview.redd.it/oqp4jrtqet1i1.png?width=640&crop=smart&auto=webp&s=429f998cd0233b8a107a61096c39eb943870289a",
+      "source": "r/singularity"
     },
     {
       "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
@@ -1266,44 +1302,44 @@
       "source": "r/artificial"
     },
     {
-      "title": "All according to Jensen's plan",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwyf1x/all_according_to_jensens_plan/",
+      "title": "Former top national security advisor, Susan Rice, at a protest yesterday - \"there is nothing more urgent than stopping Al from achieving super intelligence and causing human extinction\"",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xwzf12/former_top_national_security_advisor_susan_rice/",
       "summary": "",
-      "date": "2026-11-15T15:34:32+00:00",
-      "image": "https://preview.redd.it/5u1efksmps1i1.png?width=640&crop=smart&auto=webp&s=d441cdc11220c1f9bdf7fa258b2dea6e0dc070a6",
-      "source": "r/ChatGPT"
+      "date": "2026-11-15T16:15:23+00:00",
+      "image": "https://external-preview.redd.it/Zm9icjhzbXd3czFpMcfk2ULzy1XXjCon9899JsfovkEIvFbCMZnqkDXQXjXl.png?width=640&crop=smart&auto=webp&s=40decb3fd03feebacaac4753e830290ee63a0cf8",
+      "source": "r/OpenAI"
     },
     {
-      "title": "Probable GLM model",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/",
+      "title": "In the early stages of Cadence, an open-source neural network architecture developed by Pragma Research, which sees to bring AGI to reality, here is a demo of a talking parrot who answers questions and shows memory",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwzc1r/in_the_early_stages_of_cadence_an_opensource/",
       "summary": "",
-      "date": "2026-11-15T15:21:11+00:00",
-      "image": "https://preview.redd.it/k7ife2j2ms1i1.png?width=140&height=126&auto=webp&s=912371f57bce10bb7c9ef8dd5620fca1437a65a5",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-15T16:12:08+00:00",
+      "image": "",
+      "source": "r/singularity"
     },
     {
-      "title": "Creepy glitch/response just now when I asked about a clicking sound in my car…..",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwy33k/creepy_glitchresponse_just_now_when_i_asked_about/",
+      "title": "r/Singularity Daily Discussion Thread — November 15, 2026",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwz2u8/rsingularity_daily_discussion_thread_november_15/",
       "summary": "",
-      "date": "2026-11-15T15:20:38+00:00",
-      "image": "https://preview.redd.it/wlg80lp4ns1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=d630d0d2686e87030903ad7fe027f08e09871819",
-      "source": "r/ChatGPT"
+      "date": "2026-11-15T16:01:51+00:00",
+      "image": "",
+      "source": "r/singularity"
     },
     {
-      "title": "Future historians will be fascinated if they exist",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwxzje/future_historians_will_be_fascinated_if_they_exist/",
+      "title": "Whistleblower Jacob Coxon pledged to donate 100% of his OpenAI equity to charity after the IPO. It's estimated to be worth $30 million. He calls the shares \"blood money\"",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xwy796/whistleblower_jacob_coxon_pledged_to_donate_100/",
       "summary": "",
-      "date": "2026-11-15T15:16:30+00:00",
-      "image": "https://preview.redd.it/6yyu9a5bms1i1.png?width=640&crop=smart&auto=webp&s=2b172e1245020c4caadf226965e28d79b9ce809d",
-      "source": "r/ChatGPT"
+      "date": "2026-11-15T15:25:28+00:00",
+      "image": "https://preview.redd.it/xrym0q30os1i1.png?width=640&crop=smart&auto=webp&s=d842a145e5d40c5057bc533244bcf08d722a8778",
+      "source": "r/OpenAI"
     },
     {
-      "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+      "title": "SatBench. Benchmarking benchmarks. Each year's new AI benchmarks get beaten faster",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwxq0v/satbench_benchmarking_benchmarks_each_years_new/",
       "summary": "",
-      "date": "2026-11-15T15:16:24+00:00",
-      "image": "https://preview.redd.it/qop0ivudms1i1.jpeg?width=140&height=105&auto=webp&s=6313b380dd9d11280dc6ed01a3f7b406bed4b549",
-      "source": "r/LocalLLaMA"
+      "date": "2026-11-15T15:05:31+00:00",
+      "image": "https://external-preview.redd.it/xk-EHfIFhMvBpj30OeFZwTFwDDVYsv9PKnitBIStiBM.jpeg?width=640&crop=smart&auto=webp&s=4e34434071f84f6ddcf21c89038743665c1b5c56",
+      "source": "r/singularity"
     },
     {
       "title": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
@@ -1312,22 +1348,6 @@
       "date": "2026-11-15T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/",
-      "summary": "",
-      "date": "2026-11-15T14:49:02+00:00",
-      "image": "https://preview.redd.it/4rc3za5h9s1i1.png?width=320&crop=smart&auto=webp&s=6ab02d8dc1fc745b1f21fffb1725e1d68ee15ac4",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "Update: Internal prompt leaked?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwx4b3/update_internal_prompt_leaked/",
-      "summary": "",
-      "date": "2026-11-15T14:40:10+00:00",
-      "image": "https://preview.redd.it/hzp8aopxfs1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=ef27acb875fc56dffccbb4c204a1c70ea7b29a6d",
-      "source": "r/ChatGPT"
     },
     {
       "title": "Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia",
@@ -1370,20 +1390,44 @@
       "source": "BBC Technology"
     },
     {
+      "title": "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all other models in the latest benchmark.",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/",
+      "summary": "",
+      "date": "2026-11-15T13:25:45+00:00",
+      "image": "https://preview.redd.it/tie5rcqn2s1i1.jpeg?width=640&crop=smart&auto=webp&s=434ec541572b73be865891f71ec9d2893a403277",
+      "source": "r/singularity"
+    },
+    {
+      "title": "Claude wrote and trained a language model for DOS that fits on a floppy disk",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwvaq9/claude_wrote_and_trained_a_language_model_for_dos/",
+      "summary": "",
+      "date": "2026-11-15T13:18:24+00:00",
+      "image": "",
+      "source": "r/singularity"
+    },
+    {
+      "title": "“DON’T WORK ON LLMs” - @ylecun at CoRL",
+      "link": "https://www.reddit.com/r/singularity/comments/1xwv6va/dont_work_on_llms_ylecun_at_corl/",
+      "summary": "",
+      "date": "2026-11-15T13:13:21+00:00",
+      "image": "https://preview.redd.it/g87cbf2l6q1i1.jpeg?width=640&crop=smart&auto=webp&s=75e3bfb5bee38d40c8cf3d700de287ea76327c51",
+      "source": "r/singularity"
+    },
+    {
+      "title": "Should unused Codex usage roll over to the next week?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xwv17o/should_unused_codex_usage_roll_over_to_the_next/",
+      "summary": "",
+      "date": "2026-11-15T13:05:53+00:00",
+      "image": "",
+      "source": "r/OpenAI"
+    },
+    {
       "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
       "link": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
       "summary": "Local and global variants, Fisher estimation, epsilon-ball sampling, and log-space stability, with PennyLane code and a time-series experiment. The post Computing Effective Dimension for Quantum ML Models in PyTorch appeared first on Towards Data Science .",
       "date": "2026-11-15T13:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
-      "summary": "",
-      "date": "2026-11-15T12:02:35+00:00",
-      "image": "https://preview.redd.it/hbwsi2vj5r1i1.png?width=140&height=75&auto=webp&s=38249d6dfb889a2504ee82eeec61432a84fd08a5",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
@@ -1418,22 +1462,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "the whole multiverse is here",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwrkt8/the_whole_multiverse_is_here/",
-      "summary": "",
-      "date": "2026-11-15T09:45:56+00:00",
-      "image": "https://preview.redd.it/9ymtz4ufzq1i1.jpeg?width=640&crop=smart&auto=webp&s=12835b827422435c86e6b33cca8c99b9036c519a",
-      "source": "r/ChatGPT"
-    },
-    {
-      "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
-      "summary": "",
-      "date": "2026-11-15T09:24:57+00:00",
-      "image": "https://external-preview.redd.it/MSmlR4nA4wNODy-Xmn0M4SW7f9Fw3NchCAuOxlWirII.jpeg?width=640&crop=smart&auto=webp&s=c2a574526c6d5e505ca553c58281cb6537428d8d",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
       "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
       "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven ",
@@ -1450,14 +1478,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Don’t worry, our jobs are safe.",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwp22j/dont_worry_our_jobs_are_safe/",
-      "summary": "",
-      "date": "2026-11-15T07:06:47+00:00",
-      "image": "https://preview.redd.it/i4lrysd07q1i1.jpeg?width=640&crop=smart&auto=webp&s=485a664497b0d28c741fd2c2f270a13a81cfd973",
-      "source": "r/ChatGPT"
-    },
-    {
       "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
       "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
       "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarit",
@@ -1466,20 +1486,12 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Can someone explain this insanely creepy response?",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwn2bu/can_someone_explain_this_insanely_creepy_response/",
-      "summary": "",
-      "date": "2026-11-15T05:09:39+00:00",
-      "image": "https://preview.redd.it/5i4r4wf5mp1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e1a0a679d0b26629d18259df7fa5b8a15b5a0d97",
-      "source": "r/ChatGPT"
-    },
-    {
       "title": "built a fact-checker that catches politicians lying in real-time",
-      "link": "https://www.reddit.com/r/artificial/comments/1xwmtff/built_a_factchecker_that_catches_politicians/",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xwmzgl/built_a_factchecker_that_catches_politicians/",
       "summary": "",
-      "date": "2026-11-15T04:56:24+00:00",
-      "image": "https://external-preview.redd.it/YWtlaGhxMGJqcDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=aa51033154c5094f0ee39bb2d51f1add5a981546",
-      "source": "r/artificial"
+      "date": "2026-11-15T05:05:14+00:00",
+      "image": "https://external-preview.redd.it/czBmNnQ3cjhscDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=dd98ab58721630a7e58017978e2f0583fb7ea90c",
+      "source": "r/OpenAI"
     },
     {
       "title": "datasette-apps 0.4a0",
@@ -1496,14 +1508,6 @@
       "date": "2026-11-15T03:49:47+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "I asked ChatGPT to imagine my exact opposite life",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xwkynn/i_asked_chatgpt_to_imagine_my_exact_opposite_life/",
-      "summary": "",
-      "date": "2026-11-15T03:14:43+00:00",
-      "image": "https://preview.redd.it/siuo561n1p1i1.jpeg?width=640&crop=smart&auto=webp&s=c6234b9bc971362a844f96dddb31165de8a04bc0",
-      "source": "r/ChatGPT"
     },
     {
       "title": "Anthropic rebuilds Claude Code Projects around a coordinator and parallel worker threads - each thread is a full cloud session on its own branch",
@@ -1570,6 +1574,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Apparently after Argon Carbon and Hydrogen Google is about to release Krypton Oxygen and the rest of the Periodic Table. Tibo got his wish, joke is over LOL",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xwbtcb/apparently_after_argon_carbon_and_hydrogen_google/",
+      "summary": "",
+      "date": "2026-11-14T20:01:37+00:00",
+      "image": "https://preview.redd.it/0sbte7gdwm1i1.jpeg?width=640&crop=smart&auto=webp&s=e81052186fbecb788536d18e558baf4d4126d195",
+      "source": "r/OpenAI"
+    },
+    {
       "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
       "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
       "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm abo",
@@ -1632,6 +1644,14 @@
       "date": "2026-11-14T16:34:15+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
+      "link": "https://www.reddit.com/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/",
+      "summary": "",
+      "date": "2026-11-14T16:01:43+00:00",
+      "image": "",
+      "source": "r/singularity"
     },
     {
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -2138,14 +2158,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
-      "summary": "Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang's affair with an alleged Chinese spy.",
-      "date": "2026-11-13T15:49:11+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
       "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
       "summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
@@ -2192,14 +2204,6 @@
       "date": "2026-11-13T14:05:22+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
-      "summary": "Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.",
-      "date": "2026-11-13T14:01:24+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "NHS, schools and police forces hit by Microsoft outage",
@@ -2390,14 +2394,6 @@
       "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
       "date": "2026-11-12T21:27:10+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "date": "2026-11-12T20:26:47+00:00",
       "image": "",
       "source": "TechCrunch AI"
     },
@@ -2648,14 +2644,6 @@
       "date": "2026-11-11T15:11:59+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "[Bi-Weekly Megathread] Project Showcase",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
-      "summary": "",
-      "date": "2026-11-11T15:02:21+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
@@ -3344,6 +3332,38 @@
       "date": "2026-11-05T16:00:00+00:00",
       "image": "",
       "source": "Microsoft Research"
+    },
+    {
+      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
+      "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
+      "date": "2026-11-05T15:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-the-european-union-flag-with-its-stars-replaced-by-logos-for-open-ai.jpg?id=68564327&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week acc",
+      "date": "2026-11-05T14:00:34+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations ",
+      "date": "2026-11-05T03:47:09+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "summary": "",
+      "date": "2026-11-05T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
     }
   ]
 }
