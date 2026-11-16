@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:51:27.551535+00:00",
+  "updated": "2026-11-16T11:06:27.466053+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -103,21 +103,22 @@
     },
     {
       "count": 2,
-      "title": "r/Singularity Daily Discussion Thread — November 15, 2026",
-      "date": "2026-11-15T16:01:51+00:00",
+      "title": "Real-time talking avatar generated locally with SoulX-FlashHead + LFM3-Audio",
+      "date": "2026-11-15T18:42:29+00:00",
       "sources": [
-        "r/singularity"
+        "r/LocalLLaMA",
+        "r/StableDiffusion"
       ],
       "links": [
         {
-          "source": "r/singularity",
-          "title": "r/Singularity Daily Discussion Thread — November 15, 2026",
-          "link": "https://www.reddit.com/r/singularity/comments/1xwz2u8/rsingularity_daily_discussion_thread_november_15/"
+          "source": "r/StableDiffusion",
+          "title": "Real-time talking avatar generated locally with SoulX-FlashHead + LFM3-Audio",
+          "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx376j/realtime_talking_avatar_generated_locally_with/"
         },
         {
-          "source": "r/singularity",
-          "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
-          "link": "https://www.reddit.com/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/"
+          "source": "r/LocalLLaMA",
+          "title": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
+          "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/"
         }
       ]
     },
@@ -182,36 +183,24 @@
           "link": "https://openai.com/index/introducing-businesses-chatgpt"
         }
       ]
-    },
-    {
-      "count": 2,
-      "title": "Microsoft Research Focus – Edition #98",
-      "date": "2026-11-12T21:31:57+00:00",
-      "sources": [
-        "Microsoft Research"
-      ],
-      "links": [
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #98",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
-        },
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #97",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
-        }
-      ]
     }
   ],
   "items": [
     {
-      "title": "Just release the Bel model bro 💔",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxm9br/just_release_the_bel_model_bro/",
+      "title": "How do we feel about bots posting & commenting?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd9a/how_do_we_feel_about_bots_posting_commenting/",
       "summary": "",
-      "date": "2026-11-16T10:41:55+00:00",
-      "image": "https://preview.redd.it/mnjy0jv9ey1i1.png?width=640&crop=smart&auto=webp&s=b2edddb5d8332a04388b7f5cebfea56c69e9dd31",
-      "source": "r/singularity"
+      "date": "2026-11-16T10:48:39+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "[Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/",
+      "summary": "",
+      "date": "2026-11-16T10:48:24+00:00",
+      "image": "https://preview.redd.it/hiysxawefy1i1.gif?width=640&crop=smart&s=d87a4946485d9c270a40ca52d7fb70be0043628d",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
@@ -238,6 +227,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "[Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/",
+      "summary": "",
+      "date": "2026-11-16T10:30:58+00:00",
+      "image": "https://preview.redd.it/svkldflbcy1i1.gif?width=640&crop=smart&s=d318a9b273f5a149e34eeb6da9af01a65d2bb6b4",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "Omaxian takes the Omarchy look down a different Linux backstreet",
       "link": "https://www.theregister.com/os-platforms/2026/11/16/omaxian-takes-the-omarchy-look-down-a-different-linux-backstreet/5309750",
       "summary": "Devuan-based distro swaps Wayland for XLibre and i3, with Xfce waiting if the tiling gets tiresome",
@@ -252,6 +249,22 @@
       "date": "2026-11-16T10:00:01+00:00",
       "image": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=980",
       "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "The beginning of the becoming of the beginning begins",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+      "summary": "",
+      "date": "2026-11-16T09:55:51+00:00",
+      "image": "https://preview.redd.it/czvg7r846y1i1.jpeg?width=640&crop=smart&auto=webp&s=0d95847d857439747ef780d17c267701e20384b5",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "Introducing Hy4 flash",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/",
+      "summary": "",
+      "date": "2026-11-16T09:52:44+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
@@ -270,14 +283,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "My life now",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxl98r/my_life_now/",
-      "summary": "",
-      "date": "2026-11-16T09:39:00+00:00",
-      "image": "https://preview.redd.it/8ybl8uo03y1i1.png?width=140&height=57&auto=webp&s=acb3c58220f5d67eba3733380d226f918ef14aaf",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "AI cheating scandal spooks South Korea ahead of high-stakes college entrance exam",
       "link": "https://www.reddit.com/r/artificial/comments/1xxl8ho/ai_cheating_scandal_spooks_south_korea_ahead_of/",
       "summary": "",
@@ -294,14 +299,6 @@
       "source": "The Register"
     },
     {
-      "title": "AI bifurcation",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxl3n9/ai_bifurcation/",
-      "summary": "",
-      "date": "2026-11-16T09:29:08+00:00",
-      "image": "",
-      "source": "r/singularity"
-    },
-    {
       "title": "GOOD LUCK",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1xxl1ip/good_luck/",
       "summary": "",
@@ -316,14 +313,6 @@
       "date": "2026-11-16T09:21:48+00:00",
       "image": "https://external-preview.redd.it/oZgwu0rdng563JRJbxUGE5JiYvp5LMzPaA0E_aV2SW4.jpeg?width=640&crop=smart&auto=webp&s=955dd549601ec0aa50d52e791de571a247456bf9",
       "source": "r/artificial"
-    },
-    {
-      "title": "CEOs are getting paranoid",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
-      "summary": "",
-      "date": "2026-11-16T09:16:57+00:00",
-      "image": "https://external-preview.redd.it/Z2FnZWZiaDZ6eDFpMVPyNBaAguJUvd1iTzgej47gvu7yd-FpzQA0rcmbRxfx.png?width=320&crop=smart&auto=webp&s=fd72443ca34258b91763792011525a8b60b3e5bb",
-      "source": "r/OpenAI"
     },
     {
       "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
@@ -364,14 +353,6 @@
       "date": "2026-11-16T08:17:02+00:00",
       "image": "https://preview.redd.it/5qxuw6f7ox1i1.png?width=216&crop=smart&auto=webp&s=1dffd01e24c49422f264c7d030b8ebdaf8599496",
       "source": "r/StableDiffusion"
-    },
-    {
-      "title": "A ChatGPT share link isn't a copy of your chat. Delete the chat and the link goes with it, and it only ever shows the chat as it was when you made the link",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxjz3a/a_chatgpt_share_link_isnt_a_copy_of_your_chat/",
-      "summary": "",
-      "date": "2026-11-16T08:15:22+00:00",
-      "image": "",
-      "source": "r/OpenAI"
     },
     {
       "title": "Combining LTX audio nodes with Minimax H3",
@@ -446,12 +427,12 @@
       "source": "The Register"
     },
     {
-      "title": "This 2017 song Technocrat from retired rapper Samsa is one of my favorites and I find it pretty relevant, lot's of talking points.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxidbf/this_2017_song_technocrat_from_retired_rapper/",
+      "title": "New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/",
       "summary": "",
-      "date": "2026-11-16T06:35:22+00:00",
-      "image": "https://external-preview.redd.it/NXZibTlld2w1eDFpMTYmzZaeGm_XbPXyePAOgM2n3KZnwjWTVWJjorc1pQgu.png?width=640&crop=smart&auto=webp&s=fc18887c9fafb53f92f85a7e540f0d7328d1e3f6",
-      "source": "r/singularity"
+      "date": "2026-11-16T06:32:08+00:00",
+      "image": "https://preview.redd.it/c4l0ag0s5x1i1.png?width=640&crop=smart&auto=webp&s=79913074944b977b0763783a1649a8e75f83d4ff",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
@@ -460,22 +441,6 @@
       "date": "2026-11-16T06:30:35+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic Researcher: \"Pretty Much All Humans Will Become Permanently Unemployable\"",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxi8az/anthropic_researcher_pretty_much_all_humans_will/",
-      "summary": "",
-      "date": "2026-11-16T06:27:07+00:00",
-      "image": "https://external-preview.redd.it/XK7ig1oQBtaBlkBNHEARD7B2jkEv3KChE0pw6SQo1Pw.jpeg?width=320&crop=smart&auto=webp&s=3a1e8783199ebc1a13ba14133230aca89ca7d6ff",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Data Analysis on News Coverage about Jensen",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxi6p2/data_analysis_on_news_coverage_about_jensen/",
-      "summary": "",
-      "date": "2026-11-16T06:24:28+00:00",
-      "image": "https://external-preview.redd.it/gr563UvCts9diGJqONcnSvp2Z1PgZV7lVmxKAwdb7T0.png?width=640&crop=smart&auto=webp&s=9c89eebe0ff49055be906ed6b06734c24beceb61",
-      "source": "r/singularity"
     },
     {
       "title": "Looking for a technical co-founder / partner to build AI-powered sales automation systems for B2B SMBs",
@@ -494,14 +459,6 @@
       "source": "r/StableDiffusion"
     },
     {
-      "title": "What you all guys think?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxhubd/what_you_all_guys_think/",
-      "summary": "",
-      "date": "2026-11-16T06:04:08+00:00",
-      "image": "https://preview.redd.it/xfhy462s0x1i1.jpeg?width=640&crop=smart&auto=webp&s=34206d62c13de6687ecf7b3fd038f6be20c48e68",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
       "link": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
       "summary": "Version 4.0 of Redmond’s cloudy OS is free to use in its cloud. Repeat. Free to use",
@@ -518,14 +475,6 @@
       "source": "r/artificial"
     },
     {
-      "title": "Gemini models at the end of the year:",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxhlxf/gemini_models_at_the_end_of_the_year/",
-      "summary": "",
-      "date": "2026-11-16T05:50:38+00:00",
-      "image": "https://preview.redd.it/6dh8bdedyw1i1.jpeg?width=640&crop=smart&auto=webp&s=a930812e61cfffb67273f2a8196a259473358fbd",
-      "source": "r/singularity"
-    },
-    {
       "title": "South Korea is currently in an uproar over exam cheating involving AI.",
       "link": "https://www.reddit.com/r/artificial/comments/1xxhk3a/south_korea_is_currently_in_an_uproar_over_exam/",
       "summary": "",
@@ -540,14 +489,6 @@
       "date": "2026-11-16T05:37:02+00:00",
       "image": "https://preview.redd.it/amfpoejxvw1i1.png?width=640&crop=smart&auto=webp&s=c0fb9a372d962ba08d41b3128bf6b6b47e7a73c0",
       "source": "r/LLMDevs"
-    },
-    {
-      "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxh1tf/nvidias_problem_openai_is_90_plus_percent_nvidia/",
-      "summary": "",
-      "date": "2026-11-16T05:18:26+00:00",
-      "image": "https://external-preview.redd.it/IEetB_E3Tav1FyS-ZuJDhBTJs13vJf0jphIYjbGLsHc.jpeg?width=640&crop=smart&auto=webp&s=603dabbacffd42f15dae11d14ed96d06df343a70",
-      "source": "r/OpenAI"
     },
     {
       "title": "H3 Continuity Studio 1.0 is here – a lot has changed since the contest",
@@ -574,12 +515,28 @@
       "source": "r/StableDiffusion"
     },
     {
+      "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
+      "summary": "",
+      "date": "2026-11-16T04:22:20+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
       "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might ",
       "date": "2026-11-16T04:17:05+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
+      "summary": "",
+      "date": "2026-11-16T04:13:31+00:00",
+      "image": "https://preview.redd.it/sz8229m1hw1i1.png?width=640&crop=smart&auto=webp&s=bf34db7cd4f502fd469046e75a1a5be8906d286f",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Hoarding GGUFs in case Hugging Face changes? Fit 10% more on the same drive, byte-for-byte lossless.",
@@ -598,20 +555,20 @@
       "source": "r/StableDiffusion"
     },
     {
+      "title": "GitHub - icryo/GLM-Tandem: GLM-5.3-Flash on two Mac Studios, tensor-parallel: about 140 tokens/s on fresh prose",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfcr6/github_icryoglmtandem_glm53flash_on_two_mac/",
+      "summary": "",
+      "date": "2026-11-16T03:46:33+00:00",
+      "image": "https://external-preview.redd.it/zZrd0xGthhUpCgm-cm-QYEGrEWFYT0plghwhnyovOCc.png?width=640&crop=smart&auto=webp&s=f7d836a113037b72663a625a01b153c901a1eac0",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "Could there be some hidden context behind this emphasis and nervous laugh?",
       "link": "https://www.reddit.com/r/artificial/comments/1xxf0tn/could_there_be_some_hidden_context_behind_this/",
       "summary": "",
       "date": "2026-11-16T03:28:57+00:00",
       "image": "https://external-preview.redd.it/dDU2YXVhOHo4dzFpMQ9SmMAqP5OpfRMM652UKQrwUyUEgyLAtbOQK7_QWhL_.jpeg?width=640&crop=smart&auto=webp&s=8a0a1f7db9034f944050d46cd895752c4461b525",
       "source": "r/artificial"
-    },
-    {
-      "title": "GPT-6 Astra led proof for candidate lattice definition of the Standard Model",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxellh/gpt6_astra_led_proof_for_candidate_lattice/",
-      "summary": "",
-      "date": "2026-11-16T03:07:09+00:00",
-      "image": "",
-      "source": "r/OpenAI"
     },
     {
       "title": "Intel sued by investors after PC sales slump hits share price",
@@ -636,30 +593,6 @@
       "date": "2026-11-16T02:47:37+00:00",
       "image": "",
       "source": "r/artificial"
-    },
-    {
-      "title": "Highly anticipated Qwen4 Max scores a disappointing 43 on Artificial Analysis.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxe7en/highly_anticipated_qwen4_max_scores_a/",
-      "summary": "",
-      "date": "2026-11-16T02:47:28+00:00",
-      "image": "https://preview.redd.it/475hbiui1w1i1.png?width=640&crop=smart&auto=webp&s=48fb9d7a7ced6cd06bc7f1942058381e0907852a",
-      "source": "r/singularity"
-    },
-    {
-      "title": "ChatGPT Vs ChatGPT Plus, is ChatGPT enough?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxdsoz/chatgpt_vs_chatgpt_plus_is_chatgpt_enough/",
-      "summary": "",
-      "date": "2026-11-16T02:26:40+00:00",
-      "image": "https://preview.redd.it/yop1cifzxv1i1.jpeg?width=640&crop=smart&auto=webp&s=005e080dfba4b62f55ba4bb965b9a6e79fdc85d3",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Qwen4-Max: Your New Teammate Has Arrived",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxdj2b/qwen4max_your_new_teammate_has_arrived/",
-      "summary": "",
-      "date": "2026-11-16T02:13:42+00:00",
-      "image": "https://preview.redd.it/g6aquspnvv1i1.jpeg?width=640&crop=smart&auto=webp&s=38d0cce0fce38272e1d01a82db2993657b7a3abd",
-      "source": "r/singularity"
     },
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -694,20 +627,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Open AIs new blog for science",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxc5tq/open_ais_new_blog_for_science/",
+      "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
       "summary": "",
-      "date": "2026-11-16T01:06:40+00:00",
+      "date": "2026-11-16T01:07:01+00:00",
       "image": "",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Bay Area Lawyers are seeing a ‘stunning’ rise in AI employee prenups this year — and more postnups too",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxc0mn/bay_area_lawyers_are_seeing_a_stunning_rise_in_ai/",
-      "summary": "",
-      "date": "2026-11-16T00:59:59+00:00",
-      "image": "https://external-preview.redd.it/qZj2E56R9Jr7TuOmIxD-CbEE1Goi7c6BJBbiTDYI10w.png?width=640&crop=smart&auto=webp&s=ec7d0638f37880eb58fff8f9db9cdf975e855ef8",
-      "source": "r/OpenAI"
+      "source": "r/MachineLearning"
     },
     {
       "title": "The jagged edge of the AI boom — Stanford HAI on why AI's gains are so uneven",
@@ -718,12 +643,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Anthropic Researcher: Broadly Superhuman AI Could Arrive in as Little as 1.3 Years",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxbyo8/anthropic_researcher_broadly_superhuman_ai_could/",
+      "title": "ICLR did you post reminder of rebuttal response? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
       "summary": "",
-      "date": "2026-11-16T00:57:22+00:00",
-      "image": "https://external-preview.redd.it/cWdzajhvOXhndjFpMQk-pacSGMlBidtbO2E0qp9qb4WfTXvdbzG8-LCXiTJ4.png?width=640&crop=smart&auto=webp&s=2dcfccd92441ca512851e492e4d81b3b6e1e4882",
-      "source": "r/singularity"
+      "date": "2026-11-16T00:42:45+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Why The .lisl extention",
@@ -734,12 +659,12 @@
       "source": "r/LLMDevs"
     },
     {
-      "title": "Six months ago someone posted about how frontier AI's were failing at AI research, and a bunch of people said to check back in six months...",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxb8fi/six_months_ago_someone_posted_about_how_frontier/",
+      "title": "Why download abliterated Flash Next models when LoRA exists?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
       "summary": "",
-      "date": "2026-11-16T00:21:47+00:00",
-      "image": "https://preview.redd.it/7i9llm2m9v1i1.png?width=640&crop=smart&auto=webp&s=19a6c057a800da4c362059a1646e471de6db5661",
-      "source": "r/singularity"
+      "date": "2026-11-16T00:06:16+00:00",
+      "image": "https://external-preview.redd.it/GV7ZHfSlQHB7eh5ofVSsj4GRn0FsitN8yAMq3HNWJT0.png?width=640&crop=smart&auto=webp&s=d94020ad3ac7d5febac6195b621c42da6578643a",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
@@ -766,14 +691,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "“If we don’t build it, China will” they said, as the US didn’t blacklist a single Chinese company in more than a year and knew about a potential spy and did nothing…",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxanjc/if_we_dont_build_it_china_will_they_said_as_the/",
-      "summary": "",
-      "date": "2026-11-15T23:56:46+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "We built a Legora-style contract review tool — but with better models — and open-sourced the code.",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1xxam09/we_built_a_legorastyle_contract_review_tool_but/",
       "summary": "",
@@ -798,12 +715,20 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Did something go wrong on my end or is OpenAI making Codex harder to work with?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxa0op/did_something_go_wrong_on_my_end_or_is_openai/",
+      "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
       "summary": "",
-      "date": "2026-11-15T23:27:27+00:00",
+      "date": "2026-11-15T23:28:01+00:00",
       "image": "",
-      "source": "r/OpenAI"
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+      "summary": "",
+      "date": "2026-11-15T23:25:39+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "datasette 1.0a43",
@@ -812,14 +737,6 @@
       "date": "2026-11-15T23:20:27+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Opus 5.5 Designs an Analog Synthesizer PCB from 200 Discrete Components and brings it up.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx9uhf/opus_55_designs_an_analog_synthesizer_pcb_from/",
-      "summary": "",
-      "date": "2026-11-15T23:19:34+00:00",
-      "image": "https://external-preview.redd.it/qs95d0MvkD-E3NMD1_zvs4UOpkq9tcVKXm0M9k6713A.png?width=640&crop=smart&auto=webp&s=0c452d36c8b8359c7c55c2a2221dc436b9c12763",
-      "source": "r/singularity"
     },
     {
       "title": "datasette 0.65.6",
@@ -854,36 +771,12 @@
       "source": "r/StableDiffusion"
     },
     {
-      "title": "Claude Fable 5.2 wrote a working Transformer AI, while Opus 5.5 generated its training data. The result: a 367,000-parameter language model that fits on a floppy disk and runs on a 1990s Pentium PC with just 540 KB of RAM.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx8w9q/claude_fable_52_wrote_a_working_transformer_ai/",
-      "summary": "",
-      "date": "2026-11-15T22:37:29+00:00",
-      "image": "https://external-preview.redd.it/YXdjejBmYzN0dTFpMZ4mRCal5Zi8ebrkfET3BcjxOxZv54TqgOT0aJlDtKNv.png?width=640&crop=smart&auto=webp&s=86ceacce537ab48a9b9e602aa3299133c1c348b5",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Haven't seen this in a while",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xx8bo9/havent_seen_this_in_a_while/",
-      "summary": "",
-      "date": "2026-11-15T22:12:36+00:00",
-      "image": "https://preview.redd.it/8bibi7oznu1i1.png?width=640&crop=smart&auto=webp&s=0d3a7692eb679199bbb3c5c22ef6396e998b4f9f",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "Minimax Image (Edit) - My Early Thoughts",
       "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx8as5/minimax_image_edit_my_early_thoughts/",
       "summary": "",
       "date": "2026-11-15T22:11:34+00:00",
       "image": "https://preview.redd.it/okrvtrf27u1i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=d5b8546203f586237b500abbe7beca1e7b4df0e7",
       "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Chinese robot handles hotel laundry workflow in just 18.6 seconds",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx87ra/chinese_robot_handles_hotel_laundry_workflow_in/",
-      "summary": "",
-      "date": "2026-11-15T22:07:53+00:00",
-      "image": "https://external-preview.redd.it/wViyfif4zo3dnIlh-VMsXmG8gwEf1OfAQsdGYdYSh9Y.jpeg?width=640&crop=smart&auto=webp&s=419f237b5c6671b16e0396f1b9c1c46b0d610162",
-      "source": "r/singularity"
     },
     {
       "title": "Why using third party proxies can really be dangerous",
@@ -894,12 +787,12 @@
       "source": "r/LLMDevs"
     },
     {
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx83bk/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+      "title": "Someone should do an analysis on the rate of Self-promo here.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
       "summary": "",
-      "date": "2026-11-15T22:02:32+00:00",
-      "image": "https://external-preview.redd.it/_0cGXgGSNWztI6HKBJevgDHn4mOtn4c9K8_nu3KPZAE.jpeg?width=640&crop=smart&auto=webp&s=7e064e4c829a226763e131d4bb13277563d68b92",
-      "source": "r/singularity"
+      "date": "2026-11-15T22:05:21+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "A step toward defining the Standard Model on a lattice",
@@ -934,12 +827,12 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Is gpt6 getting erratic today?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xx6u78/is_gpt6_getting_erratic_today/",
+      "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
       "summary": "",
-      "date": "2026-11-15T21:09:26+00:00",
-      "image": "",
-      "source": "r/OpenAI"
+      "date": "2026-11-15T21:46:56+00:00",
+      "image": "https://external-preview.redd.it/YTU2aGRkZXVqdTFpMbuQjYKuS0e50jz76JAFlHw97tpbQhsuU6u19fp57dBZ.png?width=640&crop=smart&auto=webp&s=261b9343ee57563464332114f08ca1138cfb07fc",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "NVidea Drivers for Linux",
@@ -958,6 +851,22 @@
       "source": "r/LLMDevs"
     },
     {
+      "title": "Best direction to go for my setup EPYC 32core + 512GB DDR4 + 44GB GPU ?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx6dpd/best_direction_to_go_for_my_setup_epyc_32core/",
+      "summary": "",
+      "date": "2026-11-15T20:50:14+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "Llama.cpp performance improvement over time (Gemma4 models)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
+      "summary": "",
+      "date": "2026-11-15T20:34:44+00:00",
+      "image": "https://preview.redd.it/sgekm82a5u1i1.png?width=640&crop=smart&auto=webp&s=6ac3afac160e482bcfa0455a7f1fd0af0a54c51d",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
@@ -966,12 +875,28 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
+      "summary": "",
+      "date": "2026-11-15T20:11:18+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
       "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
       "date": "2026-11-15T19:58:21+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
+      "summary": "",
+      "date": "2026-11-15T19:46:49+00:00",
+      "image": "https://external-preview.redd.it/DJvyUGSB7NIol22F25MDbNGFokG0D_zzt5rg4USTxNA.jpeg?width=640&crop=smart&auto=webp&s=bff6c313e45f15ca3b754e03b15901a71d604b9a",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch",
@@ -1006,30 +931,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Why does OpenAI suddenly not work for me and goes in wrong direction of my goal?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xx3yy3/why_does_openai_suddenly_not_work_for_me_and_goes/",
-      "summary": "",
-      "date": "2026-11-15T19:13:07+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "OpenAI made ~$13B last year and has committed ~$1.15T to compute. I animated where that money comes from, and how much of it goes back to Nvidia.",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xx3tzv/openai_made_13b_last_year_and_has_committed_115t/",
-      "summary": "",
-      "date": "2026-11-15T19:07:43+00:00",
-      "image": "https://external-preview.redd.it/cXR0ZGYweWdydDFpMWqi5fpkC3OY8pGShN6cmNk1P8xsxLyI3qnK3h2LoJPa.png?width=640&crop=smart&auto=webp&s=c8b52aa1f581b92790e5fd826dfa08d5f8f4380a",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Embodied AI robots take over night-shift parcel sorting in China’s tech hub Shenzhen",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx3a6r/embodied_ai_robots_take_over_nightshift_parcel/",
-      "summary": "",
-      "date": "2026-11-15T18:45:42+00:00",
-      "image": "https://external-preview.redd.it/9TNAdQvr40rxlO0SoI67LiD9P6ZC-54whv43ONGc7pg.jpeg?width=640&crop=smart&auto=webp&s=47a44c7490f9bbabcf11e3dfaff4b9281a068dcd",
-      "source": "r/singularity"
-    },
-    {
       "title": "Real-time talking avatar generated locally with SoulX-FlashHead + LFM3-Audio",
       "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx376j/realtime_talking_avatar_generated_locally_with/",
       "summary": "",
@@ -1038,12 +939,20 @@
       "source": "r/StableDiffusion"
     },
     {
-      "title": "In the EU are deleted chats really deleted after 30 days?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xx2qy8/in_the_eu_are_deleted_chats_really_deleted_after/",
+      "title": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/",
       "summary": "",
-      "date": "2026-11-15T18:24:40+00:00",
-      "image": "",
-      "source": "r/OpenAI"
+      "date": "2026-11-15T18:29:39+00:00",
+      "image": "https://external-preview.redd.it/dzlmeXIyamRodDFpMcNJOd1EiFaJC5GTyme9hEuaQy34dVDwhu3zRDsImhkG.png?width=640&crop=smart&auto=webp&s=93ab06020eebb6bdf3abb09c7da25815ab37674b",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "Making cudaMemcpy 5x faster on a B300 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
+      "summary": "",
+      "date": "2026-11-15T18:20:27+00:00",
+      "image": "https://preview.redd.it/cjz9xy3rht1i1.png?width=140&height=96&auto=webp&s=57d74f4d514161ef2e579397451db883b157cb47",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
@@ -1054,12 +963,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "For years now, the internal monologues of Gemini models have always been so dramatic. Is it performative (because it knows we can read it), or is there something more going on here?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx21py/for_years_now_the_internal_monologues_of_gemini/",
+      "title": "Training-free early exit for reasoning models: a linear probe folded into the row of the output layer [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
       "summary": "",
-      "date": "2026-11-15T17:57:27+00:00",
-      "image": "https://preview.redd.it/oqp4jrtqet1i1.png?width=640&crop=smart&auto=webp&s=429f998cd0233b8a107a61096c39eb943870289a",
-      "source": "r/singularity"
+      "date": "2026-11-15T17:52:41+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Can’t reliably get local store prices in Bahrain",
@@ -1076,6 +985,22 @@
       "date": "2026-11-15T17:40:04+00:00",
       "image": "",
       "source": "r/LLMDevs"
+    },
+    {
+      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+      "summary": "",
+      "date": "2026-11-15T17:38:16+00:00",
+      "image": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3",
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+      "summary": "",
+      "date": "2026-11-15T17:30:31+00:00",
+      "image": "https://external-preview.redd.it/aDVxeDJsMXo0dDFpMXSsguq7RzI5TbnEdxYNshMh74sYqM9VzKczylkqkXW3.png?width=640&crop=smart&auto=webp&s=da4fc07a3d165f8bee2a2024b0ca57514c1ec236",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
@@ -1110,20 +1035,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Former top national security advisor, Susan Rice, at a protest yesterday - \"there is nothing more urgent than stopping Al from achieving super intelligence and causing human extinction\"",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xwzf12/former_top_national_security_advisor_susan_rice/",
+      "title": "Marimba: a System One model for speech [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
       "summary": "",
-      "date": "2026-11-15T16:15:23+00:00",
-      "image": "https://external-preview.redd.it/Zm9icjhzbXd3czFpMcfk2ULzy1XXjCon9899JsfovkEIvFbCMZnqkDXQXjXl.png?width=640&crop=smart&auto=webp&s=40decb3fd03feebacaac4753e830290ee63a0cf8",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "In the early stages of Cadence, an open-source neural network architecture developed by Pragma Research, which sees to bring AGI to reality, here is a demo of a talking parrot who answers questions and shows memory",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwzc1r/in_the_early_stages_of_cadence_an_opensource/",
-      "summary": "",
-      "date": "2026-11-15T16:12:08+00:00",
+      "date": "2026-11-15T16:30:09+00:00",
       "image": "",
-      "source": "r/singularity"
+      "source": "r/MachineLearning"
     },
     {
       "title": "Looks like LTX-2.5 are faking likes to game the trending tab, with heavy evidence",
@@ -1132,14 +1049,6 @@
       "date": "2026-11-15T16:08:59+00:00",
       "image": "",
       "source": "r/StableDiffusion"
-    },
-    {
-      "title": "r/Singularity Daily Discussion Thread — November 15, 2026",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwz2u8/rsingularity_daily_discussion_thread_november_15/",
-      "summary": "",
-      "date": "2026-11-15T16:01:51+00:00",
-      "image": "",
-      "source": "r/singularity"
     },
     {
       "title": "What does this graph tell us about the scalability of AI",
@@ -1166,20 +1075,28 @@
       "source": "r/StableDiffusion"
     },
     {
-      "title": "Whistleblower Jacob Coxon pledged to donate 100% of his OpenAI equity to charity after the IPO. It's estimated to be worth $30 million. He calls the shares \"blood money\"",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xwy796/whistleblower_jacob_coxon_pledged_to_donate_100/",
-      "summary": "",
-      "date": "2026-11-15T15:25:28+00:00",
-      "image": "https://preview.redd.it/xrym0q30os1i1.png?width=640&crop=smart&auto=webp&s=d842a145e5d40c5057bc533244bcf08d722a8778",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "Attest 1.1: capture an agent run, replay it in CI with zero model calls, and assert on what the agent did (open source, author here)",
       "link": "https://www.reddit.com/r/LLMDevs/comments/1xwy3xy/attest_11_capture_an_agent_run_replay_it_in_ci/",
       "summary": "",
       "date": "2026-11-15T15:21:36+00:00",
       "image": "https://external-preview.redd.it/MGc1Z3htOTNuczFpMa3m3JmeoQHTh3VfrGmq8qN0OnYtK8llhan-Q8_1DDX4.png?width=640&crop=smart&auto=webp&s=168c802f59119048c1b39ebb2138184931ef3d52",
       "source": "r/LLMDevs"
+    },
+    {
+      "title": "Probable GLM model",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/",
+      "summary": "",
+      "date": "2026-11-15T15:21:11+00:00",
+      "image": "https://preview.redd.it/k7ife2j2ms1i1.png?width=140&height=126&auto=webp&s=912371f57bce10bb7c9ef8dd5620fca1437a65a5",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+      "summary": "",
+      "date": "2026-11-15T15:16:24+00:00",
+      "image": "https://preview.redd.it/qop0ivudms1i1.jpeg?width=140&height=105&auto=webp&s=6313b380dd9d11280dc6ed01a3f7b406bed4b549",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Ai optimization",
@@ -1198,20 +1115,20 @@
       "source": "r/LLMDevs"
     },
     {
-      "title": "SatBench. Benchmarking benchmarks. Each year's new AI benchmarks get beaten faster",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwxq0v/satbench_benchmarking_benchmarks_each_years_new/",
-      "summary": "",
-      "date": "2026-11-15T15:05:31+00:00",
-      "image": "https://external-preview.redd.it/xk-EHfIFhMvBpj30OeFZwTFwDDVYsv9PKnitBIStiBM.jpeg?width=640&crop=smart&auto=webp&s=4e34434071f84f6ddcf21c89038743665c1b5c56",
-      "source": "r/singularity"
-    },
-    {
       "title": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
       "link": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/",
       "summary": "How autonomous agents turn static knowledge graphs into living Context Graphs that remember decisions, user intent, and operational history The post A Practitioner's Guide to 6 Agentic GraphRAG Patterns appeared first on Towards Data Science .",
       "date": "2026-11-15T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/",
+      "summary": "",
+      "date": "2026-11-15T14:49:02+00:00",
+      "image": "https://preview.redd.it/4rc3za5h9s1i1.png?width=320&crop=smart&auto=webp&s=6ab02d8dc1fc745b1f21fffb1725e1d68ee15ac4",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia",
@@ -1246,20 +1163,20 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "higurashi-ai/Haru-4B · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+      "summary": "",
+      "date": "2026-11-15T13:58:52+00:00",
+      "image": "https://external-preview.redd.it/mg4n7QvBlSSv_tYp8QwCybhUrhZrzA9OBke31D86IAE.png?width=640&crop=smart&auto=webp&s=32a6c29a4547a79824c735575a52c91f41fea905",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
       "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
       "date": "2026-11-15T13:37:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all other models in the latest benchmark.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/",
-      "summary": "",
-      "date": "2026-11-15T13:25:45+00:00",
-      "image": "https://preview.redd.it/tie5rcqn2s1i1.jpeg?width=640&crop=smart&auto=webp&s=434ec541572b73be865891f71ec9d2893a403277",
-      "source": "r/singularity"
     },
     {
       "title": "If Minimax H3 Image can do 16MP why testing on 1girl? Let's go straight to 16girls!",
@@ -1270,28 +1187,12 @@
       "source": "r/StableDiffusion"
     },
     {
-      "title": "Claude wrote and trained a language model for DOS that fits on a floppy disk",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwvaq9/claude_wrote_and_trained_a_language_model_for_dos/",
+      "title": "I don't think double-blind review systems work [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
       "summary": "",
-      "date": "2026-11-15T13:18:24+00:00",
+      "date": "2026-11-15T13:00:15+00:00",
       "image": "",
-      "source": "r/singularity"
-    },
-    {
-      "title": "“DON’T WORK ON LLMs” - @ylecun at CoRL",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwv6va/dont_work_on_llms_ylecun_at_corl/",
-      "summary": "",
-      "date": "2026-11-15T13:13:21+00:00",
-      "image": "https://preview.redd.it/g87cbf2l6q1i1.jpeg?width=640&crop=smart&auto=webp&s=75e3bfb5bee38d40c8cf3d700de287ea76327c51",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Should unused Codex usage roll over to the next week?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xwv17o/should_unused_codex_usage_roll_over_to_the_next/",
-      "summary": "",
-      "date": "2026-11-15T13:05:53+00:00",
-      "image": "",
-      "source": "r/OpenAI"
+      "source": "r/MachineLearning"
     },
     {
       "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
@@ -1308,6 +1209,22 @@
       "date": "2026-11-15T12:43:57+00:00",
       "image": "https://external-preview.redd.it/aHpwZWF1bW51cjFpMc_18rur1sJogf-gUfv2UpAi78Q2naXrNDoBdMEn3uWn.png?width=640&crop=smart&auto=webp&s=05f743e6d51e147d115f85c385de6b6b2636ea76",
       "source": "r/StableDiffusion"
+    },
+    {
+      "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
+      "summary": "",
+      "date": "2026-11-15T12:03:27+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
+      "summary": "",
+      "date": "2026-11-15T12:02:35+00:00",
+      "image": "https://preview.redd.it/hbwsi2vj5r1i1.png?width=140&height=75&auto=webp&s=38249d6dfb889a2504ee82eeec61432a84fd08a5",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
@@ -1332,6 +1249,14 @@
       "date": "2026-11-15T11:43:42+00:00",
       "image": "",
       "source": "r/StableDiffusion"
+    },
+    {
+      "title": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/",
+      "summary": "",
+      "date": "2026-11-15T11:21:12+00:00",
+      "image": "https://preview.redd.it/ui3qjsm7gr1i1.png?width=140&height=69&auto=webp&s=2014a3f3e795266108c13b5d9df88f08a0b03606",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Agent frameworks lean Python. What do TypeScript devs use?",
@@ -1366,12 +1291,20 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "When will a new model be launched?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xwrf6v/when_will_a_new_model_be_launched/",
+      "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
       "summary": "",
-      "date": "2026-11-15T09:35:51+00:00",
+      "date": "2026-11-15T09:24:57+00:00",
+      "image": "https://external-preview.redd.it/MSmlR4nA4wNODy-Xmn0M4SW7f9Fw3NchCAuOxlWirII.jpeg?width=640&crop=smart&auto=webp&s=c2a574526c6d5e505ca553c58281cb6537428d8d",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+      "summary": "",
+      "date": "2026-11-15T09:05:22+00:00",
       "image": "",
-      "source": "r/OpenAI"
+      "source": "r/MachineLearning"
     },
     {
       "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
@@ -1431,19 +1364,11 @@
     },
     {
       "title": "built a fact-checker that catches politicians lying in real-time",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xwmzgl/built_a_factchecker_that_catches_politicians/",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwmtff/built_a_factchecker_that_catches_politicians/",
       "summary": "",
-      "date": "2026-11-15T05:05:14+00:00",
-      "image": "https://external-preview.redd.it/czBmNnQ3cjhscDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=dd98ab58721630a7e58017978e2f0583fb7ea90c",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwmeh4/q35_timelines_update_looks_like_the_intelligence/",
-      "summary": "",
-      "date": "2026-11-15T04:32:32+00:00",
-      "image": "https://external-preview.redd.it/hXMdvMHNV4u8TfRSSRnkiB9E5z4cHM9ylfTS9RpCZDg.jpeg?width=640&crop=smart&auto=webp&s=e69eb765a2f0553805120b892bbc40bcaee29cf3",
-      "source": "r/singularity"
+      "date": "2026-11-15T04:56:24+00:00",
+      "image": "https://external-preview.redd.it/YWtlaGhxMGJqcDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=aa51033154c5094f0ee39bb2d51f1add5a981546",
+      "source": "r/artificial"
     },
     {
       "title": "datasette-apps 0.4a0",
@@ -1502,20 +1427,20 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
+      "summary": "",
+      "date": "2026-11-14T23:59:28+00:00",
+      "image": "https://preview.redd.it/wa1w1q097n1i1.gif?width=640&crop=smart&s=a2cc4040c57ff09dde32465e188ccae03d7756c3",
+      "source": "r/MachineLearning"
+    },
+    {
       "title": "datasette-llm 0.1a11",
       "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
       "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that t",
       "date": "2026-11-14T23:59:28+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "TAU the teleoperated cleaning robot spotted running into some issues",
-      "link": "https://www.reddit.com/r/singularity/comments/1xwh0kg/tau_the_teleoperated_cleaning_robot_spotted/",
-      "summary": "",
-      "date": "2026-11-14T23:55:07+00:00",
-      "image": "https://external-preview.redd.it/bGVyZXMxdzAybzFpMR2WVs1QgSEZNsS5sg2khb8d3zdx4ztcl_IansZhsEE8.png?width=320&crop=smart&auto=webp&s=8356b564c852af0a594c113276b8f5422b5cee44",
-      "source": "r/singularity"
     },
     {
       "title": "SpaceX catches upper stage of Starship rocket in historic first",
@@ -1550,12 +1475,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "Apparently after Argon Carbon and Hydrogen Google is about to release Krypton Oxygen and the rest of the Periodic Table. Tibo got his wish, joke is over LOL",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xwbtcb/apparently_after_argon_carbon_and_hydrogen_google/",
+      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
       "summary": "",
-      "date": "2026-11-14T20:01:37+00:00",
-      "image": "https://preview.redd.it/0sbte7gdwm1i1.jpeg?width=640&crop=smart&auto=webp&s=e81052186fbecb788536d18e558baf4d4126d195",
-      "source": "r/OpenAI"
+      "date": "2026-11-14T20:33:14+00:00",
+      "image": "https://preview.redd.it/di5zcerz1n1i1.png?width=640&crop=smart&auto=webp&s=46a81a176d2616ca2d788ea0bbfc40a3b0b25e4d",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
@@ -1572,6 +1497,14 @@
       "date": "2026-11-14T18:48:39+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Anonymous GitHub not working [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/",
+      "summary": "",
+      "date": "2026-11-14T18:31:16+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Italy fines Meta €805m over accessing users' photos",
@@ -1622,12 +1555,28 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
-      "link": "https://www.reddit.com/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/",
+      "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
       "summary": "",
-      "date": "2026-11-14T16:01:43+00:00",
+      "date": "2026-11-14T16:23:34+00:00",
       "image": "",
-      "source": "r/singularity"
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Ethical Alternatives to Kaggle [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
+      "summary": "",
+      "date": "2026-11-14T16:20:55+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "ICLR 2027 Rebuttal [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
+      "summary": "",
+      "date": "2026-11-14T16:00:01+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -1654,6 +1603,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
+      "summary": "",
+      "date": "2026-11-14T14:28:42+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
@@ -1668,6 +1625,14 @@
       "date": "2026-11-14T13:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "ICLR rebuttal [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
+      "summary": "",
+      "date": "2026-11-14T12:29:37+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Open-source AI without Jensen",
@@ -1700,6 +1665,14 @@
       "date": "2026-11-14T11:00:00+00:00",
       "image": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
       "source": "Wired AI"
+    },
+    {
+      "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
+      "summary": "",
+      "date": "2026-11-14T10:51:23+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Microsoft's school email bill gives rivals something to smile about",
@@ -1838,12 +1811,28 @@
       "source": "Simon Willison"
     },
     {
+      "title": "ICML 2027 Changes [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+      "summary": "",
+      "date": "2026-11-13T21:53:39+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
       "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
       "summary": "This is not a personality contest. This is a debate about the future of the Democratic party The election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen must be understood for what it is. This is not a personality contest. This is a debate about the futur",
       "date": "2026-11-13T21:28:45+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "date": "2026-11-13T21:20:47+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
@@ -1860,6 +1849,14 @@
       "date": "2026-11-13T21:15:41+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "I have trained a model to predict my blood sugar [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+      "summary": "",
+      "date": "2026-11-13T20:48:25+00:00",
+      "image": "https://preview.redd.it/atpxfrf2uf1i1.png?width=140&height=96&auto=webp&s=6f880a1b98ac33fb1f1a592e19e02ce8ac3ae5b2",
+      "source": "r/MachineLearning"
     },
     {
       "title": "Advancing science & engineering with Antigravity’s /teamwork",
@@ -2020,6 +2017,14 @@
       "date": "2026-11-13T17:34:58+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/6943b720-df71-11f1-93e1-3b657b665bcf.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "date": "2026-11-13T17:25:45+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
@@ -2414,12 +2419,36 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "date": "2026-11-12T19:59:59+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "date": "2026-11-12T19:23:03+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
       "summary": "",
       "date": "2026-11-12T19:07:35+00:00",
       "image": "",
       "source": "Hugging Face"
+    },
+    {
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "date": "2026-11-12T18:57:45+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Introducing Gemini 4 Hydrogen",
@@ -2444,6 +2473,14 @@
       "date": "2026-11-12T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "date": "2026-11-12T14:50:17+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
@@ -2558,6 +2595,22 @@
       "source": "Simon Willison"
     },
     {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "date": "2026-11-11T18:16:40+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "date": "2026-11-11T17:37:32+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "llm 0.37.2",
       "link": "https://simonwillison.net/2026/Nov/11/llm/",
       "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API",
@@ -2590,6 +2643,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "[Bi-Weekly Megathread] Project Showcase",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+      "summary": "",
+      "date": "2026-11-11T15:02:21+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
@@ -2612,6 +2673,14 @@
       "date": "2026-11-11T14:21:42+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!N5MW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ea61f46-93d0-4d43-a74b-5751a649daba_1720x980.png",
       "source": "Last Week in AI"
+    },
+    {
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "date": "2026-11-11T14:08:57+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "When Does It Actually Make Sense to Put AI Into Products?",
@@ -2686,12 +2755,36 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "date": "2026-11-10T22:35:01+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "date": "2026-11-10T21:12:59+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
       "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
       "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
       "date": "2026-11-10T20:52:56+00:00",
       "image": "",
       "source": "Microsoft Research"
+    },
+    {
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+      "date": "2026-11-10T20:30:01+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Tech Life",
@@ -2750,6 +2843,14 @@
       "source": "NVIDIA Blog"
     },
     {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "date": "2026-11-10T15:00:39+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
       "link": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/",
       "summary": "A software tester ran six testing skills on Haiku, Sonnet, and Opus; pushy descriptions added only 5 points, and near-miss requests never fired a skill. The post A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62% appeared first on Towards Data Science .",
@@ -2764,6 +2865,14 @@
       "date": "2026-11-10T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "date": "2026-11-10T12:15:32+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
@@ -2926,6 +3035,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "date": "2026-11-09T17:24:26+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
@@ -2948,6 +3065,14 @@
       "date": "2026-11-09T16:25:06+00:00",
       "image": "https://spectrum.ieee.org/media-library/collage-of-indoor-drone-flight-phone-controls-and-operator-at-computer-workstation.jpg?id=68578379&width=980",
       "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "date": "2026-11-09T15:23:20+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
@@ -3086,6 +3211,22 @@
       "source": "ScienceDaily AI"
     },
     {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "date": "2026-11-06T17:43:02+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "date": "2026-11-06T16:19:12+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
       "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
       "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each ot",
@@ -3124,6 +3265,22 @@
       "date": "2026-11-06T00:00:00+00:00",
       "image": "",
       "source": "Hugging Face"
+    },
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "date": "2026-11-05T21:40:36+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "date": "2026-11-05T21:39:40+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
@@ -3214,196 +3371,20 @@
       "source": "ScienceDaily AI"
     },
     {
+      "title": "ICLR 2027 Reviews Discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+      "summary": "",
+      "date": "2026-11-05T02:17:59+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "link": "https://huggingface.co/blog/phonon-tts",
       "summary": "",
       "date": "2026-11-05T00:00:00+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r",
-      "date": "2026-11-04T18:50:55+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Agile Deliberation: How AI helps humans define the gray areas",
-      "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-      "summary": "Data Mining & Modeling",
-      "date": "2026-11-04T18:07:05+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgileDeliberation1_Thumbnail.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "summary": "",
-      "date": "2026-11-04T17:50:10+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "How big is the open model economy today?",
-      "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
-      "summary": "Our first open model economy research note for paid subscribers.",
-      "date": "2026-11-04T16:35:44+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal fo",
-      "date": "2026-11-04T13:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Learn the rules: The hacker mindset",
-      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
-      "date": "2026-11-03T17:14:38+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
-      "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
-      "summary": "Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3 reduced execution comp",
-      "date": "2026-11-03T17:00:35+00:00",
-      "image": "",
-      "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "summary": "",
-      "date": "2026-11-03T16:35:36+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause ar",
-      "date": "2026-11-03T16:00:45+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
-      "link": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
-      "summary": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody m",
-      "date": "2026-11-03T14:30:02+00:00",
-      "image": "https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=980",
-      "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in ",
-      "date": "2026-11-03T10:43:41+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand ",
-      "date": "2026-11-03T04:18:47+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "link": "https://huggingface.co/blog/cwe-bench",
-      "summary": "",
-      "date": "2026-11-03T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "summary": "",
-      "date": "2026-11-03T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a",
-      "date": "2026-11-02T17:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "link": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can p",
-      "date": "2026-11-02T14:30:54+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "Guarding the Gates of Knowledge",
-      "link": "https://spectrum.ieee.org/ai-slop-trust-science",
-      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster wh",
-      "date": "2026-11-01T14:00:01+00:00",
-      "image": "https://spectrum.ieee.org/media-library/stacked-orange-documents-over-abstract-black-circuit-board-pattern.jpg?id=68537695&width=980",
-      "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Was I wrong about open models & cyber risks?",
-      "link": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
-      "summary": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and a long-standing GitLab bug, signified the moment when the cyber risks of AI models started to materialize.",
-      "date": "2026-10-30T17:36:56+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!NQ70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff51bb5d0-4390-4676-af4a-6bc8199412d5_2006x1362.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30T14:18:30+00:00",
-      "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
-      "date": "2026-10-30T13:05:28+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Microsoft Research Focus – Edition #97",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
-      "date": "2026-10-29T19:19:16+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Consumer Appetite for Personal AI Goes Mainstream",
-      "link": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-      "summary": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the adv",
-      "date": "2026-10-29T19:18:20+00:00",
-      "image": "https://spectrum.ieee.org/media-library/smiling-man-in-headphones-with-on-screen-alerts-for-calendar-emails-and-awareness-mode.png?id=68506456&width=980",
-      "source": "IEEE Spectrum AI"
     }
   ]
 }
