@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T04:36:29.543332+00:00",
+  "updated": "2026-11-16T04:41:59.455350+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -77,6 +77,27 @@
           "source": "r/StableDiffusion",
           "title": "MiniMax h3 Image Edit?",
           "link": "https://www.reddit.com/r/StableDiffusion/comments/1xwy7do/minimax_h3_image_edit/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "Apple launches research study to explore the use of AI for health",
+      "date": "2026-11-16T01:43:47+00:00",
+      "sources": [
+        "Hacker News AI",
+        "TechCrunch AI"
+      ],
+      "links": [
+        {
+          "source": "Hacker News AI",
+          "title": "Apple launches research study to explore the use of AI for health",
+          "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Apple launches new app to study how people use AI for health",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
         }
       ]
     },
@@ -194,12 +215,12 @@
       "source": "r/artificial"
     },
     {
-      "title": "What I'm I doing wrong? [Minimax H3 image]",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxg2bc/what_im_i_doing_wrong_minimax_h3_image/",
+      "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
       "summary": "",
-      "date": "2026-11-16T04:24:13+00:00",
-      "image": "https://preview.redd.it/59non3fiiw1i1.png?width=640&crop=smart&auto=webp&s=ca15818424758e8c8fb2bed54327d718a1092ce8",
-      "source": "r/StableDiffusion"
+      "date": "2026-11-16T04:22:20+00:00",
+      "image": "",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
@@ -208,6 +229,38 @@
       "date": "2026-11-16T04:17:05+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
+      "summary": "",
+      "date": "2026-11-16T04:30:51+00:00",
+      "image": "",
+      "source": "r/artificial"
+    },
+    {
+      "title": "What I'm I doing wrong? [Minimax H3 image]",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxg2bc/what_im_i_doing_wrong_minimax_h3_image/",
+      "summary": "",
+      "date": "2026-11-16T04:24:13+00:00",
+      "image": "https://preview.redd.it/59non3fiiw1i1.png?width=640&crop=smart&auto=webp&s=ca15818424758e8c8fb2bed54327d718a1092ce8",
+      "source": "r/StableDiffusion"
+    },
+    {
+      "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+      "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388 Comments URL: https://news.ycombinator.com/item?id=50513876 Points: 3 # Comments: 0",
+      "date": "2026-11-16T04:03:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
+      "link": "https://toolifyhub.tools/tools/background-remover",
+      "summary": "Article URL: https://toolifyhub.tools/tools/background-remover Comments URL: https://news.ycombinator.com/item?id=50513860 Points: 1 # Comments: 0",
+      "date": "2026-11-16T04:01:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
@@ -274,8 +327,16 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Sam Altman is a liar who uses scaremongering to campaign against open source AI.",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxen8a/sam_altman_is_a_liar_who_uses_scaremongering_to/",
+      "title": "Show HN: Memeo – Turn static photos into lip-synced AI meme videos in seconds",
+      "link": "https://memeo.app/",
+      "summary": "Article URL: https://memeo.app/ Comments URL: https://news.ycombinator.com/item?id=50513619 Points: 1 # Comments: 0",
+      "date": "2026-11-16T03:18:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Astra Mhmming itself for hours",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxet0g/astra_mhmming_itself_for_hours/",
       "summary": "",
       "date": "2026-11-16T03:09:29+00:00",
       "image": "https://external-preview.redd.it/8I2WxB_VjWlg0p8ZhHMtRxS6a45N1kIAjV6OcxCy3qI.jpeg?width=320&crop=smart&auto=webp&s=ff553443fab59e6474024213b8f872146e225038",
@@ -288,6 +349,14 @@
       "date": "2026-11-16T03:07:09+00:00",
       "image": "",
       "source": "r/OpenAI"
+    },
+    {
+      "title": "Mapping cyber risk in the era of AI: Which industries are most exposed?",
+      "link": "https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html",
+      "summary": "Article URL: https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html Comments URL: https://news.ycombinator.com/item?id=50513532 Points: 1 # Comments: 0",
+      "date": "2026-11-16T03:04:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Mapping cyber risk in the era of AI: Which industries are most exposed?",
@@ -338,8 +407,16 @@
       "source": "r/singularity"
     },
     {
-      "title": "My OpenFill fork is now OpenFill’s Baby: AI object selection, MiniMax H3 editing/removal, and easier ComfyUI setup",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxe1w9/my_openfill_fork_is_now_openfills_baby_ai_object/",
+      "title": "AI and the City",
+      "link": "https://www.stripeeconomics.com/p/ai-and-the-city",
+      "summary": "Article URL: https://www.stripeeconomics.com/p/ai-and-the-city Comments URL: https://news.ycombinator.com/item?id=50513264 Points: 1 # Comments: 0",
+      "date": "2026-11-16T02:23:03+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Update on the Context Window Full Post I Made 11 Days Ago.",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxdfei/update_on_the_context_window_full_post_i_made_11/",
       "summary": "",
       "date": "2026-11-16T02:39:37+00:00",
       "image": "https://preview.redd.it/hw3d55adzv1i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=d757a664ea51d99b81d385d8b2e4b10f0ba9ecbd",
@@ -402,6 +479,30 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
+      "link": "https://galleries.artfish.ai/aquarium/",
+      "summary": "I asked 12 different AI models to build the HTML to fill its own tank at an aquarium — then displayed them for you to see and vote on your favorite one! I did this for several other \"gallery\" themes, such as fungi, fairy cards, bonsai trees, and constellations. Maybe not surprisi",
+      "date": "2026-11-16T01:56:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
+      "link": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
+      "summary": "Article URL: https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting Comments URL: https://news.ycombinator.com/item?id=50513087 Points: 4 # Comments: 0",
+      "date": "2026-11-16T01:54:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+      "link": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+      "summary": "Article URL: https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/ Comments URL: https://news.ycombinator.com/item?id=50513079 Points: 4 # Comments: 0",
+      "date": "2026-11-16T01:53:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
@@ -416,6 +517,22 @@
       "date": "2026-11-16T01:47:16+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Apple launches research study to explore the use of AI for health",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ Comments URL: https://news.ycombinator.com/item?id=50513026 Points: 2 # Comments: 0",
+      "date": "2026-11-16T01:43:47+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "link": "https://www.hntrends.com/2026/november.html",
+      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 77 # Comments: 66",
+      "date": "2026-11-16T01:31:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Apple launches research study to explore the use of AI for health",
@@ -450,10 +567,42 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Coding agents make my life so much harder.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxcj0z/coding_agents_make_my_life_so_much_harder/",
+      "summary": "",
+      "date": "2026-11-16T01:24:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Everything Made by an AI Is in the Public Domain",
       "link": "https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/",
       "summary": "Article URL: https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/ Comments URL: https://news.ycombinator.com/item?id=50512907 Points: 5 # Comments: 3",
       "date": "2026-11-16T01:24:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "I Sustained 500K Words of Human–AI Dialogue Through Continuous Correction",
+      "link": "https://uka-135-map.pplx.app",
+      "summary": "Article URL: https://uka-135-map.pplx.app Comments URL: https://news.ycombinator.com/item?id=50512849 Points: 1 # Comments: 0",
+      "date": "2026-11-16T01:17:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Is it just me or does your chatgpt also give you cute nicknames randomly? (It calls me Sweetheart and Troublemaker)",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxcc74/is_it_just_me_or_does_your_chatgpt_also_give_you/",
+      "summary": "",
+      "date": "2026-11-16T01:15:22+00:00",
+      "image": "",
+      "source": "r/ChatGPT"
+    },
+    {
+      "title": "Copilot (paid) agents",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxc7bq/copilot_paid_agents/",
+      "summary": "",
+      "date": "2026-11-16T01:08:46+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -530,10 +679,26 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "'It's like the Wild West': how AI has rocked the literary world",
+      "link": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "summary": "Article URL: https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world Comments URL: https://news.ycombinator.com/item?id=50512682 Points: 7 # Comments: 3",
+      "date": "2026-11-16T00:52:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Amazon MadPot: Honeypot for AI Agents",
       "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
       "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50512675 Points: 5 # Comments: 1",
       "date": "2026-11-16T00:50:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "ICLR did you post reminder of rebuttal response? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
+      "summary": "",
+      "date": "2026-11-16T00:42:45+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -559,7 +724,23 @@
       "summary": "Article URL: https://www.crowdgpt.net/#home Comments URL: https://news.ycombinator.com/item?id=50512383 Points: 3 # Comments: 0",
       "date": "2026-11-16T00:13:30+00:00",
       "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "CrowdGPT – AI Owned by Everyone",
+      "link": "https://www.crowdgpt.net/#home",
+      "summary": "Article URL: https://www.crowdgpt.net/#home Comments URL: https://news.ycombinator.com/item?id=50512383 Points: 3 # Comments: 0",
+      "date": "2026-11-16T00:13:30+00:00",
+      "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Why download abliterated Flash Next models when LoRA exists?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+      "summary": "",
+      "date": "2026-11-16T00:06:16+00:00",
+      "image": "https://external-preview.redd.it/GV7ZHfSlQHB7eh5ofVSsj4GRn0FsitN8yAMq3HNWJT0.png?width=640&crop=smart&auto=webp&s=d94020ad3ac7d5febac6195b621c42da6578643a",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -607,7 +788,23 @@
       "summary": "Article URL: https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11 Comments URL: https://news.ycombinator.com/item?id=50512047 Points: 14 # Comments: 3",
       "date": "2026-11-15T23:33:53+00:00",
       "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+      "link": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11 Comments URL: https://news.ycombinator.com/item?id=50512047 Points: 14 # Comments: 3",
+      "date": "2026-11-15T23:33:53+00:00",
+      "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "alpha school charges up to $75k/yr to have kids learn from an AI tutor. does nobody think that price tag is the least AI thing about it?",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxa5dk/alpha_school_charges_up_to_75kyr_to_have_kids/",
+      "summary": "",
+      "date": "2026-11-15T23:33:22+00:00",
+      "image": "",
+      "source": "r/ChatGPT"
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -626,8 +823,16 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Did something go wrong on my end or is OpenAI making Codex harder to work with?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxa0op/did_something_go_wrong_on_my_end_or_is_openai/",
+      "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+      "link": "https://finance.biggo.com/news/71888475bad974d6",
+      "summary": "Article URL: https://finance.biggo.com/news/71888475bad974d6 Comments URL: https://news.ycombinator.com/item?id=50512000 Points: 7 # Comments: 0",
+      "date": "2026-11-15T23:27:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
       "summary": "",
       "date": "2026-11-15T23:27:27+00:00",
       "image": "",
@@ -674,8 +879,48 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "tides!",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx9c1t/tides/",
+      "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+      "link": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
+      "summary": "Article URL: https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai Comments URL: https://news.ycombinator.com/item?id=50511622 Points: 3 # Comments: 0",
+      "date": "2026-11-15T22:39:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Thales unveils software protection against AI-led reverse engineering",
+      "link": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+      "summary": "Article URL: https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/ Comments URL: https://news.ycombinator.com/item?id=50511606 Points: 2 # Comments: 1",
+      "date": "2026-11-15T22:35:38+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Technocracy, AI, and the End of the World",
+      "link": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+      "summary": "Article URL: https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US Comments URL: https://news.ycombinator.com/item?id=50511508 Points: 4 # Comments: 0",
+      "date": "2026-11-15T22:27:07+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Someone should do an analysis on the rate of Self-promo here.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
+      "summary": "",
+      "date": "2026-11-15T22:05:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Delaware considers AI-managed companies",
+      "link": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
+      "summary": "Article URL: https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/ Comments URL: https://news.ycombinator.com/item?id=50511337 Points: 3 # Comments: 0",
+      "date": "2026-11-15T22:05:04+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Scope creep starts with unclear boundaries.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xx84ai/scope_creep_starts_with_unclear_boundaries/",
       "summary": "",
       "date": "2026-11-15T22:56:53+00:00",
       "image": "https://external-preview.redd.it/anI4NTQ5aWR3dTFpMR0AYG4Jm_4rcStHf3-UA6MBZS_Rk-8ecVY5O2Y2QTJJ.png?width=640&crop=smart&auto=webp&s=7e9587828af16d0ac7b27398f2ad6b86a54a109f",
@@ -768,6 +1013,14 @@
       "date": "2026-11-15T22:02:32+00:00",
       "image": "https://external-preview.redd.it/_0cGXgGSNWztI6HKBJevgDHn4mOtn4c9K8_nu3KPZAE.jpeg?width=640&crop=smart&auto=webp&s=7e064e4c829a226763e131d4bb13277563d68b92",
       "source": "r/singularity"
+    },
+    {
+      "title": "Sandboxes for AI Agents",
+      "link": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
+      "summary": "Article URL: https://shmck.substack.com/p/sandboxes-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=50511309 Points: 3 # Comments: 0",
+      "date": "2026-11-15T22:02:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Sandboxes for AI Agents",
@@ -898,30 +1151,6 @@
       "source": "r/OpenAI"
     },
     {
-      "title": "OpenAI made ~$13B last year and has committed ~$1.15T to compute. I animated where that money comes from, and how much of it goes back to Nvidia.",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xx3tzv/openai_made_13b_last_year_and_has_committed_115t/",
-      "summary": "",
-      "date": "2026-11-15T19:07:43+00:00",
-      "image": "https://external-preview.redd.it/cXR0ZGYweWdydDFpMWqi5fpkC3OY8pGShN6cmNk1P8xsxLyI3qnK3h2LoJPa.png?width=640&crop=smart&auto=webp&s=c8b52aa1f581b92790e5fd826dfa08d5f8f4380a",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Embodied AI robots take over night-shift parcel sorting in China’s tech hub Shenzhen",
-      "link": "https://www.reddit.com/r/singularity/comments/1xx3a6r/embodied_ai_robots_take_over_nightshift_parcel/",
-      "summary": "",
-      "date": "2026-11-15T18:45:42+00:00",
-      "image": "https://external-preview.redd.it/9TNAdQvr40rxlO0SoI67LiD9P6ZC-54whv43ONGc7pg.jpeg?width=640&crop=smart&auto=webp&s=47a44c7490f9bbabcf11e3dfaff4b9281a068dcd",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Real-time talking avatar generated locally with SoulX-FlashHead + LFM3-Audio",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xx376j/realtime_talking_avatar_generated_locally_with/",
-      "summary": "",
-      "date": "2026-11-15T18:42:29+00:00",
-      "image": "https://external-preview.redd.it/N3pkdHpwNTVudDFpMcNJOd1EiFaJC5GTyme9hEuaQy34dVDwhu3zRDsImhkG.png?width=640&crop=smart&auto=webp&s=c450b71a36a058115be5014c1b8c6fe9187eed5b",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "I Made My First Million Selling AI Websites. Here's How I'd Start Again",
       "link": "https://www.reddit.com/r/artificial/comments/1xx2x2e/i_made_my_first_million_selling_ai_websites_heres/",
       "summary": "",
@@ -975,7 +1204,55 @@
       "summary": "",
       "date": "2026-11-15T17:25:54+00:00",
       "image": "",
-      "source": "r/StableDiffusion"
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Villanova2 - a VillanovaAI Collection",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/",
+      "summary": "",
+      "date": "2026-11-15T17:46:04+00:00",
+      "image": "https://external-preview.redd.it/4z7kJX4MjO2Opz5IhKwXASok1RvagZD5K_JFQxSfAjQ.png?width=640&crop=smart&auto=webp&s=5b85f7d7dff5f5d8ec0a6480815270b8a81a5b86",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "MoE offload on a 3090: prefill 345 -> 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/",
+      "summary": "",
+      "date": "2026-11-15T17:43:31+00:00",
+      "image": "https://preview.redd.it/5dlnj6wict1i1.gif?frame=1&width=140&height=45&auto=webp&s=f65b32644597c4a0f7689904ec8415206b77f2cd",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+      "summary": "",
+      "date": "2026-11-15T17:38:16+00:00",
+      "image": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3",
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+      "summary": "",
+      "date": "2026-11-15T17:30:31+00:00",
+      "image": "https://external-preview.redd.it/aDVxeDJsMXo0dDFpMXSsguq7RzI5TbnEdxYNshMh74sYqM9VzKczylkqkXW3.png?width=640&crop=smart&auto=webp&s=da4fc07a3d165f8bee2a2024b0ca57514c1ec236",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "Anthropic vs OpenAI vs Gemini API best value",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xx1cnp/anthropic_vs_openai_vs_gemini_api_best_value/",
+      "summary": "",
+      "date": "2026-11-15T17:30:20+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "how do you let non-engineers approve risky agent actions without killing the flow?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xx1c68/how_do_you_let_nonengineers_approve_risky_agent/",
+      "summary": "",
+      "date": "2026-11-15T17:29:52+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
@@ -1578,10 +1855,10 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "How are you tracking the cost of failed LLM runs?",
-      "link": "https://www.reddit.com/r/LLMDevs/comments/1xwa0il/how_are_you_tracking_the_cost_of_failed_llm_runs/",
+      "title": "Anonymous GitHub not working [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/",
       "summary": "",
-      "date": "2026-11-14T18:47:20+00:00",
+      "date": "2026-11-14T18:31:16+00:00",
       "image": "",
       "source": "r/LLMDevs"
     },
@@ -3352,38 +3629,6 @@
       "date": "2026-11-07T23:34:19+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "date": "2026-11-06T17:43:02+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-      "date": "2026-11-06T16:19:12+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
-      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each ot",
-      "date": "2026-11-06T16:00:35+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed",
-      "date": "2026-11-06T10:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     }
   ]
 }
