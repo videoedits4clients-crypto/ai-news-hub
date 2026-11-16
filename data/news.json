@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T02:36:33.191346+00:00",
+  "updated": "2026-11-16T02:42:07.535560+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -186,28 +186,12 @@
   ],
   "items": [
     {
-      "title": "ChatGPT Vs ChatGPT Plus, is ChatGPT enough?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxdsoz/chatgpt_vs_chatgpt_plus_is_chatgpt_enough/",
-      "summary": "",
-      "date": "2026-11-16T02:26:40+00:00",
-      "image": "https://preview.redd.it/yop1cifzxv1i1.jpeg?width=640&crop=smart&auto=webp&s=005e080dfba4b62f55ba4bb965b9a6e79fdc85d3",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "AI and the City",
       "link": "https://www.stripeeconomics.com/p/ai-and-the-city",
       "summary": "Article URL: https://www.stripeeconomics.com/p/ai-and-the-city Comments URL: https://news.ycombinator.com/item?id=50513264 Points: 1 # Comments: 0",
       "date": "2026-11-16T02:23:03+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Qwen4-Max: Your New Teammate Has Arrived",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxdj2b/qwen4max_your_new_teammate_has_arrived/",
-      "summary": "",
-      "date": "2026-11-16T02:13:42+00:00",
-      "image": "https://preview.redd.it/g6aquspnvv1i1.jpeg?width=640&crop=smart&auto=webp&s=38d0cce0fce38272e1d01a82db2993657b7a3abd",
-      "source": "r/singularity"
     },
     {
       "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
@@ -314,12 +298,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "You can now generate and edit GIFs with ChatGPT - here's how - Engadget",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxc9hj/you_can_now_generate_and_edit_gifs_with_chatgpt/",
+      "title": "Copilot (paid) agents",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxc7bq/copilot_paid_agents/",
       "summary": "",
-      "date": "2026-11-16T01:11:40+00:00",
-      "image": "https://external-preview.redd.it/wzVjw_5GxJs25u7mjjktkN7YgCo4Otd8POtciGQ2I9g.jpeg?width=640&crop=smart&auto=webp&s=3629b1b86daf3bc4b4983d75ff371b7391fd6903",
-      "source": "r/OpenAI"
+      "date": "2026-11-16T01:08:46+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "OpenAI Foundation Board Member: \"AI Accidents Will Soon Become the Leading Cause of Death for Humanity\" — BigGo Finance",
@@ -336,6 +320,14 @@
       "date": "2026-11-16T01:06:40+00:00",
       "image": "",
       "source": "r/OpenAI"
+    },
+    {
+      "title": "Funny -- I asked an AI to make a song about how tired it is of my endless prompts, and it dropped a genuinely heartbreaking ballad.",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xxc4p4/funny_i_asked_an_ai_to_make_a_song_about_how/",
+      "summary": "",
+      "date": "2026-11-16T01:05:11+00:00",
+      "image": "https://external-preview.redd.it/cmFtNHM3ZmRodjFpMW5Spg3uqHbFyM86e4UCF1kh8uTAKneJEST0VoLIu_Sp.png?width=640&crop=smart&auto=webp&s=bae7006914c420146c38566cd2b6b786ce2f0b9b",
+      "source": "r/ChatGPT"
     },
     {
       "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
@@ -762,6 +754,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Llama.cpp performance improvement over time (Gemma4 models)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
+      "summary": "",
+      "date": "2026-11-15T20:34:44+00:00",
+      "image": "https://preview.redd.it/sgekm82a5u1i1.png?width=640&crop=smart&auto=webp&s=6ac3afac160e482bcfa0455a7f1fd0af0a54c51d",
+      "source": "r/LocalLLaMA"
+    },
+    {
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
@@ -1154,8 +1154,16 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Physics understanding of MiniMax H3, Part 2",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xwulg7/physics_understanding_of_minimax_h3_part_2/",
+      "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/",
+      "summary": "",
+      "date": "2026-11-15T12:20:50+00:00",
+      "image": "https://external-preview.redd.it/zwcbeSSTvQticM_NZRUtzACAAhJOcp8aty5HkRRqnWY.png?width=140&height=75&auto=webp&s=470e994efd56fd1d09db5c1e51f9ac096b7ca5c5",
+      "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "Amazon is planning a World Product Graph to index every product online, partly to deal with AI shopping agents",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xwtxbd/amazon_is_planning_a_world_product_graph_to_index/",
       "summary": "",
       "date": "2026-11-15T12:43:57+00:00",
       "image": "https://external-preview.redd.it/aHpwZWF1bW51cjFpMc_18rur1sJogf-gUfv2UpAi78Q2naXrNDoBdMEn3uWn.png?width=640&crop=smart&auto=webp&s=05f743e6d51e147d115f85c385de6b6b2636ea76",
