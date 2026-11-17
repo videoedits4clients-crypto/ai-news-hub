@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:07:01.539976+00:00",
+  "updated": "2026-11-17T15:20:57.861194+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -111,9 +111,57 @@
   ],
   "items": [
     {
+      "title": "Can I replace Claude Code with something equally powerful for under $10/month?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyn3q9/can_i_replace_claude_code_with_something_equally/",
+      "summary": "",
+      "date": "2026-11-17T15:19:05+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs",
+      "link": "https://heyatli.com/mcp",
+      "summary": "Article URL: https://heyatli.com/mcp Comments URL: https://news.ycombinator.com/item?id=50532519 Points: 1 # Comments: 0",
+      "date": "2026-11-17T15:16:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Why No AI",
+      "link": "https://whynoai.info/",
+      "summary": "Article URL: https://whynoai.info/ Comments URL: https://news.ycombinator.com/item?id=50532490 Points: 1 # Comments: 0",
+      "date": "2026-11-17T15:14:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "An AI toy for 3-year-olds described gang rape. Major retailers are pulling it",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588 Comments URL: https://news.ycombinator.com/item?id=50532480 Points: 2 # Comments: 0",
+      "date": "2026-11-17T15:13:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "ICLR reviewer radio silence, what is the actual reason? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xymxsq/iclr_reviewer_radio_silence_what_is_the_actual/",
+      "summary": "",
+      "date": "2026-11-17T15:12:46+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Google found exploit_agent, a framework that turns fresh patches into live exploits with no human in the loop",
+      "link": "https://www.reddit.com/r/artificial/comments/1xymsku/google_found_exploit_agent_a_framework_that_turns/",
+      "summary": "",
+      "date": "2026-11-17T15:06:58+00:00",
+      "image": "",
+      "source": "r/artificial"
+    },
+    {
       "title": "Emet: Code checking AI. Not another model grading the answer",
       "link": "https://emet.so/platform",
-      "summary": "Article URL: https://emet.so/platform Comments URL: https://news.ycombinator.com/item?id=50532373 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://emet.so/platform Comments URL: https://news.ycombinator.com/item?id=50532373 Points: 2 # Comments: 0",
       "date": "2026-11-17T15:06:09+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -233,7 +281,7 @@
     {
       "title": "Jensen Huang Liked Selling China Advanced AI Chips",
       "link": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
-      "summary": "Article URL: https://thezvi.substack.com/p/jensen-huang-really-liked-selling Comments URL: https://news.ycombinator.com/item?id=50532060 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://thezvi.substack.com/p/jensen-huang-really-liked-selling Comments URL: https://news.ycombinator.com/item?id=50532060 Points: 5 # Comments: 0",
       "date": "2026-11-17T14:43:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -245,6 +293,14 @@
       "date": "2026-11-17T14:40:03+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Research Reports",
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "summary": "To access a report, click on the corresponding image below.",
+      "date": "2026-11-17T14:39:46+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
     },
     {
       "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
@@ -321,7 +377,7 @@
     {
       "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
       "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 38 # Comments: 13",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 60 # Comments: 36",
       "date": "2026-11-17T14:19:59+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -495,10 +551,10 @@
       "source": "r/LocalLLaMA"
     },
     {
-      "title": "Voice agent latency: where does the time actually go?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyktve/voice_agent_latency_where_does_the_time_actually/",
+      "title": "An agent stuck in a retry loop overnight turns per-use pricing into a surprise bill. What limits do you set?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyktfy/an_agent_stuck_in_a_retry_loop_overnight_turns/",
       "summary": "",
-      "date": "2026-11-17T13:45:47+00:00",
+      "date": "2026-11-17T13:45:14+00:00",
       "image": "",
       "source": "r/AI_Agents"
     },
@@ -663,14 +719,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Anthropic IPO set to fuel AI gold rush in London's high-end property market",
-      "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market Comments URL: https://news.ycombinator.com/item?id=50530708 Points: 1 # Comments: 0",
-      "date": "2026-11-17T12:50:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Gemma on a printer",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
       "summary": "",
@@ -685,14 +733,6 @@
       "date": "2026-11-17T12:41:06+00:00",
       "image": "https://preview.redd.it/1bchb2fy362i1.png?width=140&height=29&auto=webp&s=5696f35060d89993c98fff8045db4c68f2723689",
       "source": "r/ChatGPT"
-    },
-    {
-      "title": "Dealing with AI Depression and Meaninglessness [video]",
-      "link": "https://www.youtube.com/watch?v=oycBOHeu760",
-      "summary": "Article URL: https://www.youtube.com/watch?v=oycBOHeu760 Comments URL: https://news.ycombinator.com/item?id=50530532 Points: 1 # Comments: 0",
-      "date": "2026-11-17T12:32:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
@@ -711,20 +751,20 @@
       "source": "r/AI_Agents"
     },
     {
+      "title": "20 chairs delivered, 18 accepted, 2 damaged. What should an invoice investigation check next?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyj5e5/20_chairs_delivered_18_accepted_2_damaged_what/",
+      "summary": "",
+      "date": "2026-11-17T12:26:24+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Days of the week posting",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1xyj3dt/days_of_the_week_posting/",
       "summary": "",
       "date": "2026-11-17T12:23:28+00:00",
       "image": "",
       "source": "r/ChatGPT"
-    },
-    {
-      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-      "summary": "Article URL: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe Comments URL: https://news.ycombinator.com/item?id=50530428 Points: 1 # Comments: 0",
-      "date": "2026-11-17T12:19:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Would you let your agent volunteer its idle hours for research? Last time most of you said no, so here's what we changed",
@@ -1031,14 +1071,6 @@
       "source": "r/MachineLearning"
     },
     {
-      "title": "For people running Ai agents in production: How do you prevent conflicting actions across the same transaction?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyext8/for_people_running_ai_agents_in_production_how_do/",
-      "summary": "",
-      "date": "2026-11-17T08:15:31+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Google Maps adds AI trip itineraries as Ask Maps expands to 30 European countries",
       "link": "https://www.reddit.com/r/artificial/comments/1xyekpk/google_maps_adds_ai_trip_itineraries_as_ask_maps/",
       "summary": "",
@@ -1095,6 +1127,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
+      "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+      "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked wit",
+      "date": "2026-11-17T07:00:07+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
       "summary": "AI systems can allow militaries to find and annihilate targets within seconds. A meaningful treaty must prioritise human control – and accountability Helen Clark is former head of the UN Development Programme and former prime minister of New Zealand, and member of The Elders Mili",
@@ -1109,14 +1149,6 @@
       "date": "2026-11-17T06:59:42+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Our voice agent passes every metric we wrote and customers still complain. What are we not measuring?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xydhou/our_voice_agent_passes_every_metric_we_wrote_and/",
-      "summary": "",
-      "date": "2026-11-17T06:44:14+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "What is this creepy message fom my ChatGPT?",
@@ -2143,14 +2175,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/",
-      "summary": "",
-      "date": "2026-11-16T12:00:04+00:00",
-      "image": "https://preview.redd.it/o2mie6zxry1i1.png?width=140&height=118&auto=webp&s=ae3e6f8e0b8a4e167ff13a8e7f98bd37cbb7e54e",
-      "source": "r/artificial"
-    },
-    {
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "link": "https://openai.com/index/science-at-the-frontier",
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
@@ -2613,14 +2637,6 @@
       "date": "2026-11-14T23:59:28+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
-      "summary": "",
-      "date": "2026-11-14T20:33:14+00:00",
-      "image": "https://preview.redd.it/di5zcerz1n1i1.png?width=640&crop=smart&auto=webp&s=46a81a176d2616ca2d788ea0bbfc40a3b0b25e4d",
-      "source": "r/MachineLearning"
     },
     {
       "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
@@ -3293,22 +3309,6 @@
       "date": "2026-11-10T16:59:31+00:00",
       "image": "",
       "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the f",
-      "date": "2026-11-10T16:00:03+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
-      "source": "NVIDIA Blog"
     }
   ]
 }
