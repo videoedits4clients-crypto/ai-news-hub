@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T09:50:54.766833+00:00",
+  "updated": "2026-11-17T10:06:04.757451+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -193,12 +193,68 @@
   ],
   "items": [
     {
+      "title": "AI Is Finally Good Enough for Travel Planning",
+      "link": "https://eamag.me/2026/ai-travel-planning",
+      "summary": "Article URL: https://eamag.me/2026/ai-travel-planning Comments URL: https://news.ycombinator.com/item?id=50529502 Points: 1 # Comments: 0",
+      "date": "2026-11-17T10:03:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: I told AI to write FLAC/MP3/DST decoders, got ~2x faster than FFmpeg",
+      "link": "https://github.com/orpheic/orpheic-decoders",
+      "summary": "Open source MIT licence. Detailed metrics at https://orpheic.com/decoders/ Comments URL: https://news.ycombinator.com/item?id=50529485 Points: 2 # Comments: 0",
+      "date": "2026-11-17T10:01:40+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Did you \"make\" it? What words to use for AI projects",
+      "link": "https://dbohdan.com/verb",
+      "summary": "Article URL: https://dbohdan.com/verb Comments URL: https://news.ycombinator.com/item?id=50529444 Points: 2 # Comments: 0",
+      "date": "2026-11-17T09:55:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "I graded 32 AI agents from a public marketplace. The ones that failed mostly failed the same question.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyghbk/i_graded_32_ai_agents_from_a_public_marketplace/",
+      "summary": "",
+      "date": "2026-11-17T09:54:09+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+      "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+      "summary": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API. The post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open ",
+      "date": "2026-11-17T09:51:18+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
+      "title": "Nvidia shares down slightly after days of decline ahead of earnings",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+      "date": "2026-11-17T09:47:59+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
       "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
       "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
       "date": "2026-11-17T09:41:07+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Shifting AI Governance to Infrastructure",
+      "link": "https://vidai.si/",
+      "summary": "Article URL: https://vidai.si/ Comments URL: https://news.ycombinator.com/item?id=50529325 Points: 1 # Comments: 0",
+      "date": "2026-11-17T09:36:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Looking up",
@@ -571,7 +627,7 @@
     {
       "title": "LLMs are terrible at designing AI systems",
       "link": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
-      "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50527962 Points: 5 # Comments: 4",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50527962 Points: 6 # Comments: 4",
       "date": "2026-11-17T06:01:09+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -673,14 +729,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI Agents Can't Talk",
-      "link": "https://cacm.acm.org/blogcacm/ai-agents-cant-talk/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/ai-agents-cant-talk/ Comments URL: https://news.ycombinator.com/item?id=50527237 Points: 2 # Comments: 0",
-      "date": "2026-11-17T03:57:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "350 tech jobs hammered as TCS takes over work at iconic Australian retailer",
       "link": "https://www.theregister.com/channel/2026/11/17/350-tech-jobs-hammered-as-tcs-takes-over-work-at-iconic-australian-retailer/5310324",
       "summary": "Bunnings Warehouse needs a technology model its current employees somehow can’t deliver",
@@ -719,22 +767,6 @@
       "date": "2026-11-17T03:21:21+00:00",
       "image": "https://preview.redd.it/9gr5q2qhc32i1.png?width=640&crop=smart&auto=webp&s=91e83ed2e35eeafafdb57785e93400fe492151d6",
       "source": "r/singularity"
-    },
-    {
-      "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
-      "link": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
-      "summary": "Article URL: https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/ Comments URL: https://news.ycombinator.com/item?id=50526863 Points: 1 # Comments: 0",
-      "date": "2026-11-17T03:02:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "US tightens AI chip export controls to stop Chinese labs from remote GPU access",
-      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "summary": "Article URL: https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/ Comments URL: https://news.ycombinator.com/item?id=50526799 Points: 1 # Comments: 0",
-      "date": "2026-11-17T02:53:33+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "What a deceptive business model",
@@ -783,14 +815,6 @@
       "date": "2026-11-17T02:21:59+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-      "link": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-      "summary": "Article URL: https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/ Comments URL: https://news.ycombinator.com/item?id=50526573 Points: 4 # Comments: 0",
-      "date": "2026-11-17T02:18:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Rivers are legal persons. Corporations are people, too. What should we call the land & labor that answers when you ask \"what are you?\"",
@@ -1321,14 +1345,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "How do you orchestrate multiple agents ?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxwkp9/how_do_you_orchestrate_multiple_agents/",
-      "summary": "",
-      "date": "2026-11-16T18:10:48+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
       "link": "https://www.reddit.com/r/singularity/comments/1xxwerg/silicon_valley_leaders_back_call_for_jensen/",
       "summary": "",
@@ -1599,6 +1615,14 @@
       "date": "2026-11-16T15:28:00+00:00",
       "image": "https://image.theregister.com/?imageId=1682043&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "date": "2026-11-16T15:02:34+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Why Human in the Loop AI Oversight Fails and How to Fix It",
@@ -2345,14 +2369,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-      "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
-      "date": "2026-11-14T17:46:06+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -2591,14 +2607,6 @@
       "date": "2026-11-13T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
-      "link": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
-      "summary": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decisio",
-      "date": "2026-11-13T16:10:02+00:00",
-      "image": "",
-      "source": "MarkTechPost"
     },
     {
       "title": "Jensen Huang and the End of the Founder Fairy Tale",
@@ -3381,14 +3389,6 @@
       "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
       "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I jus",
       "date": "2026-11-09T04:32:33+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Hide your slop PR descriptions behind",
-      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished res",
-      "date": "2026-11-09T04:25:05+00:00",
       "image": "",
       "source": "Simon Willison"
     }
