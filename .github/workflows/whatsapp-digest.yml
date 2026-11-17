@@ -58,6 +58,7 @@ jobs:
           git add data/digest.txt
           if ! git diff --cached --quiet; then
             git commit -m "chore: today's WhatsApp digest text [skip ci]"
-            git pull --rebase --autostash
+            # digest.txt is regenerated every run — on conflict, fresh text wins
+            git pull --rebase --autostash -Xtheirs
             git push
           fi
