@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:21:04.667017+00:00",
+  "updated": "2026-11-17T20:36:52.289614+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -137,10 +137,18 @@
   ],
   "items": [
     {
-      "title": "Show HN: Whiz.pub – An AI-native blogging platform, free and donation-supported",
-      "link": "https://whiz.pub",
-      "summary": "Hey HN! For the past 6+ months, I've been working on whiz.pub, an AI-native blogging platform :) The goal is pretty simple: build a blogging platform that's lightweight and inexpensive to host, while still offering everything you'd expect from a basic to intermediate blogging pla",
-      "date": "2026-11-17T20:19:12+00:00",
+      "title": "Show HN: I've asked AI to generate portraits per country",
+      "link": "https://arnov.github.io/faces/index.html",
+      "summary": "I've asked AI to generate faces for every country in the world. I re-used the same prompt; \"Can you generate a black and white portrait of a [MALE/FEMALE] from [COUNTRY] staring directly in the camera\" Comments URL: https://news.ycombinator.com/item?id=50537794 Points: 1 # Commen",
+      "date": "2026-11-17T20:34:54+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "A Man and His Muse AI Agent Sue Meta",
+      "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50537747 Points: 2 # Comments: 0",
+      "date": "2026-11-17T20:31:00+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -148,9 +156,25 @@
       "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
       "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
-      "date": "2026-11-17T19:51:20+00:00",
+      "date": "2026-11-17T20:23:59+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week Comments URL: https://news.ycombinator.com/item?id=50537598 Points: 1 # Comments: 0",
+      "date": "2026-11-17T20:20:25+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Whiz.pub – An AI-native blogging platform, free and donation-supported",
+      "link": "https://whiz.pub",
+      "summary": "Hey HN! For the past 6+ months, I've been working on whiz.pub, an AI-native blogging platform :) The goal is pretty simple: build a blogging platform that's lightweight and inexpensive to host, while still offering everything you'd expect from a basic to intermediate blogging pla",
+      "date": "2026-11-17T20:19:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "CNBC Digital Finance Forum live updates: Wall Street's AI and crypto future",
@@ -347,7 +371,7 @@
     {
       "title": "LanceDB Raises $57.5M as AI Research Outgrows the Modern Data Stack",
       "link": "https://www.lancedb.com/blog/lancedb-series-b-funding",
-      "summary": "Article URL: https://www.lancedb.com/blog/lancedb-series-b-funding Comments URL: https://news.ycombinator.com/item?id=50535645 Points: 8 # Comments: 0",
+      "summary": "Article URL: https://www.lancedb.com/blog/lancedb-series-b-funding Comments URL: https://news.ycombinator.com/item?id=50535645 Points: 9 # Comments: 0",
       "date": "2026-11-17T18:10:52+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -457,36 +481,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Drawmode for AI Agents",
-      "link": "https://drawmode.ai/",
-      "summary": "Article URL: https://drawmode.ai/ Comments URL: https://news.ycombinator.com/item?id=50534835 Points: 1 # Comments: 1",
-      "date": "2026-11-17T17:23:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
       "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
       "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
       "date": "2026-11-17T17:20:41+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Jensen Huang was building an open AI ecosystem that threatened Anthropic",
-      "link": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
-      "summary": "Article URL: https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11 Comments URL: https://news.ycombinator.com/item?id=50534745 Points: 5 # Comments: 1",
-      "date": "2026-11-17T17:18:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Tamagotchi Turns Everyday Objects into Needy Virtual Pets",
-      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "summary": "Article URL: https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/ Comments URL: https://news.ycombinator.com/item?id=50534675 Points: 1 # Comments: 0",
-      "date": "2026-11-17T17:14:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
@@ -1726,6 +1726,14 @@
       "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
       "date": "2026-11-15T12:00:00+00:00",
       "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
+      "source": "Wired AI"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "date": "2026-11-15T11:00:00+00:00",
+      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
       "source": "Wired AI"
     },
     {
@@ -3327,14 +3335,6 @@
       "date": "2026-10-06T15:05:11+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
       "source": "Google Research"
-    },
-    {
-      "title": "The Cyber Risk Discourse is Broken",
-      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
-      "date": "2026-10-06T14:22:41+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
-      "source": "Interconnects"
     }
   ]
 }
