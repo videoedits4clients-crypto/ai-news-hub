@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:36:32.747597+00:00",
+  "updated": "2026-11-17T22:50:40.664764+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -67,11 +67,51 @@
       ]
     },
     {
-      "count": 3,
+      "count": 2,
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "date": "2026-11-17T22:38:52+00:00",
+      "sources": [
+        "OpenAI News",
+        "Simon Willison"
+      ],
+      "links": [
+        {
+          "source": "Simon Willison",
+          "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+          "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+        },
+        {
+          "source": "OpenAI News",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "Introducing ChatGPT for Sales",
+      "date": "2026-11-17T08:00:00+00:00",
+      "sources": [
+        "OpenAI News"
+      ],
+      "links": [
+        {
+          "source": "OpenAI News",
+          "title": "Introducing ChatGPT for Sales",
+          "link": "https://openai.com/index/introducing-chatgpt-for-sales"
+        },
+        {
+          "source": "OpenAI News",
+          "title": "Introducing ChatGPT Wallet",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet"
+        }
+      ]
+    },
+    {
+      "count": 2,
       "title": "California sues OpenAI over rogue AI hacking incidents",
       "date": "2026-11-16T23:04:02+00:00",
       "sources": [
-        "TechCrunch AI",
         "The Guardian AI",
         "The Verge AI"
       ],
@@ -85,11 +125,6 @@
           "source": "The Guardian AI",
           "title": "California sues OpenAI over safety concerns after rogue agent hacking",
           "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit"
-        },
-        {
-          "source": "TechCrunch AI",
-          "title": "California state AG sues OpenAI over rogue agent incidents",
-          "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
         }
       ]
     },
@@ -137,20 +172,60 @@
   ],
   "items": [
     {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "date": "2026-11-17T22:42:27+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "TDD with AI Agents: Design the Tests First, Let the Agent Implement",
+      "link": "https://realpython.com/tdd-ai-agents/",
+      "summary": "Article URL: https://realpython.com/tdd-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50539310 Points: 1 # Comments: 0",
+      "date": "2026-11-17T22:41:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
+      "date": "2026-11-17T22:41:13+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with supp",
+      "date": "2026-11-17T22:38:52+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+      "date": "2026-11-17T22:34:41+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Show HN: Sikemux – a whole team of AI coders in one window (Rust, MIT)",
+      "link": "https://sikemux.com/",
+      "summary": "Here's why I started building Sikemux: At first I was using Cursor. The problem with it was, I had to open a new window for each project. That's when Zed came along. It was good and fast. But I didn't like its project switching much, it took me like 2 clicks instead of 1. I had t",
+      "date": "2026-11-17T22:29:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
       "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
       "date": "2026-11-17T22:29:05+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO: Live updates",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
-      "date": "2026-11-17T22:28:46+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
@@ -167,14 +242,6 @@
       "date": "2026-11-17T22:19:25+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-      "date": "2026-11-17T22:19:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
@@ -275,7 +342,7 @@
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 5 # Comments: 3",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 6 # Comments: 3",
       "date": "2026-11-17T21:16:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -307,7 +374,7 @@
     {
       "title": "AI tool has been used to automate cyber intrusions",
       "link": "https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story",
-      "summary": "Article URL: https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story Comments URL: https://news.ycombinator.com/item?id=50538172 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story Comments URL: https://news.ycombinator.com/item?id=50538172 Points: 4 # Comments: 0",
       "date": "2026-11-17T21:05:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -475,7 +542,7 @@
     {
       "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
       "link": "https://news.ycombinator.com/item?id=50536334",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50536334 Points: 2 # Comments: 0",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50536334 Points: 3 # Comments: 0",
       "date": "2026-11-17T18:52:48+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -517,22 +584,6 @@
       "link": "https://moai.studio/blog/posts/daryl.html",
       "summary": "I was thinking of the film and so I knocked up this blog post about AI safety with a vibe taken from the film. Possible spoiler alert sorry ! I had to, for the point of the blog post. Comments URL: https://news.ycombinator.com/item?id=50536209 Points: 1 # Comments: 0",
       "date": "2026-11-17T18:45:19+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "MAI Realtime 1: Leading voice AI at $0.01 per audio minute",
-      "link": "https://microsoft.ai/news/introducing-mai-realtime-1/",
-      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-realtime-1/ Comments URL: https://news.ycombinator.com/item?id=50536186 Points: 2 # Comments: 0",
-      "date": "2026-11-17T18:44:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Microsoft increases its competitiveness against OpenAI and other AI companies",
-      "link": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite",
-      "summary": "Article URL: https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite Comments URL: https://news.ycombinator.com/item?id=50536118 Points: 4 # Comments: 1",
-      "date": "2026-11-17T18:39:47+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1033,6 +1084,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "date": "2026-11-17T08:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
       "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
       "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
@@ -1113,17 +1172,17 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "date": "2026-11-17T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "date": "2026-11-17T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -1295,14 +1354,6 @@
       "date": "2026-11-16T20:27:58+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "date": "2026-11-16T20:07:13+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
@@ -1633,17 +1684,17 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "summary": "",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
       "date": "2026-11-16T06:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "summary": "",
       "date": "2026-11-16T06:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -2345,14 +2396,6 @@
       "source": "IEEE Spectrum AI"
     },
     {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "date": "2026-11-11T08:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
-    },
-    {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "link": "https://huggingface.co/blog/qvac/botpsy",
       "summary": "",
@@ -2639,14 +2682,6 @@
       "date": "2026-11-09T05:00:39+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I jus",
-      "date": "2026-11-09T04:32:33+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
