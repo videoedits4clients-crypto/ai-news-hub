@@ -29,7 +29,6 @@ Usage:
 """
 import json
 import os
-import re
 import smtplib
 import sys
 import urllib.parse
@@ -37,6 +36,8 @@ import urllib.request
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
+
+from ai_filter import is_ai_story
 
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_FILE = ROOT / "data" / "news.json"
@@ -52,22 +53,6 @@ def load_news():
     if not NEWS_FILE.exists():
         sys.exit("data/news.json not found — run scripts/fetch_news.py first")
     return json.loads(NEWS_FILE.read_text(encoding="utf-8"))
-
-
-AI_RE = re.compile(
-    r"\b(ai|a\.i\.|artificial intelligence|llms?|gpt-?[0-9]*|chatgpt|claude|gemini|"
-    r"openai|anthropic|nvidia|machine learning|neural|chatbots?|agentic|agents?|"
-    r"models?|inference|transformer|deepmind|mistral|copilot|diffusion|robots?|"
-    r"gpus?|datacent(?:er|re)|foundation model|generative)\b",
-    re.IGNORECASE,
-)
-
-
-def is_ai_story(item):
-    """General tech feeds (BBC Technology, CNBC, Verge...) carry plenty of
-    non-AI news. A digest called AI Pulse must not lead with a GTA 6 story."""
-    text = " ".join(str(item.get(k, "")) for k in ("title", "summary", "description"))
-    return bool(AI_RE.search(text))
 
 
 def pick_stories(data, top, scan_limit=120):
@@ -181,22 +166,6 @@ def main():
     digest_file.parent.mkdir(parents=True, exist_ok=True)
     digest_file.write_text(text + "\n", encoding="utf-8")
     print("[OK] wrote data/digest.txt")
-
-    # Trending clusters with their source counts, as a few hundred bytes —
-    # enough for an assistant to watch ("tell me if something hits 3 sources").
-    trend_file = ROOT / "data" / "trending.txt"
-    clusters = [
-        t for t in data.get("trending", [])
-        if is_ai_story({"title": t.get("title", "")})
-    ][:8]
-    lines = [f"AI Pulse - trending now (feed updated {data.get('updated', '')})", ""]
-    for i, t in enumerate(clusters, 1):
-        srcs = t.get("sources", [])
-        lines.append(f"{i}. [{t.get('count', len(srcs))} sources] {t.get('title', '')}")
-        if srcs:
-            lines.append("   " + " · ".join(srcs))
-    trend_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print("[OK] wrote data/trending.txt")
 
     sent_whatsapp = False
     if provider == "callmebot":

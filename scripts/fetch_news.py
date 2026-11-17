@@ -17,6 +17,8 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
+from ai_filter import is_ai_story
+
 ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "feeds.json"
 OUTPUT_FILE = ROOT / "data" / "news.json"
@@ -264,6 +266,20 @@ def main() -> int:
     }
     OUTPUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2),
                            encoding="utf-8")
+
+    # A few hundred bytes of trending clusters with source counts, refreshed
+    # with the feed. Small enough for an assistant or phone shortcut to fetch.
+    trend_lines = [f"AI Pulse - trending now (feed updated {payload['updated']})", ""]
+    clusters = [t for t in payload["trending"]
+                if is_ai_story({"title": t.get("title", "")})][:8]
+    for i, t in enumerate(clusters, 1):
+        srcs = t.get("sources", [])
+        trend_lines.append(f"{i}. [{t.get('count', len(srcs))} sources] {t.get('title', '')}")
+        if srcs:
+            trend_lines.append("   " + " · ".join(srcs))
+    (ROOT / "data" / "trending.txt").write_text("\n".join(trend_lines) + "\n",
+                                                encoding="utf-8")
+
     print(f"\nWrote {len(unique)} articles -> {OUTPUT_FILE.relative_to(ROOT)}")
     if errors:
         print("Feed errors (non-fatal):")
