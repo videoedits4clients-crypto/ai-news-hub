@@ -29,6 +29,7 @@ Usage:
 """
 import json
 import os
+import re
 import smtplib
 import sys
 import urllib.parse
@@ -53,11 +54,30 @@ def load_news():
     return json.loads(NEWS_FILE.read_text(encoding="utf-8"))
 
 
+AI_RE = re.compile(
+    r"\b(ai|a\.i\.|artificial intelligence|llms?|gpt-?[0-9]*|chatgpt|claude|gemini|"
+    r"openai|anthropic|nvidia|machine learning|neural|chatbots?|agentic|agents?|"
+    r"models?|inference|transformer|deepmind|mistral|copilot|diffusion|robots?|"
+    r"gpus?|datacent(?:er|re)|foundation model|generative)\b",
+    re.IGNORECASE,
+)
+
+
+def is_ai_story(item):
+    """General tech feeds (BBC Technology, CNBC, Verge...) carry plenty of
+    non-AI news. A digest called AI Pulse must not lead with a GTA 6 story."""
+    text = " ".join(str(item.get(k, "")) for k in ("title", "summary", "description"))
+    return bool(AI_RE.search(text))
+
+
 def pick_stories(data, top, scan_limit=120):
     """Fresh stories, most recent first, in three tiers:
     real news outlets first, then vendor blogs/newsrooms, and community posts
     (Reddit r/*, Hacker News) only as filler — so the digest reads like
-    headlines from a publication, not a forum crawl or a press-release pile."""
+    headlines from a publication, not a forum crawl or a press-release pile.
+
+    Only AI-related stories are eligible; if that leaves too few, the filter is
+    relaxed rather than shipping a short digest."""
     def is_community(src):
         s = src.lower()
         return s.startswith("r/") or "hacker news" in s
@@ -66,21 +86,28 @@ def pick_stories(data, top, scan_limit=120):
         s = src.lower()
         return "blog" in s or "newsroom" in s
 
-    max_per_src = max(1, top // 3)          # spread across sources
-    seen_src, news, vendor, chatter = {}, [], [], []
-    for item in data["items"][:scan_limit]:  # bounded window = stays fresh
-        src = item["source"]
-        if seen_src.get(src, 0) >= max_per_src:
-            continue
-        seen_src[src] = seen_src.get(src, 0) + 1
-        if is_community(src):
-            chatter.append(item)
-        elif is_vendor(src):
-            vendor.append(item)
-        else:
-            news.append(item)
-    picked = news[:top]
-    return (picked + vendor + chatter)[:top]
+    def collect(ai_only):
+        max_per_src = max(1, top // 3)          # spread across sources
+        seen_src, news, vendor, chatter = {}, [], [], []
+        for item in data["items"][:scan_limit]:  # bounded window = stays fresh
+            if ai_only and not is_ai_story(item):
+                continue
+            src = item["source"]
+            if seen_src.get(src, 0) >= max_per_src:
+                continue
+            seen_src[src] = seen_src.get(src, 0) + 1
+            if is_community(src):
+                chatter.append(item)
+            elif is_vendor(src):
+                vendor.append(item)
+            else:
+                news.append(item)
+        return news, vendor, chatter
+
+    news, vendor, chatter = collect(ai_only=True)
+    if len(news) + len(vendor) + len(chatter) < top:
+        news, vendor, chatter = collect(ai_only=False)
+    return (news[:top] + vendor + chatter)[:top]
 
 
 def format_digest(items):
