@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:50:29.820661+00:00",
+  "updated": "2026-11-17T21:07:15.527475+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -113,29 +113,57 @@
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
         }
       ]
-    },
-    {
-      "count": 2,
-      "title": "Microsoft Research Focus – Edition #98",
-      "date": "2026-11-12T21:31:57+00:00",
-      "sources": [
-        "Microsoft Research"
-      ],
-      "links": [
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #98",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
-        },
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #97",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "title": "AI tool has been used to automate cyber intrusions",
+      "link": "https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story",
+      "summary": "Article URL: https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story Comments URL: https://news.ycombinator.com/item?id=50538172 Points: 1 # Comments: 0",
+      "date": "2026-11-17T21:05:14+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated ",
+      "date": "2026-11-17T21:00:55+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "FAA pauses installation of new routers after ground stop",
+      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+      "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
+      "date": "2026-11-17T20:53:24+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+      "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+      "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
+      "date": "2026-11-17T20:52:58+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Linux sandboxes from S3. 93-99% cheaper than always on for AI Agents.",
+      "link": "https://github.com/dualeai/exec-sandbox",
+      "summary": "Article URL: https://github.com/dualeai/exec-sandbox Comments URL: https://news.ycombinator.com/item?id=50537993 Points: 1 # Comments: 0",
+      "date": "2026-11-17T20:50:23+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+      "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+      "summary": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Exp",
+      "date": "2026-11-17T20:49:45+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
     {
       "title": "The AI Alignment Meeting",
       "link": "https://folderal.substack.com/p/the-ai-alignment-meeting",
@@ -171,14 +199,14 @@
     {
       "title": "A Man and His Muse AI Agent Sue Meta",
       "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50537747 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50537747 Points: 4 # Comments: 1",
       "date": "2026-11-17T20:31:00+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "date": "2026-11-17T20:30:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
@@ -201,18 +229,18 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+      "link": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+      "summary": "If you design a test to find misalignment, you will find misalignment",
+      "date": "2026-11-17T19:52:57+00:00",
+      "image": "https://image.theregister.com/?imageId=223243&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "CNBC Digital Finance Forum live updates: Wall Street's AI and crypto future",
       "link": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html",
       "summary": "Follow CNBC's Digital Finance Forum live for insights from Wall Street leaders on AI agents, cryptocurrency, tokenization and the future of payments.",
       "date": "2026-11-17T19:45:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "FAA pauses installation of new routers after ground stop",
-      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-      "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
-      "date": "2026-11-17T19:44:59+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -465,22 +493,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Digamma: A lightweight, JIT compiled Scheme for AI workflows",
-      "link": "https://github.com/fujita-y/digamma",
-      "summary": "Article URL: https://github.com/fujita-y/digamma Comments URL: https://news.ycombinator.com/item?id=50535147 Points: 1 # Comments: 0",
-      "date": "2026-11-17T17:41:53+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: ModelRefs – AI model data where every number must cite a source",
-      "link": "https://modelrefs.com/",
-      "summary": "Article URL: https://modelrefs.com/ Comments URL: https://news.ycombinator.com/item?id=50535094 Points: 1 # Comments: 0",
-      "date": "2026-11-17T17:39:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
       "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
       "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decides that my",
@@ -519,14 +531,6 @@
       "date": "2026-11-17T17:00:00+00:00",
       "image": "https://image.theregister.com/?imageId=248218&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Can AI help build a healthier future?",
-      "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. ",
-      "date": "2026-11-17T16:52:17+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Google makes it easier to use Gemini without training AI on your data",
@@ -1145,14 +1149,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-      "summary": "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
-      "date": "2026-11-16T21:12:10+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Robert Pattinson cast as next James Bond",
       "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
       "summary": "Pattinson has been in major films this year, including Christopher Nolan's \"The Odyssey,\" and will soon appear in \"Dune: Part Three.\"",
@@ -1233,14 +1229,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kid",
-      "date": "2026-11-16T19:23:45+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
       "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
       "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
@@ -1255,14 +1243,6 @@
       "date": "2026-11-16T19:10:09+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "China’s grip on Top500 remains uncontested as US chases AI-HPC fusion",
-      "link": "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
-      "summary": "In the age of AI, the top spot on the bi-annual ranking is whoever willing to run HPL instead of LLMs",
-      "date": "2026-11-16T19:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5309743&width=800",
-      "source": "The Register"
     },
     {
       "title": "The open-source movement wants Jensen Huang back",
@@ -1311,14 +1291,6 @@
       "date": "2026-11-16T17:36:43+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
-      "date": "2026-11-16T17:01:35+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
@@ -1881,14 +1853,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
-      "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
-      "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for A",
-      "date": "2026-11-14T06:38:14+00:00",
-      "image": "",
-      "source": "MarkTechPost"
-    },
-    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
       "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
@@ -2055,14 +2019,6 @@
       "date": "2026-11-12T22:55:19+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Microsoft Research Focus – Edition #98",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
-      "date": "2026-11-12T21:31:57+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -2385,14 +2341,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
-      "date": "2026-11-10T20:52:56+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "What happens to mathematics when AI becomes an oracle?",
       "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
@@ -2681,14 +2629,6 @@
       "source": "Google Research"
     },
     {
-      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
-      "date": "2026-11-05T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
       "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
@@ -2743,14 +2683,6 @@
       "date": "2026-11-04T16:35:44+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
       "source": "Interconnects"
-    },
-    {
-      "title": "Learn the rules: The hacker mindset",
-      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
-      "date": "2026-11-03T17:14:38+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -2831,22 +2763,6 @@
       "date": "2026-10-30T14:18:30+00:00",
       "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
-      "date": "2026-10-30T13:05:28+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Microsoft Research Focus – Edition #97",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
-      "date": "2026-10-29T19:19:16+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -3065,14 +2981,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Flint-interactive: A language for creating interactive data visualizations",
-      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
-      "date": "2026-10-22T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -3111,14 +3019,6 @@
       "date": "2026-10-21T16:23:53+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "source": "Google Research"
-    },
-    {
-      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computi",
-      "date": "2026-10-21T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -3335,6 +3235,86 @@
       "date": "2026-10-06T15:05:11+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
       "source": "Google Research"
+    },
+    {
+      "title": "The Cyber Risk Discourse is Broken",
+      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
+      "date": "2026-10-06T14:22:41+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "summary": "Generative AI",
+      "date": "2026-10-05T21:08:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
+      "date": "2026-10-05T12:32:30+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "date": "2026-10-03T07:32:03+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Toward provably private learning from federated data",
+      "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "summary": "Mobile Systems",
+      "date": "2026-10-02T14:57:41+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
+      "date": "2026-10-01T13:17:13+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-gener",
+      "date": "2026-10-01T13:03:50+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
+      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
+      "date": "2026-09-30T11:23:54+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
+      "source": "Last Week in AI"
     }
   ]
 }
