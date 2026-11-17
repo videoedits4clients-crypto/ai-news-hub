@@ -54,23 +54,33 @@ def load_news():
 
 
 def pick_stories(data, top, scan_limit=120):
-    """Fresh stories, most recent first. Real news sources are preferred;
-    community posts (Reddit r/*, Hacker News) only fill in when news runs
-    short — so the digest reads like headlines, not forum chatter."""
+    """Fresh stories, most recent first, in three tiers:
+    real news outlets first, then vendor blogs/newsrooms, and community posts
+    (Reddit r/*, Hacker News) only as filler — so the digest reads like
+    headlines from a publication, not a forum crawl or a press-release pile."""
     def is_community(src):
         s = src.lower()
         return s.startswith("r/") or "hacker news" in s
 
+    def is_vendor(src):
+        s = src.lower()
+        return "blog" in s or "newsroom" in s
+
     max_per_src = max(1, top // 3)          # spread across sources
-    seen_src, news, chatter = {}, [], []
+    seen_src, news, vendor, chatter = {}, [], [], []
     for item in data["items"][:scan_limit]:  # bounded window = stays fresh
         src = item["source"]
         if seen_src.get(src, 0) >= max_per_src:
             continue
         seen_src[src] = seen_src.get(src, 0) + 1
-        (chatter if is_community(src) else news).append(item)
+        if is_community(src):
+            chatter.append(item)
+        elif is_vendor(src):
+            vendor.append(item)
+        else:
+            news.append(item)
     picked = news[:top]
-    return (picked + chatter)[:top]
+    return (picked + vendor + chatter)[:top]
 
 
 def format_digest(items):
@@ -135,6 +145,14 @@ def main():
     if not items:
         sys.exit("No stories found in data/news.json")
     text = format_digest(items)
+
+    # Publish the ready-to-forward text as one small file, so anything that can
+    # fetch a URL (a phone shortcut, an assistant like Instinct, a bookmark)
+    # gets today's digest verbatim instead of parsing 200KB of JSON.
+    digest_file = ROOT / "data" / "digest.txt"
+    digest_file.parent.mkdir(parents=True, exist_ok=True)
+    digest_file.write_text(text + "\n", encoding="utf-8")
+    print("[OK] wrote data/digest.txt")
 
     sent_whatsapp = False
     if provider == "callmebot":
