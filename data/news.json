@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:50:53.481852+00:00",
+  "updated": "2026-11-17T09:07:09.831108+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -149,9 +149,69 @@
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
         }
       ]
+    },
+    {
+      "count": 2,
+      "title": "Introducing ChatGPT Wallet",
+      "date": "2026-11-13T15:00:00+00:00",
+      "sources": [
+        "OpenAI News"
+      ],
+      "links": [
+        {
+          "source": "OpenAI News",
+          "title": "Introducing ChatGPT Wallet",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet"
+        },
+        {
+          "source": "OpenAI News",
+          "title": "Introducing Businesses in ChatGPT",
+          "link": "https://openai.com/index/introducing-businesses-chatgpt"
+        }
+      ]
     }
   ],
   "items": [
+    {
+      "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
+      "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
+      "summary": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used Actors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growin",
+      "date": "2026-11-17T09:00:08+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "[ Removed by Reddit ]",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyfmku/removed_by_reddit/",
+      "summary": "",
+      "date": "2026-11-17T08:59:31+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Your agent passes evals, but nobody will let it hit “send.” Here’s the rollout pattern we use to fix that.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyfkk4/your_agent_passes_evals_but_nobody_will_let_it/",
+      "summary": "",
+      "date": "2026-11-17T08:56:07+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Is AI underdelivering at work because of the tools, or because of how teams use them? One engineering leader’s test",
+      "link": "https://www.reddit.com/r/artificial/comments/1xyfi5d/is_ai_underdelivering_at_work_because_of_the/",
+      "summary": "",
+      "date": "2026-11-17T08:51:59+00:00",
+      "image": "https://external-preview.redd.it/VIvHIgj2H3nwLZah1e-a8jFBNHpYOCDzGgWavY1HNk4.jpeg?width=640&crop=smart&auto=webp&s=700ab51e71d4369f0ca1a9fffab721ccfc0e5907",
+      "source": "r/artificial"
+    },
+    {
+      "title": "Show HN: Call Nara. An AI voice companion built with older people in mind",
+      "link": "https://apps.apple.com/au/app/call-nara/id6794990805",
+      "summary": "Call Nara: someone to talk to, any time Call Nara is a simple voice companion for older people, and for anyone who spends long days alone. You tap once and talk. There's no typing. Nara greets you by name, asks how you are, chats and listens. Just ask by voice, and she can play m",
+      "date": "2026-11-17T08:49:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "Curated list of resources: Theory and Code for learning Distributed Training of LLMs for beginners",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyf7ys/curated_list_of_resources_theory_and_code_for/",
@@ -435,7 +495,7 @@
     {
       "title": "LLMs are terrible at designing AI systems",
       "link": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
-      "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50527962 Points: 5 # Comments: 3",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50527962 Points: 5 # Comments: 4",
       "date": "2026-11-17T06:01:09+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -745,14 +805,6 @@
       "source": "r/ChatGPT"
     },
     {
-      "title": "The AI Ascent",
-      "link": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
-      "summary": "Article URL: https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab Comments URL: https://news.ycombinator.com/item?id=50526341 Points: 3 # Comments: 1",
-      "date": "2026-11-17T01:45:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "The US just tightened AI chip export controls again — now targeting remote access to compute. Is this the new front in the chip war?",
       "link": "https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/",
       "summary": "",
@@ -905,14 +957,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Your voiceagent got flagged Spam Likely and you swapped the DID. That's the mistake.",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy45m6/your_voiceagent_got_flagged_spam_likely_and_you/",
-      "summary": "",
-      "date": "2026-11-16T23:02:53+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbor",
@@ -1023,14 +1067,6 @@
       "date": "2026-11-16T21:40:43+00:00",
       "image": "https://preview.redd.it/zazwkaunn12i1.jpeg?width=640&crop=smart&auto=webp&s=894134736ae4dc79af5a2e94b4889d965795faee",
       "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "Does anyone know how to remove TikTok video if someone is posting without my consent",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy1xsh/does_anyone_know_how_to_remove_tiktok_video_if/",
-      "summary": "",
-      "date": "2026-11-16T21:32:07+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
@@ -1897,28 +1933,12 @@
       "source": "r/LocalLLaMA"
     },
     {
-      "title": "Elon Musk leads Silicon Valley's campaign to put Jensen Huang back in charge at Nvidia",
-      "link": "https://www.theregister.com/systems/2026/11/16/elon-musk-leads-silicon-valleys-campaign-to-put-jensen-huang-back-in-charge-at-nvidia/5310050",
-      "summary": "More than 173,000 signatures, a few famous billionaires, and absolutely no guarantee they're genuine",
-      "date": "2026-11-16T11:31:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5309407&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
       "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
       "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen",
       "date": "2026-11-16T11:30:35+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Humanity's future after cognitive offloading",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxmym6/humanitys_future_after_cognitive_offloading/",
-      "summary": "",
-      "date": "2026-11-16T11:23:57+00:00",
-      "image": "https://external-preview.redd.it/PLxve_pbucYqiuys3klgT20ZKvbl-e3HblnxhloI22s.jpeg?width=640&crop=smart&auto=webp&s=fe7c149dab3277855685209524ed28daa421dc66",
-      "source": "r/artificial"
     },
     {
       "title": "It's so over",
@@ -2681,14 +2701,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Why the Nvidia scandal is far from over - The Latest",
-      "link": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
-      "summary": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent l",
-      "date": "2026-11-13T19:20:53+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
       "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
@@ -3351,6 +3363,14 @@
       "date": "2026-11-10T11:13:04+00:00",
       "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "date": "2026-11-10T10:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
     }
   ]
 }
