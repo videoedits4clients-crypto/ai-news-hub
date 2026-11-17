@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:26:55.519925+00:00",
+  "updated": "2026-11-17T03:35:04.884311+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,33 +41,6 @@
   "trending": [
     {
       "count": 3,
-      "title": "California sues OpenAI over Hugging Face attack",
-      "date": "2026-11-16T23:12:24+00:00",
-      "sources": [
-        "BBC Technology",
-        "Hacker News AI",
-        "r/artificial"
-      ],
-      "links": [
-        {
-          "source": "BBC Technology",
-          "title": "California sues OpenAI over Hugging Face attack",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "California sues OpenAI over AI models' cyberattacks on Hugging Face",
-          "link": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/"
-        },
-        {
-          "source": "r/artificial",
-          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-          "link": "https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/"
-        }
-      ]
-    },
-    {
-      "count": 3,
       "title": "California sues OpenAI over rogue AI hacking incidents",
       "date": "2026-11-16T23:04:02+00:00",
       "sources": [
@@ -90,6 +63,27 @@
           "source": "TechCrunch AI",
           "title": "California state AG sues OpenAI over rogue agent incidents",
           "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "California sues OpenAI over Hugging Face attack",
+      "date": "2026-11-16T23:12:24+00:00",
+      "sources": [
+        "BBC Technology",
+        "r/artificial"
+      ],
+      "links": [
+        {
+          "source": "BBC Technology",
+          "title": "California sues OpenAI over Hugging Face attack",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "r/artificial",
+          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/"
         }
       ]
     },
@@ -158,12 +152,28 @@
   ],
   "items": [
     {
+      "title": "llama.cpp finally has a 1.0 release. Check your old integrations before upgrading.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xy9vln/llamacpp_finally_has_a_10_release_check_your_old/",
+      "summary": "",
+      "date": "2026-11-17T03:26:49+00:00",
+      "image": "",
+      "source": "r/artificial"
+    },
+    {
       "title": "looking for claude guest pass",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xy9q4c/looking_for_claude_guest_pass/",
       "summary": "",
       "date": "2026-11-17T03:19:31+00:00",
       "image": "",
       "source": "r/AI_Agents"
+    },
+    {
+      "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+      "link": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+      "summary": "Article URL: https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/ Comments URL: https://news.ycombinator.com/item?id=50526863 Points: 1 # Comments: 0",
+      "date": "2026-11-17T03:02:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "you vs the guy she told you not to worry about",
@@ -248,7 +258,7 @@
     {
       "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
       "link": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-      "summary": "Article URL: https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/ Comments URL: https://news.ycombinator.com/item?id=50526573 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/ Comments URL: https://news.ycombinator.com/item?id=50526573 Points: 4 # Comments: 0",
       "date": "2026-11-17T02:18:46+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -264,7 +274,7 @@
     {
       "title": "Show HN: A free interactive course on AI agent governance",
       "link": "https://studio.sinapsdata.com.br",
-      "summary": "Article URL: https://studio.sinapsdata.com.br Comments URL: https://news.ycombinator.com/item?id=50526527 Points: 7 # Comments: 2",
+      "summary": "Article URL: https://studio.sinapsdata.com.br Comments URL: https://news.ycombinator.com/item?id=50526527 Points: 10 # Comments: 2",
       "date": "2026-11-17T02:12:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -428,6 +438,14 @@
       "date": "2026-11-16T23:56:50+00:00",
       "image": "",
       "source": "r/LocalLLaMA"
+    },
+    {
+      "title": "Why \"You are a 10x coder\" prompts fail, and what MIT CSAIL's 0.016% weight-space surgery just proved",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy5dze/why_you_are_a_10x_coder_prompts_fail_and_what_mit/",
+      "summary": "",
+      "date": "2026-11-16T23:56:21+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "Ask HN: Who's really winning with AI-Coding?",
@@ -688,7 +706,7 @@
     {
       "title": "No matter how you ask, more Americans are negative than positive about AI",
       "link": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
-      "summary": "Article URL: https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai Comments URL: https://news.ycombinator.com/item?id=50523955 Points: 15 # Comments: 2",
+      "summary": "Article URL: https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai Comments URL: https://news.ycombinator.com/item?id=50523955 Points: 16 # Comments: 2",
       "date": "2026-11-16T21:58:29+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -700,14 +718,6 @@
       "date": "2026-11-16T21:54:18+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "California sues OpenAI over AI models' cyberattacks on Hugging Face",
-      "link": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
-      "summary": "Article URL: https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/ Comments URL: https://news.ycombinator.com/item?id=50523838 Points: 14 # Comments: 2",
-      "date": "2026-11-16T21:51:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "I asked ChatGPT to forward invoices. Instead, it independently discovered a data privacy breach that had gone unnoticed for two years.",
@@ -1252,14 +1262,6 @@
       "date": "2026-11-16T17:02:43+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
-      "date": "2026-11-16T17:01:35+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
@@ -1846,14 +1848,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "AI cheating scandal spooks South Korea ahead of high-stakes college entrance exam",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxl8ho/ai_cheating_scandal_spooks_south_korea_ahead_of/",
-      "summary": "",
-      "date": "2026-11-16T09:37:36+00:00",
-      "image": "https://external-preview.redd.it/afGrss-LeelYP-R7dPwXsLbNoiM7PF1B0TenAaBgeEI.jpeg?width=640&crop=smart&auto=webp&s=2324b657944b16b4b5dc957f801e37494f315080",
-      "source": "r/artificial"
-    },
-    {
       "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
       "summary": "",
@@ -1868,14 +1862,6 @@
       "date": "2026-11-16T09:14:46+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "What is the point of AI agents",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxksjq/what_is_the_point_of_ai_agents/",
-      "summary": "",
-      "date": "2026-11-16T09:09:08+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
@@ -2830,14 +2816,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "Microsoft Research Focus – Edition #98",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
-      "date": "2026-11-12T21:31:57+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
@@ -3214,14 +3192,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
-      "date": "2026-11-10T20:52:56+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "What happens to mathematics when AI becomes an oracle?",
       "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
@@ -3356,6 +3326,30 @@
       "date": "2026-11-10T07:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
+    },
+    {
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplic",
+      "date": "2026-11-10T05:34:14+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Yonkers Rises",
+      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animati",
+      "date": "2026-11-10T03:53:04+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "summary": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
     }
   ]
 }
