@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:35:55.466359+00:00",
+  "updated": "2026-11-17T17:51:31.709253+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,14 +41,19 @@
   "trending": [
     {
       "count": 3,
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "date": "2026-11-17T17:04:40+00:00",
+      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+      "date": "2026-11-17T17:35:26+00:00",
       "sources": [
         "TechCrunch AI",
         "The Guardian AI",
         "The Verge AI"
       ],
       "links": [
+        {
+          "source": "The Guardian AI",
+          "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
+        },
         {
           "source": "The Verge AI",
           "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
@@ -58,11 +63,6 @@
           "source": "TechCrunch AI",
           "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
           "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
-        },
-        {
-          "source": "The Guardian AI",
-          "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
         }
       ]
     },
@@ -175,29 +175,81 @@
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
         }
       ]
-    },
-    {
-      "count": 2,
-      "title": "Introducing ChatGPT Wallet",
-      "date": "2026-11-13T15:00:00+00:00",
-      "sources": [
-        "OpenAI News"
-      ],
-      "links": [
-        {
-          "source": "OpenAI News",
-          "title": "Introducing ChatGPT Wallet",
-          "link": "https://openai.com/index/introducing-chatgpt-wallet"
-        },
-        {
-          "source": "OpenAI News",
-          "title": "Introducing Businesses in ChatGPT",
-          "link": "https://openai.com/index/introducing-businesses-chatgpt"
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "title": "OpenAI launched GPT-6.2 Astra and GPT-6.2 Sol",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xyr27j/openai_launched_gpt62_astra_and_gpt62_sol/",
+      "summary": "",
+      "date": "2026-11-17T17:47:12+00:00",
+      "image": "https://external-preview.redd.it/0wcr42uy4AvhjU8u-Rm742s60roYFbyg-TVJCVQB3-o.png?width=640&crop=smart&auto=webp&s=a4c3f1b42d26fd1156c6d7b814cb8088280b52af",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+      "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+      "summary": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more",
+      "date": "2026-11-17T17:45:00+00:00",
+      "image": "https://image.theregister.com/?imageId=2918386&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Sol 6.2 shows up in my codex",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xyqz8k/sol_62_shows_up_in_my_codex/",
+      "summary": "",
+      "date": "2026-11-17T17:43:56+00:00",
+      "image": "https://preview.redd.it/ldl6izmim72i1.png?width=320&crop=smart&auto=webp&s=9ab2074fd2baa71794c9c6329cad0b01ab08df1b",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage",
+      "link": "https://news.ycombinator.com/item?id=50535157",
+      "summary": "Hi HN, I’m Sachin, and I’ve spent the last couple of months working on Faros Desktop, a Mac app that visualizes how you use your local AI coding tools into one place and then makes recommendations to make your subscription spend go further. As agents have replaced hands-on-keyboa",
+      "date": "2026-11-17T17:42:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Digamma: A lightweight, JIT compiled Scheme for AI workflows",
+      "link": "https://github.com/fujita-y/digamma",
+      "summary": "Article URL: https://github.com/fujita-y/digamma Comments URL: https://news.ycombinator.com/item?id=50535147 Points: 1 # Comments: 0",
+      "date": "2026-11-17T17:41:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: ModelRefs – AI model data where every number must cite a source",
+      "link": "https://modelrefs.com/",
+      "summary": "Article URL: https://modelrefs.com/ Comments URL: https://news.ycombinator.com/item?id=50535094 Points: 1 # Comments: 0",
+      "date": "2026-11-17T17:39:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "OpenAI gives 200$ in API credits",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xyqu8r/openai_gives_200_in_api_credits/",
+      "summary": "",
+      "date": "2026-11-17T17:38:41+00:00",
+      "image": "https://preview.redd.it/iqdl3qxyk72i1.png?width=320&crop=smart&auto=webp&s=6f65b1ad2f0c7c5e014db11f9d25b72c51eeefe9",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+      "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+      "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decides that my",
+      "date": "2026-11-17T17:35:26+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "date": "2026-11-17T17:32:25+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
     {
       "title": "FAA pauses installation of new routers after ground stop",
       "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
@@ -205,6 +257,22 @@
       "date": "2026-11-17T17:27:57+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Hardware-Bound Authentication for AI Agents",
+      "link": "https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt",
+      "summary": "Article URL: https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt Comments URL: https://news.ycombinator.com/item?id=50534866 Points: 4 # Comments: 0",
+      "date": "2026-11-17T17:24:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Drawmode for AI Agents",
+      "link": "https://drawmode.ai/",
+      "summary": "Article URL: https://drawmode.ai/ Comments URL: https://news.ycombinator.com/item?id=50534835 Points: 1 # Comments: 1",
+      "date": "2026-11-17T17:23:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "If you feed AI with a guess, it treats it like a fact and starts building on it.",
@@ -223,12 +291,20 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Only 37% of businesses surveyed verify who authorizes an AI agent.",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyq7ys/only_37_of_businesses_surveyed_verify_who/",
-      "summary": "",
-      "date": "2026-11-17T17:16:04+00:00",
+      "title": "Jensen Huang was building an open AI ecosystem that threatened Anthropic",
+      "link": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11 Comments URL: https://news.ycombinator.com/item?id=50534745 Points: 5 # Comments: 1",
+      "date": "2026-11-17T17:18:21+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Tamagotchi Turns Everyday Objects into Needy Virtual Pets",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "Article URL: https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/ Comments URL: https://news.ycombinator.com/item?id=50534675 Points: 1 # Comments: 0",
+      "date": "2026-11-17T17:14:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
@@ -255,20 +331,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "How to tell if you built a really good AI agent?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xypzl4/how_to_tell_if_you_built_a_really_good_ai_agent/",
-      "summary": "",
-      "date": "2026-11-17T17:07:26+00:00",
+      "title": "Show HN: Solarian – Open-source Python framework for AI robots",
+      "link": "https://solarian.dev",
+      "summary": "Article URL: https://solarian.dev Comments URL: https://news.ycombinator.com/item?id=50534542 Points: 5 # Comments: 1",
+      "date": "2026-11-17T17:08:00+00:00",
       "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
-      "title": "How do you prevent AI agents from sending too many emails or making unwanted requests?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xypwwh/how_do_you_prevent_ai_agents_from_sending_too/",
-      "summary": "",
-      "date": "2026-11-17T17:04:41+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
     },
     {
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
@@ -287,6 +355,14 @@
       "source": "r/singularity"
     },
     {
+      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
+      "summary": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
+      "date": "2026-11-17T17:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=248218&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Math students fear AI will take their jobs—they’re using it anyway",
       "link": "https://www.reddit.com/r/singularity/comments/1xypr7l/math_students_fear_ai_will_take_their_jobstheyre/",
       "summary": "",
@@ -295,12 +371,36 @@
       "source": "r/singularity"
     },
     {
+      "title": "Mega Max h3 Image - Difficult choice",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypoix/mega_max_h3_image_difficult_choice/",
+      "summary": "",
+      "date": "2026-11-17T16:56:28+00:00",
+      "image": "https://preview.redd.it/d5yd4q1mc72i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=9c3da25521a9ed46ce9a4ce42373d3b0fd8e463f",
+      "source": "r/StableDiffusion"
+    },
+    {
+      "title": "Introducing OmniLoRA: Train Any Model on Any GPU Inside Your ComfyUI Graph, supporting all backends, models and quantizations",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypn77/introducing_omnilora_train_any_model_on_any_gpu/",
+      "summary": "",
+      "date": "2026-11-17T16:55:05+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
       "link": "https://www.reddit.com/r/singularity/comments/1xyplk9/exclusive_highly_classified_us_national_security/",
       "summary": "",
       "date": "2026-11-17T16:53:24+00:00",
       "image": "https://external-preview.redd.it/wsviaHbpjv_usRyLegkxxuyFnAIpz15WKduWeWP0eMw.jpeg?width=640&crop=smart&auto=webp&s=3ba3bd484812987562ee74ef5e03ec35c5b6751e",
       "source": "r/singularity"
+    },
+    {
+      "title": "CLI for torrenting open weight AI models",
+      "link": "https://pirateface.co/articles/pirate-face-cli",
+      "summary": "Article URL: https://pirateface.co/articles/pirate-face-cli Comments URL: https://news.ycombinator.com/item?id=50534302 Points: 7 # Comments: 1",
+      "date": "2026-11-17T16:53:07+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Can AI help build a healthier future?",
@@ -319,6 +419,14 @@
       "source": "Ars Technica AI"
     },
     {
+      "title": "The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys",
+      "link": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
+      "summary": "Article URL: https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/ Comments URL: https://news.ycombinator.com/item?id=50534247 Points: 2 # Comments: 0",
+      "date": "2026-11-17T16:50:09+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
       "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
@@ -327,12 +435,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Wondering whether AI agents are effective or deliver ROI? Just look at cybersecurity.",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyphgq/wondering_whether_ai_agents_are_effective_or/",
-      "summary": "",
-      "date": "2026-11-17T16:49:07+00:00",
+      "title": "Capability-Based Security for AI Agents",
+      "link": "https://magenticos.com/blog/capability-based-security-for-ai-agents/",
+      "summary": "Article URL: https://magenticos.com/blog/capability-based-security-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50534220 Points: 2 # Comments: 0",
+      "date": "2026-11-17T16:48:44+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
     },
     {
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
@@ -343,12 +451,36 @@
       "source": "Simon Willison"
     },
     {
+      "title": "Show HN: Atlas – Give Your AI Agent Better Web Context",
+      "link": "https://atlas-compiler.com/",
+      "summary": "Article URL: https://atlas-compiler.com/ Comments URL: https://news.ycombinator.com/item?id=50534210 Points: 3 # Comments: 0",
+      "date": "2026-11-17T16:48:18+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Ask your AI before you renew any SaaS (free MCP server)",
+      "link": "https://hissingkitty.com/developers",
+      "summary": "Article URL: https://hissingkitty.com/developers Comments URL: https://news.ycombinator.com/item?id=50534194 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:47:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
       "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
       "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
       "date": "2026-11-17T16:44:15+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "He has finally spoken",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypca2/he_has_finally_spoken/",
+      "summary": "",
+      "date": "2026-11-17T16:43:40+00:00",
+      "image": "https://preview.redd.it/iow1vz5sb72i1.jpeg?width=140&height=131&auto=webp&s=61e5505b3fa2f3b84167702a79fd78b48b8b301d",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Any chance Jensen returns?",
@@ -359,12 +491,20 @@
       "source": "r/singularity"
     },
     {
-      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-      "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-      "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decide",
-      "date": "2026-11-17T16:40:55+00:00",
+      "title": "MOSS-Base: Speed boost on Turing GPUs",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypadg/mossbase_speed_boost_on_turing_gpus/",
+      "summary": "",
+      "date": "2026-11-17T16:41:43+00:00",
       "image": "",
-      "source": "The Guardian AI"
+      "source": "r/StableDiffusion"
+    },
+    {
+      "title": "How Do We Know If an AI Model Is Safe for Us?",
+      "link": "https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f",
+      "summary": "Article URL: https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f Comments URL: https://news.ycombinator.com/item?id=50534063 Points: 2 # Comments: 0",
+      "date": "2026-11-17T16:41:31+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "OpenAI expands free ChatGPT access to up to 200,000 academic researchers",
@@ -375,20 +515,28 @@
       "source": "r/OpenAI"
     },
     {
-      "title": "What institutions will agents change first?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyp866/what_institutions_will_agents_change_first/",
-      "summary": "",
-      "date": "2026-11-17T16:39:24+00:00",
+      "title": "LLM-MLM: pyramid schemes for AI agents",
+      "link": "https://llm-mlm.com/",
+      "summary": "Article URL: https://llm-mlm.com/ Comments URL: https://news.ycombinator.com/item?id=50534030 Points: 3 # Comments: 2",
+      "date": "2026-11-17T16:39:52+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
     },
     {
-      "title": "Testing terminal agent workflows — anyone with a spare Claude Code pass? 🎀",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyp6vr/testing_terminal_agent_workflows_anyone_with_a/",
-      "summary": "",
-      "date": "2026-11-17T16:37:56+00:00",
+      "title": "Why Run AI Coding Agents on Kubernetes?",
+      "link": "https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/",
+      "summary": "Article URL: https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/ Comments URL: https://news.ycombinator.com/item?id=50533978 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:37:26+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Andor Creator Wants People to 'Blow Up' AI Data Centers by Voting Against Them",
+      "link": "https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them",
+      "summary": "Article URL: https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them Comments URL: https://news.ycombinator.com/item?id=50533914 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:33:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
@@ -399,12 +547,20 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Picking a memory layer from demos and launch posts is a mess",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyp0an/picking_a_memory_layer_from_demos_and_launch/",
-      "summary": "",
-      "date": "2026-11-17T16:30:54+00:00",
+      "title": "AI Is Giving Optical Computing Another Shot",
+      "link": "https://spectrum.ieee.org/optical-computing-ai",
+      "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50533886 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:32:10+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "An AI startup decided to help GTA 6 gamers before the game is even out",
+      "link": "https://gtacheat.codes/",
+      "summary": "Article URL: https://gtacheat.codes/ Comments URL: https://news.ycombinator.com/item?id=50533852 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:30:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "How to Improve Coding Agent Efficiency by 30% with an Orchestrator",
@@ -415,12 +571,36 @@
       "source": "Towards Data Science"
     },
     {
+      "title": "New institutions needed for a world with powerful AI",
+      "link": "https://www.agi-institutions.org/",
+      "summary": "Article URL: https://www.agi-institutions.org/ Comments URL: https://news.ycombinator.com/item?id=50533822 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:28:47+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Company Employees Should Unionize",
+      "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "summary": "Article URL: https://www.astralcodexten.com/p/ai-company-employees-should-unionize Comments URL: https://news.ycombinator.com/item?id=50533810 Points: 2 # Comments: 0",
+      "date": "2026-11-17T16:27:54+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Alibaba's Qwen team promised \"open source to the end\" 12 days ago. Today Qwen4-Max dropped as a closed-weight API.",
       "link": "https://www.reddit.com/r/artificial/comments/1xyoxb6/alibabas_qwen_team_promised_open_source_to_the/",
       "summary": "",
       "date": "2026-11-17T16:27:52+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "Where do you stand on AI?",
+      "link": "https://compass.vukdinic.com/",
+      "summary": "Article URL: https://compass.vukdinic.com/ Comments URL: https://news.ycombinator.com/item?id=50533743 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:24:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "The DOJ says it’s investigating Megaspeed",
@@ -431,12 +611,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Which of your agent's actions can't be undone, and does a person approve each one?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyol15/which_of_your_agents_actions_cant_be_undone_and/",
-      "summary": "",
-      "date": "2026-11-17T16:15:13+00:00",
+      "title": "AI product recommendations are mostly a summary of listicles",
+      "link": "https://supercite.ai/blog/ai-recommendations-come-from-lists",
+      "summary": "Article URL: https://supercite.ai/blog/ai-recommendations-come-from-lists Comments URL: https://news.ycombinator.com/item?id=50533631 Points: 2 # Comments: 0",
+      "date": "2026-11-17T16:18:20+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "Hacker News AI"
     },
     {
       "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
@@ -447,20 +627,28 @@
       "source": "The Register"
     },
     {
-      "title": "How much will AI alter global power dynamics?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyoi42/how_much_will_ai_alter_global_power_dynamics/",
-      "summary": "",
-      "date": "2026-11-17T16:12:06+00:00",
+      "title": "Show HN: An AI app controlled from your phone's Picture in Picture",
+      "link": "https://barnacle.qa",
+      "summary": "Article URL: https://barnacle.qa Comments URL: https://news.ycombinator.com/item?id=50533512 Points: 2 # Comments: 0",
+      "date": "2026-11-17T16:12:01+00:00",
       "image": "",
-      "source": "r/OpenAI"
+      "source": "Hacker News AI"
     },
     {
-      "title": "What are your thoughts on the upcoming shared ChatGPT and Codex usage limits in December? What's your plan?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyog5q/what_are_your_thoughts_on_the_upcoming_shared/",
-      "summary": "",
-      "date": "2026-11-17T16:10:09+00:00",
+      "title": "Giving AI Agents a Better Way to Debug CSS",
+      "link": "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/",
+      "summary": "Article URL: https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/ Comments URL: https://news.ycombinator.com/item?id=50533481 Points: 1 # Comments: 0",
+      "date": "2026-11-17T16:10:49+00:00",
       "image": "",
-      "source": "r/OpenAI"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "MiniMax H3 video lora training, quick question on aspect ratio and resolution",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyobcx/minimax_h3_video_lora_training_quick_question_on/",
+      "summary": "",
+      "date": "2026-11-17T16:05:09+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "r/Singularity Daily Discussion Thread — November 17, 2026",
@@ -511,12 +699,20 @@
       "source": "r/OpenAI"
     },
     {
-      "title": "Can I replace Claude Code with something equally powerful for under $10/month?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyn8x6/can_i_replace_claude_code_with_something_equally/",
+      "title": "Huggingface speeds lately",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyn4ug/huggingface_speeds_lately/",
       "summary": "",
-      "date": "2026-11-17T15:24:45+00:00",
+      "date": "2026-11-17T15:20:21+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "r/StableDiffusion"
+    },
+    {
+      "title": "Qwen 2.1 edit",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyn0l4/qwen_21_edit/",
+      "summary": "",
+      "date": "2026-11-17T15:15:47+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Google found exploit_agent, a framework that turns fresh patches into live exploits with no human in the loop",
@@ -549,6 +745,14 @@
       "date": "2026-11-17T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "About H3 voice reference",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xymijy/about_h3_voice_reference/",
+      "summary": "",
+      "date": "2026-11-17T14:56:14+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "A letter to OpenAI about Dot",
@@ -607,28 +811,20 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Whats the hardest task you've given your personal agents?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xylyw3/whats_the_hardest_task_youve_given_your_personal/",
-      "summary": "",
-      "date": "2026-11-17T14:33:58+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
-      "title": "Agent roll call: who’s actually running, and what can you do?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xylyvt/agent_roll_call_whos_actually_running_and_what/",
-      "summary": "",
-      "date": "2026-11-17T14:33:57+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
       "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
       "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, t",
       "date": "2026-11-17T14:32:46+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Krita AI: Messy Sketch to Dragon in One Turn of a Contour Dial",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xylw9j/krita_ai_messy_sketch_to_dragon_in_one_turn_of_a/",
+      "summary": "",
+      "date": "2026-11-17T14:30:55+00:00",
+      "image": "https://external-preview.redd.it/QLME4MXTDown2KGka9hWePDGT-fb4uN5EAUjoboR_Hc.jpeg?width=320&crop=smart&auto=webp&s=8be020c94f378577edf40d1c9e98a9b4af90637f",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "The Spanish startup bringing AI to fashion",
@@ -687,22 +883,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Anyone actually running AI voice or calling agents in production?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyla98/anyone_actually_running_ai_voice_or_calling/",
-      "summary": "",
-      "date": "2026-11-17T14:05:10+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
-      "title": "A user on OpenAI’s developer forum proposes one “primary” AI that holds the project and hands work to specialists like Codex. Would you want that, or would you rather pick the tool yourself?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyl73v/a_user_on_openais_developer_forum_proposes_one/",
-      "summary": "",
-      "date": "2026-11-17T14:01:37+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
       "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
@@ -727,14 +907,6 @@
       "source": "NVIDIA Blog"
     },
     {
-      "title": "AI Is Giving Optical Computing Another Shot",
-      "link": "https://spectrum.ieee.org/optical-computing-ai",
-      "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now total",
-      "date": "2026-11-17T14:00:03+00:00",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=980",
-      "source": "IEEE Spectrum AI"
-    },
-    {
       "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
       "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
       "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
@@ -757,14 +929,6 @@
       "date": "2026-11-17T13:58:07+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "An agent stuck in a retry loop overnight turns per-use pricing into a surprise bill. What limits do you set?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyktfy/an_agent_stuck_in_a_retry_loop_overnight_turns/",
-      "summary": "",
-      "date": "2026-11-17T13:45:14+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
@@ -831,14 +995,6 @@
       "source": "The Register"
     },
     {
-      "title": "Are cloud sandboxes worth it for AI coding agents?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyjtbz/are_cloud_sandboxes_worth_it_for_ai_coding_agents/",
-      "summary": "",
-      "date": "2026-11-17T12:59:42+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Google confirms an \"era of autonomous attacks has arrived\" as 178 companies including banks, airlines and more are hit",
       "link": "https://www.reddit.com/r/singularity/comments/1xyjjhy/google_confirms_an_era_of_autonomous_attacks_has/",
       "summary": "",
@@ -855,20 +1011,20 @@
       "source": "The Register"
     },
     {
-      "title": "Is there any advantage of using Hy4 Flash？",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyj669/is_there_any_advantage_of_using_hy4_flash/",
-      "summary": "",
-      "date": "2026-11-17T12:27:32+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "NATO is using up to 300 billion OpenAI tokens a month to defend its networks",
       "link": "https://www.reddit.com/r/OpenAI/comments/1xyj1fd/nato_is_using_up_to_300_billion_openai_tokens_a/",
       "summary": "",
       "date": "2026-11-17T12:20:39+00:00",
       "image": "https://external-preview.redd.it/i8kUlKH9OcYzKBVlQ1WUCZK0M1dzYqINRy4IBmLUj5U.jpeg?width=640&crop=smart&auto=webp&s=0b17ee76e05babbcdb3563ad516695b5d78f7b8f",
       "source": "r/OpenAI"
+    },
+    {
+      "title": "Has anyone tried the Krea2TextEncoder for reference-based gens? (some recent results)",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyixro/has_anyone_tried_the_krea2textencoder_for/",
+      "summary": "",
+      "date": "2026-11-17T12:15:25+00:00",
+      "image": "https://preview.redd.it/s8f0f4afy52i1.jpeg?width=140&height=103&auto=webp&s=0ac1a8e344f5530fcbcb1716570506a56d2ea1f1",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Isomorphic Labs just raised $5B for AI drug discovery. When will its first drug reach human trials?",
@@ -885,6 +1041,14 @@
       "date": "2026-11-17T12:07:27+00:00",
       "image": "https://external-preview.redd.it/PLxve_pbucYqiuys3klgT20ZKvbl-e3HblnxhloI22s.jpeg?width=640&crop=smart&auto=webp&s=fe7c149dab3277855685209524ed28daa421dc66",
       "source": "r/OpenAI"
+    },
+    {
+      "title": "Btw PAN2 native on Comfy now",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyis6a/btw_pan2_native_on_comfy_now/",
+      "summary": "",
+      "date": "2026-11-17T12:07:16+00:00",
+      "image": "https://external-preview.redd.it/jCGocy7ve8I9c2XY0EUqHVxZyBwRYKttOK3rF4KjvHM.png?width=640&crop=smart&auto=webp&s=a7d14053e444bd01e520812d398317786bbf2ff1",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Could delayed Astra suggest Anthropic is accelerating ahead due to nascent RSI?",
@@ -919,6 +1083,14 @@
       "source": "Towards Data Science"
     },
     {
+      "title": "Minimax H3-videos keep adding nonsense voices and music, how to avoid?",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyiigi/minimax_h3videos_keep_adding_nonsense_voices_and/",
+      "summary": "",
+      "date": "2026-11-17T11:53:40+00:00",
+      "image": "",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
       "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
       "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
@@ -935,28 +1107,12 @@
       "source": "r/singularity"
     },
     {
-      "title": "Would you use a guard for the AI agents running on your computer?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyiaer/would_you_use_a_guard_for_the_ai_agents_running/",
-      "summary": "",
-      "date": "2026-11-17T11:41:01+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "The METR graph, updated",
       "link": "https://www.reddit.com/r/OpenAI/comments/1xyhz8n/the_metr_graph_updated/",
       "summary": "",
       "date": "2026-11-17T11:23:03+00:00",
       "image": "https://preview.redd.it/obewzoojq52i1.png?width=640&crop=smart&auto=webp&s=de964c22aac38966132cba660a3afaa66811b88a",
       "source": "r/OpenAI"
-    },
-    {
-      "title": "Tasks vs Goals",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyhwp3/tasks_vs_goals/",
-      "summary": "",
-      "date": "2026-11-17T11:19:02+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "US government confirms investigation into tech firm Megaspeed",
@@ -991,19 +1147,19 @@
       "source": "IEEE Spectrum AI"
     },
     {
-      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-      "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-      "date": "2026-11-17T11:00:00+00:00",
-      "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
-      "source": "Wired AI"
-    },
-    {
       "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
       "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
       "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
       "date": "2026-11-17T11:00:00+00:00",
       "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
+      "source": "Wired AI"
+    },
+    {
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "date": "2026-11-17T11:00:00+00:00",
+      "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
       "source": "Wired AI"
     },
     {
@@ -1021,6 +1177,14 @@
       "date": "2026-11-17T10:51:07+00:00",
       "image": "https://preview.redd.it/j03vpprqk52i1.png?width=640&crop=smart&auto=webp&s=ff23fe434bac1fd9d1ce484b26a5b28546da8c26",
       "source": "r/singularity"
+    },
+    {
+      "title": "H3 image is pretty good at converting anime images to lifelike photos",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyheta/h3_image_is_pretty_good_at_converting_anime/",
+      "summary": "",
+      "date": "2026-11-17T10:50:25+00:00",
+      "image": "https://preview.redd.it/hzulfsfrk52i1.jpeg?width=140&height=93&auto=webp&s=11975fd30b6ad323495037ed7be63708e957267c",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
@@ -1051,7 +1215,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
       "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
       "date": "2026-11-17T09:41:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9f/live/ace0da40-e2ae-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Technology"
     },
     {
@@ -1077,14 +1241,6 @@
       "date": "2026-11-17T09:20:57+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "What do you let your AI assistant do without asking first?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyfsbi/what_do_you_let_your_ai_assistant_do_without/",
-      "summary": "",
-      "date": "2026-11-17T09:09:27+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
@@ -1119,14 +1275,6 @@
       "source": "r/artificial"
     },
     {
-      "title": "Share your browser.md for Ai Agents",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyejus/share_your_browsermd_for_ai_agents/",
-      "summary": "",
-      "date": "2026-11-17T07:50:41+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Is there an Ai that can put together a proper playlist of yt videos ?",
       "link": "https://www.reddit.com/r/artificial/comments/1xye1y5/is_there_an_ai_that_can_put_together_a_proper/",
       "summary": "",
@@ -1149,6 +1297,14 @@
       "date": "2026-11-17T07:07:35+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "vid upscalers: RelayVSR (5x render speed) vs Starlight (more details)",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xydt2j/vid_upscalers_relayvsr_5x_render_speed_vs/",
+      "summary": "",
+      "date": "2026-11-17T07:03:28+00:00",
+      "image": "https://external-preview.redd.it/MnpoaThiY3ZvODFpMVxvc1yuARD4vb42Bw6cEr78dUCXzIJVykOQIoagFlrW.jpeg?width=640&crop=smart&auto=webp&s=cfa1ca180b8952cef59fe5492f9f646ad9199efa",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
@@ -1175,6 +1331,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Posewright: A Simple program to pose figures for img2img generations",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyd6gl/posewright_a_simple_program_to_pose_figures_for/",
+      "summary": "",
+      "date": "2026-11-17T06:25:15+00:00",
+      "image": "https://preview.redd.it/qwamwetc942i1.png?width=140&height=70&auto=webp&s=fc5515caf5bdac9a869829ad36eed8b203132925",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Quoting Go Proverbs",
       "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
       "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
@@ -1197,6 +1361,14 @@
       "date": "2026-11-17T03:51:20+00:00",
       "image": "https://image.theregister.com/?imageId=5310329&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "RelayVSR 4x video upscale test",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xya9bn/relayvsr_4x_video_upscale_test/",
+      "summary": "",
+      "date": "2026-11-17T03:46:04+00:00",
+      "image": "https://external-preview.redd.it/emQ2eWpwejdnMzJpMfvOQI_1H-0vBvOpsFMZPgHXC4EKUJJGv5Z0TEFvNcFQ.png?width=640&crop=smart&auto=webp&s=8ad050b6d889e64884e00d1d71dfabd4483bbe8e",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Cloudflare open-sourced its browser for AI agents - it runs without Chromium",
@@ -1223,14 +1395,6 @@
       "source": "r/singularity"
     },
     {
-      "title": "Anthropic's new \"Always-On Agents\" guide requires wiring up 5 pieces of infrastructure. I turned the whole blueprint into a single prompt inside Claude Code.",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy9269/anthropics_new_alwayson_agents_guide_requires/",
-      "summary": "",
-      "date": "2026-11-17T02:46:59+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "NVIDIA's Vera Rubin makes its MLPerf debut: up to 2x training performance per GPU vs GB300, but the headline 10x agentic figure is still provisional",
       "link": "https://www.reddit.com/r/artificial/comments/1xy8wb5/nvidias_vera_rubin_makes_its_mlperf_debut_up_to/",
       "summary": "",
@@ -1245,6 +1409,14 @@
       "date": "2026-11-17T02:37:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "MiniMax H3 Image - Morrigan",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy8p5i/minimax_h3_image_morrigan/",
+      "summary": "",
+      "date": "2026-11-17T02:29:31+00:00",
+      "image": "https://preview.redd.it/qx7s4ezp232i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bce58908489b0661daf3530557fff7586ae1825b",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Microsoft tested a coding-agent memory plugin. It cost more at first, then paid for itself.",
@@ -1287,20 +1459,20 @@
       "source": "The Register"
     },
     {
+      "title": "HexAnima Fork: Offline AI image generation on Snapdragon 8 Gen 2 (Hexagon V73) — LoRAs, Civitai, Inpainting, HiRes Fix, ~7s generation, no root!",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy6bz7/hexanima_fork_offline_ai_image_generation_on/",
+      "summary": "",
+      "date": "2026-11-17T00:37:46+00:00",
+      "image": "https://preview.redd.it/ji0j4qfgj22i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=34efe8d3f393621bb7e325f4f675da73125b0298",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
       "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides v",
       "date": "2026-11-17T00:20:40+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "I am a believer in AI running my email inbox now",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy5q4x/i_am_a_believer_in_ai_running_my_email_inbox_now/",
-      "summary": "",
-      "date": "2026-11-17T00:09:51+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "OpenAI News: \"Our first phase of embedded assessments\"",
@@ -1447,6 +1619,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Love how MOSS manage light-dark and mix concept.",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy2t30/love_how_moss_manage_lightdark_and_mix_concept/",
+      "summary": "",
+      "date": "2026-11-16T22:07:04+00:00",
+      "image": "https://preview.redd.it/ukocgx26s12i1.jpeg?width=140&height=104&auto=webp&s=80d1dc2bdadf686226bf33815ff524aedcc43ab6",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
       "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
@@ -1575,6 +1755,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Moss images, mini max videos. The fact you can slap something like this together locally is incredible. WW1 rap.",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxzlvx/moss_images_mini_max_videos_the_fact_you_can_slap/",
+      "summary": "",
+      "date": "2026-11-16T20:03:12+00:00",
+      "image": "https://external-preview.redd.it/dW5mcjA1ZGc2MTJpMS3CgXWMyPPMEHSl6FnSRuqnuYjCku0g0sb8ewl9j5hU.png?width=640&crop=smart&auto=webp&s=10847ce9db115730af5fca4baa3d56320d9d834e",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
       "link": "https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/",
       "summary": "",
@@ -1679,14 +1867,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
-      "link": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
-      "summary": "Flaw can take down an entire host, even when the vulnerable service is running inside a container",
-      "date": "2026-11-16T18:28:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310154&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Anthropic IPO guide: Everything you need to know",
       "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
       "summary": "Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.",
@@ -1719,20 +1899,28 @@
       "source": "r/singularity"
     },
     {
-      "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
-      "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-      "summary": "Opt-in Edge archive gives Pro subscribers early access before full testing, while normal updates remain human-validated",
-      "date": "2026-11-16T18:01:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5244798&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "date": "2026-11-16T17:36:43+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "I’m in love with MiniMax H3 — a little Emotion Study",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv9qc/im_in_love_with_minimax_h3_a_little_emotion_study/",
+      "summary": "",
+      "date": "2026-11-16T17:21:44+00:00",
+      "image": "https://external-preview.redd.it/YjRsNXA1c29jMDJpMYKFKXHFmmSgv_x7v2SO1lckRLkfvhxBoebCggp5zwoh.png?width=640&crop=smart&auto=webp&s=dd116bccd5462f7d5af80c8abf1f68904da40485",
+      "source": "r/StableDiffusion"
+    },
+    {
+      "title": "Making consistent character creation easier",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv2au/making_consistent_character_creation_easier/",
+      "summary": "",
+      "date": "2026-11-16T17:13:51+00:00",
+      "image": "https://preview.redd.it/9700n0opb02i1.gif?frame=1&width=140&height=85&auto=webp&s=b5e8ac2bc6c77efa4a55128767765b707aa754b4",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -1765,14 +1953,6 @@
       "date": "2026-11-16T17:00:54+00:00",
       "image": "https://spectrum.ieee.org/media-library/collage-of-the-question-what-color-is-the-sky-surrounded-by-a-shiny-sun-sticker-geometric-grid-and-a-confidence-meter-at-7.jpg?id=68692558&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Weekly Hiring Thread",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxupdh/weekly_hiring_thread/",
-      "summary": "",
-      "date": "2026-11-16T17:00:52+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
@@ -1813,6 +1993,14 @@
       "date": "2026-11-16T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "MiniMax-H3 V2V Masterclass is finally here",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxtuxg/minimaxh3_v2v_masterclass_is_finally_here/",
+      "summary": "",
+      "date": "2026-11-16T16:29:51+00:00",
+      "image": "https://external-preview.redd.it/eGN1YXB0OXEzMDJpMSoK5k2nlPbI7mzpWDBY_hGzmdbHJbQaqhH3skCgCW2x.png?width=640&crop=smart&auto=webp&s=4309c51ba8701fc9ee2087f373bb75b6d6d48112",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "Jensen Huang Is Gone. Now What?",
@@ -1919,14 +2107,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "date": "2026-11-16T14:48:13+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Alibaba's Qwen4 Max jumps 9 points on Artificial Analysis's Intelligence Index while cutting task costs by 67% and reasoning output by 39%. Its new 2.4-trillion-parameter architecture activates 25% fewer parameters per token.",
       "link": "https://www.reddit.com/r/singularity/comments/1xxr3le/alibabas_qwen4_max_jumps_9_points_on_artificial/",
       "summary": "",
@@ -1959,12 +2139,12 @@
       "source": "Import AI"
     },
     {
-      "title": "Vibe on reddit: AI is fake. Vibe on twitter:",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxpk7s/vibe_on_reddit_ai_is_fake_vibe_on_twitter/",
+      "title": "What are we doing wrong with H3?",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxphrf/what_are_we_doing_wrong_with_h3/",
       "summary": "",
-      "date": "2026-11-16T13:38:11+00:00",
-      "image": "https://preview.redd.it/lulj504r9z1i1.png?width=640&crop=smart&auto=webp&s=d945530f0e66305cd22cc844dee4093bc98725a1",
-      "source": "r/OpenAI"
+      "date": "2026-11-16T13:35:00+00:00",
+      "image": "https://preview.redd.it/bprl9dy79z1i1.jpeg?width=640&crop=smart&auto=webp&s=c95a5c50ac280d1f9b35b039b529bae1146045f0",
+      "source": "r/StableDiffusion"
     },
     {
       "title": "GTA 6 hacker pleads guilty after release from secure hospital",
@@ -2167,6 +2347,14 @@
       "source": "BBC Technology"
     },
     {
+      "title": "State of the Sub - 1M Members Reached!",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxehp8/state_of_the_sub_1m_members_reached/",
+      "summary": "",
+      "date": "2026-11-16T03:01:41+00:00",
+      "image": "https://preview.redd.it/5miv9nokyv1i1.png?width=140&height=118&auto=webp&s=520dd48f07cad6a1fa8465aff424d438206c41ea",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
@@ -2300,14 +2488,6 @@
       "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
       "date": "2026-11-15T12:00:00+00:00",
       "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
-      "source": "Wired AI"
-    },
-    {
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "date": "2026-11-15T11:00:00+00:00",
-      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
       "source": "Wired AI"
     },
     {
@@ -2775,6 +2955,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "date": "2026-11-12T00:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -2853,14 +3041,6 @@
       "date": "2026-11-11T17:00:38+00:00",
       "image": "",
       "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Weekly Thread: Project Display",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xtn3pe/weekly_thread_project_display/",
-      "summary": "",
-      "date": "2026-11-11T17:00:21+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "Anthropic's IPO roadshow video",
@@ -3071,14 +3251,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "date": "2026-11-10T10:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
-    },
-    {
       "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
       "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
       "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat ",
@@ -3205,198 +3377,6 @@
       "date": "2026-11-09T13:31:34+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
-      "date": "2026-11-09T13:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "summary": "",
-      "date": "2026-11-09T12:34:29+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconduct",
-      "date": "2026-11-09T08:00:53+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and auto",
-      "date": "2026-11-09T05:00:40+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell",
-      "date": "2026-11-09T05:00:39+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I jus",
-      "date": "2026-11-09T04:32:33+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times fast",
-      "date": "2026-11-07T23:34:19+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed",
-      "date": "2026-11-06T10:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "summary": "",
-      "date": "2026-11-06T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Detecting signs of hypertension using wearable sensors",
-      "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
-      "summary": "Health & Bioscience",
-      "date": "2026-11-05T16:01:08+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
-      "date": "2026-11-05T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
-      "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
-      "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
-      "date": "2026-11-05T15:00:03+00:00",
-      "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-the-european-union-flag-with-its-stars-replaced-by-logos-for-open-ai.jpg?id=68564327&width=980",
-      "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "A tiny supercurrent could unlock quantum information without destroying it",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
-      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations ",
-      "date": "2026-11-05T03:47:09+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "link": "https://huggingface.co/blog/phonon-tts",
-      "summary": "",
-      "date": "2026-11-05T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r",
-      "date": "2026-11-04T18:50:55+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
-    },
-    {
-      "title": "Agile Deliberation: How AI helps humans define the gray areas",
-      "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-      "summary": "Data Mining & Modeling",
-      "date": "2026-11-04T18:07:05+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgileDeliberation1_Thumbnail.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "summary": "",
-      "date": "2026-11-04T17:50:10+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "How big is the open model economy today?",
-      "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
-      "summary": "Our first open model economy research note for paid subscribers.",
-      "date": "2026-11-04T16:35:44+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Learn the rules: The hacker mindset",
-      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
-      "date": "2026-11-03T17:14:38+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
-      "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
-      "summary": "Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3 reduced execution comp",
-      "date": "2026-11-03T17:00:35+00:00",
-      "image": "",
-      "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "summary": "",
-      "date": "2026-11-03T16:35:36+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
-      "link": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
-      "summary": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody m",
-      "date": "2026-11-03T14:30:02+00:00",
-      "image": "https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=980",
-      "source": "IEEE Spectrum AI"
     }
   ]
 }
