@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:36:59.407158+00:00",
+  "updated": "2026-11-17T15:50:56.938888+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -131,6 +131,22 @@
   ],
   "items": [
     {
+      "title": "Current ML PhD students, would you still choose to do an ML PhD if you could go back 2–3 years? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xynl4o/current_ml_phd_students_would_you_still_choose_to/",
+      "summary": "",
+      "date": "2026-11-17T15:37:58+00:00",
+      "image": "",
+      "source": "r/MachineLearning"
+    },
+    {
+      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
+      "date": "2026-11-17T15:36:42+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
       "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
@@ -153,14 +169,6 @@
       "date": "2026-11-17T15:24:45+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
-      "date": "2026-11-17T15:18:35+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Has ChatGPT's Behavior Improved, or Are You Still Experiencing Issues? (Follow-up Poll)",
@@ -209,6 +217,14 @@
       "date": "2026-11-17T15:06:58+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "voi-slop-detect-380M: A tiny model to detect AI slop",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xymsas/voislopdetect380m_a_tiny_model_to_detect_ai_slop/",
+      "summary": "",
+      "date": "2026-11-17T15:06:39+00:00",
+      "image": "https://external-preview.redd.it/dgTzugmoPhxjcDj7khOhXy9ODbybr-6Kfb_AexFkVgM.png?width=640&crop=smart&auto=webp&s=f4d8a90e32d84b124e33eeccc4aa13143c7b209a",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
@@ -363,6 +379,14 @@
       "source": "BBC Technology"
     },
     {
+      "title": "I gave an existing GitHub repository to DevScribe's AI agent, and it turned the codebase into a complete engineering workspace for just $0.05",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xylob4/i_gave_an_existing_github_repository_to/",
+      "summary": "",
+      "date": "2026-11-17T14:21:57+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Are those that advocate against open weight models public enemy #1 ?",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/",
       "summary": "",
@@ -391,14 +415,6 @@
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/",
       "summary": "",
       "date": "2026-11-17T14:08:22+00:00",
-      "image": "https://external-preview.redd.it/L3CtWGwPYZueCHhXC4gjKdP7QJkob6mPd68ijnwCLdw.png?width=640&crop=smart&auto=webp&s=db4f23402d12fc1e7031b5d4483a337b86e15182",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "sensenova/SenseNova-Loop-9B · Hugging Face",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xylbws/sensenovasensenovaloop9b_hugging_face/",
-      "summary": "",
-      "date": "2026-11-17T14:07:12+00:00",
       "image": "https://external-preview.redd.it/L3CtWGwPYZueCHhXC4gjKdP7QJkob6mPd68ijnwCLdw.png?width=640&crop=smart&auto=webp&s=db4f23402d12fc1e7031b5d4483a337b86e15182",
       "source": "r/LocalLLaMA"
     },
@@ -769,14 +785,6 @@
       "date": "2026-11-17T10:56:01+00:00",
       "image": "",
       "source": "r/ChatGPT"
-    },
-    {
-      "title": "Title: senior devs doing AI agent supervision now, what does your day actually look like?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyhg2a/title_senior_devs_doing_ai_agent_supervision_now/",
-      "summary": "",
-      "date": "2026-11-17T10:52:17+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "I've built 30+ automations for service businesses and here are the top ones owners absolutely rave about!",
@@ -1699,6 +1707,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
+      "date": "2026-11-16T17:01:35+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
       "link": "https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models",
       "summary": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev . The company’s broad, disruptive claims about Jev that turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate. TypeSafe AI’s market",
@@ -2283,14 +2299,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
-      "summary": "",
-      "date": "2026-11-15T19:46:49+00:00",
-      "image": "https://external-preview.redd.it/DJvyUGSB7NIol22F25MDbNGFokG0D_zzt5rg4USTxNA.jpeg?width=640&crop=smart&auto=webp&s=bff6c313e45f15ca3b754e03b15901a71d604b9a",
-      "source": "r/MachineLearning"
-    },
-    {
       "title": "Making cudaMemcpy 5x faster on a B300 [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
       "summary": "",
@@ -2707,6 +2715,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "Microsoft Research Focus – Edition #98",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
+      "date": "2026-11-12T21:31:57+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
@@ -3051,6 +3067,14 @@
       "source": "Ars Technica AI"
     },
     {
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
+      "date": "2026-11-10T20:52:56+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "What happens to mathematics when AI becomes an oracle?",
       "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
@@ -3305,30 +3329,6 @@
       "date": "2026-11-09T12:34:29+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconduct",
-      "date": "2026-11-09T08:00:53+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and auto",
-      "date": "2026-11-09T05:00:40+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell",
-      "date": "2026-11-09T05:00:39+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
-      "source": "NVIDIA Blog"
     }
   ]
 }
