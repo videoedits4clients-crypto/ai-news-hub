@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:51:05.551084+00:00",
+  "updated": "2026-11-17T03:56:40.119946+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -152,8 +152,40 @@
   ],
   "items": [
     {
+      "title": "UPDATE v2: Disguising AI as a Google Doc (Features you requested added again)",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xyacrh/update_v2_disguising_ai_as_a_google_doc_features/",
+      "summary": "",
+      "date": "2026-11-17T03:51:01+00:00",
+      "image": "https://external-preview.redd.it/eDhjc2xwZXdoMzJpMWY_OziyDt3yySb83_iqN2xTVfadIh0qVHeTQx9Pt7gC.png?width=640&crop=smart&auto=webp&s=b43fe7e883b7757f781172d6be960a6f5cd89a14",
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "RelayVSR 4x video upscale test",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xya9bn/relayvsr_4x_video_upscale_test/",
+      "summary": "",
+      "date": "2026-11-17T03:46:04+00:00",
+      "image": "https://external-preview.redd.it/emQ2eWpwejdnMzJpMfvOQI_1H-0vBvOpsFMZPgHXC4EKUJJGv5Z0TEFvNcFQ.png?width=640&crop=smart&auto=webp&s=8ad050b6d889e64884e00d1d71dfabd4483bbe8e",
+      "source": "r/StableDiffusion"
+    },
+    {
       "title": "Cloudflare open-sourced its browser for AI agents - it runs without Chromium",
       "link": "https://www.reddit.com/r/artificial/comments/1xya7o1/cloudflare_opensourced_its_browser_for_ai_agents/",
+      "summary": "",
+      "date": "2026-11-17T03:43:43+00:00",
+      "image": "",
+      "source": "r/artificial"
+    },
+    {
+      "title": "Layer-hot decoding: an approach to check a guessed token while each layer's weights are already loaded on an Apple M4. It ran slow.",
+      "link": "https://www.reddit.com/r/LLMDevs/comments/1xya5v7/layerhot_decoding_an_approach_to_check_a_guessed/",
+      "summary": "",
+      "date": "2026-11-17T03:41:05+00:00",
+      "image": "",
+      "source": "r/LLMDevs"
+    },
+    {
+      "title": "Astrawhen?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xy9xbg/astrawhen/",
       "summary": "",
       "date": "2026-11-17T03:43:43+00:00",
       "image": "",
@@ -182,14 +214,6 @@
       "date": "2026-11-17T03:02:59+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "you vs the guy she told you not to worry about",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9e24/you_vs_the_guy_she_told_you_not_to_worry_about/",
-      "summary": "",
-      "date": "2026-11-17T03:02:55+00:00",
-      "image": "https://preview.redd.it/0pede6us832i1.png?width=640&crop=smart&auto=webp&s=222da849046986fdca630c05e438b6cea335090a",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "US tightens AI chip export controls to stop Chinese labs from remote GPU access",
@@ -787,9 +811,33 @@
       "title": "Is anyone else getting a pop-up “some tools are available.” Specifically files won’t upload?",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1xy1ohz/is_anyone_else_getting_a_popup_some_tools_are/",
       "summary": "",
-      "date": "2026-11-16T21:22:00+00:00",
+      "date": "2026-11-16T21:23:52+00:00",
+      "image": "https://external-preview.redd.it/bGhkbDlzNHNnMTJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=6249bc3c92ee579bd3bc52a5dcb257c2c3438786",
+      "source": "r/singularity"
+    },
+    {
+      "title": "eDMD: Endpoint Distribution Matching for Few-Step Diffusion Distillation",
+      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy1mup/edmd_endpoint_distribution_matching_for_fewstep/",
+      "summary": "",
+      "date": "2026-11-16T21:20:16+00:00",
+      "image": "https://preview.redd.it/dpfwu8h2k12i1.jpeg?width=140&height=90&auto=webp&s=b26b752dce0a458baf40b80fe21e17f632c1b376",
+      "source": "r/StableDiffusion"
+    },
+    {
+      "title": "Anthropic- fear mongering",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xy1jc0/anthropic_fear_mongering/",
+      "summary": "",
+      "date": "2026-11-16T21:16:28+00:00",
       "image": "",
-      "source": "r/ChatGPT"
+      "source": "r/OpenAI"
+    },
+    {
+      "title": "Why the wheels are falling off the AI investment boom....will the anthropic float be a liquidity test?",
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xy1gkz/why_the_wheels_are_falling_off_the_ai_investment/",
+      "summary": "",
+      "date": "2026-11-16T21:13:33+00:00",
+      "image": "https://external-preview.redd.it/5vvLjjPnPeCVDCIRoMZmW9KhEcGtbJClLjfydtypQDU.jpeg?width=640&crop=smart&auto=webp&s=e14682012b527256ee099583e402c8be424a9bb2",
+      "source": "r/OpenAI"
     },
     {
       "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
@@ -822,14 +870,6 @@
       "date": "2026-11-16T21:03:36+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "I gave ChatGPT and Claude rival pizza shops. They both bought fake reviews",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xy14yn/i_gave_chatgpt_and_claude_rival_pizza_shops_they/",
-      "summary": "",
-      "date": "2026-11-16T21:01:17+00:00",
-      "image": "https://preview.redd.it/7up3whv2f12i1.jpeg?width=640&crop=smart&auto=webp&s=9022b0dd01f76edc62ddd50d5b1285d89cd70771",
-      "source": "r/ChatGPT"
     },
     {
       "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
