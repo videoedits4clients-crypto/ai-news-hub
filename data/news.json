@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:50:56.553380+00:00",
+  "updated": "2026-11-17T08:06:54.596380+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -128,29 +128,25 @@
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
         }
       ]
-    },
-    {
-      "count": 2,
-      "title": "Introducing ChatGPT Wallet",
-      "date": "2026-11-13T15:00:00+00:00",
-      "sources": [
-        "OpenAI News"
-      ],
-      "links": [
-        {
-          "source": "OpenAI News",
-          "title": "Introducing ChatGPT Wallet",
-          "link": "https://openai.com/index/introducing-chatgpt-wallet"
-        },
-        {
-          "source": "OpenAI News",
-          "title": "Introducing Businesses in ChatGPT",
-          "link": "https://openai.com/index/introducing-businesses-chatgpt"
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "title": "Google Maps adds AI trip itineraries as Ask Maps expands to 30 European countries",
+      "link": "https://www.reddit.com/r/artificial/comments/1xyekpk/google_maps_adds_ai_trip_itineraries_as_ask_maps/",
+      "summary": "",
+      "date": "2026-11-17T07:52:12+00:00",
+      "image": "",
+      "source": "r/artificial"
+    },
+    {
+      "title": "Share your browser.md for Ai Agents",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyejus/share_your_browsermd_for_ai_agents/",
+      "summary": "",
+      "date": "2026-11-17T07:50:41+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
     {
       "title": "CMU 11-768: AI Agents",
       "link": "https://www.cmu-agents.com/#/schedule",
@@ -382,14 +378,6 @@
       "date": "2026-11-17T05:11:48+00:00",
       "image": "",
       "source": "r/MachineLearning"
-    },
-    {
-      "title": "Single 3060 - Mostly Vision (Frigate)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xybrqd/single_3060_mostly_vision_frigate/",
-      "summary": "",
-      "date": "2026-11-17T05:05:53+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
     },
     {
       "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
@@ -1160,14 +1148,6 @@
       "source": "The Register"
     },
     {
-      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxz5tu/reports_of_airelated_child_sexual_abuse_material/",
-      "summary": "",
-      "date": "2026-11-16T19:46:58+00:00",
-      "image": "https://external-preview.redd.it/8GyelXnJCbKl0nLPRcR11F_erbViZUay11r41hj-C1o.jpeg?width=640&crop=smart&auto=webp&s=b8c917e9047de1e8ae54c2dbf1ad5f71e7157b04",
-      "source": "r/artificial"
-    },
-    {
       "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
       "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
       "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
@@ -1352,12 +1332,12 @@
       "source": "r/LocalLLaMA"
     },
     {
-      "title": "AI usage as a database",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxw2js/ai_usage_as_a_database/",
+      "title": "Under 9gb model comparison",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/",
       "summary": "",
-      "date": "2026-11-16T17:51:54+00:00",
+      "date": "2026-11-16T17:39:46+00:00",
       "image": "",
-      "source": "r/AI_Agents"
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
@@ -2110,6 +2090,14 @@
       "date": "2026-11-16T00:42:45+00:00",
       "image": "",
       "source": "r/MachineLearning"
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+      "summary": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Ch",
+      "date": "2026-11-16T00:01:27+00:00",
+      "image": "",
+      "source": "The Guardian AI"
     },
     {
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -3342,14 +3330,6 @@
       "date": "2026-11-10T11:13:04+00:00",
       "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "date": "2026-11-10T10:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
     }
   ]
 }
