@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T09:36:22.489021+00:00",
+  "updated": "2026-11-17T09:50:54.766833+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -84,26 +84,6 @@
           "source": "Ars Technica AI",
           "title": "US moves to cut China’s remote access to AI chips",
           "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "MiniMax H3 Image - Morrigan",
-      "date": "2026-11-17T02:29:31+00:00",
-      "sources": [
-        "r/StableDiffusion"
-      ],
-      "links": [
-        {
-          "source": "r/StableDiffusion",
-          "title": "MiniMax H3 Image - Morrigan",
-          "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy8p5i/minimax_h3_image_morrigan/"
-        },
-        {
-          "source": "r/StableDiffusion",
-          "title": "Qwen image 2.1 & Minimax h3 image",
-          "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxp779/qwen_image_21_minimax_h3_image/"
         }
       ]
     },
@@ -213,6 +193,22 @@
   ],
   "items": [
     {
+      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+      "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+      "date": "2026-11-17T09:41:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Looking up",
+      "link": "https://www.reddit.com/r/singularity/comments/1xyg6ae/looking_up/",
+      "summary": "",
+      "date": "2026-11-17T09:34:41+00:00",
+      "image": "https://external-preview.redd.it/aWN0OTR0dTg3NTJpMdDcK1e3B2xPwLdQDQyzd10COhgcrFcpveOxLYb2csqR.png?width=640&crop=smart&auto=webp&s=89058b513c9e6cee970f8c6f050aea206abced4f",
+      "source": "r/singularity"
+    },
+    {
       "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
       "link": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/",
       "summary": "Article URL: https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/ Comments URL: https://news.ycombinator.com/item?id=50529310 Points: 1 # Comments: 0",
@@ -227,6 +223,14 @@
       "date": "2026-11-17T09:33:24+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Has anyone used external network tokens on Shopify checkout in production?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyg25j/has_anyone_used_external_network_tokens_on/",
+      "summary": "",
+      "date": "2026-11-17T09:27:24+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "Sora launch day: 32 community prompts, 17 felt right, and what the misses had in common",
@@ -245,12 +249,12 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "DLSS 5 upscale greyed (but frame gen working) need help to fix it",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyfo13/dlss_5_upscale_greyed_but_frame_gen_working_need/",
+      "title": "What do you let your AI assistant do without asking first?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyfsbi/what_do_you_let_your_ai_assistant_do_without/",
       "summary": "",
-      "date": "2026-11-17T09:01:36+00:00",
-      "image": "https://preview.redd.it/uafntt95152i1.png?width=320&crop=smart&auto=webp&s=7c53964152148dffe9ff8f83e21c6a1b5ab38221",
-      "source": "r/StableDiffusion"
+      "date": "2026-11-17T09:09:27+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
@@ -269,6 +273,22 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "[ Removed by Reddit ]",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyfmku/removed_by_reddit/",
+      "summary": "",
+      "date": "2026-11-17T08:59:31+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Your agent passes evals, but nobody will let it hit “send.” Here’s the rollout pattern we use to fix that.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyfkk4/your_agent_passes_evals_but_nobody_will_let_it/",
+      "summary": "",
+      "date": "2026-11-17T08:56:07+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Is AI underdelivering at work because of the tools, or because of how teams use them? One engineering leader’s test",
       "link": "https://www.reddit.com/r/artificial/comments/1xyfi5d/is_ai_underdelivering_at_work_because_of_the/",
       "summary": "",
@@ -285,12 +305,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Krea2/loras face consistency",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyf8xr/krea2loras_face_consistency/",
+      "title": "What do you verify before trusting a subagent handoff?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyf6nw/what_do_you_verify_before_trusting_a_subagent/",
       "summary": "",
-      "date": "2026-11-17T08:35:10+00:00",
+      "date": "2026-11-17T08:31:12+00:00",
       "image": "",
-      "source": "r/StableDiffusion"
+      "source": "r/AI_Agents"
     },
     {
       "title": "OpenAI survey",
@@ -309,6 +329,14 @@
       "source": "r/OpenAI"
     },
     {
+      "title": "We blocked a phrase in our inbox, they swapped one letter and got through again",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyf319/we_blocked_a_phrase_in_our_inbox_they_swapped_one/",
+      "summary": "",
+      "date": "2026-11-17T08:24:50+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "OpenAI keeps a deleted ChatGPT chat for up to 30 days, and its help page says you still can't get it back, not even through support",
       "link": "https://www.reddit.com/r/OpenAI/comments/1xyf1lb/openai_keeps_a_deleted_chatgpt_chat_for_up_to_30/",
       "summary": "",
@@ -323,6 +351,14 @@
       "date": "2026-11-17T08:16:26+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "For people running Ai agents in production: How do you prevent conflicting actions across the same transaction?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyext8/for_people_running_ai_agents_in_production_how_do/",
+      "summary": "",
+      "date": "2026-11-17T08:15:31+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "Show HN: Lantern – desktop app that maps your repo and reviews AI-written PRs",
@@ -357,6 +393,14 @@
       "source": "r/artificial"
     },
     {
+      "title": "Share your browser.md for Ai Agents",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyejus/share_your_browsermd_for_ai_agents/",
+      "summary": "",
+      "date": "2026-11-17T07:50:41+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "CMU 11-768: AI Agents",
       "link": "https://www.cmu-agents.com/#/schedule",
       "summary": "Article URL: https://www.cmu-agents.com/#/schedule Comments URL: https://news.ycombinator.com/item?id=50528586 Points: 1 # Comments: 0",
@@ -379,6 +423,14 @@
       "date": "2026-11-17T07:18:40+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "Hands-on workshop on building agentic frontends with AG-UI + CopilotKit (Angular & React), Nov 20, online",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xye1s9/handson_workshop_on_building_agentic_frontends/",
+      "summary": "",
+      "date": "2026-11-17T07:18:23+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "I fell for the trap - anyone else?",
@@ -405,14 +457,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Large LoRA Collection Helper Extension (Forge Neo)",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xydyog/large_lora_collection_helper_extension_forge_neo/",
-      "summary": "",
-      "date": "2026-11-17T07:13:07+00:00",
-      "image": "https://preview.redd.it/x1cegoqwg42i1.png?width=140&height=95&auto=webp&s=e971453dc92674defe969cc2d2bc74144321fb50",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Update: I offered to help founders with marketing. 125 DMs and 6 months later, we picked 2 startups. There were side quests.",
       "link": "https://www.reddit.com/r/artificial/comments/1xydxk9/update_i_offered_to_help_founders_with_marketing/",
       "summary": "",
@@ -429,14 +473,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "vid upscalers: RelayVSR (5x render speed) vs Starlight (more details)",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xydt2j/vid_upscalers_relayvsr_5x_render_speed_vs/",
-      "summary": "",
-      "date": "2026-11-17T07:03:28+00:00",
-      "image": "https://external-preview.redd.it/MnpoaThiY3ZvODFpMVxvc1yuARD4vb42Bw6cEr78dUCXzIJVykOQIoagFlrW.jpeg?width=640&crop=smart&auto=webp&s=cfa1ca180b8952cef59fe5492f9f646ad9199efa",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
       "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
       "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked wit",
@@ -447,7 +483,7 @@
     {
       "title": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
-      "summary": "AI systems can allow militaries to find and annihilate targets within seconds. A meaningful treaty must prioritise human control – and accountability Militaries around the world are increasingly relying on artificial intelligence to find, track and annihilate targets. An upcoming",
+      "summary": "AI systems can allow militaries to find and annihilate targets within seconds. A meaningful treaty must prioritise human control – and accountability Helen Clark is former head of the UN Development Programme and former prime minister of New Zealand, and member of The Elders Mili",
       "date": "2026-11-17T07:00:07+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -493,6 +529,14 @@
       "source": "r/singularity"
     },
     {
+      "title": "Our voice agent passes every metric we wrote and customers still complain. What are we not measuring?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xydhou/our_voice_agent_passes_every_metric_we_wrote_and/",
+      "summary": "",
+      "date": "2026-11-17T06:44:14+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Show HN: Backplane – An AI Development Environment for Hardware",
       "link": "https://backplaneworks.com/",
       "summary": "We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Code, Codex, OpenCode, Grok) to accelerate hardware development. You can use it \"autonomously\" or work alongside the agent, making changes or c",
@@ -501,20 +545,20 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Posewright: A Simple program to pose figures for img2img generations",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyd6gl/posewright_a_simple_program_to_pose_figures_for/",
-      "summary": "",
-      "date": "2026-11-17T06:25:15+00:00",
-      "image": "https://preview.redd.it/qwamwetc942i1.png?width=140&height=70&auto=webp&s=fc5515caf5bdac9a869829ad36eed8b203132925",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Quoting Go Proverbs",
       "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
       "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
       "date": "2026-11-17T06:16:26+00:00",
       "image": "",
       "source": "Simon Willison"
+    },
+    {
+      "title": "Everyone wants to automate the workflow. Who owns it when the automation breaks?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xycx96/everyone_wants_to_automate_the_workflow_who_owns/",
+      "summary": "",
+      "date": "2026-11-17T06:10:56+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
@@ -533,28 +577,20 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "onboarding voice agent read a caller's date of birth back when they asked it what do u have on file",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xycjms/onboarding_voice_agent_read_a_callers_date_of/",
+      "summary": "",
+      "date": "2026-11-17T05:49:26+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Anthropic S-1: $216bn of staff equity, $160bn still to grant",
       "link": "https://www.reddit.com/r/artificial/comments/1xycep1/anthropic_s1_216bn_of_staff_equity_160bn_still_to/",
       "summary": "",
       "date": "2026-11-17T05:41:32+00:00",
       "image": "https://external-preview.redd.it/XJD_Cv-TgrOXpqVPQJx2D2DwopUq57N0U-kRVULCRug.png?width=640&crop=smart&auto=webp&s=82b49cf4c830b4efb480533ba54404d3fddf3be2",
       "source": "r/artificial"
-    },
-    {
-      "title": "H3-Image Edit, Help with prompt for hair.",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xycavw/h3image_edit_help_with_prompt_for_hair/",
-      "summary": "",
-      "date": "2026-11-17T05:35:26+00:00",
-      "image": "https://preview.redd.it/fsu3bpdnw32i1.png?width=140&height=123&auto=webp&s=89aa63197596dae7cea6933ad86261c6ff64d1aa",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "ForgeNeo 3.32 not generating with Moss?",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyc3mv/forgeneo_332_not_generating_with_moss/",
-      "summary": "",
-      "date": "2026-11-17T05:24:11+00:00",
-      "image": "https://preview.redd.it/le99gzsey32i1.png?width=140&height=13&auto=webp&s=8f1dd9d55b1ed0590add7e114ffc546425d7d302",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
@@ -579,6 +615,14 @@
       "date": "2026-11-17T04:34:58+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "my agent has not deleted my repo (yet) - here is the dumb little routine that helps",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyb3gh/my_agent_has_not_deleted_my_repo_yet_here_is_the/",
+      "summary": "",
+      "date": "2026-11-17T04:29:27+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "DeepSeek usage limits over computing shortages raise doubts about sustainability of free service",
@@ -613,6 +657,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "I made agents you build in one sentence, and every decision they make is public. What would you want an agent like this to show?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyakhz/i_made_agents_you_build_in_one_sentence_and_every/",
+      "summary": "",
+      "date": "2026-11-17T04:01:46+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Show HN: Woolly, a local mem0-compatible memory API for AI agents",
       "link": "https://usewoolly.com/",
       "summary": "Article URL: https://usewoolly.com/ Comments URL: https://news.ycombinator.com/item?id=50527259 Points: 1 # Comments: 0",
@@ -645,14 +697,6 @@
       "source": "r/OpenAI"
     },
     {
-      "title": "RelayVSR 4x video upscale test",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xya9bn/relayvsr_4x_video_upscale_test/",
-      "summary": "",
-      "date": "2026-11-17T03:46:04+00:00",
-      "image": "https://external-preview.redd.it/emQ2eWpwejdnMzJpMfvOQI_1H-0vBvOpsFMZPgHXC4EKUJJGv5Z0TEFvNcFQ.png?width=640&crop=smart&auto=webp&s=8ad050b6d889e64884e00d1d71dfabd4483bbe8e",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Cloudflare open-sourced its browser for AI agents - it runs without Chromium",
       "link": "https://www.reddit.com/r/artificial/comments/1xya7o1/cloudflare_opensourced_its_browser_for_ai_agents/",
       "summary": "",
@@ -675,14 +719,6 @@
       "date": "2026-11-17T03:21:21+00:00",
       "image": "https://preview.redd.it/9gr5q2qhc32i1.png?width=640&crop=smart&auto=webp&s=91e83ed2e35eeafafdb57785e93400fe492151d6",
       "source": "r/singularity"
-    },
-    {
-      "title": "Any fix for the H3 Image pixel drift?",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy9jfp/any_fix_for_the_h3_image_pixel_drift/",
-      "summary": "",
-      "date": "2026-11-17T03:10:20+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
@@ -709,6 +745,14 @@
       "source": "r/OpenAI"
     },
     {
+      "title": "Anthropic's new \"Always-On Agents\" guide requires wiring up 5 pieces of infrastructure. I turned the whole blueprint into a single prompt inside Claude Code.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy9269/anthropics_new_alwayson_agents_guide_requires/",
+      "summary": "",
+      "date": "2026-11-17T02:46:59+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "NVIDIA's Vera Rubin makes its MLPerf debut: up to 2x training performance per GPU vs GB300, but the headline 10x agentic figure is still provisional",
       "link": "https://www.reddit.com/r/artificial/comments/1xy8wb5/nvidias_vera_rubin_makes_its_mlperf_debut_up_to/",
       "summary": "",
@@ -725,20 +769,20 @@
       "source": "BBC Technology"
     },
     {
-      "title": "MiniMax H3 Image - Morrigan",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy8p5i/minimax_h3_image_morrigan/",
-      "summary": "",
-      "date": "2026-11-17T02:29:31+00:00",
-      "image": "https://preview.redd.it/qx7s4ezp232i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bce58908489b0661daf3530557fff7586ae1825b",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Microsoft tested a coding-agent memory plugin. It cost more at first, then paid for itself.",
       "link": "https://www.reddit.com/r/artificial/comments/1xy8mj7/microsoft_tested_a_codingagent_memory_plugin_it/",
       "summary": "",
       "date": "2026-11-17T02:25:56+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "Coding agents with native environments, identity and access",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy8jln/coding_agents_with_native_environments_identity/",
+      "summary": "",
+      "date": "2026-11-17T02:21:59+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
@@ -765,14 +809,6 @@
       "source": "r/OpenAI"
     },
     {
-      "title": "When will Wan 3.0 be an open weight model, if ever?",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy6z7z/when_will_wan_30_be_an_open_weight_model_if_ever/",
-      "summary": "",
-      "date": "2026-11-17T01:07:24+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "The US just tightened AI chip export controls again — now targeting remote access to compute. Is this the new front in the chip war?",
       "link": "https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/",
       "summary": "",
@@ -797,20 +833,28 @@
       "source": "The Register"
     },
     {
-      "title": "HexAnima Fork: Offline AI image generation on Snapdragon 8 Gen 2 (Hexagon V73) — LoRAs, Civitai, Inpainting, HiRes Fix, ~7s generation, no root!",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy6bz7/hexanima_fork_offline_ai_image_generation_on/",
-      "summary": "",
-      "date": "2026-11-17T00:37:46+00:00",
-      "image": "https://preview.redd.it/ji0j4qfgj22i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=34efe8d3f393621bb7e325f4f675da73125b0298",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Artificial Intelligence and the Future of Human Flourishing: Purpose, Independence, and Meaning in an Automated World.",
       "link": "https://www.reddit.com/r/artificial/comments/1xy6b52/artificial_intelligence_and_the_future_of_human/",
       "summary": "",
       "date": "2026-11-17T00:36:37+00:00",
       "image": "",
       "source": "r/artificial"
+    },
+    {
+      "title": "I am a believer in AI running my email inbox now",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy5q4x/i_am_a_believer_in_ai_running_my_email_inbox_now/",
+      "summary": "",
+      "date": "2026-11-17T00:09:51+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Best AI tools for applying to jobs and writing resumes/CVs?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy5ogm/best_ai_tools_for_applying_to_jobs_and_writing/",
+      "summary": "",
+      "date": "2026-11-17T00:07:46+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "OpenAI News: \"Our first phase of embedded assessments\"",
@@ -917,14 +961,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "BBox Studio v1.3 released – A feature-rich intuitive standalone bounding box prompt editor for MOSS Image",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy43zb/bbox_studio_v13_released_a_featurerich_intuitive/",
-      "summary": "",
-      "date": "2026-11-16T23:00:54+00:00",
-      "image": "https://preview.redd.it/3d4kxy4w022i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=08e941b94c3b0e13432b0c2b5a5410f01ad2d18c",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbor",
@@ -963,14 +999,6 @@
       "date": "2026-11-16T22:14:47+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Love how MOSS manage light-dark and mix concept.",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy2t30/love_how_moss_manage_lightdark_and_mix_concept/",
-      "summary": "",
-      "date": "2026-11-16T22:07:04+00:00",
-      "image": "https://preview.redd.it/ukocgx26s12i1.jpeg?width=140&height=104&auto=webp&s=80d1dc2bdadf686226bf33815ff524aedcc43ab6",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -1013,20 +1041,28 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Best AI Agent platforms for enterprise customer support?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy1qz6/best_ai_agent_platforms_for_enterprise_customer/",
+      "summary": "",
+      "date": "2026-11-16T21:24:38+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "I'm the bottleneck of my own company",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy1quh/im_the_bottleneck_of_my_own_company/",
+      "summary": "",
+      "date": "2026-11-16T21:24:30+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Altman: \"If the sales pitch is ... we are going to offer you a cure to cancer and cheap stuff, and the price of that is you are going to lose all agency and control and voice in the future. You are going to live like a Labrador... I think it's a terrible sales pitch. I don't want that world.\"",
       "link": "https://www.reddit.com/r/singularity/comments/1xy1q6z/altman_if_the_sales_pitch_is_we_are_going_to/",
       "summary": "",
       "date": "2026-11-16T21:23:52+00:00",
       "image": "https://external-preview.redd.it/bGhkbDlzNHNnMTJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=6249bc3c92ee579bd3bc52a5dcb257c2c3438786",
       "source": "r/singularity"
-    },
-    {
-      "title": "eDMD: Endpoint Distribution Matching for Few-Step Diffusion Distillation",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy1mup/edmd_endpoint_distribution_matching_for_fewstep/",
-      "summary": "",
-      "date": "2026-11-16T21:20:16+00:00",
-      "image": "https://preview.redd.it/dpfwu8h2k12i1.jpeg?width=140&height=90&auto=webp&s=b26b752dce0a458baf40b80fe21e17f632c1b376",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
@@ -1085,6 +1121,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Best AIs to be paying for right now",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy0ews/best_ais_to_be_paying_for_right_now/",
+      "summary": "",
+      "date": "2026-11-16T20:33:32+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
       "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
       "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, u",
@@ -1117,28 +1161,12 @@
       "source": "r/singularity"
     },
     {
-      "title": "VFX Rendering with MiniMax H3",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy011y/vfx_rendering_with_minimax_h3/",
-      "summary": "",
-      "date": "2026-11-16T20:18:45+00:00",
-      "image": "https://external-preview.redd.it/ZGcyZjlrdnM4MTJpMWnLu954lCQ004rcjoBswV2i4pfpCuZgl7Q25McAlR9A.png?width=640&crop=smart&auto=webp&s=bd8d5a636fcc7c9a3cb74d62626ef1719b9a25c1",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "California state AG sues OpenAI over rogue agent incidents",
       "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "date": "2026-11-16T20:07:13+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Moss images, mini max videos. The fact you can slap something like this together locally is incredible. WW1 rap.",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxzlvx/moss_images_mini_max_videos_the_fact_you_can_slap/",
-      "summary": "",
-      "date": "2026-11-16T20:03:12+00:00",
-      "image": "https://external-preview.redd.it/dW5mcjA1ZGc2MTJpMS3CgXWMyPPMEHSl6FnSRuqnuYjCku0g0sb8ewl9j5hU.png?width=640&crop=smart&auto=webp&s=10847ce9db115730af5fca4baa3d56320d9d834e",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
@@ -1293,6 +1321,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "How do you orchestrate multiple agents ?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxwkp9/how_do_you_orchestrate_multiple_agents/",
+      "summary": "",
+      "date": "2026-11-16T18:10:48+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
       "title": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
       "link": "https://www.reddit.com/r/singularity/comments/1xxwerg/silicon_valley_leaders_back_call_for_jensen/",
       "summary": "",
@@ -1325,36 +1361,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "I’m in love with MiniMax H3 — a little Emotion Study",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv9qc/im_in_love_with_minimax_h3_a_little_emotion_study/",
-      "summary": "",
-      "date": "2026-11-16T17:21:44+00:00",
-      "image": "https://external-preview.redd.it/YjRsNXA1c29jMDJpMYKFKXHFmmSgv_x7v2SO1lckRLkfvhxBoebCggp5zwoh.png?width=640&crop=smart&auto=webp&s=dd116bccd5462f7d5af80c8abf1f68904da40485",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "What you want from a conscious AI is what you never got from people",
       "link": "https://www.reddit.com/r/artificial/comments/1xxv2yy/what_you_want_from_a_conscious_ai_is_what_you/",
       "summary": "",
       "date": "2026-11-16T17:14:37+00:00",
       "image": "",
       "source": "r/artificial"
-    },
-    {
-      "title": "Making consistent character creation easier",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv2au/making_consistent_character_creation_easier/",
-      "summary": "",
-      "date": "2026-11-16T17:13:51+00:00",
-      "image": "https://preview.redd.it/9700n0opb02i1.gif?frame=1&width=140&height=85&auto=webp&s=b5e8ac2bc6c77efa4a55128767765b707aa754b4",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "LongCat Video Avatar 1.6",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv09f/longcat_video_avatar_16/",
-      "summary": "",
-      "date": "2026-11-16T17:11:44+00:00",
-      "image": "https://external-preview.redd.it/cHF2bm1paWhiMDJpMUKJ7Oo9UfMDf70u3bkDMjOLFTZG3Eygx3X2vXiOoRk_.png?width=640&crop=smart&auto=webp&s=b804b1a4674db9a88976b52c4fb328620430cfa2",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -1387,6 +1399,14 @@
       "date": "2026-11-16T17:00:54+00:00",
       "image": "https://spectrum.ieee.org/media-library/collage-of-the-question-what-color-is-the-sky-surrounded-by-a-shiny-sun-sticker-geometric-grid-and-a-confidence-meter-at-7.jpg?id=68692558&width=980",
       "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Weekly Hiring Thread",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxupdh/weekly_hiring_thread/",
+      "summary": "",
+      "date": "2026-11-16T17:00:52+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
@@ -1443,14 +1463,6 @@
       "date": "2026-11-16T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "MiniMax-H3 V2V Masterclass is finally here",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxtuxg/minimaxh3_v2v_masterclass_is_finally_here/",
-      "summary": "",
-      "date": "2026-11-16T16:29:51+00:00",
-      "image": "https://external-preview.redd.it/eGN1YXB0OXEzMDJpMSoK5k2nlPbI7mzpWDBY_hGzmdbHJbQaqhH3skCgCW2x.png?width=640&crop=smart&auto=webp&s=4309c51ba8701fc9ee2087f373bb75b6d6d48112",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Chatgpt Plus vs Claude Pro Usage Limits",
@@ -1685,14 +1697,6 @@
       "source": "r/OpenAI"
     },
     {
-      "title": "What are we doing wrong with H3?",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxphrf/what_are_we_doing_wrong_with_h3/",
-      "summary": "",
-      "date": "2026-11-16T13:35:00+00:00",
-      "image": "https://preview.redd.it/bprl9dy79z1i1.jpeg?width=640&crop=smart&auto=webp&s=c95a5c50ac280d1f9b35b039b529bae1146045f0",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "GTA 6 hacker pleads guilty after release from secure hospital",
       "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
       "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
@@ -1715,14 +1719,6 @@
       "date": "2026-11-16T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Qwen image 2.1 & Minimax h3 image",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxp779/qwen_image_21_minimax_h3_image/",
-      "summary": "",
-      "date": "2026-11-16T13:21:40+00:00",
-      "image": "https://preview.redd.it/eqy2ky9h5z1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bbe54af1e79d8b007a71889feb65a9f56efe8c5f",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
@@ -1909,14 +1905,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "This 2017 song Technocrat from retired rapper Samsa is one of my favorites and I find it pretty relevant, lot's of talking points.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxidbf/this_2017_song_technocrat_from_retired_rapper/",
-      "summary": "",
-      "date": "2026-11-16T06:35:22+00:00",
-      "image": "https://external-preview.redd.it/NXZibTlld2w1eDFpMTYmzZaeGm_XbPXyePAOgM2n3KZnwjWTVWJjorc1pQgu.png?width=640&crop=smart&auto=webp&s=fc18887c9fafb53f92f85a7e540f0d7328d1e3f6",
-      "source": "r/singularity"
-    },
-    {
       "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
       "link": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
       "summary": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis Ministers are complacent in the face of fast-changing and increasingly interconnected threats to the UK, and must act quickly to increase national resilience to",
@@ -1933,12 +1921,12 @@
       "source": "r/singularity"
     },
     {
-      "title": "Brightness Issue Solved: Geiru Keystone Attention and Hybrid Improvements",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxhyy9/brightness_issue_solved_geiru_keystone_attention/",
+      "title": "Anthropic just mapped out the 5 primitives of always-on agents. I built them locally without a cloud stack—and across 1.51B tokens, 24/7 background runs used just 0.41% of my quota",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xxhtk5/anthropic_just_mapped_out_the_5_primitives_of/",
       "summary": "",
-      "date": "2026-11-16T06:11:48+00:00",
-      "image": "https://external-preview.redd.it/dnhmbmxoY20weDFpMegDdCxWiRgvLnLgpNgOtAL37MfiIg6zaux8E9i-M04s.png?width=640&crop=smart&auto=webp&s=d36af73453270dca09b4dbeaeb070b636da50a0f",
-      "source": "r/StableDiffusion"
+      "date": "2026-11-16T06:02:53+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "More ways to move care forward with ChatGPT for Healthcare",
@@ -1971,14 +1959,6 @@
       "date": "2026-11-16T03:04:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "State of the Sub - 1M Members Reached!",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxehp8/state_of_the_sub_1m_members_reached/",
-      "summary": "",
-      "date": "2026-11-16T03:01:41+00:00",
-      "image": "https://preview.redd.it/5miv9nokyv1i1.png?width=140&height=118&auto=webp&s=520dd48f07cad6a1fa8465aff424d438206c41ea",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Highly anticipated Qwen4 Max scores a disappointing 43 on Artificial Analysis.",
@@ -2541,14 +2521,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "date": "2026-11-13T21:15:41+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "Advancing science & engineering with Antigravity’s /teamwork",
       "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
       "summary": "Education Innovation",
@@ -2955,6 +2927,14 @@
       "date": "2026-11-11T17:00:38+00:00",
       "image": "",
       "source": "Meta AI Engineering"
+    },
+    {
+      "title": "Weekly Thread: Project Display",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xtn3pe/weekly_thread_project_display/",
+      "summary": "",
+      "date": "2026-11-11T17:00:21+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
     },
     {
       "title": "“Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3",
