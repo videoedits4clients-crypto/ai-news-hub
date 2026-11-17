@@ -18,6 +18,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from ai_filter import is_ai_story
+from digest_text import format_digest, pick_stories
 
 ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "feeds.json"
@@ -25,6 +26,7 @@ OUTPUT_FILE = ROOT / "data" / "news.json"
 
 MAX_PER_FEED = 25
 MAX_TOTAL = 400
+DIGEST_TOP = 6          # stories in the ready-to-forward digest
 TIMEOUT = 20
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
@@ -279,6 +281,12 @@ def main() -> int:
             trend_lines.append("   " + " · ".join(srcs))
     (ROOT / "data" / "trending.txt").write_text("\n".join(trend_lines) + "\n",
                                                 encoding="utf-8")
+
+    # The ready-to-forward digest text, built here so it is never more than
+    # 15 minutes old. The daily job only sends it, so an assistant fetching at
+    # 8:10am cannot catch yesterday's copy while a slow job is still running.
+    digest = format_digest(pick_stories(payload, DIGEST_TOP))
+    (ROOT / "data" / "digest.txt").write_text(digest + "\n", encoding="utf-8")
 
     print(f"\nWrote {len(unique)} articles -> {OUTPUT_FILE.relative_to(ROOT)}")
     if errors:
