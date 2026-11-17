@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:20:57.861194+00:00",
+  "updated": "2026-11-17T15:36:59.407158+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -107,40 +107,84 @@
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
         }
       ]
+    },
+    {
+      "count": 2,
+      "title": "Introducing ChatGPT Wallet",
+      "date": "2026-11-13T15:00:00+00:00",
+      "sources": [
+        "OpenAI News"
+      ],
+      "links": [
+        {
+          "source": "OpenAI News",
+          "title": "Introducing ChatGPT Wallet",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet"
+        },
+        {
+          "source": "OpenAI News",
+          "title": "Introducing Businesses in ChatGPT",
+          "link": "https://openai.com/index/introducing-businesses-chatgpt"
+        }
+      ]
     }
   ],
   "items": [
     {
-      "title": "Can I replace Claude Code with something equally powerful for under $10/month?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyn3q9/can_i_replace_claude_code_with_something_equally/",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "date": "2026-11-17T15:28:59+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "I just created Alex Hormozi's brain.",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyn9jb/i_just_created_alex_hormozis_brain/",
       "summary": "",
-      "date": "2026-11-17T15:19:05+00:00",
+      "date": "2026-11-17T15:25:25+00:00",
       "image": "",
       "source": "r/AI_Agents"
     },
     {
-      "title": "Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs",
-      "link": "https://heyatli.com/mcp",
-      "summary": "Article URL: https://heyatli.com/mcp Comments URL: https://news.ycombinator.com/item?id=50532519 Points: 1 # Comments: 0",
-      "date": "2026-11-17T15:16:52+00:00",
+      "title": "Can I replace Claude Code with something equally powerful for under $10/month?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyn8x6/can_i_replace_claude_code_with_something_equally/",
+      "summary": "",
+      "date": "2026-11-17T15:24:45+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "r/AI_Agents"
     },
     {
-      "title": "Why No AI",
-      "link": "https://whynoai.info/",
-      "summary": "Article URL: https://whynoai.info/ Comments URL: https://news.ycombinator.com/item?id=50532490 Points: 1 # Comments: 0",
-      "date": "2026-11-17T15:14:32+00:00",
+      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
+      "date": "2026-11-17T15:18:35+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "CNBC Technology"
     },
     {
-      "title": "An AI toy for 3-year-olds described gang rape. Major retailers are pulling it",
-      "link": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588 Comments URL: https://news.ycombinator.com/item?id=50532480 Points: 2 # Comments: 0",
-      "date": "2026-11-17T15:13:34+00:00",
+      "title": "Has ChatGPT's Behavior Improved, or Are You Still Experiencing Issues? (Follow-up Poll)",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xyn2ek/has_chatgpts_behavior_improved_or_are_you_still/",
+      "summary": "",
+      "date": "2026-11-17T15:17:38+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "r/ChatGPT"
+    },
+    {
+      "title": "Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+      "date": "2026-11-17T15:17:16+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/",
+      "summary": "",
+      "date": "2026-11-17T15:14:24+00:00",
+      "image": "https://preview.redd.it/y6w814wqv62i1.png?width=640&crop=smart&auto=webp&s=6fa88f82c2200192db148ff093f092b9d981efed",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "ICLR reviewer radio silence, what is the actual reason? [D]",
@@ -151,20 +195,20 @@
       "source": "r/MachineLearning"
     },
     {
+      "title": "How to make it talk faster in voice mode",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xymwko/how_to_make_it_talk_faster_in_voice_mode/",
+      "summary": "",
+      "date": "2026-11-17T15:11:23+00:00",
+      "image": "",
+      "source": "r/ChatGPT"
+    },
+    {
       "title": "Google found exploit_agent, a framework that turns fresh patches into live exploits with no human in the loop",
       "link": "https://www.reddit.com/r/artificial/comments/1xymsku/google_found_exploit_agent_a_framework_that_turns/",
       "summary": "",
       "date": "2026-11-17T15:06:58+00:00",
       "image": "",
       "source": "r/artificial"
-    },
-    {
-      "title": "Emet: Code checking AI. Not another model grading the answer",
-      "link": "https://emet.so/platform",
-      "summary": "Article URL: https://emet.so/platform Comments URL: https://news.ycombinator.com/item?id=50532373 Points: 2 # Comments: 0",
-      "date": "2026-11-17T15:06:09+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
@@ -175,44 +219,20 @@
       "source": "The Register"
     },
     {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a spec",
+      "date": "2026-11-17T15:00:00+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "How to Govern Coding Agent Skills Across Repos With Plugins",
       "link": "https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/",
       "summary": "Package skills, rules, hooks, and MCP tool configs as versioned plugins, then distribute them through a marketplace, shown with Claude Code and AWS. The post How to Govern Coding Agent Skills Across Repos With Plugins appeared first on Towards Data Science .",
       "date": "2026-11-17T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "I spoke to seven physics experts grappling with the AI revolution",
-      "link": "https://www.understandingai.org/p/i-spoke-to-seven-physics-experts",
-      "summary": "Article URL: https://www.understandingai.org/p/i-spoke-to-seven-physics-experts Comments URL: https://news.ycombinator.com/item?id=50532263 Points: 1 # Comments: 0",
-      "date": "2026-11-17T14:58:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "How AI agents shape experts' judgment calls",
-      "link": "https://www.anthropic.com/research/agents-judgment-calls",
-      "summary": "Article URL: https://www.anthropic.com/research/agents-judgment-calls Comments URL: https://news.ycombinator.com/item?id=50532233 Points: 1 # Comments: 0",
-      "date": "2026-11-17T14:56:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Poland can build the coolest AI data center and get cheaper natural gas",
-      "link": "https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-center-cheaper-gas",
-      "summary": "Article URL: https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-center-cheaper-gas Comments URL: https://news.ycombinator.com/item?id=50532196 Points: 3 # Comments: 0",
-      "date": "2026-11-17T14:54:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
-      "date": "2026-11-17T14:51:41+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
@@ -223,14 +243,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "AI music company claims copyright over musician's recording, gets video removed",
-      "link": "https://www.techspot.com/news/114585-ai-music-company-claims-copyright-over-musician-own.html",
-      "summary": "Article URL: https://www.techspot.com/news/114585-ai-music-company-claims-copyright-over-musician-own.html Comments URL: https://news.ycombinator.com/item?id=50532154 Points: 2 # Comments: 0",
-      "date": "2026-11-17T14:50:53+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
       "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
       "summary": "Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works? This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Hello, and welcome to TechScape",
@@ -239,12 +251,12 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "A cheap, private alternative to Meta's AI keychain, by hacking a ZNP badge",
-      "link": "https://github.com/devniz/znp-re",
-      "summary": "Article URL: https://github.com/devniz/znp-re Comments URL: https://news.ycombinator.com/item?id=50532143 Points: 1 # Comments: 0",
-      "date": "2026-11-17T14:50:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "I benchmarked over 130 LLM configs with multiple stacked 16GB \"e-waste\" GPUs (V100, P100, K80)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xymcjb/i_benchmarked_over_130_llm_configs_with_multiple/",
+      "summary": "",
+      "date": "2026-11-17T14:49:19+00:00",
+      "image": "https://preview.redd.it/zt15v0d8r62i1.jpeg?width=140&height=93&auto=webp&s=6331d244f2faf90a26bc03d6edbb537aabd2a780",
+      "source": "r/LocalLLaMA"
     },
     {
       "title": "Serious downgrade",
@@ -277,22 +289,6 @@
       "date": "2026-11-17T14:44:22+00:00",
       "image": "",
       "source": "r/MachineLearning"
-    },
-    {
-      "title": "Jensen Huang Liked Selling China Advanced AI Chips",
-      "link": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
-      "summary": "Article URL: https://thezvi.substack.com/p/jensen-huang-really-liked-selling Comments URL: https://news.ycombinator.com/item?id=50532060 Points: 5 # Comments: 0",
-      "date": "2026-11-17T14:43:18+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia shares try to rebound ahead of earnings as company company reels from Huang resignation",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
-      "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
-      "date": "2026-11-17T14:40:03+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Research Reports",
@@ -367,30 +363,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "I gave an existing GitHub repository to DevScribe's AI agent, and it turned the codebase into a complete engineering workspace for just $0.05",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xylob4/i_gave_an_existing_github_repository_to/",
-      "summary": "",
-      "date": "2026-11-17T14:21:57+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 60 # Comments: 36",
-      "date": "2026-11-17T14:19:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "you're shipping AI agents blind",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xylmio/youre_shipping_ai_agents_blind/",
-      "summary": "",
-      "date": "2026-11-17T14:19:53+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
-    },
-    {
       "title": "Are those that advocate against open weight models public enemy #1 ?",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/",
       "summary": "",
@@ -399,44 +371,12 @@
       "source": "r/LocalLLaMA"
     },
     {
-      "title": "Every Role but Author: Directing AI Agents on Mission-Critical Infrastructure",
-      "link": "https://www.cycletime.com/writing/every-role-but-author/",
-      "summary": "Article URL: https://www.cycletime.com/writing/every-role-but-author/ Comments URL: https://news.ycombinator.com/item?id=50531701 Points: 2 # Comments: 1",
-      "date": "2026-11-17T14:16:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "NYC's idea of fining chatbot 'doom loops' should be the default everywhere: every support bot needs a guaranteed human exit within 3 messages",
       "link": "https://www.reddit.com/r/artificial/comments/1xyljcr/nycs_idea_of_fining_chatbot_doom_loops_should_be/",
       "summary": "",
       "date": "2026-11-17T14:16:07+00:00",
       "image": "",
       "source": "r/artificial"
-    },
-    {
-      "title": "AI crawlers read my site more than Google does. A third of Googlebots were fake",
-      "link": "https://opensource-analytics.com/ai-crawlers-in-access-logs/",
-      "summary": "Article URL: https://opensource-analytics.com/ai-crawlers-in-access-logs/ Comments URL: https://news.ycombinator.com/item?id=50531643 Points: 1 # Comments: 1",
-      "date": "2026-11-17T14:13:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Revix AI – PR review against the standards your repo follows",
-      "link": "https://www.revix.ai",
-      "summary": "Hello, I’m Oscar. I’ve been leading dev teams from Barcelona with my cofounder Uri for a long time. We pushed the use of AI a lot, allowing an increase in the code shipment velocity, but our job as seniors moved from building to just reviewing. We also started to see a lot of dri",
-      "date": "2026-11-17T14:11:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Solveit: Take back your agency. (from fast.ai)",
-      "link": "https://solve.it.com/",
-      "summary": "Article URL: https://solve.it.com/ Comments URL: https://news.ycombinator.com/item?id=50531623 Points: 1 # Comments: 1",
-      "date": "2026-11-17T14:11:22+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anyone else getting this message today for no reason?",
@@ -535,14 +475,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "A shared AI works for the meeting. Yours works for you",
-      "link": "https://ethanflow.com/writing/whose-ai-in-the-meeting/",
-      "summary": "Article URL: https://ethanflow.com/writing/whose-ai-in-the-meeting/ Comments URL: https://news.ycombinator.com/item?id=50531410 Points: 2 # Comments: 0",
-      "date": "2026-11-17T13:55:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/",
       "summary": "",
@@ -557,30 +489,6 @@
       "date": "2026-11-17T13:45:14+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "Planning, data and AI: where human judgment takes over",
-      "link": "https://www.bmj.com/content/395/bmj-2026-101449",
-      "summary": "Article URL: https://www.bmj.com/content/395/bmj-2026-101449 Comments URL: https://news.ycombinator.com/item?id=50531265 Points: 2 # Comments: 0",
-      "date": "2026-11-17T13:43:33+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Unauthorized third-party AI agents or assistants",
-      "link": "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html",
-      "summary": "Article URL: https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=50531226 Points: 2 # Comments: 1",
-      "date": "2026-11-17T13:41:08+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
-      "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold Comments URL: https://news.ycombinator.com/item?id=50531120 Points: 1 # Comments: 0",
-      "date": "2026-11-17T13:33:09+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.",
@@ -631,22 +539,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
-      "link": "https://united24media.com/world/russian-speaking-hackers-launched-first-fully-automated-ai-cyberattack-google-says-24451",
-      "summary": "Article URL: https://united24media.com/world/russian-speaking-hackers-launched-first-fully-automated-ai-cyberattack-google-says-24451 Comments URL: https://news.ycombinator.com/item?id=50531037 Points: 2 # Comments: 0",
-      "date": "2026-11-17T13:24:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Bringing Proton's private AI tools to everyone with Lumo Desktop",
-      "link": "https://proton.me/blog/lumo-desktop-features",
-      "summary": "Article URL: https://proton.me/blog/lumo-desktop-features Comments URL: https://news.ycombinator.com/item?id=50531030 Points: 1 # Comments: 0",
-      "date": "2026-11-17T13:24:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "AI for Chronic Pain?",
       "link": "https://www.reddit.com/r/ChatGPT/comments/1xykbsr/ai_for_chronic_pain/",
       "summary": "",
@@ -655,28 +547,12 @@
       "source": "r/ChatGPT"
     },
     {
-      "title": "AI Notetakers Are Obsolete. The Next Fight Is over Your Questions",
-      "link": "https://medium.com/@priyanshu.shekhar/ai-notetakers-are-already-obsolete-the-next-fight-is-over-your-questions-5a51e8db2d6b",
-      "summary": "Article URL: https://medium.com/@priyanshu.shekhar/ai-notetakers-are-already-obsolete-the-next-fight-is-over-your-questions-5a51e8db2d6b Comments URL: https://news.ycombinator.com/item?id=50530989 Points: 3 # Comments: 0",
-      "date": "2026-11-17T13:20:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Gemma 4 twice as fast on Ryzen AI Max+ 395",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/",
       "summary": "",
       "date": "2026-11-17T13:04:43+00:00",
       "image": "https://external-preview.redd.it/OXl5b2lkMHE4NjJpMd0NjAMJPOuj31Ns4kzQdYF8RkwUJ82FtKNnvwNn4Ir3.png?width=320&crop=smart&auto=webp&s=d9b7e767588b636e33f064e7ca794e78f0bd9443",
       "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "I Built My Own AI Agent Orchestration Tool",
-      "link": "https://www.checklyhq.com/blog/agentic-crafting-table-ai-agent-orchestration/",
-      "summary": "Article URL: https://www.checklyhq.com/blog/agentic-crafting-table-ai-agent-orchestration/ Comments URL: https://news.ycombinator.com/item?id=50530784 Points: 5 # Comments: 0",
-      "date": "2026-11-17T13:00:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
@@ -703,36 +579,12 @@
       "source": "r/AI_Agents"
     },
     {
-      "title": "Codebase RAG vs. grep for AI agents:the same grep hits scored 10, 30 or 34 of 40",
-      "link": "https://tobiasuhlig.medium.com/codebase-rag-vs-grep-for-ai-coding-agents-the-same-grep-hits-scored-10-30-or-34-of-40-5f8738c2e766",
-      "summary": "Article URL: https://tobiasuhlig.medium.com/codebase-rag-vs-grep-for-ai-coding-agents-the-same-grep-hits-scored-10-30-or-34-of-40-5f8738c2e766 Comments URL: https://news.ycombinator.com/item?id=50530738 Points: 1 # Comments: 0",
-      "date": "2026-11-17T12:54:42+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "We built Jarvis, our AI team member for every department",
-      "link": "https://www.searchagora.com/blog/how-we-built-jarvis-our-ai-team-member-for-every-department",
-      "summary": "Article URL: https://www.searchagora.com/blog/how-we-built-jarvis-our-ai-team-member-for-every-department Comments URL: https://news.ycombinator.com/item?id=50530734 Points: 3 # Comments: 0",
-      "date": "2026-11-17T12:53:32+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Gemma on a printer",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
       "summary": "",
       "date": "2026-11-17T12:48:09+00:00",
       "image": "https://preview.redd.it/983mx7nl562i1.png?width=640&crop=smart&auto=webp&s=42dab29918167c6e604b9c8021674a622dc31ff0",
       "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "ChatGPT app uses too much RAM on Windows 11",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xyjfx0/chatgpt_app_uses_too_much_ram_on_windows_11/",
-      "summary": "",
-      "date": "2026-11-17T12:41:06+00:00",
-      "image": "https://preview.redd.it/1bchb2fy362i1.png?width=140&height=29&auto=webp&s=5696f35060d89993c98fff8045db4c68f2723689",
-      "source": "r/ChatGPT"
     },
     {
       "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
@@ -757,14 +609,6 @@
       "date": "2026-11-17T12:26:24+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "Days of the week posting",
-      "link": "https://www.reddit.com/r/ChatGPT/comments/1xyj3dt/days_of_the_week_posting/",
-      "summary": "",
-      "date": "2026-11-17T12:23:28+00:00",
-      "image": "",
-      "source": "r/ChatGPT"
     },
     {
       "title": "Would you let your agent volunteer its idle hours for research? Last time most of you said no, so here's what we changed",
@@ -1271,14 +1115,6 @@
       "source": "r/artificial"
     },
     {
-      "title": "Hugging Face switched its language model inference routing to OpenRouter",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
-      "summary": "",
-      "date": "2026-11-17T03:16:54+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
       "summary": "",
@@ -1767,14 +1603,6 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "Open weight models account for 30% usage at enterprises to save money",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/",
-      "summary": "",
-      "date": "2026-11-16T18:38:24+00:00",
-      "image": "",
-      "source": "r/LocalLLaMA"
-    },
-    {
       "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
       "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
       "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. ",
@@ -1871,14 +1699,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
-      "date": "2026-11-16T17:01:35+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
       "link": "https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models",
       "summary": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev . The company’s broad, disruptive claims about Jev that turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate. TypeSafe AI’s market",
@@ -1941,14 +1761,6 @@
       "date": "2026-11-16T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
-      "link": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-      "summary": "Securing supply chains or coercing other nations to help Washington sideline Beijing and its AI ambitions?",
-      "date": "2026-11-16T16:15:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5244738&width=800",
-      "source": "The Register"
     },
     {
       "title": "Jensen Huang Is Gone. Now What?",
@@ -2471,14 +2283,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "date": "2026-11-15T21:56:35+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
       "summary": "",
@@ -2903,14 +2707,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Microsoft Research Focus – Edition #98",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
-      "date": "2026-11-12T21:31:57+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
@@ -2925,14 +2721,6 @@
       "date": "2026-11-12T20:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "date": "2026-11-12T19:59:59+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-      "source": "Ars Technica AI"
     },
     {
       "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
@@ -3263,14 +3051,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
-      "date": "2026-11-10T20:52:56+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "What happens to mathematics when AI becomes an oracle?",
       "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
@@ -3309,6 +3089,246 @@
       "date": "2026-11-10T16:59:31+00:00",
       "image": "",
       "source": "Meta AI Engineering"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the f",
+      "date": "2026-11-10T16:00:03+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "date": "2026-11-10T15:00:39+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "date": "2026-11-10T12:15:32+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28+00:00",
+      "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "date": "2026-11-10T12:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "date": "2026-11-10T10:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat ",
+      "date": "2026-11-10T07:28:21+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplic",
+      "date": "2026-11-10T05:34:14+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Yonkers Rises",
+      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animati",
+      "date": "2026-11-10T03:53:04+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "summary": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "link": "https://huggingface.co/blog/decision",
+      "summary": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "llm-anthropic 0.31",
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! ",
+      "date": "2026-11-09T23:58:46+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Locating the source of a mysterious beep with Claude",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was f",
+      "date": "2026-11-09T23:57:21+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Exploring the world's languages with Language Explorer",
+      "link": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "summary": "Natural Language Processing",
+      "date": "2026-11-09T20:29:39+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LanguageExplorer-hero.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest",
+      "date": "2026-11-09T19:35:33+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "date": "2026-11-09T17:24:26+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+      "date": "2026-11-09T17:05:43+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU and GPU as separate debugger processes whi",
+      "date": "2026-11-09T17:00:12+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
+      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+      "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "summary": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yiel",
+      "date": "2026-11-09T16:25:06+00:00",
+      "image": "https://spectrum.ieee.org/media-library/collage-of-indoor-drone-flight-phone-controls-and-operator-at-computer-workstation.jpg?id=68578379&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "date": "2026-11-09T15:23:20+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is ",
+      "date": "2026-11-09T14:00:01+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "link": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a theorem:…An evocative taste of the singula",
+      "date": "2026-11-09T13:31:34+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
+      "date": "2026-11-09T13:00:00+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "summary": "",
+      "date": "2026-11-09T12:34:29+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconduct",
+      "date": "2026-11-09T08:00:53+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and auto",
+      "date": "2026-11-09T05:00:40+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell",
+      "date": "2026-11-09T05:00:39+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
+      "source": "NVIDIA Blog"
     }
   ]
 }
