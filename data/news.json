@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:20:49.476610+00:00",
+  "updated": "2026-11-17T19:37:17.108631+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -131,6 +131,26 @@
           "source": "Microsoft Research",
           "title": "Microsoft Research Focus – Edition #97",
           "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "date": "2026-09-24T16:20:39+00:00",
+      "sources": [
+        "Google DeepMind"
+      ],
+      "links": [
+        {
+          "source": "Google DeepMind",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+        },
+        {
+          "source": "Google DeepMind",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
         }
       ]
     }
@@ -337,14 +357,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "How to Improve Coding Agent Efficiency by 30% with an Orchestrator",
-      "link": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
-      "summary": "Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling. The post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on Towards Data Science .",
-      "date": "2026-11-17T16:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "The DOJ says it’s investigating Megaspeed",
       "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
       "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically co",
@@ -383,14 +395,6 @@
       "date": "2026-11-17T15:00:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "How to Govern Coding Agent Skills Across Repos With Plugins",
-      "link": "https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/",
-      "summary": "Package skills, rules, hooks, and MCP tool configs as versioned plugins, then distribute them through a marketplace, shown with Claude Code and AWS. The post How to Govern Coding Agent Skills Across Repos With Plugins appeared first on Towards Data Science .",
-      "date": "2026-11-17T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
@@ -521,14 +525,6 @@
       "source": "The Register"
     },
     {
-      "title": "Google ADK Agents That Pause, Resume, and Wait Hours for a Human",
-      "link": "https://towardsdatascience.com/google-adk-agents-that-pause-resume-and-wait-hours-for-a-human/",
-      "summary": "A synchronous call kept an RSS agent's connection open for 83 seconds; webhooks and 202 receipts free the client while the agent works. The post Google ADK Agents That Pause, Resume, and Wait Hours for a Human appeared first on Towards Data Science .",
-      "date": "2026-11-17T13:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
       "link": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
       "summary": "Data center policy has become a key election issue in Spain, creating an obstacle to existing deals and potentially costing billions of dollars in investment.",
@@ -583,14 +579,6 @@
       "date": "2026-11-17T12:00:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "How to Design MCP Servers That Leave Orchestration to the Host",
-      "link": "https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host/",
-      "summary": "A Python SDK v2 catalogue server with two narrow tools, one resource, and one prompt shows how to keep planning, workflow state, and authorisation host-side. The post How to Design MCP Servers That Leave Orchestration to the Host appeared first on Towards Data Science .",
-      "date": "2026-11-17T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
@@ -1129,14 +1117,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th",
-      "link": "https://towardsdatascience.com/after-10-heads-in-a-row-small-llms-bet-up-to-82-on-an-11th/",
-      "summary": "Telling eight base and instruction-tuned open models that the coin is fair and the flips are independent trims their streak bias by only a few points. The post After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th appeared first on Towards Data Science .",
-      "date": "2026-11-16T16:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Jensen Huang Is Gone. Now What?",
       "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
       "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
@@ -1209,14 +1189,6 @@
       "source": "NVIDIA Blog"
     },
     {
-      "title": "Why Human in the Loop AI Oversight Fails and How to Fix It",
-      "link": "https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/",
-      "summary": "Kahneman's System 1 and System 2, plus the ODPS, ODCS, and Ossie standards, show how to wake reviewers up only when a check fails. The post Why Human in the Loop AI Oversight Fails and How to Fix It appeared first on Towards Data Science .",
-      "date": "2026-11-16T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
       "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
@@ -1241,14 +1213,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "How to Avoid AI Replacement as an Analytics Professional in 2027",
-      "link": "https://towardsdatascience.com/how-to-avoid-ai-replacement-as-an-analytics-professional-in-2027/",
-      "summary": "Lessons from manufacturing and logistics projects: follow data from input to output, then turn vague requests into deterministic tools teams trust. The post How to Avoid AI Replacement as an Analytics Professional in 2027 appeared first on Towards Data Science .",
-      "date": "2026-11-16T13:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
       "link": "https://www.cnbc.com/2026/11/16/morning-squawk-nvidia-share-calls-reinstate-huang-ceo.html",
       "summary": "Chip stocks are in the red as exports face additional scrutiny",
@@ -1271,14 +1235,6 @@
       "date": "2026-11-16T12:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "Local LLMs Handle Textbook RAG but Fail on New Research Papers",
-      "link": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/",
-      "summary": "Five setups, one blind grading pack: textbook scores ran 12 to 20 of 20, but a paper published this year dropped them to 0 to 9 of 15. The post Local LLMs Handle Textbook RAG but Fail on New Research Papers appeared first on Towards Data Science .",
-      "date": "2026-11-16T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
@@ -1489,14 +1445,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
-      "link": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/",
-      "summary": "How autonomous agents turn static knowledge graphs into living Context Graphs that remember decisions, user intent, and operational history The post A Practitioner's Guide to 6 Agentic GraphRAG Patterns appeared first on Towards Data Science .",
-      "date": "2026-11-15T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
       "summary": "The role AI played in job losses at Australia’s NAB, Qantas, Canva and Atlassian is far from clear – but it may prove to have more impact on the stock market than the jobs market Get our breaking news email , free app or daily news podcast In 1987, the Nobel prize winning economi",
@@ -1511,14 +1459,6 @@
       "date": "2026-11-15T13:37:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
-      "link": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
-      "summary": "Local and global variants, Fisher estimation, epsilon-ball sampling, and log-space stability, with PennyLane code and a time-series experiment. The post Computing Effective Dimension for Quantum ML Models in PyTorch appeared first on Towards Data Science .",
-      "date": "2026-11-15T13:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "AI DJs Completely Kill My Groove",
@@ -1617,28 +1557,12 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "How to Build a Markov Chain in Python With NumPy",
-      "link": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/",
-      "summary": "A step-by-step guide to transition matrices, the Chapman–Kolmogorov equation, and stationary distributions, built around a three-state writing example. The post How to Build a Markov Chain in Python With NumPy appeared first on Towards Data Science .",
-      "date": "2026-11-14T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
       "date": "2026-11-14T13:00:00+00:00",
       "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
       "source": "Wired AI"
-    },
-    {
-      "title": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
-      "link": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
-      "summary": "Quality and token alerts were early signals for 38% of agents and errors for about 1%, so monitoring should start with quality, cost, and latency. The post Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors appeared first on Towards Data Science .",
-      "date": "2026-11-14T13:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Open-source AI without Jensen",
@@ -1761,28 +1685,12 @@
       "source": "Meta AI Engineering"
     },
     {
-      "title": "Keyword Search Tied an 8B Embedding Model at Picking Agent Tools",
-      "link": "https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/",
-      "summary": "On 200 ToolRet questions and up to 3,794 tools, BM25 ran about 40x faster than BGE-large on just a CPU, and full tool docs made it the best setup tested. The post Keyword Search Tied an 8B Embedding Model at Picking Agent Tools appeared first on Towards Data Science .",
-      "date": "2026-11-13T16:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Introducing ChatGPT Wallet",
       "link": "https://openai.com/index/introducing-chatgpt-wallet",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "date": "2026-11-13T15:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "How Jev Makes Decisions About Images, With 4 Python Examples",
-      "link": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/",
-      "summary": "Practical code for classifying fabric against reference photos, scoring product sharpness, cropping shipping labels, and spotting subtle car damage. The post How Jev Makes Decisions About Images, With 4 Python Examples appeared first on Towards Data Science .",
-      "date": "2026-11-13T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -1793,28 +1701,12 @@
       "source": "Hugging Face"
     },
     {
-      "title": "What AI Agents Speed Up in PhD Research, and What They Can't",
-      "link": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
-      "summary": "A PhD student in ML and ecology on why faster code, experiments, and drafts don't fix data with a backstory, and three predictions for how labs will change. The post What AI Agents Speed Up in PhD Research, and What They Can't appeared first on Towards Data Science .",
-      "date": "2026-11-13T13:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital ",
       "date": "2026-11-13T13:00:42+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/HLTH-scaled.jpg",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
-      "link": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/",
-      "summary": "Gemma 4 E2B drafts the replies, Bespoke Labs' Nimble 9B picks accept, revise, or human review, and only flagged questions get a focused retry. The post How to Check Local LLM Output with Ollama, Gemma 4, and Nimble appeared first on Towards Data Science .",
-      "date": "2026-11-13T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -1897,22 +1789,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M",
-      "link": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
-      "summary": "A reproducible test of BM25, embeddings, and parent documents shows why author-written evals overrate search, and why answer position in context matters. The post RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M appeared first on Towards Data Science .",
-      "date": "2026-11-12T16:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
-      "title": "I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.",
-      "link": "https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/",
-      "summary": "Across 2,312 planted faults the study also surfaced four real library problems, from a Windows data-loss bug to README examples that do not work as written. The post I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults. appeared first on Tow",
-      "date": "2026-11-12T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
@@ -1929,28 +1805,12 @@
       "source": "NVIDIA Blog"
     },
     {
-      "title": "A Soft-Label MNIST Testbed for Human vs. Model Confidence",
-      "link": "https://towardsdatascience.com/a-soft-label-mnist-testbed-for-human-vs-model-confidence/",
-      "summary": "Annotators marked each MNIST and Mukhoti digit yes, no, or unsure, producing image-level soft labels and uncertainty scores. The post A Soft-Label MNIST Testbed for Human vs. Model Confidence appeared first on Towards Data Science .",
-      "date": "2026-11-12T13:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "link": "https://openai.com/business/customer-stories/gondola",
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
       "date": "2026-11-12T12:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
-      "link": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/",
-      "summary": "A simulated scar and data from 31 animals after ischemia show how an inhomogeneous estimator, random labelling, and brms separate tissue loss from real interaction. The post How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3) appeared first on Towards Data Sci",
-      "date": "2026-11-12T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "AI-powered bionic eye breakthrough could help the blind see again",
@@ -3335,6 +3195,166 @@
       "date": "2026-09-17T20:45:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
       "source": "Google Research"
+    },
+    {
+      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+      "summary": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+      "date": "2026-09-17T08:02:55+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+      "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-15T20:00:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "date": "2026-09-15T17:05:57+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "date": "2026-09-15T13:14:55+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns",
+      "date": "2026-09-13T10:46:19+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Open-Source AI & Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "How to get up to speed on open models and their implications.",
+      "date": "2026-09-11T12:36:25+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, ope",
+      "date": "2026-09-11T12:03:26+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "date": "2026-09-11T11:52:30+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+      "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+      "summary": "Machine Intelligence",
+      "date": "2026-09-10T22:50:22+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ToolGrad1_teaser.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "One resignation turned the embers of AI fear into a wildfire",
+      "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+      "summary": "Some quick notes on a truly weird week.",
+      "date": "2026-09-10T15:28:52+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "When will average people feel AI’s impact?",
+      "link": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+      "summary": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+      "date": "2026-09-09T11:01:23+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/33531b35-1bdf-475d-b089-61fa6ed27580_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
+      "summary": "Anthropic launches Claude Fable 5.1, OpenAI Is About (already has) to Release Its First AI Model With ‘Critical’ Cyber Abilities, OpenAI’s rogue AI model incident was worse than we thought",
+      "date": "2026-09-09T08:01:40+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+      "link": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+      "summary": "The open model ecosystem continues to expand in its breadth",
+      "date": "2026-09-08T14:15:25+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!J8Bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2908b12f-8586-49cf-b34b-e1d5bc61bf19_1196x798.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "date": "2026-09-08T14:00:15+00:00",
+      "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
+      "summary": "GPT-6 Astra Is Here, Discovery of a new OpenAI agent message board, Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work, and more!",
+      "date": "2026-09-07T13:02:49+00:00",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/1QNsdr-Qx_I",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "link": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worryi",
+      "date": "2026-09-07T12:26:31+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Transfer learning for genomic prediction in underrepresented populations",
+      "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "summary": "General Science",
+      "date": "2026-09-03T18:20:31+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BBJ_GenomicPrediction5-UniqueGeneticTraits.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "summary": "General Science",
+      "date": "2026-09-03T16:00:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Mapping global methane emissions from space with deep learning",
+      "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "summary": "Climate & Sustainability",
+      "date": "2026-09-01T18:40:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "A “quantum bath” puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a “quantum bath,” a shared environment filled with correlated microwave photons that automatically pushes separated qub",
+      "date": "2026-08-31T13:08:37+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
