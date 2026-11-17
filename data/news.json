@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:36:52.289614+00:00",
+  "updated": "2026-11-17T20:50:29.820661+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -137,6 +137,22 @@
   ],
   "items": [
     {
+      "title": "The AI Alignment Meeting",
+      "link": "https://folderal.substack.com/p/the-ai-alignment-meeting",
+      "summary": "Article URL: https://folderal.substack.com/p/the-ai-alignment-meeting Comments URL: https://news.ycombinator.com/item?id=50537935 Points: 1 # Comments: 0",
+      "date": "2026-11-17T20:45:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
+      "date": "2026-11-17T20:42:18+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Show HN: I've asked AI to generate portraits per country",
       "link": "https://arnov.github.io/faces/index.html",
       "summary": "I've asked AI to generate faces for every country in the world. I re-used the same prompt; \"Can you generate a black and white portrait of a [MALE/FEMALE] from [COUNTRY] staring directly in the camera\" Comments URL: https://news.ycombinator.com/item?id=50537794 Points: 1 # Commen",
@@ -145,20 +161,28 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "date": "2026-11-17T20:32:55+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "A Man and His Muse AI Agent Sue Meta",
       "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50537747 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50537747 Points: 3 # Comments: 1",
       "date": "2026-11-17T20:31:00+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
-      "date": "2026-11-17T20:23:59+00:00",
-      "image": "",
-      "source": "CNBC Technology"
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "date": "2026-11-17T20:30:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
+      "source": "BBC Technology"
     },
     {
       "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
@@ -471,14 +495,6 @@
       "date": "2026-11-17T17:32:25+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Hardware-Bound Authentication for AI Agents",
-      "link": "https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt",
-      "summary": "Article URL: https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt Comments URL: https://news.ycombinator.com/item?id=50534866 Points: 4 # Comments: 0",
-      "date": "2026-11-17T17:24:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
@@ -2385,14 +2401,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
-      "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-      "date": "2026-11-10T20:30:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm9xfz.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "llm-gemini 0.36",
       "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
       "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5",
@@ -2543,14 +2551,6 @@
       "date": "2026-11-09T19:35:33+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "date": "2026-11-09T17:24:26+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-      "source": "Ars Technica AI"
     },
     {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
