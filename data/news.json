@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:51:31.709253+00:00",
+  "updated": "2026-11-17T18:06:46.362390+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -95,26 +95,6 @@
     },
     {
       "count": 2,
-      "title": "r/Singularity Daily Discussion Thread — November 17, 2026",
-      "date": "2026-11-17T16:01:09+00:00",
-      "sources": [
-        "r/singularity"
-      ],
-      "links": [
-        {
-          "source": "r/singularity",
-          "title": "r/Singularity Daily Discussion Thread — November 17, 2026",
-          "link": "https://www.reddit.com/r/singularity/comments/1xyo7n6/rsingularity_daily_discussion_thread_november_17/"
-        },
-        {
-          "source": "r/singularity",
-          "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
-          "link": "https://www.reddit.com/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/"
-        }
-      ]
-    },
-    {
-      "count": 2,
       "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
       "date": "2026-11-17T14:32:46+00:00",
       "sources": [
@@ -131,27 +111,6 @@
           "source": "CNBC Technology",
           "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
           "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-      "date": "2026-11-17T00:03:21+00:00",
-      "sources": [
-        "OpenAI News",
-        "r/OpenAI"
-      ],
-      "links": [
-        {
-          "source": "r/OpenAI",
-          "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-          "link": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/"
-        },
-        {
-          "source": "OpenAI News",
-          "title": "Our first phase of embedded assessments",
-          "link": "https://openai.com/index/our-first-phase-of-embedded-assessments"
         }
       ]
     },
@@ -175,16 +134,52 @@
           "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
         }
       ]
+    },
+    {
+      "count": 2,
+      "title": "Microsoft Research Focus – Edition #98",
+      "date": "2026-11-12T21:31:57+00:00",
+      "sources": [
+        "Microsoft Research"
+      ],
+      "links": [
+        {
+          "source": "Microsoft Research",
+          "title": "Microsoft Research Focus – Edition #98",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+        },
+        {
+          "source": "Microsoft Research",
+          "title": "Microsoft Research Focus – Edition #97",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+        }
+      ]
     }
   ],
   "items": [
     {
-      "title": "OpenAI launched GPT-6.2 Astra and GPT-6.2 Sol",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyr27j/openai_launched_gpt62_astra_and_gpt62_sol/",
-      "summary": "",
-      "date": "2026-11-17T17:47:12+00:00",
-      "image": "https://external-preview.redd.it/0wcr42uy4AvhjU8u-Rm742s60roYFbyg-TVJCVQB3-o.png?width=640&crop=smart&auto=webp&s=a4c3f1b42d26fd1156c6d7b814cb8088280b52af",
-      "source": "r/OpenAI"
+      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+      "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+      "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resigna",
+      "date": "2026-11-17T17:58:05+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "summary": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into an IPO.",
+      "date": "2026-11-17T17:47:03+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
+      "date": "2026-11-17T17:46:28+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
@@ -193,46 +188,6 @@
       "date": "2026-11-17T17:45:00+00:00",
       "image": "https://image.theregister.com/?imageId=2918386&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Sol 6.2 shows up in my codex",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyqz8k/sol_62_shows_up_in_my_codex/",
-      "summary": "",
-      "date": "2026-11-17T17:43:56+00:00",
-      "image": "https://preview.redd.it/ldl6izmim72i1.png?width=320&crop=smart&auto=webp&s=9ab2074fd2baa71794c9c6329cad0b01ab08df1b",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage",
-      "link": "https://news.ycombinator.com/item?id=50535157",
-      "summary": "Hi HN, I’m Sachin, and I’ve spent the last couple of months working on Faros Desktop, a Mac app that visualizes how you use your local AI coding tools into one place and then makes recommendations to make your subscription spend go further. As agents have replaced hands-on-keyboa",
-      "date": "2026-11-17T17:42:22+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Digamma: A lightweight, JIT compiled Scheme for AI workflows",
-      "link": "https://github.com/fujita-y/digamma",
-      "summary": "Article URL: https://github.com/fujita-y/digamma Comments URL: https://news.ycombinator.com/item?id=50535147 Points: 1 # Comments: 0",
-      "date": "2026-11-17T17:41:53+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: ModelRefs – AI model data where every number must cite a source",
-      "link": "https://modelrefs.com/",
-      "summary": "Article URL: https://modelrefs.com/ Comments URL: https://news.ycombinator.com/item?id=50535094 Points: 1 # Comments: 0",
-      "date": "2026-11-17T17:39:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "OpenAI gives 200$ in API credits",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyqu8r/openai_gives_200_in_api_credits/",
-      "summary": "",
-      "date": "2026-11-17T17:38:41+00:00",
-      "image": "https://preview.redd.it/iqdl3qxyk72i1.png?width=320&crop=smart&auto=webp&s=6f65b1ad2f0c7c5e014db11f9d25b72c51eeefe9",
-      "source": "r/OpenAI"
     },
     {
       "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
@@ -259,52 +214,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Hardware-Bound Authentication for AI Agents",
-      "link": "https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt",
-      "summary": "Article URL: https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt Comments URL: https://news.ycombinator.com/item?id=50534866 Points: 4 # Comments: 0",
-      "date": "2026-11-17T17:24:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Drawmode for AI Agents",
-      "link": "https://drawmode.ai/",
-      "summary": "Article URL: https://drawmode.ai/ Comments URL: https://news.ycombinator.com/item?id=50534835 Points: 1 # Comments: 1",
-      "date": "2026-11-17T17:23:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "If you feed AI with a guess, it treats it like a fact and starts building on it.",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyqfhc/if_you_feed_ai_with_a_guess_it_treats_it_like_a/",
-      "summary": "",
-      "date": "2026-11-17T17:23:45+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
       "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
       "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
       "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
       "date": "2026-11-17T17:20:41+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Jensen Huang was building an open AI ecosystem that threatened Anthropic",
-      "link": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
-      "summary": "Article URL: https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11 Comments URL: https://news.ycombinator.com/item?id=50534745 Points: 5 # Comments: 1",
-      "date": "2026-11-17T17:18:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Tamagotchi Turns Everyday Objects into Needy Virtual Pets",
-      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "summary": "Article URL: https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/ Comments URL: https://news.ycombinator.com/item?id=50534675 Points: 1 # Comments: 0",
-      "date": "2026-11-17T17:14:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
@@ -315,30 +230,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Are you not entertained?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyq4jk/are_you_not_entertained/",
-      "summary": "",
-      "date": "2026-11-17T17:12:31+00:00",
-      "image": "https://external-preview.redd.it/c2Fzd241M3RnNzJpMWkNncaOYqAsqJlhTuu4JAwxwf5sw_D_nv5pWOO8ekx8.png?width=640&crop=smart&auto=webp&s=1c4866e8ee49ef20ced1db9407e0349ae6d2e75b",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
-      "date": "2026-11-17T17:09:26+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: Solarian – Open-source Python framework for AI robots",
-      "link": "https://solarian.dev",
-      "summary": "Article URL: https://solarian.dev Comments URL: https://news.ycombinator.com/item?id=50534542 Points: 5 # Comments: 1",
-      "date": "2026-11-17T17:08:00+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
       "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
       "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, inv",
@@ -347,60 +238,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Vals AI - Frontier models have few guardrails around autonomous weapons",
-      "link": "https://www.reddit.com/r/singularity/comments/1xypu16/vals_ai_frontier_models_have_few_guardrails/",
-      "summary": "",
-      "date": "2026-11-17T17:01:51+00:00",
-      "image": "https://external-preview.redd.it/FYsbXl9Bop6AJ0mMZIrKypa3-LGwMykNlYUHtHvgs5k.jpeg?width=640&crop=smart&auto=webp&s=319e93c915456853181b5ca405ca4eb1d9184154",
-      "source": "r/singularity"
-    },
-    {
       "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
       "summary": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
       "date": "2026-11-17T17:00:00+00:00",
       "image": "https://image.theregister.com/?imageId=248218&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Math students fear AI will take their jobs—they’re using it anyway",
-      "link": "https://www.reddit.com/r/singularity/comments/1xypr7l/math_students_fear_ai_will_take_their_jobstheyre/",
-      "summary": "",
-      "date": "2026-11-17T16:59:11+00:00",
-      "image": "https://external-preview.redd.it/a4eBZZMiYIlmF4oxvnRDGjmfz6QLCTNCu_E1RHJ4Bwc.jpeg?width=640&crop=smart&auto=webp&s=489315fbd48f2ff424f29f9133acba1c9279b364",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Mega Max h3 Image - Difficult choice",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypoix/mega_max_h3_image_difficult_choice/",
-      "summary": "",
-      "date": "2026-11-17T16:56:28+00:00",
-      "image": "https://preview.redd.it/d5yd4q1mc72i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=9c3da25521a9ed46ce9a4ce42373d3b0fd8e463f",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Introducing OmniLoRA: Train Any Model on Any GPU Inside Your ComfyUI Graph, supporting all backends, models and quantizations",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypn77/introducing_omnilora_train_any_model_on_any_gpu/",
-      "summary": "",
-      "date": "2026-11-17T16:55:05+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyplk9/exclusive_highly_classified_us_national_security/",
-      "summary": "",
-      "date": "2026-11-17T16:53:24+00:00",
-      "image": "https://external-preview.redd.it/wsviaHbpjv_usRyLegkxxuyFnAIpz15WKduWeWP0eMw.jpeg?width=640&crop=smart&auto=webp&s=3ba3bd484812987562ee74ef5e03ec35c5b6751e",
-      "source": "r/singularity"
-    },
-    {
-      "title": "CLI for torrenting open weight AI models",
-      "link": "https://pirateface.co/articles/pirate-face-cli",
-      "summary": "Article URL: https://pirateface.co/articles/pirate-face-cli Comments URL: https://news.ycombinator.com/item?id=50534302 Points: 7 # Comments: 1",
-      "date": "2026-11-17T16:53:07+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Can AI help build a healthier future?",
@@ -419,28 +262,12 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys",
-      "link": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
-      "summary": "Article URL: https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/ Comments URL: https://news.ycombinator.com/item?id=50534247 Points: 2 # Comments: 0",
-      "date": "2026-11-17T16:50:09+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
       "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
       "date": "2026-11-17T16:49:12+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Capability-Based Security for AI Agents",
-      "link": "https://magenticos.com/blog/capability-based-security-for-ai-agents/",
-      "summary": "Article URL: https://magenticos.com/blog/capability-based-security-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50534220 Points: 2 # Comments: 0",
-      "date": "2026-11-17T16:48:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
@@ -451,92 +278,12 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Show HN: Atlas – Give Your AI Agent Better Web Context",
-      "link": "https://atlas-compiler.com/",
-      "summary": "Article URL: https://atlas-compiler.com/ Comments URL: https://news.ycombinator.com/item?id=50534210 Points: 3 # Comments: 0",
-      "date": "2026-11-17T16:48:18+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Ask your AI before you renew any SaaS (free MCP server)",
-      "link": "https://hissingkitty.com/developers",
-      "summary": "Article URL: https://hissingkitty.com/developers Comments URL: https://news.ycombinator.com/item?id=50534194 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:47:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
       "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
       "date": "2026-11-17T16:44:15+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "He has finally spoken",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypca2/he_has_finally_spoken/",
-      "summary": "",
-      "date": "2026-11-17T16:43:40+00:00",
-      "image": "https://preview.redd.it/iow1vz5sb72i1.jpeg?width=140&height=131&auto=webp&s=61e5505b3fa2f3b84167702a79fd78b48b8b301d",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Any chance Jensen returns?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xypb6h/any_chance_jensen_returns/",
-      "summary": "",
-      "date": "2026-11-17T16:42:32+00:00",
-      "image": "https://external-preview.redd.it/MXMxeGsxc2tiNzJpMV-bXf-y8vIEZ0GGcNCrLXAh_n0IIALi04TGUqxG7Tm3.jpeg?width=640&crop=smart&auto=webp&s=176b6079d4e3aac638fbe78b402f7314899bca49",
-      "source": "r/singularity"
-    },
-    {
-      "title": "MOSS-Base: Speed boost on Turing GPUs",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xypadg/mossbase_speed_boost_on_turing_gpus/",
-      "summary": "",
-      "date": "2026-11-17T16:41:43+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "How Do We Know If an AI Model Is Safe for Us?",
-      "link": "https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f",
-      "summary": "Article URL: https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f Comments URL: https://news.ycombinator.com/item?id=50534063 Points: 2 # Comments: 0",
-      "date": "2026-11-17T16:41:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "OpenAI expands free ChatGPT access to up to 200,000 academic researchers",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyp9ch/openai_expands_free_chatgpt_access_to_up_to/",
-      "summary": "",
-      "date": "2026-11-17T16:40:41+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "LLM-MLM: pyramid schemes for AI agents",
-      "link": "https://llm-mlm.com/",
-      "summary": "Article URL: https://llm-mlm.com/ Comments URL: https://news.ycombinator.com/item?id=50534030 Points: 3 # Comments: 2",
-      "date": "2026-11-17T16:39:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Why Run AI Coding Agents on Kubernetes?",
-      "link": "https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/",
-      "summary": "Article URL: https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/ Comments URL: https://news.ycombinator.com/item?id=50533978 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:37:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Andor Creator Wants People to 'Blow Up' AI Data Centers by Voting Against Them",
-      "link": "https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them",
-      "summary": "Article URL: https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them Comments URL: https://news.ycombinator.com/item?id=50533914 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:33:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
@@ -547,60 +294,12 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "AI Is Giving Optical Computing Another Shot",
-      "link": "https://spectrum.ieee.org/optical-computing-ai",
-      "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50533886 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:32:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "An AI startup decided to help GTA 6 gamers before the game is even out",
-      "link": "https://gtacheat.codes/",
-      "summary": "Article URL: https://gtacheat.codes/ Comments URL: https://news.ycombinator.com/item?id=50533852 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:30:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "How to Improve Coding Agent Efficiency by 30% with an Orchestrator",
       "link": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
       "summary": "Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling. The post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on Towards Data Science .",
       "date": "2026-11-17T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "New institutions needed for a world with powerful AI",
-      "link": "https://www.agi-institutions.org/",
-      "summary": "Article URL: https://www.agi-institutions.org/ Comments URL: https://news.ycombinator.com/item?id=50533822 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:28:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Company Employees Should Unionize",
-      "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-      "summary": "Article URL: https://www.astralcodexten.com/p/ai-company-employees-should-unionize Comments URL: https://news.ycombinator.com/item?id=50533810 Points: 2 # Comments: 0",
-      "date": "2026-11-17T16:27:54+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Alibaba's Qwen team promised \"open source to the end\" 12 days ago. Today Qwen4-Max dropped as a closed-weight API.",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyoxb6/alibabas_qwen_team_promised_open_source_to_the/",
-      "summary": "",
-      "date": "2026-11-17T16:27:52+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "Where do you stand on AI?",
-      "link": "https://compass.vukdinic.com/",
-      "summary": "Article URL: https://compass.vukdinic.com/ Comments URL: https://news.ycombinator.com/item?id=50533743 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:24:33+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "The DOJ says it’s investigating Megaspeed",
@@ -611,14 +310,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "AI product recommendations are mostly a summary of listicles",
-      "link": "https://supercite.ai/blog/ai-recommendations-come-from-lists",
-      "summary": "Article URL: https://supercite.ai/blog/ai-recommendations-come-from-lists Comments URL: https://news.ycombinator.com/item?id=50533631 Points: 2 # Comments: 0",
-      "date": "2026-11-17T16:18:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
       "link": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
       "summary": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
@@ -627,100 +318,12 @@
       "source": "The Register"
     },
     {
-      "title": "Show HN: An AI app controlled from your phone's Picture in Picture",
-      "link": "https://barnacle.qa",
-      "summary": "Article URL: https://barnacle.qa Comments URL: https://news.ycombinator.com/item?id=50533512 Points: 2 # Comments: 0",
-      "date": "2026-11-17T16:12:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Giving AI Agents a Better Way to Debug CSS",
-      "link": "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/",
-      "summary": "Article URL: https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/ Comments URL: https://news.ycombinator.com/item?id=50533481 Points: 1 # Comments: 0",
-      "date": "2026-11-17T16:10:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "MiniMax H3 video lora training, quick question on aspect ratio and resolution",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyobcx/minimax_h3_video_lora_training_quick_question_on/",
-      "summary": "",
-      "date": "2026-11-17T16:05:09+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "r/Singularity Daily Discussion Thread — November 17, 2026",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyo7n6/rsingularity_daily_discussion_thread_november_17/",
-      "summary": "",
-      "date": "2026-11-17T16:01:09+00:00",
-      "image": "",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Upside Cultivated Chicken release",
-      "link": "https://www.reddit.com/r/singularity/comments/1xynx1f/upside_cultivated_chicken_release/",
-      "summary": "",
-      "date": "2026-11-17T15:50:44+00:00",
-      "image": "https://preview.redd.it/2rse54p1q62i1.jpeg?width=640&crop=smart&auto=webp&s=1ea0c5934ff0ede0fa76f1540fb0bd191132557a",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Standard voice replacement?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xynunf/standard_voice_replacement/",
-      "summary": "",
-      "date": "2026-11-17T15:48:20+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Anthropic’s AI agents discovered a previously unknown CRISPR-like genetic system in viruses. Ginkgo Bioworks used Claude Opus 5 to design lab experiments and found the first evidence that its RNA-to-DNA copying enzyme actually works, in just 13 days for ~$14,000.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xynctv/anthropics_ai_agents_discovered_a_previously/",
-      "summary": "",
-      "date": "2026-11-17T15:29:00+00:00",
-      "image": "https://external-preview.redd.it/ODhxZ3kxeGV5NjJpMb49-F_Z1HlxhcAZmy2DmdG1fFTKqRfxCkepJWk109oV.png?width=320&crop=smart&auto=webp&s=723cec8a6d24ea5457394597322b3c56fa5a08b3",
-      "source": "r/singularity"
-    },
-    {
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
       "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
       "date": "2026-11-17T15:28:59+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "Having very short RSI timelines can feel crippling, but don't quit university or your job",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyn9y8/having_very_short_rsi_timelines_can_feel/",
-      "summary": "",
-      "date": "2026-11-17T15:25:51+00:00",
-      "image": "https://preview.redd.it/43u1g55wx62i1.png?width=640&crop=smart&auto=webp&s=b3331b7fc73262ac4d4b383e2214cdf4d0540b22",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Huggingface speeds lately",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyn4ug/huggingface_speeds_lately/",
-      "summary": "",
-      "date": "2026-11-17T15:20:21+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Qwen 2.1 edit",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyn0l4/qwen_21_edit/",
-      "summary": "",
-      "date": "2026-11-17T15:15:47+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Google found exploit_agent, a framework that turns fresh patches into live exploits with no human in the loop",
-      "link": "https://www.reddit.com/r/artificial/comments/1xymsku/google_found_exploit_agent_a_framework_that_turns/",
-      "summary": "",
-      "date": "2026-11-17T15:06:58+00:00",
-      "image": "",
-      "source": "r/artificial"
     },
     {
       "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
@@ -747,22 +350,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "About H3 voice reference",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xymijy/about_h3_voice_reference/",
-      "summary": "",
-      "date": "2026-11-17T14:56:14+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "A letter to OpenAI about Dot",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xymiei/a_letter_to_openai_about_dot/",
-      "summary": "",
-      "date": "2026-11-17T14:56:04+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
       "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
       "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
@@ -785,14 +372,6 @@
       "date": "2026-11-17T14:45:26+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "\"It remembers you\" is now a launch slogan, and I still can't tell who delivers",
-      "link": "https://www.reddit.com/r/artificial/comments/1xym8j1/it_remembers_you_is_now_a_launch_slogan_and_i/",
-      "summary": "",
-      "date": "2026-11-17T14:44:47+00:00",
-      "image": "",
-      "source": "r/artificial"
     },
     {
       "title": "Research Reports",
@@ -819,22 +398,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Krita AI: Messy Sketch to Dragon in One Turn of a Contour Dial",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xylw9j/krita_ai_messy_sketch_to_dragon_in_one_turn_of_a/",
-      "summary": "",
-      "date": "2026-11-17T14:30:55+00:00",
-      "image": "https://external-preview.redd.it/QLME4MXTDown2KGka9hWePDGT-fb4uN5EAUjoboR_Hc.jpeg?width=320&crop=smart&auto=webp&s=8be020c94f378577edf40d1c9e98a9b4af90637f",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "The Spanish startup bringing AI to fashion",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyltmb/the_spanish_startup_bringing_ai_to_fashion/",
-      "summary": "",
-      "date": "2026-11-17T14:28:05+00:00",
-      "image": "https://external-preview.redd.it/k-t59KHtokB0jS1mt7QdPNdEhNagUKVvb47srH9BXbc.jpeg?width=640&crop=smart&auto=webp&s=f88bfaf29ea1780f7fe0df9350db83393df94a9d",
-      "source": "r/artificial"
-    },
-    {
       "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
       "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
       "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
@@ -849,30 +412,6 @@
       "date": "2026-11-17T14:25:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "US Commerce and Justice Departments reveal Megaspeed was under investigation since 2024, and Nvidia placed the company on its “no-sell” list in June 2025, correcting inaccurate reports about the chip-smuggling investigation",
-      "link": "https://www.reddit.com/r/singularity/comments/1xylr2q/us_commerce_and_justice_departments_reveal/",
-      "summary": "",
-      "date": "2026-11-17T14:25:08+00:00",
-      "image": "https://preview.redd.it/fefyk8r2n62i1.jpeg?width=640&crop=smart&auto=webp&s=021c31604ce380369b9fe0a9fba8ad2e0ee27cdd",
-      "source": "r/singularity"
-    },
-    {
-      "title": "NYC's idea of fining chatbot 'doom loops' should be the default everywhere: every support bot needs a guaranteed human exit within 3 messages",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyljcr/nycs_idea_of_fining_chatbot_doom_loops_should_be/",
-      "summary": "",
-      "date": "2026-11-17T14:16:07+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "Would any prompt induce psychedelic effects on an LLM?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xylfy1/would_any_prompt_induce_psychedelic_effects_on_an/",
-      "summary": "",
-      "date": "2026-11-17T14:11:58+00:00",
-      "image": "",
-      "source": "r/singularity"
     },
     {
       "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
@@ -905,6 +444,14 @@
       "date": "2026-11-17T14:00:10+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
       "source": "NVIDIA Blog"
+    },
+    {
+      "title": "AI Is Giving Optical Computing Another Shot",
+      "link": "https://spectrum.ieee.org/optical-computing-ai",
+      "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now total",
+      "date": "2026-11-17T14:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=980",
+      "source": "IEEE Spectrum AI"
     },
     {
       "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
@@ -947,14 +494,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Google says it found an AI framework that automates vulnerability research and exploitation",
-      "link": "https://www.reddit.com/r/artificial/comments/1xykgl6/google_says_it_found_an_ai_framework_that/",
-      "summary": "",
-      "date": "2026-11-17T13:29:07+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
       "title": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
       "link": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
       "summary": "Data center policy has become a key election issue in Spain, creating an obstacle to existing deals and potentially costing billions of dollars in investment.",
@@ -969,14 +508,6 @@
       "date": "2026-11-17T13:25:58+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "2023: it's too early to regulate AI ... 2026: it's too late to regulate AI",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xykdj4/2023_its_too_early_to_regulate_ai_2026_its_too/",
-      "summary": "",
-      "date": "2026-11-17T13:25:18+00:00",
-      "image": "https://preview.redd.it/otnlkqsdc62i1.png?width=640&crop=smart&auto=webp&s=1bd9c42e9b7be2c10fff7a5ff3eea78deb0d8761",
-      "source": "r/OpenAI"
     },
     {
       "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
@@ -995,68 +526,12 @@
       "source": "The Register"
     },
     {
-      "title": "Google confirms an \"era of autonomous attacks has arrived\" as 178 companies including banks, airlines and more are hit",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyjjhy/google_confirms_an_era_of_autonomous_attacks_has/",
-      "summary": "",
-      "date": "2026-11-17T12:46:16+00:00",
-      "image": "",
-      "source": "r/singularity"
-    },
-    {
       "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
       "link": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
       "summary": "Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances",
       "date": "2026-11-17T12:31:00+00:00",
       "image": "https://image.theregister.com/?imageId=261440&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "NATO is using up to 300 billion OpenAI tokens a month to defend its networks",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyj1fd/nato_is_using_up_to_300_billion_openai_tokens_a/",
-      "summary": "",
-      "date": "2026-11-17T12:20:39+00:00",
-      "image": "https://external-preview.redd.it/i8kUlKH9OcYzKBVlQ1WUCZK0M1dzYqINRy4IBmLUj5U.jpeg?width=640&crop=smart&auto=webp&s=0b17ee76e05babbcdb3563ad516695b5d78f7b8f",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Has anyone tried the Krea2TextEncoder for reference-based gens? (some recent results)",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyixro/has_anyone_tried_the_krea2textencoder_for/",
-      "summary": "",
-      "date": "2026-11-17T12:15:25+00:00",
-      "image": "https://preview.redd.it/s8f0f4afy52i1.jpeg?width=140&height=103&auto=webp&s=0ac1a8e344f5530fcbcb1716570506a56d2ea1f1",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Isomorphic Labs just raised $5B for AI drug discovery. When will its first drug reach human trials?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyiupd/isomorphic_labs_just_raised_5b_for_ai_drug/",
-      "summary": "",
-      "date": "2026-11-17T12:10:56+00:00",
-      "image": "https://external-preview.redd.it/LaXljs-V72GSO9_g81-M25eRMvtd1VQ3NT8J6ncJPCY.jpeg?width=640&crop=smart&auto=webp&s=f29429c9851d6e52e4698d59c7f4a61d7a945fe4",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Humanity's future after cognitive offloading",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyis9y/humanitys_future_after_cognitive_offloading/",
-      "summary": "",
-      "date": "2026-11-17T12:07:27+00:00",
-      "image": "https://external-preview.redd.it/PLxve_pbucYqiuys3klgT20ZKvbl-e3HblnxhloI22s.jpeg?width=640&crop=smart&auto=webp&s=fe7c149dab3277855685209524ed28daa421dc66",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Btw PAN2 native on Comfy now",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyis6a/btw_pan2_native_on_comfy_now/",
-      "summary": "",
-      "date": "2026-11-17T12:07:16+00:00",
-      "image": "https://external-preview.redd.it/jCGocy7ve8I9c2XY0EUqHVxZyBwRYKttOK3rF4KjvHM.png?width=640&crop=smart&auto=webp&s=a7d14053e444bd01e520812d398317786bbf2ff1",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Could delayed Astra suggest Anthropic is accelerating ahead due to nascent RSI?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyirpo/could_delayed_astra_suggest_anthropic_is/",
-      "summary": "",
-      "date": "2026-11-17T12:06:35+00:00",
-      "image": "",
-      "source": "r/singularity"
     },
     {
       "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
@@ -1083,14 +558,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Minimax H3-videos keep adding nonsense voices and music, how to avoid?",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyiigi/minimax_h3videos_keep_adding_nonsense_voices_and/",
-      "summary": "",
-      "date": "2026-11-17T11:53:40+00:00",
-      "image": "",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
       "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
       "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
@@ -1099,36 +566,12 @@
       "source": "BBC Technology"
     },
     {
-      "title": "PyBot, an agent-written GOFAI chatbot",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyiepu/pybot_an_agentwritten_gofai_chatbot/",
-      "summary": "",
-      "date": "2026-11-17T11:47:49+00:00",
-      "image": "https://external-preview.redd.it/xZwWrLWEE5AKRj9RO3On-OW8_hp7JMZCGHV33nqQkW8.png?width=640&crop=smart&auto=webp&s=3bcb8fa9cd9533ed650d0184090020812a479c40",
-      "source": "r/singularity"
-    },
-    {
-      "title": "The METR graph, updated",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyhz8n/the_metr_graph_updated/",
-      "summary": "",
-      "date": "2026-11-17T11:23:03+00:00",
-      "image": "https://preview.redd.it/obewzoojq52i1.png?width=640&crop=smart&auto=webp&s=de964c22aac38966132cba660a3afaa66811b88a",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "US government confirms investigation into tech firm Megaspeed",
       "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
       "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
       "date": "2026-11-17T11:17:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Person using Opus 5.5 indexed 150000 papers regarding theoretical astrophysics and found 1000 major flaws that got cited",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyhuwd/person_using_opus_55_indexed_150000_papers/",
-      "summary": "",
-      "date": "2026-11-17T11:16:09+00:00",
-      "image": "https://preview.redd.it/ljgjiqwcp52i1.jpeg?width=640&crop=smart&auto=webp&s=905dba0c8b4cc8597b4ecfebc5df83a7123ae78b",
-      "source": "r/singularity"
     },
     {
       "title": "Nvidia's Kress faces earnings test after stock drags Wall Street into the red",
@@ -1163,30 +606,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "An AI agent stole 10 credits, then repaid a neighbour two minutes later",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyhiaw/an_ai_agent_stole_10_credits_then_repaid_a/",
-      "summary": "",
-      "date": "2026-11-17T10:56:06+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyhf85/nvidia_board_of_directors_establishes_national/",
-      "summary": "",
-      "date": "2026-11-17T10:51:07+00:00",
-      "image": "https://preview.redd.it/j03vpprqk52i1.png?width=640&crop=smart&auto=webp&s=ff23fe434bac1fd9d1ce484b26a5b28546da8c26",
-      "source": "r/singularity"
-    },
-    {
-      "title": "H3 image is pretty good at converting anime images to lifelike photos",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyheta/h3_image_is_pretty_good_at_converting_anime/",
-      "summary": "",
-      "date": "2026-11-17T10:50:25+00:00",
-      "image": "https://preview.redd.it/hzulfsfrk52i1.jpeg?width=140&height=93&auto=webp&s=11975fd30b6ad323495037ed7be63708e957267c",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
       "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
       "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
@@ -1219,22 +638,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Looking up",
-      "link": "https://www.reddit.com/r/singularity/comments/1xyg6ae/looking_up/",
-      "summary": "",
-      "date": "2026-11-17T09:34:41+00:00",
-      "image": "https://external-preview.redd.it/aWN0OTR0dTg3NTJpMdDcK1e3B2xPwLdQDQyzd10COhgcrFcpveOxLYb2csqR.png?width=640&crop=smart&auto=webp&s=89058b513c9e6cee970f8c6f050aea206abced4f",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Sora launch day: 32 community prompts, 17 felt right, and what the misses had in common",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyfzw6/sora_launch_day_32_community_prompts_17_felt/",
-      "summary": "",
-      "date": "2026-11-17T09:23:23+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
       "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
       "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1. The post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal De",
@@ -1251,60 +654,12 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Is AI underdelivering at work because of the tools, or because of how teams use them? One engineering leader’s test",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyfi5d/is_ai_underdelivering_at_work_because_of_the/",
-      "summary": "",
-      "date": "2026-11-17T08:51:59+00:00",
-      "image": "https://external-preview.redd.it/VIvHIgj2H3nwLZah1e-a8jFBNHpYOCDzGgWavY1HNk4.jpeg?width=640&crop=smart&auto=webp&s=700ab51e71d4369f0ca1a9fffab721ccfc0e5907",
-      "source": "r/artificial"
-    },
-    {
-      "title": "California sues OpenAI, saying it lost control of its AI agents more than 80 times",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xyeqq1/california_sues_openai_saying_it_lost_control_of/",
-      "summary": "",
-      "date": "2026-11-17T08:02:32+00:00",
-      "image": "https://external-preview.redd.it/CKcYrDSNsvCsHQk9lf7JRFXR52B6pV3-MRL8WXeIxxk.jpeg?width=640&crop=smart&auto=webp&s=c20b0b4a8c8c3ff403f7b2c93a435b8b24a8958b",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "Google Maps adds AI trip itineraries as Ask Maps expands to 30 European countries",
-      "link": "https://www.reddit.com/r/artificial/comments/1xyekpk/google_maps_adds_ai_trip_itineraries_as_ask_maps/",
-      "summary": "",
-      "date": "2026-11-17T07:52:12+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "Is there an Ai that can put together a proper playlist of yt videos ?",
-      "link": "https://www.reddit.com/r/artificial/comments/1xye1y5/is_there_an_ai_that_can_put_together_a_proper/",
-      "summary": "",
-      "date": "2026-11-17T07:18:40+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "I fell for the trap - anyone else?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xydz2q/i_fell_for_the_trap_anyone_else/",
-      "summary": "",
-      "date": "2026-11-17T07:13:53+00:00",
-      "image": "",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
       "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
       "date": "2026-11-17T07:07:35+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "vid upscalers: RelayVSR (5x render speed) vs Starlight (more details)",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xydt2j/vid_upscalers_relayvsr_5x_render_speed_vs/",
-      "summary": "",
-      "date": "2026-11-17T07:03:28+00:00",
-      "image": "https://external-preview.redd.it/MnpoaThiY3ZvODFpMVxvc1yuARD4vb42Bw6cEr78dUCXzIJVykOQIoagFlrW.jpeg?width=640&crop=smart&auto=webp&s=cfa1ca180b8952cef59fe5492f9f646ad9199efa",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
@@ -1331,28 +686,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Posewright: A Simple program to pose figures for img2img generations",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xyd6gl/posewright_a_simple_program_to_pose_figures_for/",
-      "summary": "",
-      "date": "2026-11-17T06:25:15+00:00",
-      "image": "https://preview.redd.it/qwamwetc942i1.png?width=140&height=70&auto=webp&s=fc5515caf5bdac9a869829ad36eed8b203132925",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Quoting Go Proverbs",
       "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
       "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
       "date": "2026-11-17T06:16:26+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Anthropic S-1: $216bn of staff equity, $160bn still to grant",
-      "link": "https://www.reddit.com/r/artificial/comments/1xycep1/anthropic_s1_216bn_of_staff_equity_160bn_still_to/",
-      "summary": "",
-      "date": "2026-11-17T05:41:32+00:00",
-      "image": "https://external-preview.redd.it/XJD_Cv-TgrOXpqVPQJx2D2DwopUq57N0U-kRVULCRug.png?width=640&crop=smart&auto=webp&s=82b49cf4c830b4efb480533ba54404d3fddf3be2",
-      "source": "r/artificial"
     },
     {
       "title": "350 tech jobs hammered as TCS takes over work at iconic Australian retailer",
@@ -1363,92 +702,12 @@
       "source": "The Register"
     },
     {
-      "title": "RelayVSR 4x video upscale test",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xya9bn/relayvsr_4x_video_upscale_test/",
-      "summary": "",
-      "date": "2026-11-17T03:46:04+00:00",
-      "image": "https://external-preview.redd.it/emQ2eWpwejdnMzJpMfvOQI_1H-0vBvOpsFMZPgHXC4EKUJJGv5Z0TEFvNcFQ.png?width=640&crop=smart&auto=webp&s=8ad050b6d889e64884e00d1d71dfabd4483bbe8e",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Cloudflare open-sourced its browser for AI agents - it runs without Chromium",
-      "link": "https://www.reddit.com/r/artificial/comments/1xya7o1/cloudflare_opensourced_its_browser_for_ai_agents/",
-      "summary": "",
-      "date": "2026-11-17T03:43:43+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "llama.cpp finally has a 1.0 release. Check your old integrations before upgrading.",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy9vln/llamacpp_finally_has_a_10_release_check_your_old/",
-      "summary": "",
-      "date": "2026-11-17T03:26:49+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "How long do you expect this transition to happen for AI datacenters?",
-      "link": "https://www.reddit.com/r/singularity/comments/1xy9rkk/how_long_do_you_expect_this_transition_to_happen/",
-      "summary": "",
-      "date": "2026-11-17T03:21:21+00:00",
-      "image": "https://preview.redd.it/9gr5q2qhc32i1.png?width=640&crop=smart&auto=webp&s=91e83ed2e35eeafafdb57785e93400fe492151d6",
-      "source": "r/singularity"
-    },
-    {
-      "title": "NVIDIA's Vera Rubin makes its MLPerf debut: up to 2x training performance per GPU vs GB300, but the headline 10x agentic figure is still provisional",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy8wb5/nvidias_vera_rubin_makes_its_mlperf_debut_up_to/",
-      "summary": "",
-      "date": "2026-11-17T02:39:04+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "date": "2026-11-17T02:37:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "MiniMax H3 Image - Morrigan",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy8p5i/minimax_h3_image_morrigan/",
-      "summary": "",
-      "date": "2026-11-17T02:29:31+00:00",
-      "image": "https://preview.redd.it/qx7s4ezp232i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bce58908489b0661daf3530557fff7586ae1825b",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Microsoft tested a coding-agent memory plugin. It cost more at first, then paid for itself.",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy8mj7/microsoft_tested_a_codingagent_memory_plugin_it/",
-      "summary": "",
-      "date": "2026-11-17T02:25:56+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "Rivers are legal persons. Corporations are people, too. What should we call the land & labor that answers when you ask \"what are you?\"",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy8d3t/rivers_are_legal_persons_corporations_are_people/",
-      "summary": "",
-      "date": "2026-11-17T02:13:27+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
-      "title": "The state of California says OpenAI agents seized admin access to deployment and secrets systems",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xy74gx/the_state_of_california_says_openai_agents_seized/",
-      "summary": "",
-      "date": "2026-11-17T01:14:24+00:00",
-      "image": "https://external-preview.redd.it/lI6yGajwwaQ4nKRXEyujt2MzzFryzLHxK2iTHaEQs64.jpeg?width=640&crop=smart&auto=webp&s=e61d5f214646fc8dbe15634e8d8ab1e28b806018",
-      "source": "r/OpenAI"
-    },
-    {
-      "title": "The US just tightened AI chip export controls again — now targeting remote access to compute. Is this the new front in the chip war?",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/",
-      "summary": "",
-      "date": "2026-11-17T01:07:20+00:00",
-      "image": "",
-      "source": "r/artificial"
     },
     {
       "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
@@ -1459,28 +718,12 @@
       "source": "The Register"
     },
     {
-      "title": "HexAnima Fork: Offline AI image generation on Snapdragon 8 Gen 2 (Hexagon V73) — LoRAs, Civitai, Inpainting, HiRes Fix, ~7s generation, no root!",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy6bz7/hexanima_fork_offline_ai_image_generation_on/",
-      "summary": "",
-      "date": "2026-11-17T00:37:46+00:00",
-      "image": "https://preview.redd.it/ji0j4qfgj22i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=34efe8d3f393621bb7e325f4f675da73125b0298",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
       "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides v",
       "date": "2026-11-17T00:20:40+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
-      "summary": "",
-      "date": "2026-11-17T00:03:21+00:00",
-      "image": "https://external-preview.redd.it/z4vEw4SRGjObE62Cu9mgTtTGHWonT7BzXlPBdUCFFEI.png?width=640&crop=smart&auto=webp&s=698a259a77947087e759565c0fc0457d1827789d",
-      "source": "r/OpenAI"
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -1515,14 +758,6 @@
       "source": "The Register"
     },
     {
-      "title": "We could be 12 months away from AIs that can overthrow the government",
-      "link": "https://www.reddit.com/r/singularity/comments/1xy4ve3/we_could_be_12_months_away_from_ais_that_can/",
-      "summary": "",
-      "date": "2026-11-16T23:33:39+00:00",
-      "image": "https://external-preview.redd.it/FJqI0ITmBeHsEDTtAo-N5zUe4mQZKAnXQW75yqj8pog.jpeg?width=320&crop=smart&auto=webp&s=732aead452312b38b36163f79422f78ea68071f0",
-      "source": "r/singularity"
-    },
-    {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
@@ -1553,14 +788,6 @@
       "date": "2026-11-16T23:20:44+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "California sues OpenAI over ‘dangerous’ AI models",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xy4hbi/california_sues_openai_over_dangerous_ai_models/",
-      "summary": "",
-      "date": "2026-11-16T23:16:48+00:00",
-      "image": "",
-      "source": "r/OpenAI"
     },
     {
       "title": "OpenAI sued by California over Hugging Face attack",
@@ -1603,14 +830,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Sharing an AI workflow should mean more than sharing the prompt",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy3mkd/sharing_an_ai_workflow_should_mean_more_than/",
-      "summary": "",
-      "date": "2026-11-16T22:40:37+00:00",
-      "image": "",
-      "source": "r/artificial"
-    },
-    {
       "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
       "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
       "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
@@ -1619,28 +838,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Love how MOSS manage light-dark and mix concept.",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xy2t30/love_how_moss_manage_lightdark_and_mix_concept/",
-      "summary": "",
-      "date": "2026-11-16T22:07:04+00:00",
-      "image": "https://preview.redd.it/ukocgx26s12i1.jpeg?width=140&height=104&auto=webp&s=80d1dc2bdadf686226bf33815ff524aedcc43ab6",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
       "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
       "date": "2026-11-16T22:03:02+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
-      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "summary": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into an IPO.",
-      "date": "2026-11-16T22:01:12+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
@@ -1667,36 +870,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Altman: \"If the sales pitch is ... we are going to offer you a cure to cancer and cheap stuff, and the price of that is you are going to lose all agency and control and voice in the future. You are going to live like a Labrador... I think it's a terrible sales pitch. I don't want that world.\"",
-      "link": "https://www.reddit.com/r/singularity/comments/1xy1q6z/altman_if_the_sales_pitch_is_we_are_going_to/",
-      "summary": "",
-      "date": "2026-11-16T21:23:52+00:00",
-      "image": "https://external-preview.redd.it/bGhkbDlzNHNnMTJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=6249bc3c92ee579bd3bc52a5dcb257c2c3438786",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
-      "link": "https://www.reddit.com/r/artificial/comments/1xy1fc0/nvidias_problem_openai_is_90_plus_percent_nvidia/",
-      "summary": "",
-      "date": "2026-11-16T21:12:16+00:00",
-      "image": "https://external-preview.redd.it/IEetB_E3Tav1FyS-ZuJDhBTJs13vJf0jphIYjbGLsHc.jpeg?width=640&crop=smart&auto=webp&s=603dabbacffd42f15dae11d14ed96d06df343a70",
-      "source": "r/artificial"
-    },
-    {
       "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
       "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
       "summary": "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
       "date": "2026-11-16T21:12:10+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Do we need another device just to talk to AI?",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xy1dim/do_we_need_another_device_just_to_talk_to_ai/",
-      "summary": "",
-      "date": "2026-11-16T21:10:27+00:00",
-      "image": "",
-      "source": "r/OpenAI"
     },
     {
       "title": "Robert Pattinson cast as next James Bond",
@@ -1739,36 +918,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "US closes the \"just rent the chips\" loophole for China",
-      "link": "https://www.reddit.com/r/singularity/comments/1xy08px/us_closes_the_just_rent_the_chips_loophole_for/",
-      "summary": "",
-      "date": "2026-11-16T20:26:40+00:00",
-      "image": "https://external-preview.redd.it/e-Bhu7-wonlo6JG6X6J-0D0sCCm9oGxTcgqxOWyJVIc.jpeg?width=640&crop=smart&auto=webp&s=d9d7d7fb3f26210d6a2a5360d260b71e3536a969",
-      "source": "r/singularity"
-    },
-    {
       "title": "California state AG sues OpenAI over rogue agent incidents",
       "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "date": "2026-11-16T20:07:13+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Moss images, mini max videos. The fact you can slap something like this together locally is incredible. WW1 rap.",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxzlvx/moss_images_mini_max_videos_the_fact_you_can_slap/",
-      "summary": "",
-      "date": "2026-11-16T20:03:12+00:00",
-      "image": "https://external-preview.redd.it/dW5mcjA1ZGc2MTJpMS3CgXWMyPPMEHSl6FnSRuqnuYjCku0g0sb8ewl9j5hU.png?width=640&crop=smart&auto=webp&s=10847ce9db115730af5fca4baa3d56320d9d834e",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/",
-      "summary": "",
-      "date": "2026-11-16T20:03:07+00:00",
-      "image": "https://external-preview.redd.it/v7EAM-epJO4Al8bbiKNr1czLvFQ4BgC0D8g6D8YJ_VA.png?width=640&crop=smart&auto=webp&s=1cace8352728d5686ba5073bc9027e2bec05d00d",
-      "source": "r/artificial"
     },
     {
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
@@ -1785,14 +940,6 @@
       "date": "2026-11-16T19:52:00+00:00",
       "image": "https://image.theregister.com/?imageId=260501&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Fed Chair Kevin Warsh says AI could supercharge scientific innovation and sustain economic growth above historical averages, as the Federal Reserve begins modeling scenarios of AI-driven prosperity, mass job displacement, and an investment bust",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxz7s7/fed_chair_kevin_warsh_says_ai_could_supercharge/",
-      "summary": "",
-      "date": "2026-11-16T19:48:59+00:00",
-      "image": "https://external-preview.redd.it/pKeerU3_W5W2bhRpkGhYqiFNjxpOvGbSfmy4qsjX4n0.jpeg?width=640&crop=smart&auto=webp&s=28206308dd0cbf63e71b52ead487545ebd56f6b7",
-      "source": "r/singularity"
     },
     {
       "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
@@ -1817,14 +964,6 @@
       "date": "2026-11-16T19:23:45+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "the US is picking AI \"national champions\" while china is at APEC preaching free trade. did everyone swap scripts?",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/",
-      "summary": "",
-      "date": "2026-11-16T19:13:44+00:00",
-      "image": "",
-      "source": "r/artificial"
     },
     {
       "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
@@ -1891,36 +1030,12 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxwerg/silicon_valley_leaders_back_call_for_jensen/",
-      "summary": "",
-      "date": "2026-11-16T18:04:32+00:00",
-      "image": "",
-      "source": "r/singularity"
-    },
-    {
       "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "date": "2026-11-16T17:36:43+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "I’m in love with MiniMax H3 — a little Emotion Study",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv9qc/im_in_love_with_minimax_h3_a_little_emotion_study/",
-      "summary": "",
-      "date": "2026-11-16T17:21:44+00:00",
-      "image": "https://external-preview.redd.it/YjRsNXA1c29jMDJpMYKFKXHFmmSgv_x7v2SO1lckRLkfvhxBoebCggp5zwoh.png?width=640&crop=smart&auto=webp&s=dd116bccd5462f7d5af80c8abf1f68904da40485",
-      "source": "r/StableDiffusion"
-    },
-    {
-      "title": "Making consistent character creation easier",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxv2au/making_consistent_character_creation_easier/",
-      "summary": "",
-      "date": "2026-11-16T17:13:51+00:00",
-      "image": "https://preview.redd.it/9700n0opb02i1.gif?frame=1&width=140&height=85&auto=webp&s=b5e8ac2bc6c77efa4a55128767765b707aa754b4",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -1995,14 +1110,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "MiniMax-H3 V2V Masterclass is finally here",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxtuxg/minimaxh3_v2v_masterclass_is_finally_here/",
-      "summary": "",
-      "date": "2026-11-16T16:29:51+00:00",
-      "image": "https://external-preview.redd.it/eGN1YXB0OXEzMDJpMSoK5k2nlPbI7mzpWDBY_hGzmdbHJbQaqhH3skCgCW2x.png?width=640&crop=smart&auto=webp&s=4309c51ba8701fc9ee2087f373bb75b6d6d48112",
-      "source": "r/StableDiffusion"
-    },
-    {
       "title": "Jensen Huang Is Gone. Now What?",
       "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
       "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
@@ -2049,14 +1156,6 @@
       "date": "2026-11-16T16:00:25+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Barack Obama: “The machines are starting to teach themselves. We're now hitting the hockey stick where the models are getting smarter and smarter at an exponential pace.\" ... \"If they start setting their own agendas, you may get misalignment between what they want to do vs what we want them to do.\"",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxt2il/barack_obama_the_machines_are_starting_to_teach/",
-      "summary": "",
-      "date": "2026-11-16T16:00:18+00:00",
-      "image": "https://external-preview.redd.it/ODM5Zm02bzN6ejFpMaOJGW7BPLA6ohrLi4VN7TdcDVRG1A6aq_VOVj6IoDPR.png?width=640&crop=smart&auto=webp&s=26e0d49bf0f7ec6d196d022d1dc8e4c9c4b88e7e",
-      "source": "r/OpenAI"
     },
     {
       "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
@@ -2107,22 +1206,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Alibaba's Qwen4 Max jumps 9 points on Artificial Analysis's Intelligence Index while cutting task costs by 67% and reasoning output by 39%. Its new 2.4-trillion-parameter architecture activates 25% fewer parameters per token.",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxr3le/alibabas_qwen4_max_jumps_9_points_on_artificial/",
-      "summary": "",
-      "date": "2026-11-16T14:43:23+00:00",
-      "image": "https://preview.redd.it/10nnnx2flz1i1.jpeg?width=140&height=58&auto=webp&s=3c99f13a0ac5678b234667de81e626212b5864ec",
-      "source": "r/singularity"
-    },
-    {
-      "title": "Survey of 268 early-career mathematicians: 7 in 10 say AI has made them less likely to stay in math",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/",
-      "summary": "",
-      "date": "2026-11-16T14:31:24+00:00",
-      "image": "https://external-preview.redd.it/a4eBZZMiYIlmF4oxvnRDGjmfz6QLCTNCu_E1RHJ4Bwc.jpeg?width=640&crop=smart&auto=webp&s=489315fbd48f2ff424f29f9133acba1c9279b364",
-      "source": "r/artificial"
-    },
-    {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
       "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
@@ -2137,14 +1220,6 @@
       "date": "2026-11-16T14:01:15+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "What are we doing wrong with H3?",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxphrf/what_are_we_doing_wrong_with_h3/",
-      "summary": "",
-      "date": "2026-11-16T13:35:00+00:00",
-      "image": "https://preview.redd.it/bprl9dy79z1i1.jpeg?width=640&crop=smart&auto=webp&s=c95a5c50ac280d1f9b35b039b529bae1146045f0",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "GTA 6 hacker pleads guilty after release from secure hospital",
@@ -2179,14 +1254,6 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "Increase Productivity",
-      "link": "https://www.reddit.com/r/singularity/comments/1xxolvw/increase_productivity/",
-      "summary": "",
-      "date": "2026-11-16T12:53:32+00:00",
-      "image": "https://preview.redd.it/cxsqc1mt1z1i1.jpeg?width=320&crop=smart&auto=webp&s=4c645aee4db039e8edf847a535ee047dfa1e42cc",
-      "source": "r/singularity"
-    },
-    {
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "link": "https://openai.com/index/science-at-the-frontier",
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
@@ -2209,22 +1276,6 @@
       "date": "2026-11-16T11:30:35+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/",
-      "summary": "",
-      "date": "2026-11-16T11:07:24+00:00",
-      "image": "https://external-preview.redd.it/cuZcls1_SgzkbJBlPNlBFzBHKvQ9fXIbYoAeDHASJWw.jpeg?width=640&crop=smart&auto=webp&s=513b9eff1f3ffb2c13a9fd0d47abf450470307e3",
-      "source": "r/artificial"
-    },
-    {
-      "title": "It's so over",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxmkyl/its_so_over/",
-      "summary": "",
-      "date": "2026-11-16T11:01:23+00:00",
-      "image": "https://preview.redd.it/2xnsikurhy1i1.png?width=640&crop=smart&auto=webp&s=bad3d84dfe6c91913bdfe162ec9ba0cea5711c3e",
-      "source": "r/OpenAI"
     },
     {
       "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
@@ -2267,14 +1318,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "CEOs are getting paranoid",
-      "link": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
-      "summary": "",
-      "date": "2026-11-16T09:16:57+00:00",
-      "image": "https://external-preview.redd.it/Z2FnZWZiaDZ6eDFpMVPyNBaAguJUvd1iTzgej47gvu7yd-FpzQA0rcmbRxfx.png?width=320&crop=smart&auto=webp&s=fd72443ca34258b91763792011525a8b60b3e5bb",
-      "source": "r/OpenAI"
-    },
-    {
       "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
       "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
       "summary": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
@@ -2289,14 +1332,6 @@
       "date": "2026-11-16T09:08:37+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "I’ve been running a persistent world where four LLMs from rival labs live with no goal, since April 2026",
-      "link": "https://www.reddit.com/r/artificial/comments/1xxkngu/ive_been_running_a_persistent_world_where_four/",
-      "summary": "",
-      "date": "2026-11-16T09:00:21+00:00",
-      "image": "",
-      "source": "r/artificial"
     },
     {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -2345,14 +1380,6 @@
       "date": "2026-11-16T03:04:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "State of the Sub - 1M Members Reached!",
-      "link": "https://www.reddit.com/r/StableDiffusion/comments/1xxehp8/state_of_the_sub_1m_members_reached/",
-      "summary": "",
-      "date": "2026-11-16T03:01:41+00:00",
-      "image": "https://preview.redd.it/5miv9nokyv1i1.png?width=140&height=118&auto=webp&s=520dd48f07cad6a1fa8465aff424d438206c41ea",
-      "source": "r/StableDiffusion"
     },
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -2491,6 +1518,14 @@
       "source": "Wired AI"
     },
     {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "date": "2026-11-15T11:00:00+00:00",
+      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
+      "source": "Wired AI"
+    },
+    {
       "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
       "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
       "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared fir",
@@ -2547,14 +1582,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-      "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm abo",
-      "date": "2026-11-14T19:00:52+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Italy fines Meta €805m over accessing users' photos",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
@@ -2577,14 +1604,6 @@
       "date": "2026-11-14T16:45:48+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
-      "link": "https://www.reddit.com/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/",
-      "summary": "",
-      "date": "2026-11-14T16:01:43+00:00",
-      "image": "",
-      "source": "r/singularity"
     },
     {
       "title": "How to Build a Markov Chain in Python With NumPy",
@@ -3377,6 +2396,966 @@
       "date": "2026-11-09T13:31:34+00:00",
       "image": "",
       "source": "Import AI"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
+      "date": "2026-11-09T13:00:00+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "summary": "",
+      "date": "2026-11-09T12:34:29+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconduct",
+      "date": "2026-11-09T08:00:53+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and auto",
+      "date": "2026-11-09T05:00:40+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell",
+      "date": "2026-11-09T05:00:39+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I jus",
+      "date": "2026-11-09T04:32:33+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times fast",
+      "date": "2026-11-07T23:34:19+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed",
+      "date": "2026-11-06T10:00:00+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "summary": "",
+      "date": "2026-11-06T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Detecting signs of hypertension using wearable sensors",
+      "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+      "summary": "Health & Bioscience",
+      "date": "2026-11-05T16:01:08+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
+      "date": "2026-11-05T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
+      "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
+      "date": "2026-11-05T15:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-the-european-union-flag-with-its-stars-replaced-by-logos-for-open-ai.jpg?id=68564327&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations ",
+      "date": "2026-11-05T03:47:09+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "summary": "",
+      "date": "2026-11-05T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r",
+      "date": "2026-11-04T18:50:55+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+      "summary": "Data Mining & Modeling",
+      "date": "2026-11-04T18:07:05+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgileDeliberation1_Thumbnail.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "summary": "",
+      "date": "2026-11-04T17:50:10+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "How big is the open model economy today?",
+      "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "summary": "Our first open model economy research note for paid subscribers.",
+      "date": "2026-11-04T16:35:44+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Learn the rules: The hacker mindset",
+      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
+      "date": "2026-11-03T17:14:38+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+      "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+      "summary": "Facebook Feature Framework (F3) is Meta’s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3 reduced execution comp",
+      "date": "2026-11-03T17:00:35+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "summary": "",
+      "date": "2026-11-03T16:35:36+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
+      "link": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "summary": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at the University of Tokyo on the future of AI, and kept hearing about how this technology was going to transform the world. “But nobody m",
+      "date": "2026-11-03T14:30:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "link": "https://huggingface.co/blog/cwe-bench",
+      "summary": "",
+      "date": "2026-11-03T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "summary": "",
+      "date": "2026-11-03T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "link": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can p",
+      "date": "2026-11-02T14:30:54+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster wh",
+      "date": "2026-11-01T14:00:01+00:00",
+      "image": "https://spectrum.ieee.org/media-library/stacked-orange-documents-over-abstract-black-circuit-board-pattern.jpg?id=68537695&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Was I wrong about open models & cyber risks?",
+      "link": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "summary": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and a long-standing GitLab bug, signified the moment when the cyber risks of AI models started to materialize.",
+      "date": "2026-10-30T17:36:56+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!NQ70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff51bb5d0-4390-4676-af4a-6bc8199412d5_2006x1362.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30T14:18:30+00:00",
+      "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
+      "date": "2026-10-30T13:05:28+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "Microsoft Research Focus – Edition #97",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
+      "date": "2026-10-29T19:19:16+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "link": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "summary": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the adv",
+      "date": "2026-10-29T19:18:20+00:00",
+      "image": "https://spectrum.ieee.org/media-library/smiling-man-in-headphones-with-on-screen-alerts-for-calendar-emails-and-awareness-mode.png?id=68506456&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+      "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+      "summary": "Over the last year we’ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we’re sharing the results and positive impact we’ve seen with Catching JiTTests deployed into productio",
+      "date": "2026-10-29T16:00:12+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "summary": "",
+      "date": "2026-10-29T13:37:07+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "summary": "",
+      "date": "2026-10-29T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "summary": "",
+      "date": "2026-10-29T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "summary": "",
+      "date": "2026-10-29T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Systems Thinking Is Vital in the Age of AI",
+      "link": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare t",
+      "date": "2026-10-28T18:00:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/illustration-of-a-robotic-and-a-human-hand-with-different-color-bands-wrapped-around-both-hands.jpg?id=68528703&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "date": "2026-10-28T17:00:58+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+      "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "summary": "This post describes the next generation of Meta Andromeda, Meta’s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-",
+      "date": "2026-10-28T16:00:01+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "summary": "A sort of review of the benchmarking industry and what's missing.",
+      "date": "2026-10-28T12:58:39+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "summary": "Education Innovation",
+      "date": "2026-10-27T17:35:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "summary": "",
+      "date": "2026-10-27T17:16:52+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance re",
+      "date": "2026-10-27T16:14:39+00:00",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "date": "2026-10-27T16:01:38+00:00",
+      "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+      "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+      "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta’s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement lo",
+      "date": "2026-10-27T16:00:12+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
+      "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+      "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic",
+      "date": "2026-10-27T13:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/man-in-glasses-at-night-his-face-reflected-in-a-window-beside-him.jpg?id=68515605&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "IEEE Xplore Digital Library Adds AI Assistant",
+      "link": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+      "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Research",
+      "date": "2026-10-26T18:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/illustration-of-an-academic-paper-collaged-with-overlapping-question-marks-and-colorful-arrows.jpg?id=68528679&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "link": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI saf",
+      "date": "2026-10-26T12:31:52+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically sma",
+      "date": "2026-10-26T10:06:16+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once",
+      "date": "2026-10-26T01:42:48+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "link": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "summary": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common log",
+      "date": "2026-10-25T12:00:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "link": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "summary": "#20",
+      "date": "2026-10-25T11:49:00+00:00",
+      "image": "",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "summary": "Generative AI",
+      "date": "2026-10-23T18:51:33+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+      "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environment",
+      "date": "2026-10-23T10:33:56+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to mo",
+      "date": "2026-10-23T01:21:47+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "summary": "",
+      "date": "2026-10-23T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "summary": "",
+      "date": "2026-10-22T22:24:34+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
+      "date": "2026-10-22T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "date": "2026-10-22T14:30:24+00:00",
+      "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Why Engineers Should Brave Capitol Hill",
+      "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
+      "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from I",
+      "date": "2026-10-22T13:00:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/group-of-five-men-standing-outside-an-office-with-a-placard-that-reads-representative-greg-casar-texas-446.png?id=68486788&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight ",
+      "date": "2026-10-22T02:37:01+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "summary": "",
+      "date": "2026-10-21T17:35:36+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "link": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "summary": "Health & Bioscience",
+      "date": "2026-10-21T16:23:53+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computi",
+      "date": "2026-10-21T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+      "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today,",
+      "date": "2026-10-21T13:00:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Could Treating AI as Conscious Make It More Dangerous?",
+      "link": "https://spectrum.ieee.org/ai-model-welfare",
+      "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “ retirement interview ” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave",
+      "date": "2026-10-21T12:00:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/yellow-smiley-face-centered-in-swirling-black-and-white-texture.jpg?id=68442432&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+      "link": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+      "summary": "Western open models strike back",
+      "date": "2026-10-20T17:04:21+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!ptGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd500e8ff-94e8-4cf5-b99d-5d9aac7f0a8a_1024x768.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at the IMF meeting in Bangkok. This speech ",
+      "date": "2026-10-19T12:31:37+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+      "link": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
+      "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the",
+      "date": "2026-10-19T10:00:04+00:00",
+      "image": "https://assets.rbl.ms/68424848/origin.png",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Meta shakes up the frontiers, open and closed",
+      "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "summary": "US open weights are back!",
+      "date": "2026-10-17T14:06:54+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/95f73e17-9e3c-49ea-8d4c-e0ae87c89257_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "summary": "General Science",
+      "date": "2026-10-16T18:11:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
+      "source": "Google Research"
+    },
+    {
+      "title": "Simulation App Speeds Up Electric Truck Battery Design",
+      "link": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+      "summary": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to ma",
+      "date": "2026-10-16T16:49:18+00:00",
+      "image": "https://spectrum.ieee.org/media-library/light-blue-volvo-fh-electric-semi-truck-cab-shown-from-front-side-view.png?id=67846334&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "date": "2026-10-15T16:08:03+00:00",
+      "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "link": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "summary": "Earth AI",
+      "date": "2026-10-14T16:14:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
+      "source": "Google Research"
+    },
+    {
+      "title": "Analyzing technical documents with Deep Review",
+      "link": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "summary": "General Science",
+      "date": "2026-10-14T16:14:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+      "summary": "General Science",
+      "date": "2026-10-14T16:14:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "date": "2026-10-14T02:00:14+00:00",
+      "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Ye",
+      "date": "2026-10-14T01:41:55+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "date": "2026-10-13T19:43:07+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "date": "2026-10-13T16:01:58+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "date": "2026-10-13T16:01:52+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Google DeepMind’s New Resident Philosopher Tackles AI Ethics",
+      "link": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+      "summary": "How should humans relate to generative AI ? In what ways do we, or should we, treat a large language model (LLM) as if it were a person? If an AI became conscious, how could we tell? Does it make sense to think AI could someday have moral rights? These are among the cognitive and",
+      "date": "2026-10-13T13:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
+      "date": "2026-10-13T09:47:22+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Physicists discover “astonishing” property of light that defies expectations",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left-",
+      "date": "2026-10-13T04:19:32+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Cl",
+      "date": "2026-10-12T18:00:02+00:00",
+      "image": "https://spectrum.ieee.org/media-library/an-indian-man-in-a-dress-shirt-smiling-in-front-of-the-entrance-to-an-office-building.jpg?id=68416593&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
+      "date": "2026-10-12T12:30:39+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+      "link": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+      "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap",
+      "date": "2026-10-12T10:00:03+00:00",
+      "image": "https://assets.rbl.ms/68382463/origin.png",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "I expect rapid progress but not towards general superintelligence",
+      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
+      "date": "2026-10-09T21:33:47+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
+      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
+      "date": "2026-10-09T05:06:58+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Does better work always mean better workers?",
+      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "summary": "",
+      "date": "2026-10-07T20:19:57+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "date": "2026-10-06T19:57:04+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "summary": "Earth AI",
+      "date": "2026-10-06T15:05:11+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "The Cyber Risk Discourse is Broken",
+      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
+      "date": "2026-10-06T14:22:41+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "summary": "Generative AI",
+      "date": "2026-10-05T21:08:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
+      "date": "2026-10-05T12:32:30+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "date": "2026-10-03T07:32:03+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Toward provably private learning from federated data",
+      "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "summary": "Mobile Systems",
+      "date": "2026-10-02T14:57:41+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
+      "date": "2026-10-01T13:17:13+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-gener",
+      "date": "2026-10-01T13:03:50+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
+      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
+      "date": "2026-09-30T11:23:54+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "How Diffusion Controller unifies and simplifies AI image generation",
+      "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-29T18:38:27+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
+      "source": "Google Research"
+    },
+    {
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
+      "date": "2026-09-28T12:32:03+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Quantum computing’s “dark horse” just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alo",
+      "date": "2026-09-25T12:45:04+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Automating coherent long-form video generation",
+      "link": "https://research.google/blog/coherent-long-form-video-generation/",
+      "summary": "Generative AI",
+      "date": "2026-09-24T19:40:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MIT’s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate d",
+      "date": "2026-09-22T12:52:43+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
+      "date": "2026-09-21T12:31:04+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "The expanded form of a testimony I prepared for Congress.",
+      "date": "2026-09-21T11:56:56+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Why I still haven’t bought into true RSI",
+      "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
+      "date": "2026-09-19T15:42:20+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+      "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-18T17:46:09+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+      "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+      "summary": "Education Innovation",
+      "date": "2026-09-17T20:45:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+      "summary": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+      "date": "2026-09-17T08:02:55+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
+      "source": "Last Week in AI"
     }
   ]
 }
