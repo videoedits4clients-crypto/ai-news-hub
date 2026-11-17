@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:51:02.785149+00:00",
+  "updated": "2026-11-17T13:07:06.262540+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -172,6 +172,70 @@
     }
   ],
   "items": [
+    {
+      "title": "I Built My Own AI Agent Orchestration Tool",
+      "link": "https://www.checklyhq.com/blog/agentic-crafting-table-ai-agent-orchestration/",
+      "summary": "Article URL: https://www.checklyhq.com/blog/agentic-crafting-table-ai-agent-orchestration/ Comments URL: https://news.ycombinator.com/item?id=50530784 Points: 2 # Comments: 0",
+      "date": "2026-11-17T13:00:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+      "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+      "summary": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history The technology company Anthropic is heading for a blockbuster stock market listing this week in what is slated to be one of the largest debuts in history. The company is a lea",
+      "date": "2026-11-17T13:00:48+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "AI toys are on the naughty list again this year",
+      "link": "https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261",
+      "summary": "Last year's offenders mostly cleaned up their acts, but a new batch is just as ready to talk sex, drugs, and where to find the knives with your kids",
+      "date": "2026-11-17T13:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310286&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Are cloud sandboxes worth it for AI coding agents?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1xyjtbz/are_cloud_sandboxes_worth_it_for_ai_coding_agents/",
+      "summary": "",
+      "date": "2026-11-17T12:59:42+00:00",
+      "image": "",
+      "source": "r/AI_Agents"
+    },
+    {
+      "title": "Codebase RAG vs. grep for AI agents:the same grep hits scored 10, 30 or 34 of 40",
+      "link": "https://tobiasuhlig.medium.com/codebase-rag-vs-grep-for-ai-coding-agents-the-same-grep-hits-scored-10-30-or-34-of-40-5f8738c2e766",
+      "summary": "Article URL: https://tobiasuhlig.medium.com/codebase-rag-vs-grep-for-ai-coding-agents-the-same-grep-hits-scored-10-30-or-34-of-40-5f8738c2e766 Comments URL: https://news.ycombinator.com/item?id=50530738 Points: 1 # Comments: 0",
+      "date": "2026-11-17T12:54:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "We built Jarvis, our AI team member for every department",
+      "link": "https://www.searchagora.com/blog/how-we-built-jarvis-our-ai-team-member-for-every-department",
+      "summary": "Article URL: https://www.searchagora.com/blog/how-we-built-jarvis-our-ai-team-member-for-every-department Comments URL: https://news.ycombinator.com/item?id=50530734 Points: 3 # Comments: 0",
+      "date": "2026-11-17T12:53:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic IPO set to fuel AI gold rush in London's high-end property market",
+      "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market Comments URL: https://news.ycombinator.com/item?id=50530708 Points: 1 # Comments: 0",
+      "date": "2026-11-17T12:50:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Gemma on a printer",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
+      "summary": "",
+      "date": "2026-11-17T12:48:09+00:00",
+      "image": "https://preview.redd.it/983mx7nl562i1.png?width=640&crop=smart&auto=webp&s=42dab29918167c6e604b9c8021674a622dc31ff0",
+      "source": "r/LocalLLaMA"
+    },
     {
       "title": "Dealing with AI Depression and Meaninglessness [video]",
       "link": "https://www.youtube.com/watch?v=oycBOHeu760",
@@ -383,7 +447,7 @@
     {
       "title": "Jeremy Howard: The tool we created to build our own internal work at Answer.AI",
       "link": "https://twitter.com/jeremyphoward/status/2122487017137398256",
-      "summary": "Article URL: https://twitter.com/jeremyphoward/status/2122487017137398256 Comments URL: https://news.ycombinator.com/item?id=50530096 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://twitter.com/jeremyphoward/status/2122487017137398256 Comments URL: https://news.ycombinator.com/item?id=50530096 Points: 3 # Comments: 1",
       "date": "2026-11-17T11:36:10+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -645,14 +709,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Agent GUI: a human-friendly interface for observing and steering AI agents",
-      "link": "https://github.com/eth-medical-ai-lab/agent-gui",
-      "summary": "Article URL: https://github.com/eth-medical-ai-lab/agent-gui Comments URL: https://news.ycombinator.com/item?id=50529308 Points: 1 # Comments: 0",
-      "date": "2026-11-17T09:33:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Concerns About Peer Reviewers Inflating OA Scores [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xyg0vu/concerns_about_peer_reviewers_inflating_oa_scores/",
       "summary": "",
@@ -683,14 +739,6 @@
       "date": "2026-11-17T08:51:59+00:00",
       "image": "https://external-preview.redd.it/VIvHIgj2H3nwLZah1e-a8jFBNHpYOCDzGgWavY1HNk4.jpeg?width=640&crop=smart&auto=webp&s=700ab51e71d4369f0ca1a9fffab721ccfc0e5907",
       "source": "r/artificial"
-    },
-    {
-      "title": "Show HN: Call Nara. An AI voice companion built with older people in mind",
-      "link": "https://apps.apple.com/au/app/call-nara/id6794990805",
-      "summary": "Call Nara: someone to talk to, any time Call Nara is a simple voice companion for older people, and for anyone who spends long days alone. You tap once and talk. There's no typing. Nara greets you by name, asks how you are, chats and listens. Just ask by voice, and she can play m",
-      "date": "2026-11-17T08:49:41+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "What are you using as an alternative for realistic images since the new model is terrible?",
@@ -733,28 +781,12 @@
       "source": "r/MachineLearning"
     },
     {
-      "title": "Show HN: AI Agent Infrastructure and Memory Compaction Specifications",
-      "link": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
-      "summary": "Article URL: https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure Comments URL: https://news.ycombinator.com/item?id=50528803 Points: 1 # Comments: 0",
-      "date": "2026-11-17T08:16:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "For people running Ai agents in production: How do you prevent conflicting actions across the same transaction?",
       "link": "https://www.reddit.com/r/AI_Agents/comments/1xyext8/for_people_running_ai_agents_in_production_how_do/",
       "summary": "",
       "date": "2026-11-17T08:15:31+00:00",
       "image": "",
       "source": "r/AI_Agents"
-    },
-    {
-      "title": "Show HN: Lantern – desktop app that maps your repo and reviews AI-written PRs",
-      "link": "https://github.com/MobileReality/lantern",
-      "summary": "Article URL: https://github.com/MobileReality/lantern Comments URL: https://news.ycombinator.com/item?id=50528778 Points: 2 # Comments: 0",
-      "date": "2026-11-17T08:12:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Google Maps adds AI trip itineraries as Ask Maps expands to 30 European countries",
@@ -811,14 +843,6 @@
       "date": "2026-11-17T07:07:35+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
-      "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
-      "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked wit",
-      "date": "2026-11-17T07:00:07+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
@@ -1051,14 +1075,6 @@
       "date": "2026-11-17T02:25:56+00:00",
       "image": "",
       "source": "r/artificial"
-    },
-    {
-      "title": "Coding agents with native environments, identity and access",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1xy8jln/coding_agents_with_native_environments_identity/",
-      "summary": "",
-      "date": "2026-11-17T02:21:59+00:00",
-      "image": "",
-      "source": "r/AI_Agents"
     },
     {
       "title": "Rivers are legal persons. Corporations are people, too. What should we call the land & labor that answers when you ask \"what are you?\"",
@@ -1981,14 +1997,6 @@
       "source": "The Register"
     },
     {
-      "title": "Marvell and Penguin Solutions aim to end the RAMpocalypse with photonic memory fabric",
-      "link": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921",
-      "summary": "Appliances can share 16 TB of DRAM and half a terabyte of HBM across up to 16 systems",
-      "date": "2026-11-16T14:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=253714&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Best Audio Models - Nov 2026",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026/",
       "summary": "",
@@ -2130,14 +2138,6 @@
       "summary": "",
       "date": "2026-11-16T09:55:51+00:00",
       "image": "https://preview.redd.it/czvg7r846y1i1.jpeg?width=640&crop=smart&auto=webp&s=0d95847d857439747ef780d17c267701e20384b5",
-      "source": "r/LocalLLaMA"
-    },
-    {
-      "title": "Introducing Hy4 flash",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/",
-      "summary": "",
-      "date": "2026-11-16T09:52:44+00:00",
-      "image": "",
       "source": "r/LocalLLaMA"
     },
     {
@@ -2765,14 +2765,6 @@
       "source": "Google Research"
     },
     {
-      "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-      "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvi",
-      "date": "2026-11-13T19:51:28+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
       "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
@@ -3371,6 +3363,14 @@
       "date": "2026-11-10T12:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
     }
   ]
 }
