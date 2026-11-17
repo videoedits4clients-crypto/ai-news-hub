@@ -168,7 +168,8 @@ def main():
     top = int(sys.argv[sys.argv.index("--top") + 1]) if "--top" in sys.argv else 6
     provider = os.environ.get("WHATSAPP_PROVIDER", "callmebot")
 
-    items = pick_stories(load_news(), top)
+    data = load_news()
+    items = pick_stories(data, top)
     if not items:
         sys.exit("No stories found in data/news.json")
     text = format_digest(items)
@@ -180,6 +181,22 @@ def main():
     digest_file.parent.mkdir(parents=True, exist_ok=True)
     digest_file.write_text(text + "\n", encoding="utf-8")
     print("[OK] wrote data/digest.txt")
+
+    # Trending clusters with their source counts, as a few hundred bytes —
+    # enough for an assistant to watch ("tell me if something hits 3 sources").
+    trend_file = ROOT / "data" / "trending.txt"
+    clusters = [
+        t for t in data.get("trending", [])
+        if is_ai_story({"title": t.get("title", "")})
+    ][:8]
+    lines = [f"AI Pulse - trending now (feed updated {data.get('updated', '')})", ""]
+    for i, t in enumerate(clusters, 1):
+        srcs = t.get("sources", [])
+        lines.append(f"{i}. [{t.get('count', len(srcs))} sources] {t.get('title', '')}")
+        if srcs:
+            lines.append("   " + " · ".join(srcs))
+    trend_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("[OK] wrote data/trending.txt")
 
     sent_whatsapp = False
     if provider == "callmebot":

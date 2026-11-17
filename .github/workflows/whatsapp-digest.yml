@@ -55,7 +55,7 @@ jobs:
         run: |
           git config user.name "news-bot"
           git config user.email "actions@github.com"
-          git add data/digest.txt
+          git add data/digest.txt data/trending.txt
           if ! git diff --cached --quiet; then
             git commit -m "chore: today's WhatsApp digest text [skip ci]"
             # digest.txt is regenerated every run — on conflict, fresh text wins
