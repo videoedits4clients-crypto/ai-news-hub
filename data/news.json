@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T01:51:11.983468+00:00",
+  "updated": "2026-11-18T02:06:34.707843+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,9 +151,17 @@
   ],
   "items": [
     {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's org",
+      "date": "2026-11-18T01:48:18+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
       "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 3 # Comments: 0",
       "date": "2026-11-18T01:45:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -165,6 +173,14 @@
       "date": "2026-11-18T01:44:21+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+      "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+      "summary": "Abdulrahman Alfozan has been held without bail since his arrest in October, after prosecutors said he planted a listening device in an OpenAI conference room.",
+      "date": "2026-11-18T01:31:37+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
@@ -193,7 +209,7 @@
     {
       "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
       "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html Comments URL: https://news.ycombinator.com/item?id=50540491 Points: 6 # Comments: 0",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html Comments URL: https://news.ycombinator.com/item?id=50540491 Points: 8 # Comments: 0",
       "date": "2026-11-18T00:58:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -217,7 +233,7 @@
     {
       "title": "Google's AI answers reducing search traffic by 40%",
       "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 56 # Comments: 33",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 71 # Comments: 43",
       "date": "2026-11-18T00:17:58+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -287,12 +303,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's org",
-      "date": "2026-11-17T23:43:37+00:00",
-      "image": "",
-      "source": "The Verge AI"
+      "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+      "link": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+      "summary": "NSA, Apple add to a week of high-profile network outages, largely attributed to 'routine maintenance'",
+      "date": "2026-11-17T23:41:31+00:00",
+      "image": "https://image.theregister.com/?imageId=5310644&width=800",
+      "source": "The Register"
     },
     {
       "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
@@ -407,6 +423,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "GPU giants throw HPC users some tasty crumbs",
+      "link": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611",
+      "summary": "Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X",
+      "date": "2026-11-17T22:37:46+00:00",
+      "image": "https://image.theregister.com/?imageId=5310625&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Show HN: Sikemux – a whole team of AI coders in one window (Rust, MIT)",
       "link": "https://sikemux.com/",
       "summary": "Here's why I started building Sikemux: At first I was using Cursor. The problem with it was, I had to open a new window for each project. That's when Zed came along. It was good and fast. But I didn't like its project switching much, it took me like 2 clicks instead of 1. I had t",
@@ -513,7 +537,7 @@
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 45 # Comments: 75",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 52 # Comments: 80",
       "date": "2026-11-17T21:16:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1207,14 +1231,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
-      "link": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
-      "summary": "Commerce dept runing criminal investigation into Nvidia-linked Megaspeed",
-      "date": "2026-11-17T00:55:39+00:00",
-      "image": "https://image.theregister.com/?imageId=259879&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
       "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides v",
@@ -1253,14 +1269,6 @@
       "date": "2026-11-16T23:57:26+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "California sues OpenAI for misleading public about AI safety",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
-      "summary": "A-G cites Hugging Face incident as example of why industry must be accountable",
-      "date": "2026-11-16T23:43:17+00:00",
-      "image": "https://image.theregister.com/?imageId=5310304&width=800",
-      "source": "The Register"
     },
     {
       "title": "The AI start-ups fixing India's broken roads and messy land records",
@@ -1349,14 +1357,6 @@
       "date": "2026-11-16T21:41:10+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-      "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-      "date": "2026-11-16T21:26:42+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Robert Pattinson cast as next James Bond",
@@ -1952,7 +1952,7 @@
     },
     {
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
       "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
       "date": "2026-11-14T01:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
