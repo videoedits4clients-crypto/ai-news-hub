@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:06:21.543787+00:00",
+  "updated": "2026-11-18T05:21:30.234340+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,20 +151,52 @@
   ],
   "items": [
     {
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "date": "2026-11-18T05:10:02+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Purpose-Governed Agents: who reviews how an AI agent describes its own proposals",
+      "link": "https://zenodo.org/records/23778866",
+      "summary": "Article URL: https://zenodo.org/records/23778866 Comments URL: https://news.ycombinator.com/item?id=50542112 Points: 1 # Comments: 0",
+      "date": "2026-11-18T05:06:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+      "date": "2026-11-18T05:03:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Btrfs Seeks to Deal with AI and Newbies Without Common Sense",
+      "link": "https://lore.kernel.org/lkml/df1c1fa031ba7e66486348dc37d1a7be53c18e43.1794894953.git.wqu@suse.com/",
+      "summary": "Article URL: https://lore.kernel.org/lkml/df1c1fa031ba7e66486348dc37d1a7be53c18e43.1794894953.git.wqu@suse.com/ Comments URL: https://news.ycombinator.com/item?id=50542090 Points: 1 # Comments: 0",
+      "date": "2026-11-18T05:03:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "date": "2026-11-18T05:01:00+00:00",
+      "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
+      "source": "Wired AI"
+    },
+    {
       "title": "‘Human’ wins Cambridge dictionary’s word of the year",
       "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
       "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human. Breakthroughs in arti",
       "date": "2026-11-18T05:00:34+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Security flaw found Java, world's third-largest programming language",
-      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
-      "date": "2026-11-18T05:00:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
@@ -233,7 +265,7 @@
     {
       "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
       "link": "https://greyswansignals.com",
-      "summary": "Article URL: https://greyswansignals.com Comments URL: https://news.ycombinator.com/item?id=50541325 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://greyswansignals.com Comments URL: https://news.ycombinator.com/item?id=50541325 Points: 6 # Comments: 0",
       "date": "2026-11-18T03:03:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -289,7 +321,7 @@
     {
       "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
       "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 35 # Comments: 16",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 45 # Comments: 20",
       "date": "2026-11-18T01:45:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -361,7 +393,7 @@
     {
       "title": "Google's AI answers reducing search traffic by 40%",
       "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 202 # Comments: 135",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 228 # Comments: 154",
       "date": "2026-11-18T00:17:58+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -623,28 +655,12 @@
       "source": "The Register"
     },
     {
-      "title": "AI company's research deepens mystery of vaults, cells' strangest particles",
-      "link": "https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles",
-      "summary": "Article URL: https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles Comments URL: https://news.ycombinator.com/item?id=50538536 Points: 2 # Comments: 0",
-      "date": "2026-11-17T21:36:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Google joins the tech outage trend by announcing it’s not having one",
       "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
       "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
       "date": "2026-11-17T21:34:50+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "The missing quadrant in responses to AI",
-      "link": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
-      "summary": "Article URL: https://www.normaltech.ai/p/the-missing-quadrant-in-responses Comments URL: https://news.ycombinator.com/item?id=50538354 Points: 2 # Comments: 0",
-      "date": "2026-11-17T21:20:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
@@ -1607,14 +1623,6 @@
       "source": "Import AI"
     },
     {
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "date": "2026-11-16T13:34:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
-      "source": "BBC Technology"
-    },
-    {
       "title": "How to Avoid AI Replacement as an Analytics Professional in 2027",
       "link": "https://towardsdatascience.com/how-to-avoid-ai-replacement-as-an-analytics-professional-in-2027/",
       "summary": "Lessons from manufacturing and logistics projects: follow data from input to output, then turn vague requests into deterministic tools teams trust. The post How to Avoid AI Replacement as an Analytics Professional in 2027 appeared first on Towards Data Science .",
@@ -1941,14 +1949,6 @@
       "date": "2026-11-14T12:23:15+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
       "source": "Interconnects"
-    },
-    {
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "date": "2026-11-14T11:00:00+00:00",
-      "image": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
-      "source": "Wired AI"
     },
     {
       "title": "Tech Now",
