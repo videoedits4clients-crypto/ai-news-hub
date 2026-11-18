@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T15:36:59.549422+00:00",
+  "updated": "2026-11-18T15:50:44.621330+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -130,18 +130,74 @@
   ],
   "items": [
     {
-      "title": "CoreWeave, Iren, Nebius shares sink following Nvidia earnings",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
-      "date": "2026-11-18T15:31:00+00:00",
+      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:49:34+00:00",
       "image": "",
-      "source": "CNBC Technology"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Best AI",
+      "link": "https://news.ycombinator.com/item?id=50547772",
+      "summary": "ORIGIN AI Comments URL: https://news.ycombinator.com/item?id=50547772 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:49:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Chief AI Office Game",
+      "link": "https://www.modulos.ai/tools/chief-ai-officer/",
+      "summary": "Article URL: https://www.modulos.ai/tools/chief-ai-officer/ Comments URL: https://news.ycombinator.com/item?id=50547726 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:46:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T15:27:48+00:00",
+      "date": "2026-11-18T15:45:49+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
+      "date": "2026-11-18T15:45:02+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "AI is writing a public web every 15 days",
+      "link": "https://www.sid.ai/research/llm-output-vs-human-text",
+      "summary": "Article URL: https://www.sid.ai/research/llm-output-vs-human-text Comments URL: https://news.ycombinator.com/item?id=50547635 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:39:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+      "date": "2026-11-18T15:37:50+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "date": "2026-11-18T15:35:37+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "CoreWeave, Iren, Nebius shares sink following Nvidia earnings",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "date": "2026-11-18T15:31:00+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -152,6 +208,14 @@
       "date": "2026-11-18T15:20:02+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol \"ANT\" on Thursday.",
+      "date": "2026-11-18T15:19:53+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
@@ -202,28 +266,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
-      "date": "2026-11-18T15:03:48+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
       "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
       "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
       "date": "2026-11-18T15:02:40+00:00",
       "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Trump admin insists recent closely timed tech outages aren't connected",
-      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "date": "2026-11-18T15:00:34+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
@@ -442,28 +490,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: Reflektor – Turn AI PRs into something a human can review",
-      "link": "https://github.com/bashovski/reflektor",
-      "summary": "Hi folks, AI has changed how we write code in the past year. Now humans are the bottleneck for releases, and the real fix is to change how we review pull requests. So I decided to build Reflektor: a tool you run yourself that turns a PR into an easy-to-read report. You review the",
-      "date": "2026-11-18T14:10:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
       "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
       "date": "2026-11-18T14:09:26+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: Indexed_bzip2 2.0 – I used AI to make bzip2 decompression 4x faster",
-      "link": "https://github.com/mxmlnkn/librapidarchive/releases/tag/v2.0.0",
-      "summary": "Hi HN, I started indexed_bzip2 years ago as a seekable, parallelized bzip2 backend for ratarmount. It has been dormant for a while and seemed almost finished. Out of interest, I tried looking for bugs with DeepSeek V4.1 Flash, which found dozens of them, most with a minimal repro",
-      "date": "2026-11-18T14:09:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Will Wright’s next game uses AI to map your memories",
@@ -482,14 +514,6 @@
       "source": "NVIDIA Blog"
     },
     {
-      "title": "Why Open Source Still Wins Trust in the AI Era, Even as Attacks Go Automated",
-      "link": "https://medium.com/@MirArshadTalpur/why-open-source-still-wins-trust-in-the-ai-era-even-as-attacks-go-automated-e4fc4d9d4263",
-      "summary": "Article URL: https://medium.com/@MirArshadTalpur/why-open-source-still-wins-trust-in-the-ai-era-even-as-attacks-go-automated-e4fc4d9d4263 Comments URL: https://news.ycombinator.com/item?id=50546349 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:55:25+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
@@ -504,14 +528,6 @@
       "date": "2026-11-18T13:54:00+00:00",
       "image": "https://image.theregister.com/?imageId=5310782&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 48 # Comments: 49",
-      "date": "2026-11-18T13:51:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
@@ -1338,14 +1354,6 @@
       "source": "IEEE Spectrum AI"
     },
     {
-      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
-      "link": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
-      "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
-      "date": "2026-11-17T13:58:07+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Google ADK Agents That Pause, Resume, and Wait Hours for a Human",
       "link": "https://towardsdatascience.com/google-adk-agents-that-pause-resume-and-wait-hours-for-a-human/",
       "summary": "A synchronous call kept an RSS agent's connection open for 83 seconds; webhooks and 202 receipts free the client while the agent works. The post Google ADK Agents That Pause, Resume, and Wait Hours for a Human appeared first on Towards Data Science .",
@@ -1528,14 +1536,6 @@
       "date": "2026-11-16T23:57:26+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the s",
-      "date": "2026-11-16T23:20:44+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
