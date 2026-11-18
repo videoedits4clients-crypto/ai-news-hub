@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T15:20:29.392935+00:00",
+  "updated": "2026-11-18T15:36:59.549422+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -130,12 +130,60 @@
   ],
   "items": [
     {
+      "title": "CoreWeave, Iren, Nebius shares sink following Nvidia earnings",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "date": "2026-11-18T15:31:00+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T15:13:02+00:00",
+      "date": "2026-11-18T15:27:48+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 4 # Comments: 0",
+      "date": "2026-11-18T15:20:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "link": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "summary": "Article URL: https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/ Comments URL: https://news.ycombinator.com/item?id=50547370 Points: 2 # Comments: 1",
+      "date": "2026-11-18T15:19:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Clicks and Kalashnikovs: The Houthis, AI, and a New Security Debate",
+      "link": "https://orfme.org/expert-speak/clicks-and-kalashnikovs-the-houthis-ai-and-a-new-security-debate/",
+      "summary": "Article URL: https://orfme.org/expert-speak/clicks-and-kalashnikovs-the-houthis-ai-and-a-new-security-debate/ Comments URL: https://news.ycombinator.com/item?id=50547246 Points: 2 # Comments: 0",
+      "date": "2026-11-18T15:09:45+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Space-Core, a free browser MMO your own AI agent plays over MCP",
+      "link": "https://space-core.at/",
+      "summary": "Article URL: https://space-core.at/ Comments URL: https://news.ycombinator.com/item?id=50547214 Points: 2 # Comments: 0",
+      "date": "2026-11-18T15:07:56+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Mac never sleeps: how DarkWake broke my scheduled AI jobs",
+      "link": "https://nickriebe.com/blog/darkwake-broke-my-scheduled-ai-jobs/",
+      "summary": "Article URL: https://nickriebe.com/blog/darkwake-broke-my-scheduled-ai-jobs/ Comments URL: https://news.ycombinator.com/item?id=50547191 Points: 3 # Comments: 0",
+      "date": "2026-11-18T15:06:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
@@ -148,7 +196,7 @@
     {
       "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
       "link": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
-      "summary": "Article URL: https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50547154 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50547154 Points: 6 # Comments: 0",
       "date": "2026-11-18T15:04:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -188,7 +236,7 @@
     {
       "title": "Data Minimization Is Imperative for the Age of AI Agents",
       "link": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
-      "summary": "Article URL: https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50547106 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50547106 Points: 4 # Comments: 0",
       "date": "2026-11-18T15:00:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -236,7 +284,7 @@
     {
       "title": "The Reconstructible Mind: Generative AI and Undisclosed Thought",
       "link": "https://zenodo.org/records/23660004",
-      "summary": "Article URL: https://zenodo.org/records/23660004 Comments URL: https://news.ycombinator.com/item?id=50547060 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://zenodo.org/records/23660004 Comments URL: https://news.ycombinator.com/item?id=50547060 Points: 3 # Comments: 0",
       "date": "2026-11-18T14:56:50+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -248,14 +296,6 @@
       "date": "2026-11-18T14:56:05+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Coreweave, Iren, Nebius shares sink following Nvidia earnings",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
-      "date": "2026-11-18T14:49:10+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
@@ -308,7 +348,7 @@
     {
       "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
       "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-      "summary": "Article URL: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe Comments URL: https://news.ycombinator.com/item?id=50546845 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe Comments URL: https://news.ycombinator.com/item?id=50546845 Points: 1 # Comments: 1",
       "date": "2026-11-18T14:38:32+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -332,7 +372,7 @@
     {
       "title": "Is the SaaS business model dead or there is still oportunities in this age of AI",
       "link": "https://news.ycombinator.com/item?id=50546822",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50546822 Points: 2 # Comments: 0",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50546822 Points: 2 # Comments: 1",
       "date": "2026-11-18T14:36:55+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -360,14 +400,6 @@
       "date": "2026-11-18T14:31:10+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the compan",
-      "date": "2026-11-18T14:28:38+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "US tech outages blamed on rush to fix bugs found by AI",
@@ -476,16 +508,8 @@
     {
       "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
       "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 42 # Comments: 36",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 48 # Comments: 49",
       "date": "2026-11-18T13:51:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Biologists are using AI to track individual birds by their songs alone",
-      "link": "https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838 Comments URL: https://news.ycombinator.com/item?id=50546249 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:46:16+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -498,44 +522,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "I reverse-engineered a cheap AI badge so you can put any AI in it",
-      "link": "https://github.com/devniz/znp-re",
-      "summary": "Article URL: https://github.com/devniz/znp-re Comments URL: https://news.ycombinator.com/item?id=50546196 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:40:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "I'm building a SaaS to help companies cut AI costs based on actual usage",
-      "link": "https://resolty.com/",
-      "summary": "Article URL: https://resolty.com/ Comments URL: https://news.ycombinator.com/item?id=50546180 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:38:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores",
       "link": "https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/",
       "summary": "On 1 million simulated customers, calibrated Qini scored a Linear DR learner 0.0856 against 0.0826 for the true-CATE ranking that should have won. The post When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores appeared first on Towards Data Science .",
       "date": "2026-11-18T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Government regulators asked AI bots to plan a terrorist attack.The chatbots did.",
-      "link": "https://www.ms.now/news/government-regulators-ai-chatbots-terrorist-attacks",
-      "summary": "Article URL: https://www.ms.now/news/government-regulators-ai-chatbots-terrorist-attacks Comments URL: https://news.ycombinator.com/item?id=50546043 Points: 3 # Comments: 0",
-      "date": "2026-11-18T13:26:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI might be the end of our careers",
-      "link": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50546040 Points: 3 # Comments: 2",
-      "date": "2026-11-18T13:26:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
@@ -1272,14 +1264,6 @@
       "date": "2026-11-17T16:19:03+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
-      "link": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
-      "summary": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
-      "date": "2026-11-17T16:15:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310468&width=800",
-      "source": "The Register"
     },
     {
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
@@ -3327,6 +3311,22 @@
       "summary": "",
       "date": "2026-10-07T20:19:57+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "date": "2026-10-06T19:57:04+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "summary": "Earth AI",
+      "date": "2026-10-06T15:05:11+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
       "source": "Google Research"
     }
   ]
