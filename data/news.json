@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T17:50:28.594300+00:00",
+  "updated": "2026-11-18T18:07:01.435297+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -42,7 +42,7 @@
     {
       "count": 2,
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "date": "2026-11-18T17:35:13+00:00",
+      "date": "2026-11-18T17:54:48+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI"
@@ -78,27 +78,6 @@
           "source": "OpenAI News",
           "title": "Introducing GPT-6.2 Astra and Sol",
           "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-      "date": "2026-11-17T17:35:26+00:00",
-      "sources": [
-        "The Guardian AI",
-        "The Verge AI"
-      ],
-      "links": [
-        {
-          "source": "The Guardian AI",
-          "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
-        },
-        {
-          "source": "The Verge AI",
-          "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-          "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
         }
       ]
     },
@@ -145,18 +124,34 @@
   ],
   "items": [
     {
-      "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
-      "date": "2026-11-18T17:35:27+00:00",
+      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
+      "date": "2026-11-18T17:54:48+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
     {
-      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T17:35:13+00:00",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Im",
+      "date": "2026-11-18T17:53:48+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+      "date": "2026-11-18T17:50:37+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "date": "2026-11-18T17:35:27+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -225,6 +220,22 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "link": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models. Now, we’re sharing how we propagate ranking model improvements",
+      "date": "2026-11-18T17:00:00+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
+      "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+      "link": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+      "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta,",
+      "date": "2026-11-18T16:59:38+00:00",
+      "image": "",
+      "source": "Meta AI Engineering"
+    },
+    {
       "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
       "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
       "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
@@ -241,7 +252,7 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
       "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
       "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
       "date": "2026-11-18T16:35:24+00:00",
@@ -287,14 +298,6 @@
       "date": "2026-11-18T16:14:09+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
-      "date": "2026-11-18T16:08:29+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
@@ -1111,14 +1114,6 @@
       "date": "2026-11-17T17:32:25+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, inv",
-      "date": "2026-11-17T17:04:40+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Can AI help build a healthier future?",
@@ -2753,14 +2748,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-      "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-      "summary": "This post describes the next generation of Meta Andromeda, Meta’s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-",
-      "date": "2026-10-28T16:00:01+00:00",
-      "image": "",
-      "source": "Meta AI Engineering"
-    },
-    {
       "title": "Artificial Analysis v5 and the benchmarker's dilemma",
       "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
       "summary": "A sort of review of the benchmarking industry and what's missing.",
@@ -2799,14 +2786,6 @@
       "date": "2026-10-27T16:01:38+00:00",
       "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
-      "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
-      "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta’s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement lo",
-      "date": "2026-10-27T16:00:12+00:00",
-      "image": "",
-      "source": "Meta AI Engineering"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
