@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:35:55.735920+00:00",
+  "updated": "2026-11-18T16:50:45.772854+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -69,7 +69,7 @@
     {
       "count": 2,
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "date": "2026-11-18T16:28:17+00:00",
+      "date": "2026-11-18T16:45:33+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI"
@@ -151,6 +151,54 @@
   ],
   "items": [
     {
+      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
+      "date": "2026-11-18T16:45:33+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 P",
+      "date": "2026-11-18T16:41:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Can an AI Agent Bypass Your Website Security?",
+      "link": "https://assess.poh.org/",
+      "summary": "As part of our red-teaming efforts, we recently configured GPT-6 Astra to test how easily an AI agent can bypass existing bot detection and human verification systems. We built a tool that lets you run the same test on your own website: https://assess.poh.org Enter your website U",
+      "date": "2026-11-18T16:40:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "We're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare",
+      "link": "https://soargram.io/content/273880860",
+      "summary": "Article URL: https://soargram.io/content/273880860 Comments URL: https://news.ycombinator.com/item?id=50548428 Points: 2 # Comments: 0",
+      "date": "2026-11-18T16:37:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "date": "2026-11-18T16:35:24+00:00",
+      "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg",
+      "source": "Wired AI"
+    },
+    {
+      "title": "High school disables AI detector after it kept mistaking everyday items for guns",
+      "link": "https://www.techspot.com/news/114607-pennsylvania-high-school-disables-ai-weapons-detector-after.html",
+      "summary": "Article URL: https://www.techspot.com/news/114607-pennsylvania-high-school-disables-ai-weapons-detector-after.html Comments URL: https://news.ycombinator.com/item?id=50548400 Points: 1 # Comments: 0",
+      "date": "2026-11-18T16:34:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "How AI Agents Become a Tool for Attackers, and How to Stop It",
       "link": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
       "summary": "Managing Security When You’re Deploying AI, Part 1: Compromised credentials, salaries inferred from budgets, and doctored documents show why agents need permission checks before the model ever sees the data. The post How AI Agents Become a Tool for Attackers, and How to Stop It a",
@@ -163,14 +211,6 @@
       "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
       "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
       "date": "2026-11-18T16:28:18+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T16:28:17+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -201,7 +241,7 @@
     {
       "title": "ECB says AI borrowing binge has 'historic parallels' with subprime bubble",
       "link": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9",
-      "summary": "Article URL: https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9 Comments URL: https://news.ycombinator.com/item?id=50548153 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9 Comments URL: https://news.ycombinator.com/item?id=50548153 Points: 3 # Comments: 1",
       "date": "2026-11-18T16:18:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -241,7 +281,7 @@
     {
       "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
       "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 27 # Comments: 12",
       "date": "2026-11-18T16:08:24+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -249,7 +289,7 @@
     {
       "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks",
       "link": "https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/",
-      "summary": "Article URL: https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/ Comments URL: https://news.ycombinator.com/item?id=50548019 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/ Comments URL: https://news.ycombinator.com/item?id=50548019 Points: 4 # Comments: 0",
       "date": "2026-11-18T16:08:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -281,7 +321,7 @@
     {
       "title": "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness",
       "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50547906 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50547906 Points: 2 # Comments: 0",
       "date": "2026-11-18T15:59:21+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -313,7 +353,7 @@
     {
       "title": "TheFed finds $3T of AI commitments that aren't on big tech's balance sheet",
       "link": "https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html Comments URL: https://news.ycombinator.com/item?id=50547790 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html Comments URL: https://news.ycombinator.com/item?id=50547790 Points: 4 # Comments: 0",
       "date": "2026-11-18T15:50:10+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -321,7 +361,7 @@
     {
       "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 4 # Comments: 0",
       "date": "2026-11-18T15:49:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -337,7 +377,7 @@
     {
       "title": "Chief AI Officer Game",
       "link": "https://www.modulos.ai/tools/chief-ai-officer/",
-      "summary": "Article URL: https://www.modulos.ai/tools/chief-ai-officer/ Comments URL: https://news.ycombinator.com/item?id=50547726 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.modulos.ai/tools/chief-ai-officer/ Comments URL: https://news.ycombinator.com/item?id=50547726 Points: 3 # Comments: 0",
       "date": "2026-11-18T15:46:00+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -479,14 +519,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: RockDesk – remote desktop control for AI agents",
-      "link": "https://rockdesk.io/",
-      "summary": "Remote desktop control built for AI agents. Your agent (Claude Code, Codex…) drives the other machine through a CLI: shell, files, screenshots, mouse and keyboard. No sign-up needed to try. If you have a similar need, give it a try. Any feedback or criticism is welcome. Comments ",
-      "date": "2026-11-18T14:56:05+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
       "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are",
@@ -517,30 +549,6 @@
       "date": "2026-11-18T14:42:44+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "Can Universities Survive? AI vs. Higher Education [audio]",
-      "link": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
-      "summary": "Article URL: https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education Comments URL: https://news.ycombinator.com/item?id=50546900 Points: 3 # Comments: 1",
-      "date": "2026-11-18T14:42:25+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Cmdbook – a home for the scripts you (or your AI) keep rewriting",
-      "link": "https://printf.app/cmdbook/",
-      "summary": "Article URL: https://printf.app/cmdbook/ Comments URL: https://news.ycombinator.com/item?id=50546862 Points: 1 # Comments: 0",
-      "date": "2026-11-18T14:39:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-      "summary": "Article URL: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe Comments URL: https://news.ycombinator.com/item?id=50546845 Points: 1 # Comments: 1",
-      "date": "2026-11-18T14:38:32+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
@@ -631,7 +639,7 @@
       "source": "IEEE Spectrum AI"
     },
     {
-      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
       "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
       "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
       "date": "2026-11-18T13:00:00+00:00",
@@ -1981,14 +1989,6 @@
       "date": "2026-11-15T13:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "AI DJs Completely Kill My Groove",
-      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "date": "2026-11-15T12:00:00+00:00",
-      "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "datasette-apps 0.4a0",
