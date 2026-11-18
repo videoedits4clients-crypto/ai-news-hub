@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T09:21:26.432394+00:00",
+  "updated": "2026-11-18T09:36:27.765058+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,6 +151,54 @@
   ],
   "items": [
     {
+      "title": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+      "summary": "Parliamentary committee says tech giants can't be left to mark their own homework when it comes to AI safety",
+      "date": "2026-11-18T09:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=2918046&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "date": "2026-11-18T09:28:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "AI researcher at Anthropic hosts \"consensual non-consent\" orgies",
+      "link": "https://twitter.com/aaronsibarium/status/2122361245357478085",
+      "summary": "Article URL: https://twitter.com/aaronsibarium/status/2122361245357478085 Comments URL: https://news.ycombinator.com/item?id=50543961 Points: 4 # Comments: 1",
+      "date": "2026-11-18T09:26:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Procedural Semantic Defence: How AI Restricts the Exploration of a Topic",
+      "link": "https://medium.com/@smoking2man/procedural-semantic-defence-how-ai-restricts-the-exploration-of-a-topic-without-refusing-to-2425f62b5785",
+      "summary": "Article URL: https://medium.com/@smoking2man/procedural-semantic-defence-how-ai-restricts-the-exploration-of-a-topic-without-refusing-to-2425f62b5785 Comments URL: https://news.ycombinator.com/item?id=50543853 Points: 1 # Comments: 0",
+      "date": "2026-11-18T09:13:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china Comments URL: https://news.ycombinator.com/item?id=50543844 Points: 1 # Comments: 0",
+      "date": "2026-11-18T09:11:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "FBI says AI hacking tool ARTEX can break into networks in under three hours",
+      "link": "https://thenextweb.com/news/fbi-artex-ai-hacking-tool-amazon-barracuda",
+      "summary": "Article URL: https://thenextweb.com/news/fbi-artex-ai-hacking-tool-amazon-barracuda Comments URL: https://news.ycombinator.com/item?id=50543840 Points: 2 # Comments: 0",
+      "date": "2026-11-18T09:10:47+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: College Essay Grader – free AI score for college essays\"",
       "link": "https://collegeessaygrader.app/",
       "summary": "College Essay Grader: Free AI Feedback for Common App Essays Comments URL: https://news.ycombinator.com/item?id=50543733 Points: 2 # Comments: 1",
@@ -281,7 +329,7 @@
     {
       "title": "AI is killing All About Berlin",
       "link": "https://nicolasbouliane.com/blog/death-by-ai",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 257 # Comments: 218",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 293 # Comments: 261",
       "date": "2026-11-18T06:47:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -455,44 +503,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Who decides what AI treats as facts, and how they verify it?",
-      "link": "https://uka-135-map.pplx.app",
-      "summary": "Article URL: https://uka-135-map.pplx.app Comments URL: https://news.ycombinator.com/item?id=50541265 Points: 1 # Comments: 0",
-      "date": "2026-11-18T02:52:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
       "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
       "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
       "date": "2026-11-18T02:50:16+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Reflections on Trusting AI: A Virus Inside an LLM",
-      "link": "https://phrack.org/issues/73/reflections-on-trusting-ai-a-virus-inside-an-llm_md",
-      "summary": "Article URL: https://phrack.org/issues/73/reflections-on-trusting-ai-a-virus-inside-an-llm_md Comments URL: https://news.ycombinator.com/item?id=50541081 Points: 3 # Comments: 0",
-      "date": "2026-11-18T02:24:00+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Terror Inside the AI Labs [video]",
-      "link": "https://www.youtube.com/watch?v=MbhZd6s3P34",
-      "summary": "Article URL: https://www.youtube.com/watch?v=MbhZd6s3P34 Comments URL: https://news.ycombinator.com/item?id=50541074 Points: 2 # Comments: 0",
-      "date": "2026-11-18T02:22:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Atlassian: Young grads using AI can outperform managers",
-      "link": "https://www.afr.com/technology/test-shows-graduates-using-ai-can-outperform-some-managers-atlassian-20261112-p61dog",
-      "summary": "Article URL: https://www.afr.com/technology/test-shows-graduates-using-ai-can-outperform-some-managers-atlassian-20261112-p61dog Comments URL: https://news.ycombinator.com/item?id=50541049 Points: 2 # Comments: 0",
-      "date": "2026-11-18T02:18:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Satya Nadella says he’s AGI-pilled now",
@@ -1389,14 +1405,6 @@
       "date": "2026-11-16T23:57:26+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "date": "2026-11-16T23:25:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
@@ -3341,14 +3349,6 @@
       "date": "2026-10-09T05:06:58+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
       "source": "Last Week in AI"
-    },
-    {
-      "title": "Does better work always mean better workers?",
-      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "summary": "",
-      "date": "2026-10-07T20:19:57+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-      "source": "Google Research"
     }
   ]
 }
