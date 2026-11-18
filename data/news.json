@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T01:20:53.765914+00:00",
+  "updated": "2026-11-18T01:36:32.578136+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,6 +151,30 @@
   ],
   "items": [
     {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "date": "2026-11-18T01:18:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
+      "date": "2026-11-18T01:17:17+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
+      "link": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+      "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
+      "date": "2026-11-18T01:02:38+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
       "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
       "summary": "Article URL: https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html Comments URL: https://news.ycombinator.com/item?id=50540491 Points: 3 # Comments: 0",
@@ -167,22 +191,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’ — Live updates",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
-      "date": "2026-11-18T00:45:43+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "date": "2026-11-18T00:28:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
@@ -193,7 +201,7 @@
     {
       "title": "Google's AI answers reducing search traffic by 40%",
       "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 28 # Comments: 12",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 43 # Comments: 21",
       "date": "2026-11-18T00:17:58+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -489,7 +497,7 @@
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 35 # Comments: 67",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 41 # Comments: 69",
       "date": "2026-11-17T21:16:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1423,14 +1431,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Anthropic IPO guide: Everything you need to know",
-      "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
-      "summary": "Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.",
-      "date": "2026-11-16T18:27:56+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
       "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
       "summary": "The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration Boardroom governance matters, even in the world of big tech, it turns out. The business of how companies are run, investors are discovering, can be more compli",
@@ -1952,7 +1952,7 @@
     },
     {
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
       "date": "2026-11-14T01:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
