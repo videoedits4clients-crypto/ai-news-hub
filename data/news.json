@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:20:54.384492+00:00",
+  "updated": "2026-11-18T00:36:36.606546+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,20 +151,52 @@
   ],
   "items": [
     {
+      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’ — Live updates",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
+      "date": "2026-11-18T00:28:27+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "date": "2026-11-18T00:28:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "date": "2026-11-18T00:27:29+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "Google's AI answers reducing search traffic by 40%",
       "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 3 # Comments: 0",
       "date": "2026-11-18T00:17:58+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Nvidia’s Kress tells CNBC that 'customers continue to be with us’ in exclusive interview: Live updates",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
-      "date": "2026-11-18T00:05:16+00:00",
+      "title": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation",
+      "link": "https://www.cnbc.com/2026/11/17/cramers-key-takeaway-from-nvidias-first-earnings-since-huangs-resignation.html",
+      "summary": "Jim Cramer said Nvidia's blockbuster earnings strengthened his confidence in the chipmaker's future.",
+      "date": "2026-11-18T00:16:51+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "date": "2026-11-18T00:16:50+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
@@ -255,14 +287,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation",
-      "link": "https://www.cnbc.com/2026/11/17/cramers-key-takeaway-from-nvidias-first-earnings-since-huangs-resignation.html",
-      "summary": "Jim Cramer said Nvidia's blockbuster earnings strengthened his confidence in the chipmaker's future.",
-      "date": "2026-11-17T23:33:00+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
       "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
       "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earni",
@@ -293,14 +317,6 @@
       "date": "2026-11-17T23:04:35+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-      "date": "2026-11-17T23:03:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Revisiting my Master's thesis with AI – Understanding the Riemann Hypothesis",
@@ -465,7 +481,7 @@
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 29 # Comments: 52",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 29 # Comments: 56",
       "date": "2026-11-17T21:16:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -933,14 +949,6 @@
       "date": "2026-11-17T14:00:03+00:00",
       "image": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-      "date": "2026-11-17T14:00:00+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Optimizely hack turns world's biggest websites into malware dispensers",
@@ -2484,14 +2492,6 @@
       "summary": "The new model is up to twice as successful at some tasks.",
       "date": "2026-11-10T15:00:39+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "date": "2026-11-10T12:15:32+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
       "source": "Ars Technica AI"
     },
     {
