@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:21:24.410181+00:00",
+  "updated": "2026-11-18T16:35:55.735920+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -68,22 +68,22 @@
     },
     {
       "count": 2,
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "date": "2026-11-18T16:14:09+00:00",
+      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+      "date": "2026-11-18T16:28:17+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI"
       ],
       "links": [
         {
-          "source": "TechCrunch AI",
-          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-          "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
-        },
-        {
           "source": "CNBC Technology",
           "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
           "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+          "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
         }
       ]
     },
@@ -151,6 +151,78 @@
   ],
   "items": [
     {
+      "title": "How AI Agents Become a Tool for Attackers, and How to Stop It",
+      "link": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
+      "summary": "Managing Security When You’re Deploying AI, Part 1: Compromised credentials, salaries inferred from budgets, and doctored documents show why agents need permission checks before the model ever sees the data. The post How AI Agents Become a Tool for Attackers, and How to Stop It a",
+      "date": "2026-11-18T16:30:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "date": "2026-11-18T16:28:18+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
+      "date": "2026-11-18T16:28:17+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explo",
+      "date": "2026-11-18T16:27:13+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Ask HN: How do you use AI to get more relevant content?",
+      "link": "https://news.ycombinator.com/item?id=50548260",
+      "summary": "The \"algorithm\" tries to give your attention something to eat. Sometimes, it's exactly what you want/need. Sometimes it's just meh , and not particularly enriching. Are any folks using AI to aggregate and rank content across YouTube, HackerNews, Twitter/X, Instagram etc. that's l",
+      "date": "2026-11-18T16:25:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
+      "date": "2026-11-18T16:25:30+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "ECB says AI borrowing binge has 'historic parallels' with subprime bubble",
+      "link": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9",
+      "summary": "Article URL: https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9 Comments URL: https://news.ycombinator.com/item?id=50548153 Points: 2 # Comments: 1",
+      "date": "2026-11-18T16:18:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The wrong setting for AI cache can cost you a lot of cash",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+      "summary": "Beware of the temptation to drop just a few more dollars to get the work done",
+      "date": "2026-11-18T16:17:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310849&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Who's afraid of open source AI? [video]",
+      "link": "https://www.youtube.com/watch?v=siy0744Ykys",
+      "summary": "Article URL: https://www.youtube.com/watch?v=siy0744Ykys Comments URL: https://news.ycombinator.com/item?id=50548127 Points: 1 # Comments: 0",
+      "date": "2026-11-18T16:16:38+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
       "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
       "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
@@ -167,6 +239,22 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 3 # Comments: 0",
+      "date": "2026-11-18T16:08:24+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks",
+      "link": "https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/",
+      "summary": "Article URL: https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/ Comments URL: https://news.ycombinator.com/item?id=50548019 Points: 2 # Comments: 0",
+      "date": "2026-11-18T16:08:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
       "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
       "summary": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Codi",
@@ -175,7 +263,15 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Show HN: Dez – plaintext AI multimedia studio",
+      "title": "Show HN: RedCat an open-source AI agent for your desktop",
+      "link": "https://github.com/manamaliahmad/redcat",
+      "summary": "AI is honestly an amazing thing. I'm a vibe coder, and I've always gotten my work done with AI. But this is the first time I used AI to build an AI agent actually, I used an AI agent to build an AI agent.Almost all the AI agents out there right now are being built for developers.",
+      "date": "2026-11-18T16:07:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Dez – plaintext open source AI multimedia studio",
       "link": "https://github.com/taoeffect/dez",
       "summary": "Hi HN! Dez is a free open source way to interact with AIs across providers in a full-featured text editor. I really loved Zed's text threads feature, and after they removed it got inspired to revive it in this app. In this latest release, Dez acts as a sandboxed agent with multim",
       "date": "2026-11-18T16:01:28+00:00",
@@ -197,14 +293,6 @@
       "date": "2026-11-18T15:58:27+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T15:55:39+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "The Moral Mandate for AI Non-consciousness (and other responses to qualiaphobia)",
@@ -255,33 +343,17 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
-      "date": "2026-11-18T15:45:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "AI is writing a public web every 15 days",
       "link": "https://www.sid.ai/research/llm-output-vs-human-text",
-      "summary": "Article URL: https://www.sid.ai/research/llm-output-vs-human-text Comments URL: https://news.ycombinator.com/item?id=50547635 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.sid.ai/research/llm-output-vs-human-text Comments URL: https://news.ycombinator.com/item?id=50547635 Points: 2 # Comments: 0",
       "date": "2026-11-18T15:39:33+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "date": "2026-11-18T15:35:37+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
       "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 8 # Comments: 1",
       "date": "2026-11-18T15:20:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -471,60 +543,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/ Comments URL: https://news.ycombinator.com/item?id=50546841 Points: 2 # Comments: 0",
-      "date": "2026-11-18T14:38:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
       "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
       "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked t",
       "date": "2026-11-18T14:38:10+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Is the SaaS business model dead or there is still oportunities in this age of AI",
-      "link": "https://news.ycombinator.com/item?id=50546822",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50546822 Points: 2 # Comments: 1",
-      "date": "2026-11-18T14:36:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI",
-      "link": "https://grandtreasureisland.vercel.app/",
-      "summary": "Hi HN! I used teams of Opus 5.5 agents to build a life-size 3D version of Treasure Island, in the middle of the San Francisco Bay. The game has 16 miles of road, almost 200 buildings, over 40 kinds of plants and over 400 drivable cars. It runs on Godot, with data from OSM, USGS l",
-      "date": "2026-11-18T14:34:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic IPO: A Brother-Sister Duo Behind a Trillion-Dollar AI Giant",
-      "link": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/",
-      "summary": "Article URL: https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/ Comments URL: https://news.ycombinator.com/item?id=50546759 Points: 1 # Comments: 0",
-      "date": "2026-11-18T14:32:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Project-M – Local shared memory for AI coding agents",
-      "link": "https://github.com/adityadebnath009/Project-M",
-      "summary": "Article URL: https://github.com/adityadebnath009/Project-M Comments URL: https://news.ycombinator.com/item?id=50546755 Points: 1 # Comments: 0",
-      "date": "2026-11-18T14:31:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "US tech outages blamed on rush to fix bugs found by AI",
-      "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208",
-      "summary": "Article URL: https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208 Comments URL: https://news.ycombinator.com/item?id=50546690 Points: 1 # Comments: 0",
-      "date": "2026-11-18T14:24:53+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
@@ -541,14 +565,6 @@
       "date": "2026-11-18T14:09:26+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explo",
-      "date": "2026-11-18T14:03:07+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "NVIDIA RTX Spark Compact Desktops Out Now",
@@ -2255,14 +2271,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M",
-      "link": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
-      "summary": "A reproducible test of BM25, embeddings, and parent documents shows why author-written evals overrate search, and why answer position in context matters. The post RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M appeared first on Towards Data Science .",
-      "date": "2026-11-12T16:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
@@ -3341,14 +3349,6 @@
       "date": "2026-10-06T15:05:11+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
       "source": "Google Research"
-    },
-    {
-      "title": "The Cyber Risk Discourse is Broken",
-      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
-      "date": "2026-10-06T14:22:41+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
-      "source": "Interconnects"
     }
   ]
 }
