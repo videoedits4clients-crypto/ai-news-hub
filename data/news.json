@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:06:27.009568+00:00",
+  "updated": "2026-11-18T16:21:24.410181+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -68,6 +68,27 @@
     },
     {
       "count": 2,
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "date": "2026-11-18T16:14:09+00:00",
+      "sources": [
+        "CNBC Technology",
+        "TechCrunch AI"
+      ],
+      "links": [
+        {
+          "source": "TechCrunch AI",
+          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+          "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
+        },
+        {
+          "source": "CNBC Technology",
+          "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+          "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html"
+        }
+      ]
+    },
+    {
+      "count": 2,
       "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
       "date": "2026-11-17T22:38:52+00:00",
       "sources": [
@@ -130,6 +151,30 @@
   ],
   "items": [
     {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "date": "2026-11-18T16:14:09+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+      "date": "2026-11-18T16:08:29+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
+      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
+      "summary": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Codi",
+      "date": "2026-11-18T16:07:50+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
       "title": "Show HN: Dez – plaintext AI multimedia studio",
       "link": "https://github.com/taoeffect/dez",
       "summary": "Hi HN! Dez is a free open source way to interact with AIs across providers in a full-featured text editor. I really loved Zed's text threads feature, and after they removed it got inspired to revive it in this app. In this latest release, Dez acts as a sandboxed agent with multim",
@@ -154,14 +199,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
-      "date": "2026-11-18T15:56:18+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
@@ -180,7 +217,7 @@
     {
       "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-      "summary": "As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilit",
+      "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabili",
       "date": "2026-11-18T15:53:10+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -216,6 +253,14 @@
       "date": "2026-11-18T15:46:00+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
+      "date": "2026-11-18T15:45:02+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "AI is writing a public web every 15 days",
@@ -1258,14 +1303,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "date": "2026-11-17T16:32:55+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "How to Improve Coding Agent Efficiency by 30% with an Orchestrator",
       "link": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
       "summary": "Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling. The post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on Towards Data Science .",
@@ -1538,14 +1575,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the s",
-      "date": "2026-11-16T23:20:44+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbor",
@@ -1808,14 +1837,6 @@
       "date": "2026-11-16T10:00:01+00:00",
       "image": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
-      "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
-      "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared ",
-      "date": "2026-11-16T09:44:17+00:00",
-      "image": "",
-      "source": "MarkTechPost"
     },
     {
       "title": "How Revolut raises ambition without lowering the bar",
