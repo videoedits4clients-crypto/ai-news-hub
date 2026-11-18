@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T13:50:26.268071+00:00",
+  "updated": "2026-11-18T14:05:54.750015+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,36 +151,28 @@
   ],
   "items": [
     {
-      "title": "Biologists are using AI to track individual birds by their songs alone",
-      "link": "https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838 Comments URL: https://news.ycombinator.com/item?id=50546249 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:46:16+00:00",
+      "title": "Business as usual, but Huang ain't coming back, says Nvidia",
+      "link": "https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772",
+      "summary": "GPU giant puts on a brave face for investors, while analysts say doubts remain over the company's future",
+      "date": "2026-11-18T13:54:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310782&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+      "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
+      "date": "2026-11-18T13:48:38+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "CNBC Technology"
     },
     {
       "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
       "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
       "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
-      "date": "2026-11-18T13:41:05+00:00",
+      "date": "2026-11-18T13:46:11+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "I reverse-engineered a cheap AI badge so you can put any AI in it",
-      "link": "https://github.com/devniz/znp-re",
-      "summary": "Article URL: https://github.com/devniz/znp-re Comments URL: https://news.ycombinator.com/item?id=50546196 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:40:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "I'm building a SaaS to help companies cut AI costs based on actual usage",
-      "link": "https://resolty.com/",
-      "summary": "Article URL: https://resolty.com/ Comments URL: https://news.ycombinator.com/item?id=50546180 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:38:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
@@ -199,36 +191,12 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Government regulators asked AI bots to plan a terrorist attack.The chatbots did.",
-      "link": "https://www.ms.now/news/government-regulators-ai-chatbots-terrorist-attacks",
-      "summary": "Article URL: https://www.ms.now/news/government-regulators-ai-chatbots-terrorist-attacks Comments URL: https://news.ycombinator.com/item?id=50546043 Points: 3 # Comments: 0",
-      "date": "2026-11-18T13:26:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI might be the end of our careers",
-      "link": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50546040 Points: 1 # Comments: 1",
-      "date": "2026-11-18T13:26:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
       "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
       "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
       "date": "2026-11-18T13:16:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "A Wolf at the Door: Apple Is Rethinking Mac Permissions for the Age of AI Agents",
-      "link": "https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/",
-      "summary": "Article URL: https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50545937 Points: 2 # Comments: 0",
-      "date": "2026-11-18T13:16:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
@@ -255,36 +223,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Show HN: Sidekick AI – A local-first VS Code extension with hybrid vector search",
-      "link": "https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai",
-      "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai Comments URL: https://news.ycombinator.com/item?id=50545876 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:09:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
       "link": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
       "summary": "Big market moments for the tech sector bring back the bulls",
       "date": "2026-11-18T13:05:24+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "AI Driver or AI Driven",
-      "link": "https://trivialperhaps.com/ai-driver-or-ai-driven",
-      "summary": "Article URL: https://trivialperhaps.com/ai-driver-or-ai-driven Comments URL: https://news.ycombinator.com/item?id=50545820 Points: 2 # Comments: 0",
-      "date": "2026-11-18T13:02:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "We're in the Homebrew Computer Club Days of Personal AI",
-      "link": "https://horatiothomas.com/blog/homebrew-personal-ai",
-      "summary": "Article URL: https://horatiothomas.com/blog/homebrew-personal-ai Comments URL: https://news.ycombinator.com/item?id=50545817 Points: 3 # Comments: 0",
-      "date": "2026-11-18T13:01:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Startup Makes Headway Towards Formalizing All of Math With AI",
@@ -303,14 +247,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-      "date": "2026-11-18T12:59:33+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
       "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
       "summary": "The future for online travel agencies increasingly relies on scaling business-to-business travel platforms.",
@@ -319,76 +255,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI assistants never named 74% of the 224 YC startups we tested",
-      "link": "https://citefold.com/yc",
-      "summary": "Article URL: https://citefold.com/yc Comments URL: https://news.ycombinator.com/item?id=50545726 Points: 1 # Comments: 0",
-      "date": "2026-11-18T12:52:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "What Sudoku Reveals About AI Architecture and the Future of Our Economy",
-      "link": "https://logicalintelligence.com/blog/energy-based-model-sudoku-demo",
-      "summary": "Article URL: https://logicalintelligence.com/blog/energy-based-model-sudoku-demo Comments URL: https://news.ycombinator.com/item?id=50545717 Points: 2 # Comments: 0",
-      "date": "2026-11-18T12:51:54+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Meta: A Preliminary Analysis of the Impact of AI Asst'd/Gen'd Code [..] at Scale",
-      "link": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.93",
-      "summary": "Article URL: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.93 Comments URL: https://news.ycombinator.com/item?id=50545698 Points: 1 # Comments: 0",
-      "date": "2026-11-18T12:50:22+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: VI Engine – MCP-connected AI marketing workspace with approval gates",
-      "link": "https://viengine.social",
-      "summary": "Article URL: https://viengine.social Comments URL: https://news.ycombinator.com/item?id=50545691 Points: 1 # Comments: 0",
-      "date": "2026-11-18T12:49:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Hallucination-as-a-service – API for AI excuses",
-      "link": "https://haas.antoniorodriguez.no/hallucination",
-      "summary": "There are a lot of fantastic projects posted here. So I thought, why not share something simple and completely pointless for a change? I've been wanting to build a small, silly side project for a while. Something simple, fun, and not necessarily meant to solve an actual problem. ",
-      "date": "2026-11-18T12:48:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Designing the Langfuse AI Gateway",
-      "link": "https://langfuse.com/blog/2026-11-11-building-the-langfuse-ai-gateway",
-      "summary": "Article URL: https://langfuse.com/blog/2026-11-11-building-the-langfuse-ai-gateway Comments URL: https://news.ycombinator.com/item?id=50545569 Points: 1 # Comments: 0",
-      "date": "2026-11-18T12:37:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
       "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
       "date": "2026-11-18T12:22:15+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "What Does Agentic AI Cost? A Task-Level Framework 4 Enterprise Investment",
-      "link": "https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/",
-      "summary": "Article URL: https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/ Comments URL: https://news.ycombinator.com/item?id=50545424 Points: 3 # Comments: 0",
-      "date": "2026-11-18T12:19:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Getting good at AI takes time and practice",
-      "link": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
-      "summary": "Article URL: https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/ Comments URL: https://news.ycombinator.com/item?id=50545335 Points: 1 # Comments: 0",
-      "date": "2026-11-18T12:10:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’",
@@ -447,14 +319,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Show HN: Korean company registry for AI agents – free MCP server and CSV batch",
-      "link": "https://comepass.xyz/?lang=en",
-      "summary": "Article URL: https://comepass.xyz/?lang=en Comments URL: https://news.ycombinator.com/item?id=50544950 Points: 1 # Comments: 0",
-      "date": "2026-11-18T11:24:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Suno now lets you make AI videos for your AI music",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
       "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descri",
@@ -463,60 +327,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "New Study Shows How Young People Feel About AI Companions",
-      "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
-      "summary": "Article URL: https://www.404media.co/gallup-study-friendship-ai-companions/ Comments URL: https://news.ycombinator.com/item?id=50544872 Points: 2 # Comments: 0",
-      "date": "2026-11-18T11:16:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Anamnesis – Local archive of your AI chats, searchable by any agent",
-      "link": "https://github.com/devHaitham481/anamnesis",
-      "summary": "Article URL: https://github.com/devHaitham481/anamnesis Comments URL: https://news.ycombinator.com/item?id=50544831 Points: 1 # Comments: 0",
-      "date": "2026-11-18T11:12:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Mozilla AI launches Otari, one API key for every model",
-      "link": "https://otari.ai/",
-      "summary": "Article URL: https://otari.ai/ Comments URL: https://news.ycombinator.com/item?id=50544738 Points: 2 # Comments: 1",
-      "date": "2026-11-18T11:00:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: A living archive told by an AI, in your language, ending sealed",
-      "link": "https://satoshi-interface.com/",
-      "summary": "Article URL: https://satoshi-interface.com/ Comments URL: https://news.ycombinator.com/item?id=50544713 Points: 1 # Comments: 0",
-      "date": "2026-11-18T10:58:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "summary": "Article URL: https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/ Comments URL: https://news.ycombinator.com/item?id=50544597 Points: 4 # Comments: 2",
-      "date": "2026-11-18T10:46:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
       "summary": "A congressional commission issued its findings as Nvidia has been rocked by its CEO's resignation after reports he had an affair with a suspected Chinese spy.",
       "date": "2026-11-18T10:45:01+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: Prototype of a product management tool for AI agent companies",
-      "link": "https://featurestream-prototype.vercel.app/",
-      "summary": "Hi HN, I'm a solo founder. Teams building AI agents in a specific domain (legal, healthcare, etc.) have to piece together customer, product and market signals to decide which features to build next for their agent. This prototype is a product management tool that automates that m",
-      "date": "2026-11-18T10:42:09+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Aria awards: how do Australian artists feel about their music being used to train AI? – video",
@@ -535,12 +351,12 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "Show HN: Qpilot – an AI agent that runs plain-text manual test cases in Chrome",
-      "link": "https://github.com/broxhq/qpilot",
-      "summary": "Article URL: https://github.com/broxhq/qpilot Comments URL: https://news.ycombinator.com/item?id=50544348 Points: 2 # Comments: 0",
-      "date": "2026-11-18T10:15:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
+      "link": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056",
+      "summary": "User group says access terms favor enterprises that can migrate one ERP system at a time",
+      "date": "2026-11-18T10:14:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5290292&width=800",
+      "source": "The Register"
     },
     {
       "title": "Lovable Wants You to Vibe Code Your Dream Job",
@@ -557,6 +373,14 @@
       "date": "2026-11-18T09:45:01+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+      "summary": "Parliamentary committee says tech giants can't be left to mark their own homework when it comes to AI safety",
+      "date": "2026-11-18T09:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=2918046&width=800",
+      "source": "The Register"
     },
     {
       "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
@@ -607,6 +431,14 @@
       "source": "MarkTechPost"
     },
     {
+      "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+      "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+      "summary": "Pre-digital tech can't be transformed and automated",
+      "date": "2026-11-18T06:32:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310658&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
       "summary": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
@@ -621,6 +453,14 @@
       "date": "2026-11-18T06:18:11+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Temu's compliance regime is low-quality, fits badly, and full of holes, says Europe",
+      "link": "https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684",
+      "summary": "Prepares to unleash full wrath of Digital Services Act over Chinese e-tailer's alleged sales of illegal products",
+      "date": "2026-11-18T06:16:12+00:00",
+      "image": "https://image.theregister.com/?imageId=5310689&width=800",
+      "source": "The Register"
     },
     {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -775,6 +615,14 @@
       "source": "The Verge AI"
     },
     {
+      "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+      "link": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+      "summary": "NSA, Apple add to a week of high-profile network outages, largely attributed to 'routine maintenance'",
+      "date": "2026-11-17T23:41:31+00:00",
+      "image": "https://image.theregister.com/?imageId=5310644&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
       "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
@@ -789,6 +637,14 @@
       "date": "2026-11-17T23:32:16+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "date": "2026-11-17T23:04:35+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "External sandboxes for coding agents",
@@ -831,6 +687,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "GPU giants throw HPC users some tasty crumbs",
+      "link": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611",
+      "summary": "Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X",
+      "date": "2026-11-17T22:37:46+00:00",
+      "image": "https://image.theregister.com/?imageId=5310625&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
       "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
@@ -871,12 +735,28 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Satya sorry for SaaS-y SNAFU - look over there, more AI!",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594",
+      "summary": "At Ignite, the Windows-Azure giant is all about Copilot",
+      "date": "2026-11-17T21:44:58+00:00",
+      "image": "https://image.theregister.com/?imageId=5250857&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Google joins the tech outage trend by announcing it’s not having one",
       "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
       "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
       "date": "2026-11-17T21:34:50+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
+      "link": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585",
+      "summary": "But the new chairman shot that idea down on the company's earnings call",
+      "date": "2026-11-17T21:15:42+00:00",
+      "image": "https://image.theregister.com/?imageId=222354&width=800",
+      "source": "The Register"
     },
     {
       "title": "FAA pauses installation of new routers after ground stop",
@@ -904,11 +784,19 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "date": "2026-11-17T20:30:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+      "link": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+      "summary": "If you design a test to find misalignment, you will find misalignment",
+      "date": "2026-11-17T19:52:57+00:00",
+      "image": "https://image.theregister.com/?imageId=223243&width=800",
+      "source": "The Register"
     },
     {
       "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -951,6 +839,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "America's hyperscale bit barns draw as much power as entire states",
+      "link": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471",
+      "summary": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+      "date": "2026-11-17T18:29:00+00:00",
+      "image": "https://image.theregister.com/?imageId=241444&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
       "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
       "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
@@ -981,6 +877,14 @@
       "date": "2026-11-17T17:58:05+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+      "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+      "summary": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more",
+      "date": "2026-11-17T17:45:00+00:00",
+      "image": "https://image.theregister.com/?imageId=2918386&width=800",
+      "source": "The Register"
     },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -1021,6 +925,14 @@
       "date": "2026-11-17T17:04:40+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
+      "summary": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
+      "date": "2026-11-17T17:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=248218&width=800",
+      "source": "The Register"
     },
     {
       "title": "Can AI help build a healthier future?",
@@ -1079,12 +991,28 @@
       "source": "The Verge AI"
     },
     {
+      "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
+      "link": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
+      "summary": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
+      "date": "2026-11-17T16:15:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310468&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
       "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
       "date": "2026-11-17T15:28:59+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
       "source": "Ars Technica AI"
+    },
+    {
+      "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
+      "link": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
+      "summary": "Standing committee will oversee export compliance following allegations its GPUs were diverted to China",
+      "date": "2026-11-17T15:01:00+00:00",
+      "image": "https://image.theregister.com/?imageId=242719&width=800",
+      "source": "The Register"
     },
     {
       "title": "How to Govern Coding Agent Skills Across Repos With Plugins",
@@ -3349,6 +3277,78 @@
       "date": "2026-09-24T16:20:39+00:00",
       "image": "",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MIT’s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate d",
+      "date": "2026-09-22T12:52:43+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
+      "date": "2026-09-21T12:31:04+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "The expanded form of a testimony I prepared for Congress.",
+      "date": "2026-09-21T11:56:56+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Why I still haven’t bought into true RSI",
+      "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
+      "date": "2026-09-19T15:42:20+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+      "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-18T17:46:09+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
+      "source": "Google Research"
     }
   ]
 }
