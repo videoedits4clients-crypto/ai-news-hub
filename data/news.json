@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:50:41.758596+00:00",
+  "updated": "2026-11-18T12:05:54.689224+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,6 +151,38 @@
   ],
   "items": [
     {
+      "title": "Will AI Coding Eat Video Game Engines?",
+      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "summary": "When Travis McGeathy’s studio, Seeker Entertainment, ran out of funding in September, its game KinForge went down with it. KinForge was an online game built in Unreal Engine 5.7 and designed to run on servers hosted by Amazon Web Services (AWS). With no one left to pay the server",
+      "date": "2026-11-18T12:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/a-game-development-software-being-used-to-generate-and-refine-images-videos-and-3d-models-of-an-1800s-saloon-setting-for-a-vi.jpg?id=68705132&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "How to Estimate Dose-Response Curves When DoubleML Falls Short",
+      "link": "https://towardsdatascience.com/how-to-estimate-dose-response-curves-when-doubleml-falls-short/",
+      "summary": "Simulations test DoubleML against Kennedy's doubly robust estimator, with partial pooling across 200 stores and a DiD fix for hidden confounders. The post How to Estimate Dose-Response Curves When DoubleML Falls Short appeared first on Towards Data Science .",
+      "date": "2026-11-18T12:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Zelenskyy says Starshield speed curbs still in place over parts of Ukraine",
+      "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+      "date": "2026-11-18T11:58:50+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "I had AI read my entire field, Theoretical Astrophysics",
+      "link": "https://science.caseyhandmer.com/physics/",
+      "summary": "Article URL: https://science.caseyhandmer.com/physics/ Comments URL: https://news.ycombinator.com/item?id=50545118 Points: 3 # Comments: 0",
+      "date": "2026-11-18T11:45:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
       "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are",
@@ -167,12 +199,28 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Suno now lets you make AI videos for your AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descri",
-      "date": "2026-11-18T11:16:53+00:00",
+      "title": "Show HN: Korean company registry for AI agents – free MCP server and CSV batch",
+      "link": "https://comepass.xyz/?lang=en",
+      "summary": "Article URL: https://comepass.xyz/?lang=en Comments URL: https://news.ycombinator.com/item?id=50544950 Points: 1 # Comments: 0",
+      "date": "2026-11-18T11:24:17+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "New Study Shows How Young People Feel About AI Companions",
+      "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
+      "summary": "Article URL: https://www.404media.co/gallup-study-friendship-ai-companions/ Comments URL: https://news.ycombinator.com/item?id=50544872 Points: 1 # Comments: 0",
+      "date": "2026-11-18T11:16:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anamnesis – Local archive of your AI chats, searchable by any agent",
+      "link": "https://github.com/devHaitham481/anamnesis",
+      "summary": "Article URL: https://github.com/devHaitham481/anamnesis Comments URL: https://news.ycombinator.com/item?id=50544831 Points: 1 # Comments: 0",
+      "date": "2026-11-18T11:12:49+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
@@ -183,12 +231,28 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Mozilla AI launches Otari, one API key for every model",
+      "link": "https://otari.ai/",
+      "summary": "Article URL: https://otari.ai/ Comments URL: https://news.ycombinator.com/item?id=50544738 Points: 1 # Comments: 0",
+      "date": "2026-11-18T11:00:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Dealbook Summit 2026 live updates: Vance, Altman to speak at conference",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow DealBook Summit 2026 live updates as Sam Altman, JD Vance, Elon Musk and other leaders discuss AI, business, politics and the economy.",
       "date": "2026-11-18T11:00:02+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Show HN: A living archive told by an AI, in your language, ending sealed",
+      "link": "https://satoshi-interface.com/",
+      "summary": "Article URL: https://satoshi-interface.com/ Comments URL: https://news.ycombinator.com/item?id=50544713 Points: 1 # Comments: 0",
+      "date": "2026-11-18T10:58:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
@@ -201,7 +265,7 @@
     {
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
       "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "summary": "Article URL: https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/ Comments URL: https://news.ycombinator.com/item?id=50544597 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/ Comments URL: https://news.ycombinator.com/item?id=50544597 Points: 2 # Comments: 2",
       "date": "2026-11-18T10:46:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -471,30 +535,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI is killing All About Berlin",
-      "link": "https://nicolasbouliane.com/blog/death-by-ai",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 375 # Comments: 346",
-      "date": "2026-11-18T06:47:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI asked 'better questions' than KPMG accountants in pilot audit",
-      "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
-      "summary": "Article URL: https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05 Comments URL: https://news.ycombinator.com/item?id=50542658 Points: 5 # Comments: 0",
-      "date": "2026-11-18T06:40:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
-      "link": "https://news.ycombinator.com/item?id=50542654",
-      "summary": "I don't know, maybe it's just me. Does it feel to you like we're boiling the oceans in a desperate attempt to build something \"smarter than human?\" Do you notice that the idea that \"AI will cure cancer\" is predicated on the belief that we've found the data that will lead to a cur",
-      "date": "2026-11-18T06:40:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
       "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
       "summary": "Pre-digital tech can't be transformed and automated",
@@ -535,36 +575,12 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
-      "link": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
-      "summary": "Article URL: https://www.youtube.com/watch?v=e_m99aR7_3Q Comments URL: https://news.ycombinator.com/item?id=50542343 Points: 2 # Comments: 0",
-      "date": "2026-11-18T05:49:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Harvard Study: Workers switch apps 900 times a day. After AI, switching drops",
-      "link": "https://arxiv.org/abs/2607.06681",
-      "summary": "Article URL: https://arxiv.org/abs/2607.06681 Comments URL: https://news.ycombinator.com/item?id=50542329 Points: 4 # Comments: 1",
-      "date": "2026-11-18T05:46:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
       "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
       "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
       "date": "2026-11-18T05:10:02+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce0b/live/4f4097b0-e32e-11f1-9c56-6ffaf0e1e706.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Purpose-Governed Agents: who reviews how an AI agent describes its own proposals",
-      "link": "https://zenodo.org/records/23778866",
-      "summary": "Article URL: https://zenodo.org/records/23778866 Comments URL: https://news.ycombinator.com/item?id=50542112 Points: 2 # Comments: 0",
-      "date": "2026-11-18T05:06:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
@@ -597,14 +613,6 @@
       "date": "2026-11-18T03:07:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
-      "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
-      "date": "2026-11-18T02:50:16+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Satya Nadella says he’s AGI-pilled now",
@@ -1519,6 +1527,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, u",
+      "date": "2026-11-16T20:32:51+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
       "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
       "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufac",
@@ -2237,14 +2253,6 @@
       "date": "2026-11-12T12:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
-      "link": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/",
-      "summary": "A simulated scar and data from 31 animals after ischemia show how an inhomogeneous estimator, random labelling, and brms separate tissue loss from real interaction. The post How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3) appeared first on Towards Data Sci",
-      "date": "2026-11-12T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "AI-powered bionic eye breakthrough could help the blind see again",
@@ -3309,14 +3317,6 @@
       "date": "2026-10-13T04:19:32+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-      "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Cl",
-      "date": "2026-10-12T18:00:02+00:00",
-      "image": "https://spectrum.ieee.org/media-library/an-indian-man-in-a-dress-shirt-smiling-in-front-of-the-entrance-to-an-office-building.jpg?id=68416593&width=980",
-      "source": "IEEE Spectrum AI"
     },
     {
       "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
