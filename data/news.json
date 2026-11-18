@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:20:48.052827+00:00",
+  "updated": "2026-11-18T21:36:40.071204+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -42,7 +42,7 @@
     {
       "count": 2,
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "date": "2026-11-18T21:09:47+00:00",
+      "date": "2026-11-18T21:30:20+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI"
@@ -127,23 +127,39 @@
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T21:09:47+00:00",
+      "date": "2026-11-18T21:30:20+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+      "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+      "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+      "date": "2026-11-18T21:28:04+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+      "date": "2026-11-18T21:22:04+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "date": "2026-11-18T21:15:00+00:00",
+      "image": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/master/pass/AI-Lab-US-Chip-War-Business.jpg",
+      "source": "Wired AI"
     },
     {
       "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
       "summary": "Nvidia's earnings come at a tumultuous time for the company.",
       "date": "2026-11-18T21:06:49+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-      "date": "2026-11-18T20:20:35+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -226,14 +242,6 @@
       "date": "2026-11-18T18:53:43+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
-      "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-      "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
-      "date": "2026-11-18T18:43:26+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
@@ -932,9 +940,9 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -948,9 +956,9 @@
       "source": "OpenAI News"
     },
     {
-      "title": "The Silent Consensus",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -1586,14 +1594,6 @@
       "date": "2026-11-16T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Jensen Huang Is Gone. Now What?",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "date": "2026-11-16T16:12:51+00:00",
-      "image": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Building trustworthy AI by fencing it in, not predicting it",
