@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T10:05:53.390942+00:00",
+  "updated": "2026-11-18T10:20:22.290728+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,6 +151,14 @@
   ],
   "items": [
     {
+      "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
+      "link": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056",
+      "summary": "User group says access terms favor enterprises that can migrate one ERP system at a time",
+      "date": "2026-11-18T10:14:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5290292&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
       "summary": "The chip giant's earnings come at a tumultuous time for the company.",
@@ -203,7 +211,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
       "date": "2026-11-18T09:28:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
       "source": "BBC Technology"
     },
     {
@@ -273,7 +281,7 @@
     {
       "title": "Physics AI: The illusion of ground truth",
       "link": "https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/",
-      "summary": "Article URL: https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/ Comments URL: https://news.ycombinator.com/item?id=50543516 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/ Comments URL: https://news.ycombinator.com/item?id=50543516 Points: 3 # Comments: 0",
       "date": "2026-11-18T08:34:43+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -369,7 +377,7 @@
     {
       "title": "AI is killing All About Berlin",
       "link": "https://nicolasbouliane.com/blog/death-by-ai",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 331 # Comments: 290",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 336 # Comments: 296",
       "date": "2026-11-18T06:47:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -3341,14 +3349,6 @@
       "date": "2026-10-09T21:33:47+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
       "source": "Interconnects"
-    },
-    {
-      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
-      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
-      "date": "2026-10-09T05:06:58+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
-      "source": "Last Week in AI"
     }
   ]
 }
