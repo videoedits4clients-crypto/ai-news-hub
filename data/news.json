@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:05:52.045869+00:00",
+  "updated": "2026-11-18T08:20:28.371417+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -150,6 +150,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
+      "date": "2026-11-18T08:09:43+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
     {
       "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
       "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
@@ -853,14 +861,6 @@
       "date": "2026-11-17T17:58:05+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
-      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "summary": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into an IPO.",
-      "date": "2026-11-17T17:47:03+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
