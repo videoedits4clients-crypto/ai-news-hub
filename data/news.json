@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T17:36:52.175134+00:00",
+  "updated": "2026-11-18T17:50:28.594300+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -42,7 +42,7 @@
     {
       "count": 2,
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-      "date": "2026-11-18T17:26:38+00:00",
+      "date": "2026-11-18T17:35:13+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI"
@@ -145,12 +145,44 @@
   ],
   "items": [
     {
+      "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "date": "2026-11-18T17:35:27+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T17:26:38+00:00",
+      "date": "2026-11-18T17:35:13+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "date": "2026-11-18T17:34:25+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation across the board.",
+      "date": "2026-11-18T17:33:07+00:00",
+      "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg",
+      "source": "Wired AI"
+    },
+    {
+      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "date": "2026-11-18T17:32:10+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
@@ -281,14 +313,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Nvidia sinks after earnings, dragging down neoclouds",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
-      "date": "2026-11-18T15:48:12+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
       "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
@@ -335,14 +359,6 @@
       "date": "2026-11-18T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "date": "2026-11-18T14:57:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
@@ -1001,14 +1017,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
-      "link": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
-      "summary": "If you design a test to find misalignment, you will find misalignment",
-      "date": "2026-11-17T19:52:57+00:00",
-      "image": "https://image.theregister.com/?imageId=223243&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Model ML raises $250M to automate investment banking grunt work",
       "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
       "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
@@ -1047,14 +1055,6 @@
       "date": "2026-11-17T18:48:23+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "America's hyperscale bit barns draw as much power as entire states",
-      "link": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471",
-      "summary": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
-      "date": "2026-11-17T18:29:00+00:00",
-      "image": "https://image.theregister.com/?imageId=241444&width=800",
-      "source": "The Register"
     },
     {
       "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
@@ -1109,14 +1109,6 @@
       "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
       "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
       "date": "2026-11-17T17:32:25+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "date": "2026-11-17T17:20:41+00:00",
       "image": "",
       "source": "TechCrunch AI"
     },
@@ -1655,14 +1647,6 @@
       "date": "2026-11-16T12:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "date": "2026-11-16T11:00:00+00:00",
-      "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
@@ -3343,6 +3327,22 @@
       "date": "2026-09-18T17:46:09+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
       "source": "Google Research"
+    },
+    {
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+      "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+      "summary": "Education Innovation",
+      "date": "2026-09-17T20:45:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+      "summary": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+      "date": "2026-09-17T08:02:55+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
+      "source": "Last Week in AI"
     }
   ]
 }
