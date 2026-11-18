@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:50:59.705270+00:00",
+  "updated": "2026-11-18T05:06:21.543787+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -150,6 +150,22 @@
     }
   ],
   "items": [
+    {
+      "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+      "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+      "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human. Breakthroughs in arti",
+      "date": "2026-11-18T05:00:34+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Security flaw found Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+      "date": "2026-11-18T05:00:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+      "source": "BBC Technology"
+    },
     {
       "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
@@ -1727,14 +1743,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "date": "2026-11-16T03:04:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
       "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
       "summary": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Ch",
@@ -1829,14 +1837,6 @@
       "date": "2026-11-15T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
-      "summary": "The role AI played in job losses at Australia’s NAB, Qantas, Canva and Atlassian is far from clear – but it may prove to have more impact on the stock market than the jobs market Get our breaking news email , free app or daily news podcast In 1987, the Nobel prize winning economi",
-      "date": "2026-11-15T14:00:19+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
