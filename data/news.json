@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T15:50:44.621330+00:00",
+  "updated": "2026-11-18T16:06:27.009568+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -130,44 +130,92 @@
   ],
   "items": [
     {
-      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
-      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 1 # Comments: 0",
-      "date": "2026-11-18T15:49:34+00:00",
+      "title": "Show HN: Dez – plaintext AI multimedia studio",
+      "link": "https://github.com/taoeffect/dez",
+      "summary": "Hi HN! Dez is a free open source way to interact with AIs across providers in a full-featured text editor. I really loved Zed's text threads feature, and after they removed it got inspired to revive it in this app. In this latest release, Dez acts as a sandboxed agent with multim",
+      "date": "2026-11-18T16:01:28+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Best AI",
-      "link": "https://news.ycombinator.com/item?id=50547772",
-      "summary": "ORIGIN AI Comments URL: https://news.ycombinator.com/item?id=50547772 Points: 1 # Comments: 0",
-      "date": "2026-11-18T15:49:05+00:00",
+      "title": "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness",
+      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50547906 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:59:21+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Chief AI Office Game",
-      "link": "https://www.modulos.ai/tools/chief-ai-officer/",
-      "summary": "Article URL: https://www.modulos.ai/tools/chief-ai-officer/ Comments URL: https://news.ycombinator.com/item?id=50547726 Points: 1 # Comments: 0",
-      "date": "2026-11-18T15:46:00+00:00",
+      "title": "Quoting Daniel Stenberg",
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfi",
+      "date": "2026-11-18T15:58:27+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+      "date": "2026-11-18T15:56:18+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
       "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
       "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-18T15:45:49+00:00",
+      "date": "2026-11-18T15:55:39+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
     {
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
-      "date": "2026-11-18T15:45:02+00:00",
+      "title": "The Moral Mandate for AI Non-consciousness (and other responses to qualiaphobia)",
+      "link": "https://www.theintrinsicperspective.com/p/the-moral-mandate-for-ai-non-consciousness",
+      "summary": "Article URL: https://www.theintrinsicperspective.com/p/the-moral-mandate-for-ai-non-consciousness Comments URL: https://news.ycombinator.com/item?id=50547834 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:53:49+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+      "summary": "As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilit",
+      "date": "2026-11-18T15:53:10+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "TheFed finds $3T of AI commitments that aren't on big tech's balance sheet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html Comments URL: https://news.ycombinator.com/item?id=50547790 Points: 3 # Comments: 0",
+      "date": "2026-11-18T15:50:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 3 # Comments: 0",
+      "date": "2026-11-18T15:49:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia sinks after earnings, dragging down neoclouds",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "date": "2026-11-18T15:48:12+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Chief AI Officer Game",
+      "link": "https://www.modulos.ai/tools/chief-ai-officer/",
+      "summary": "Article URL: https://www.modulos.ai/tools/chief-ai-officer/ Comments URL: https://news.ycombinator.com/item?id=50547726 Points: 2 # Comments: 0",
+      "date": "2026-11-18T15:46:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "AI is writing a public web every 15 days",
@@ -178,14 +226,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-      "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-      "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
-      "date": "2026-11-18T15:37:50+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
       "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
       "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
@@ -194,17 +234,9 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "CoreWeave, Iren, Nebius shares sink following Nvidia earnings",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
-      "date": "2026-11-18T15:31:00+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
       "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 5 # Comments: 0",
       "date": "2026-11-18T15:20:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -264,14 +296,6 @@
       "date": "2026-11-18T15:04:11+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "date": "2026-11-18T15:02:40+00:00",
-      "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
@@ -466,30 +490,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Startup Makes Headway Towards Formalizing All of Math with AI",
-      "link": "https://spectrum.ieee.org/enormous-theorem-ai",
-      "summary": "Article URL: https://spectrum.ieee.org/enormous-theorem-ai Comments URL: https://news.ycombinator.com/item?id=50546562 Points: 2 # Comments: 0",
-      "date": "2026-11-18T14:13:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The financial rules AI agents break when chasing results",
-      "link": "https://www.unite.ai/the-financial-rules-ai-agents-break-when-chasing-results/",
-      "summary": "Article URL: https://www.unite.ai/the-financial-rules-ai-agents-break-when-chasing-results/ Comments URL: https://news.ycombinator.com/item?id=50546557 Points: 3 # Comments: 1",
-      "date": "2026-11-18T14:13:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "OpenMetadata: The Open Context Layer for Data and AI",
-      "link": "https://github.com/open-metadata/OpenMetadata",
-      "summary": "Article URL: https://github.com/open-metadata/OpenMetadata Comments URL: https://news.ycombinator.com/item?id=50546541 Points: 1 # Comments: 0",
-      "date": "2026-11-18T14:12:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
       "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
@@ -560,6 +560,14 @@
       "date": "2026-11-18T13:05:24+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Startup Makes Headway Towards Formalizing All of Math With AI",
+      "link": "https://spectrum.ieee.org/enormous-theorem-ai",
+      "summary": "As Axiom Math ’s AI swarm was putting the final touches on the automatic verification of 15,000-page proof of the Classification of Finite Simple Groups (CFSG) , colloquially referred to as the ‘enormous theorem’, on Sunday 25 October, the company’s Founding Mathematician Ken Ono",
+      "date": "2026-11-18T13:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/a-dot-with-thousands-of-plotted-points-radiating-from-its-center.jpg?id=68692858&width=980",
+      "source": "IEEE Spectrum AI"
     },
     {
       "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
@@ -1218,14 +1226,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
-      "summary": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
-      "date": "2026-11-17T17:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=248218&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Can AI help build a healthier future?",
       "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
       "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. ",
@@ -1538,6 +1538,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the s",
+      "date": "2026-11-16T23:20:44+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbor",
@@ -1776,14 +1784,6 @@
       "date": "2026-11-16T12:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-      "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-      "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen",
-      "date": "2026-11-16T11:30:35+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
@@ -2562,14 +2562,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Yonkers Rises",
-      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-      "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animati",
-      "date": "2026-11-10T03:53:04+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "link": "https://huggingface.co/blog/hub-gcp-marketplace",
       "summary": "",
@@ -3328,6 +3320,14 @@
       "date": "2026-10-06T15:05:11+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
       "source": "Google Research"
+    },
+    {
+      "title": "The Cyber Risk Discourse is Broken",
+      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
+      "date": "2026-10-06T14:22:41+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
+      "source": "Interconnects"
     }
   ]
 }
