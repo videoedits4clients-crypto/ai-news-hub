@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:36:39.286366+00:00",
+  "updated": "2026-11-18T08:50:57.084465+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -151,15 +151,31 @@
   ],
   "items": [
     {
+      "title": "Standard Support: How AI agents ask for support",
+      "link": "https://docspring.com/blog/posts/standard-support-ai-agent-tickets/",
+      "summary": "Article URL: https://docspring.com/blog/posts/standard-support-ai-agent-tickets/ Comments URL: https://news.ycombinator.com/item?id=50543588 Points: 1 # Comments: 1",
+      "date": "2026-11-18T08:42:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Open WebUI – Open Terminal: A Computer for Your AI Agents",
+      "link": "https://openwebui.com/open-terminal",
+      "summary": "Article URL: https://openwebui.com/open-terminal Comments URL: https://news.ycombinator.com/item?id=50543563 Points: 1 # Comments: 0",
+      "date": "2026-11-18T08:40:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Physics AI: The illusion of ground truth",
       "link": "https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/",
-      "summary": "Article URL: https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/ Comments URL: https://news.ycombinator.com/item?id=50543516 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/ Comments URL: https://news.ycombinator.com/item?id=50543516 Points: 2 # Comments: 0",
       "date": "2026-11-18T08:34:43+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Elton John backs Australian artists in fight against AI in surprise Aria award appearance",
+      "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
       "link": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
       "summary": "British musician backs Not AI’s To Take campaign, telling the Albanese government, ‘You have a duty to protect Australian artists and their work’ Aria awards 2026 red carpet: Tame Impala, Baker Boy, G Flip and more – in pictures Elton John has made a surprise appearance at the 20",
       "date": "2026-11-18T08:29:57+00:00",
@@ -249,7 +265,7 @@
     {
       "title": "AI is killing All About Berlin",
       "link": "https://nicolasbouliane.com/blog/death-by-ai",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 210 # Comments: 163",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 240 # Comments: 197",
       "date": "2026-11-18T06:47:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -401,7 +417,7 @@
     {
       "title": "Engineering Vitals in the Age of AI",
       "link": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
-      "summary": "Article URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50541542 Points: 9 # Comments: 2",
+      "summary": "Article URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50541542 Points: 9 # Comments: 3",
       "date": "2026-11-18T03:36:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -481,7 +497,7 @@
     {
       "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
       "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 68 # Comments: 33",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 71 # Comments: 33",
       "date": "2026-11-18T01:45:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -527,14 +543,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
-      "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html Comments URL: https://news.ycombinator.com/item?id=50540491 Points: 9 # Comments: 0",
-      "date": "2026-11-18T00:58:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation",
       "link": "https://www.cnbc.com/2026/11/17/cramers-key-takeaway-from-nvidias-first-earnings-since-huangs-resignation.html",
       "summary": "Jim Cramer said Nvidia's blockbuster earnings strengthened his confidence in the chipmaker's future.",
@@ -549,14 +557,6 @@
       "date": "2026-11-18T00:27:29+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 343 # Comments: 262",
-      "date": "2026-11-18T00:17:58+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia promises that revenue will keep soaring — for now",
