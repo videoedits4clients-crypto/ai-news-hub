@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:50:56.427474+00:00",
+  "updated": "2026-11-18T15:06:53.431024+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -130,6 +130,118 @@
   ],
   "items": [
     {
+      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+      "link": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+      "summary": "Article URL: https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50547154 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:04:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Trump admin insists recent closely timed tech outages aren't connected",
+      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "date": "2026-11-18T15:00:34+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "summary": "",
+      "date": "2026-11-18T15:00:23+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Data Minimization Is Imperative for the Age of AI Agents",
+      "link": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
+      "summary": "Article URL: https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50547106 Points: 1 # Comments: 0",
+      "date": "2026-11-18T15:00:18+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
+      "link": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+      "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
+      "date": "2026-11-18T15:00:01+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "AI-powered cyber threats are changing the rules of enterprise recovery",
+      "link": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
+      "summary": "SPONSORED POST: As cyberattacks become more sophisticated, organizations need to look beyond prevention and ensure they can recover critical data quickly and reliably",
+      "date": "2026-11-18T15:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310524&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Neurosymbolic Agents Explained, With a Z3 Example in Python",
+      "link": "https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/",
+      "summary": "Starting from Air Canada's chatbot case, a tour of Logic-LM, Agent-C, and Amazon's checks shows the solver is sound but the English-to-logic step is not. The post Neurosymbolic Agents Explained, With a Z3 Example in Python appeared first on Towards Data Science .",
+      "date": "2026-11-18T15:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "date": "2026-11-18T14:57:56+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Dealbook Summit 2026 live updates: Altman speaks at DealBook, Vance cancels",
+      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "summary": "Follow DealBook Summit 2026 live updates as Sam Altman, JD Vance, Elon Musk and other leaders discuss AI, business, politics and the economy.",
+      "date": "2026-11-18T14:57:26+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
+      "link": "https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751",
+      "summary": "As the world is hit by IT snafu after IT snafu, Voyager sails on, almost half a century after launch",
+      "date": "2026-11-18T14:57:00+00:00",
+      "image": "https://image.theregister.com/?imageId=249462&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "The Reconstructible Mind: Generative AI and Undisclosed Thought",
+      "link": "https://zenodo.org/records/23660004",
+      "summary": "Article URL: https://zenodo.org/records/23660004 Comments URL: https://news.ycombinator.com/item?id=50547060 Points: 1 # Comments: 0",
+      "date": "2026-11-18T14:56:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: RockDesk – remote desktop control for AI agents",
+      "link": "https://rockdesk.io/",
+      "summary": "Remote desktop control built for AI agents. Your agent (Claude Code, Codex…) drives the other machine through a CLI: shell, files, screenshots, mouse and keyboard. No sign-up needed to try. If you have a similar need, give it a try. Any feedback or criticism is welcome. Comments ",
+      "date": "2026-11-18T14:56:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Coreweave, Iren, Nebius shares sink following Nvidia earnings",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+      "date": "2026-11-18T14:49:10+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+      "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are",
+      "date": "2026-11-18T14:46:49+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "StubHub International warns customer data may have left the venue",
       "link": "https://www.theregister.com/cyber-crime/2026/11/18/stubhub-international-warns-customer-data-may-have-left-the-venue/5310775",
       "summary": "Names and contact details potentially exposed, ticket reseller finds no evidence passwords or payment information were accessed",
@@ -138,17 +250,25 @@
       "source": "The Register"
     },
     {
-      "title": "Dealbook Summit 2026 live updates: Altman, Musk scheduled to speak at DealBook",
-      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-      "summary": "Follow DealBook Summit 2026 live updates as Sam Altman, JD Vance, Elon Musk and other leaders discuss AI, business, politics and the economy.",
-      "date": "2026-11-18T14:44:12+00:00",
+      "title": "The PSF end-of-year fundraiser",
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider dona",
+      "date": "2026-11-18T14:44:48+00:00",
       "image": "",
-      "source": "CNBC Technology"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean so",
+      "date": "2026-11-18T14:42:44+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
     },
     {
       "title": "Can Universities Survive? AI vs. Higher Education [audio]",
       "link": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
-      "summary": "Article URL: https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education Comments URL: https://news.ycombinator.com/item?id=50546900 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education Comments URL: https://news.ycombinator.com/item?id=50546900 Points: 3 # Comments: 1",
       "date": "2026-11-18T14:42:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -192,14 +312,6 @@
       "date": "2026-11-18T14:36:55+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
-      "link": "https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751",
-      "summary": "As the world is hit by IT snafu after IT snafu, Voyager sails on, almost half a century after launch",
-      "date": "2026-11-18T14:36:00+00:00",
-      "image": "https://image.theregister.com/?imageId=249462&width=800",
-      "source": "The Register"
     },
     {
       "title": "Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI",
@@ -356,7 +468,7 @@
     {
       "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
       "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 38 # Comments: 26",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 42 # Comments: 36",
       "date": "2026-11-18T13:51:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -394,14 +506,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "summary": "The chip giant's earnings come at a tumultuous time for the company.",
-      "date": "2026-11-18T13:30:22+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores",
       "link": "https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/",
       "summary": "On 1 million simulated customers, calibrated Qini scored a Linear DR learner 0.0856 against 0.0826 for the true-CATE ranking that should have won. The post When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores appeared first on Towards Data Science .",
@@ -434,44 +538,12 @@
       "source": "BBC Technology"
     },
     {
-      "title": "A Wolf at the Door: Apple Is Rethinking Mac Permissions for the Age of AI Agents",
-      "link": "https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/",
-      "summary": "Article URL: https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50545937 Points: 2 # Comments: 0",
-      "date": "2026-11-18T13:16:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Sidekick AI – A local-first VS Code extension with hybrid vector search",
-      "link": "https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai",
-      "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai Comments URL: https://news.ycombinator.com/item?id=50545876 Points: 1 # Comments: 0",
-      "date": "2026-11-18T13:09:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
       "link": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
       "summary": "Big market moments for the tech sector bring back the bulls",
       "date": "2026-11-18T13:05:24+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "AI Driver or AI Driven",
-      "link": "https://trivialperhaps.com/ai-driver-or-ai-driven",
-      "summary": "Article URL: https://trivialperhaps.com/ai-driver-or-ai-driven Comments URL: https://news.ycombinator.com/item?id=50545820 Points: 2 # Comments: 0",
-      "date": "2026-11-18T13:02:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "We're in the Homebrew Computer Club Days of Personal AI",
-      "link": "https://horatiothomas.com/blog/homebrew-personal-ai",
-      "summary": "Article URL: https://horatiothomas.com/blog/homebrew-personal-ai Comments URL: https://news.ycombinator.com/item?id=50545817 Points: 3 # Comments: 0",
-      "date": "2026-11-18T13:01:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
@@ -486,22 +558,6 @@
       "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
       "summary": "The future for online travel agencies increasingly relies on scaling business-to-business travel platforms.",
       "date": "2026-11-18T12:55:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "date": "2026-11-18T12:22:15+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
-      "date": "2026-11-18T12:07:03+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -536,14 +592,6 @@
       "date": "2026-11-18T11:58:50+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are",
-      "date": "2026-11-18T11:35:36+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
@@ -776,14 +824,6 @@
       "date": "2026-11-18T01:18:18+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
-      "link": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
-      "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
-      "date": "2026-11-18T01:02:38+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation",
@@ -2218,14 +2258,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.",
-      "link": "https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/",
-      "summary": "Across 2,312 planted faults the study also surfaced four real library problems, from a Windows data-loss bug to README examples that do not work as written. The post I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults. appeared first on Tow",
-      "date": "2026-11-12T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
@@ -2570,14 +2602,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "llm-anthropic 0.31",
-      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! ",
-      "date": "2026-11-09T23:58:46+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
       "title": "Exploring the world's languages with Language Explorer",
       "link": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
       "summary": "Natural Language Processing",
@@ -2680,14 +2704,6 @@
       "date": "2026-11-07T23:34:19+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed",
-      "date": "2026-11-06T10:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     },
     {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
@@ -3082,14 +3098,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "summary": "",
-      "date": "2026-10-22T22:24:34+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
       "title": "Flint-interactive: A language for creating interactive data visualizations",
       "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
       "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
@@ -3320,14 +3328,6 @@
       "date": "2026-10-07T20:19:57+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
       "source": "Google Research"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "image": "",
-      "source": "Google DeepMind"
     }
   ]
 }
