@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T14:50:23.734932+00:00",
+  "updated": "2026-11-19T15:06:43.196864+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -146,9 +146,33 @@
       "title": "Anthropic rings Nasdaq opening bell as trading begins after record IPO – business live",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant",
-      "date": "2026-11-19T14:44:43+00:00",
+      "date": "2026-11-19T15:00:11+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+      "link": "https://spectrum.ieee.org/ai-agent-manager",
+      "summary": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to hacking websites and even launching cyberattacks . Much like ",
+      "date": "2026-11-19T15:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/illustration-of-an-ai-agent-supervising-and-designating-tasks-to-smaller-ai-agents.jpg?id=68511562&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
+      "link": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/",
+      "summary": "Two setups: flip Claude Code's cloud environment on for the quick path, or rent a server for full control. The post How to Run Claude Code and Other Coding Agents in the Cloud 24/7 appeared first on Towards Data Science .",
+      "date": "2026-11-19T15:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "date": "2026-11-19T14:54:39+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Anthropic IPO live updates: AI lab's founders ring the Nasdaq opening bell",
@@ -1263,14 +1287,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "date": "2026-11-18T01:44:21+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
@@ -2069,14 +2085,6 @@
       "date": "2026-11-13T15:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "How Jev Makes Decisions About Images, With 4 Python Examples",
-      "link": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/",
-      "summary": "Practical code for classifying fabric against reference photos, scoring product sharpness, cropping shipping labels, and spotting subtle car damage. The post How Jev Makes Decisions About Images, With 4 Python Examples appeared first on Towards Data Science .",
-      "date": "2026-11-13T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -2957,14 +2965,6 @@
       "date": "2026-10-19T12:31:37+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-      "link": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the",
-      "date": "2026-10-19T10:00:04+00:00",
-      "image": "https://assets.rbl.ms/68424848/origin.png",
-      "source": "IEEE Spectrum AI"
     },
     {
       "title": "Meta shakes up the frontiers, open and closed",
