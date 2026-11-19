@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T15:20:26.529251+00:00",
+  "updated": "2026-11-19T15:36:15.863028+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,26 +143,42 @@
   ],
   "items": [
     {
+      "title": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
+      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "summary": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic debuted on the US stock market on Thursday after raising the large",
+      "date": "2026-11-19T15:30:36+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Anthropic’s Dario and Daniela Amodei join CNBC exclusively from the Nasdaq: IPO live updates",
       "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T15:16:06+00:00",
+      "date": "2026-11-19T15:29:22+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow in",
+      "date": "2026-11-19T15:26:55+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. Whi",
+      "date": "2026-11-19T15:16:45+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "AI demand will push up interest rates around the world, IMF head warns",
       "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
       "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the Internatio",
       "date": "2026-11-19T15:15:14+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow in",
-      "date": "2026-11-19T15:11:42+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
@@ -269,14 +285,6 @@
       "date": "2026-11-19T13:08:05+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Anthropic to begin public trading at $1.5tn valuation after largest ever IPO",
-      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "summary": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses Anthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthropic chief executive Dari",
-      "date": "2026-11-19T13:00:48+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
@@ -917,14 +925,6 @@
       "date": "2026-11-18T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
-      "date": "2026-11-18T16:25:30+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "The wrong setting for AI cache can cost you a lot of cash",
