@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T10:46:29.853554+00:00",
+  "updated": "2026-11-19T10:51:26.280590+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,12 +164,36 @@
   ],
   "items": [
     {
+      "title": "Cloudflare releases weights of Clairic, its AI that reads invoices and receipts",
+      "link": "https://maccus.fr/en/cloudflare-clairic-open-weights/",
+      "summary": "Article URL: https://maccus.fr/en/cloudflare-clairic-open-weights/ Comments URL: https://news.ycombinator.com/item?id=50558472 Points: 1 # Comments: 0",
+      "date": "2026-11-19T10:50:20+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+      "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+      "summary": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue. The post Not If, But How: Responding to Security Incident",
+      "date": "2026-11-19T10:45:57+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
       "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature compa",
       "date": "2026-11-19T10:40:31+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "AI Questions (Benedict Evans' Bi-Annual, Nov 2026) [pdf]",
+      "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf Comments URL: https://news.ycombinator.com/item?id=50558381 Points: 1 # Comments: 0",
+      "date": "2026-11-19T10:37:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -286,7 +310,7 @@
     {
       "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
       "link": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
-      "summary": "Article URL: https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal Comments URL: https://news.ycombinator.com/item?id=50557420 Points: 13 # Comments: 0",
+      "summary": "Article URL: https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal Comments URL: https://news.ycombinator.com/item?id=50557420 Points: 15 # Comments: 0",
       "date": "2026-11-19T08:23:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -408,22 +432,6 @@
       "link": "https://news.ycombinator.com/item?id=50556120",
       "summary": "I asked myself this question this morning and I swear I couldn't find one single thing. We still have all the problems we had before AI. AI did not solve the climate collapse, did not cure cancer, did not figure society-altering new technologies, did not make politics not suck an",
       "date": "2026-11-19T04:33:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Stickers on Buttons: Why South Korea's Suneung AI cheating patch won't hold",
-      "link": "https://siwoo.lol/note/stickers-on-buttons/",
-      "summary": "Article URL: https://siwoo.lol/note/stickers-on-buttons/ Comments URL: https://news.ycombinator.com/item?id=50556079 Points: 1 # Comments: 0",
-      "date": "2026-11-19T04:26:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Turning one photo into a Goodbye GTA 5 AI video",
-      "link": "https://gta5goodbyeai.com/",
-      "summary": "Article URL: https://gta5goodbyeai.com/ Comments URL: https://news.ycombinator.com/item?id=50555998 Points: 1 # Comments: 0",
-      "date": "2026-11-19T04:13:24+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1696,14 +1704,6 @@
       "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
       "summary": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview. The post NVIDIA Open-Sources NVKE and NV",
       "date": "2026-11-17T10:37:11+00:00",
-      "image": "",
-      "source": "MarkTechPost"
-    },
-    {
-      "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
-      "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
-      "summary": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API. The post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open ",
-      "date": "2026-11-17T09:51:18+00:00",
       "image": "",
       "source": "MarkTechPost"
     },
