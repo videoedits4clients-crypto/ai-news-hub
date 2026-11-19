@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T17:50:55.792148+00:00",
+  "updated": "2026-11-19T18:07:02.851861+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -99,34 +99,38 @@
           "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
         }
       ]
-    },
-    {
-      "count": 2,
-      "title": "Microsoft Research Focus – Edition #98",
-      "date": "2026-11-12T21:31:57+00:00",
-      "sources": [
-        "Microsoft Research"
-      ],
-      "links": [
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #98",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
-        },
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #97",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
-        }
-      ]
     }
   ],
   "items": [
     {
-      "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
-      "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 1 # Comments: 0",
-      "date": "2026-11-19T17:43:38+00:00",
+      "title": "Hacks, AI or just overdue updates – why have there been so many outages?",
+      "link": "https://www.bbc.com/news/articles/c6z0kly2lll7o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c6z0kly2lll7o Comments URL: https://news.ycombinator.com/item?id=50563577 Points: 1 # Comments: 0",
+      "date": "2026-11-19T18:01:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Is a Net Negative",
+      "link": "https://www.jitbit.com/alexblog/ai-is-net-negative/",
+      "summary": "Article URL: https://www.jitbit.com/alexblog/ai-is-net-negative/ Comments URL: https://news.ycombinator.com/item?id=50563575 Points: 1 # Comments: 0",
+      "date": "2026-11-19T18:01:37+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Every AI word of 2026, month by month",
+      "link": "https://armanckeser.com/writing/ai-words-2026",
+      "summary": "Article URL: https://armanckeser.com/writing/ai-words-2026 Comments URL: https://news.ycombinator.com/item?id=50563550 Points: 1 # Comments: 0",
+      "date": "2026-11-19T18:00:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "OSS Minymaton (event-driven MCP message bus for AI agents, bundled SQLite)",
+      "link": "https://github.com/immutlex-dev/minymaton",
+      "summary": "Article URL: https://github.com/immutlex-dev/minymaton Comments URL: https://news.ycombinator.com/item?id=50563540 Points: 1 # Comments: 0",
+      "date": "2026-11-19T17:59:20+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -134,17 +138,41 @@
       "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow in",
-      "date": "2026-11-19T17:42:27+00:00",
+      "date": "2026-11-19T17:57:30+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap in debut",
+      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut",
       "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T17:38:47+00:00",
+      "date": "2026-11-19T17:54:07+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Ask HN: Which software fields or domains are least impacted by AI?",
+      "link": "https://news.ycombinator.com/item?id=50563364",
+      "summary": "Let's say you don't enjoy working with LLMs but you enjoy writing software. Which fields/industries/domains are best? Comments URL: https://news.ycombinator.com/item?id=50563364 Points: 1 # Comments: 0",
+      "date": "2026-11-19T17:45:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI is ditching hallucinated references – and other bad habits",
+      "link": "https://www.nature.com/articles/d41586-026-03753-1",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03753-1 Comments URL: https://news.ycombinator.com/item?id=50563351 Points: 2 # Comments: 0",
+      "date": "2026-11-19T17:45:03+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+      "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 1 # Comments: 0",
+      "date": "2026-11-19T17:43:38+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
@@ -219,9 +247,9 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Chrome AI Features Wasting Much Bandwidth",
+      "title": "Chrome AI features wasting much bandwidth",
       "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 39 # Comments: 8",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 55 # Comments: 14",
       "date": "2026-11-19T16:54:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -269,7 +297,7 @@
     {
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
       "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 14 # Comments: 2",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 21 # Comments: 4",
       "date": "2026-11-19T16:45:50+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -317,7 +345,7 @@
     {
       "title": "Fuck Your AI Safeguards",
       "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 64 # Comments: 19",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 84 # Comments: 27",
       "date": "2026-11-19T16:30:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -345,14 +373,6 @@
       "date": "2026-11-19T16:24:13+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
-      "link": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
-      "summary": "DoJ claims suspect part of 4-month operation to steal secrets, surveil employees",
-      "date": "2026-11-19T16:20:00+00:00",
-      "image": "https://image.theregister.com/?imageId=259265&width=800",
-      "source": "The Register"
     },
     {
       "title": "Nvidia’s rise, visualized",
@@ -419,62 +439,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows",
-      "link": "https://news.ycombinator.com/item?id=50561703",
-      "summary": "I've been privately building a TypeScript SDK called TypeMaid and using it for my own projects over the past month. It's based on Typed DAGs, with Mermaid diagrams to define and visualize AI workflows. I've found this approach surprisingly simple to understand and work with, espe",
-      "date": "2026-11-19T15:52:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "link": "https://thedataexchange.media/pete-warden-moonshine/",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 118 # Comments: 94",
-      "date": "2026-11-19T15:38:12+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Europe's biggest gas supplier battling cyberattack – with no timeline for recovery",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
-      "summary": "Norwegian energy giant Equinor says oil and gas production remains unaffected",
-      "date": "2026-11-19T15:37:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5311057&width=800",
-      "source": "The Register"
-    },
-    {
-      "title": "Show HN: AI Kitchen Designer",
-      "link": "https://www.aikitchendesign.co",
-      "summary": "Article URL: https://www.aikitchendesign.co Comments URL: https://news.ycombinator.com/item?id=50561466 Points: 1 # Comments: 0",
-      "date": "2026-11-19T15:34:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
-      "link": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pyRG_5dCrfg Comments URL: https://news.ycombinator.com/item?id=50561434 Points: 6 # Comments: 1",
-      "date": "2026-11-19T15:32:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI found a hole in Java, and it starts with 'AAAAAAAA '",
-      "link": "https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/",
-      "summary": "Article URL: https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/ Comments URL: https://news.ycombinator.com/item?id=50561354 Points: 2 # Comments: 1",
-      "date": "2026-11-19T15:27:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Google rebrands its Gemini Spark AI agent as Tasks",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "summary": "Article URL: https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free Comments URL: https://news.ycombinator.com/item?id=50561261 Points: 1 # Comments: 1",
-      "date": "2026-11-19T15:21:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "ChatGPT can transcribe as you speak now with Live Dictation",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
       "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. Whi",
@@ -489,14 +453,6 @@
       "date": "2026-11-19T15:15:14+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "European Commission scrambles to contain AI-assisted cyberattack",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
-      "summary": "Staff HR and medical reimbursement systems taken offline as officials investigate whether personal data was compromised",
-      "date": "2026-11-19T15:14:54+00:00",
-      "image": "https://image.theregister.com/?imageId=5311112&width=800",
-      "source": "The Register"
     },
     {
       "title": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
@@ -537,14 +493,6 @@
       "date": "2026-11-19T14:26:20+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
-      "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
-      "summary": "Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud",
-      "date": "2026-11-19T14:03:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310970&width=800",
-      "source": "The Register"
     },
     {
       "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
@@ -699,14 +647,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Uncensored AI models are thriving on code hosting platforms",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891",
-      "summary": "Making a mockery of alignment",
-      "date": "2026-11-19T09:30:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310898&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "When tech workers have to quit their jobs to raise the alarm, it’s time to worry | Isabelle Ferreras",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
       "summary": "We can’t make AI safe for humanity if tech bosses are allowed to run their companies like autocracies Over the past two years, a troubling pattern has emerged across the world’s leading AI laboratories. Time and again, a safety researcher or engineer walks out of the door with a ",
@@ -793,14 +733,6 @@
       "date": "2026-11-19T00:42:56+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’",
-      "link": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927",
-      "summary": "Don’t hoist the Mission Accomplished banner, because company president thinks it also will spur China’s chip biz into action",
-      "date": "2026-11-19T00:39:16+00:00",
-      "image": "https://image.theregister.com/?imageId=233376&width=800",
-      "source": "The Register"
     },
     {
       "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
@@ -1003,22 +935,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "AI found more critical bugs in another widely used technology running 225M websites",
-      "link": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
-      "summary": "Open source NGINX joins patchapalooza",
-      "date": "2026-11-18T21:11:04+00:00",
-      "image": "https://image.theregister.com/?imageId=228044&width=800",
-      "source": "The Register"
-    },
-    {
-      "title": "To rank the world's biggest supercomputers, we're gonna need a bigger bench",
-      "link": "https://www.theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878",
-      "summary": "AI has birthed some truly colossal supers, they just aren't on the Top500",
-      "date": "2026-11-18T20:15:44+00:00",
-      "image": "https://image.theregister.com/?imageId=119575&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
       "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
       "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
@@ -1211,14 +1127,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "The wrong setting for AI cache can cost you a lot of cash",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
-      "summary": "Beware of the temptation to drop just a few more dollars to get the work done",
-      "date": "2026-11-18T16:17:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310849&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
       "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
       "summary": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Codi",
@@ -1297,14 +1205,6 @@
       "date": "2026-11-18T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-      "date": "2026-11-18T13:16:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
@@ -1603,14 +1503,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Can AI help build a healthier future?",
-      "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. ",
-      "date": "2026-11-17T16:52:17+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Google makes it easier to use Gemini without training AI on your data",
       "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
       "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
@@ -1817,14 +1709,6 @@
       "date": "2026-11-16T18:38:47+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
-      "date": "2026-11-16T17:01:35+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
@@ -2283,14 +2167,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Microsoft Research Focus – Edition #98",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
-      "date": "2026-11-12T21:31:57+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
@@ -2523,14 +2399,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
-      "date": "2026-11-10T20:52:56+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "llm-gemini 0.36",
       "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
       "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5",
@@ -2723,14 +2591,6 @@
       "source": "Google Research"
     },
     {
-      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
-      "date": "2026-11-05T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
       "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
@@ -2777,14 +2637,6 @@
       "date": "2026-11-04T16:35:44+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
       "source": "Interconnects"
-    },
-    {
-      "title": "Learn the rules: The hacker mindset",
-      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
-      "date": "2026-11-03T17:14:38+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -2865,22 +2717,6 @@
       "date": "2026-10-30T14:18:30+00:00",
       "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
-      "date": "2026-10-30T13:05:28+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Microsoft Research Focus – Edition #97",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
-      "date": "2026-10-29T19:19:16+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -3051,14 +2887,6 @@
       "source": "ScienceDaily AI"
     },
     {
-      "title": "Flint-interactive: A language for creating interactive data visualizations",
-      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
-      "date": "2026-10-22T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -3089,14 +2917,6 @@
       "date": "2026-10-21T16:23:53+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "source": "Google Research"
-    },
-    {
-      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computi",
-      "date": "2026-10-21T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -3320,6 +3140,166 @@
       "summary": "Mobile Systems",
       "date": "2026-10-02T14:57:41+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
+      "date": "2026-10-01T13:17:13+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-gener",
+      "date": "2026-10-01T13:03:50+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
+      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
+      "date": "2026-09-30T11:23:54+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "How Diffusion Controller unifies and simplifies AI image generation",
+      "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-29T18:38:27+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
+      "source": "Google Research"
+    },
+    {
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
+      "date": "2026-09-28T12:32:03+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "Quantum computing’s “dark horse” just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alo",
+      "date": "2026-09-25T12:45:04+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Automating coherent long-form video generation",
+      "link": "https://research.google/blog/coherent-long-form-video-generation/",
+      "summary": "Generative AI",
+      "date": "2026-09-24T19:40:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MIT’s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate d",
+      "date": "2026-09-22T12:52:43+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
+      "date": "2026-09-21T12:31:04+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "The expanded form of a testimony I prepared for Congress.",
+      "date": "2026-09-21T11:56:56+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Why I still haven’t bought into true RSI",
+      "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
+      "date": "2026-09-19T15:42:20+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+      "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-18T17:46:09+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+      "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+      "summary": "Education Innovation",
+      "date": "2026-09-17T20:45:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
       "source": "Google Research"
     }
   ]
