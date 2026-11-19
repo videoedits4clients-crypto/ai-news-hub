@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T10:35:53.454237+00:00",
+  "updated": "2026-11-19T10:46:29.853554+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,22 +41,22 @@
   "trending": [
     {
       "count": 2,
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "date": "2026-11-19T10:12:16+00:00",
+      "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+      "date": "2026-11-19T10:40:31+00:00",
       "sources": [
         "BBC Technology",
         "The Guardian AI"
       ],
       "links": [
         {
-          "source": "BBC Technology",
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "source": "The Guardian AI",
           "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
           "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "source": "BBC Technology",
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -164,20 +164,20 @@
   ],
   "items": [
     {
+      "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature compa",
+      "date": "2026-11-19T10:40:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "date": "2026-11-19T10:12:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature compa",
-      "date": "2026-11-19T10:11:48+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Always Today: a to-do app where the AI does the legwork rows",
