@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:20:53.148749+00:00",
+  "updated": "2026-11-19T21:36:36.050386+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,46 @@
   ],
   "items": [
     {
+      "title": "When AI-built apps get risky: data from 3,911 repos",
+      "link": "https://pathtoship.com/blog/when-ai-built-apps-actually-break",
+      "summary": "Article URL: https://pathtoship.com/blog/when-ai-built-apps-actually-break Comments URL: https://news.ycombinator.com/item?id=50566694 Points: 1 # Comments: 0",
+      "date": "2026-11-19T21:31:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar pl",
+      "date": "2026-11-19T21:28:18+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+      "date": "2026-11-19T21:27:33+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans t",
+      "date": "2026-11-19T21:22:34+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+      "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+      "summary": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+      "date": "2026-11-19T21:18:11+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Show HN: A SEO Tool to get found by Google and get cited by AI",
       "link": "https://mozolite.com",
       "summary": "Article URL: https://mozolite.com Comments URL: https://news.ycombinator.com/item?id=50566502 Points: 1 # Comments: 0",
@@ -143,38 +183,6 @@
       "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
       "date": "2026-11-19T21:14:27+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic starts trading on Wall Street",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans t",
-      "date": "2026-11-19T21:13:46+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Escape defaultthink: oblique ideas for your AI agent",
-      "link": "https://fizzler.ai/",
-      "summary": "Article URL: https://fizzler.ai/ Comments URL: https://news.ycombinator.com/item?id=50566425 Points: 1 # Comments: 0",
-      "date": "2026-11-19T21:10:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar pl",
-      "date": "2026-11-19T21:10:00+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-      "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-      "date": "2026-11-19T21:08:45+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -485,7 +493,7 @@
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 31 # Comments: 47",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 35 # Comments: 54",
       "date": "2026-11-19T18:47:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -493,7 +501,7 @@
     {
       "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
       "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 24 # Comments: 5",
+      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 25 # Comments: 8",
       "date": "2026-11-19T18:42:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1217,14 +1225,6 @@
       "date": "2026-11-18T18:13:42+00:00",
       "image": "",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-      "date": "2026-11-18T18:11:41+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Will Wright's next simulation will use AI to mine content from your memories",
