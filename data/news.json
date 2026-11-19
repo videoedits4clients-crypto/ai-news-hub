@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:50:28.380695+00:00",
+  "updated": "2026-11-19T14:06:53.450260+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,18 +143,58 @@
   ],
   "items": [
     {
+      "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry will not accept an AI carveout deal that leaves other creative sectors behi",
+      "date": "2026-11-19T14:00:52+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "‘Communities are really angry’: how datacentre opposition has gone from marginal to mainstream in five months",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
+      "summary": "A network of grassroots campaigners around Australia are sharing information to help push back against the datacentre boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to power",
+      "date": "2026-11-19T14:00:50+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Anthropic IPO live updates: Dario and Daniela Amodei arrive at Nasdaq ahead of debut",
       "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T13:45:57+00:00",
+      "date": "2026-11-19T14:00:24+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "date": "2026-11-19T14:00:00+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+      "date": "2026-11-19T13:57:40+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Show HN: Purple Flow – AI-first n8n alternative, 10k+ workflows on 512MB",
+      "link": "https://github.com/leetheguy/purple_flow",
+      "summary": "Hey all! I ran into a wall with n8n - hard and expensive to scale, limited streaming, heavy MCP is confusing for agents. That scaling was becoming more and more critical as I was beginning to build agentic swarms. So I built my own alternative with Elixir and Beam. Been using it ",
+      "date": "2026-11-19T13:57:14+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic shares expected to jump when trading begins after raising $81bn in record IPO – business live",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant",
-      "date": "2026-11-19T13:41:07+00:00",
+      "date": "2026-11-19T13:51:46+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
@@ -173,14 +213,6 @@
       "date": "2026-11-19T13:34:37+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-      "date": "2026-11-19T13:34:13+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
@@ -289,7 +321,7 @@
     {
       "title": "The AI Superintelligence Debate Has Serious Flaws",
       "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 66 # Comments: 63",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 69 # Comments: 70",
       "date": "2026-11-19T12:17:10+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -401,7 +433,7 @@
     {
       "title": "AI Overworks People",
       "link": "https://twitter.com/catalinmpit/status/2123061832781090948",
-      "summary": "Article URL: https://twitter.com/catalinmpit/status/2123061832781090948 Comments URL: https://news.ycombinator.com/item?id=50558494 Points: 16 # Comments: 8",
+      "summary": "Article URL: https://twitter.com/catalinmpit/status/2123061832781090948 Comments URL: https://news.ycombinator.com/item?id=50558494 Points: 17 # Comments: 8",
       "date": "2026-11-19T10:52:29+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -493,14 +525,6 @@
       "date": "2026-11-19T08:59:17+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "The Hidden Geography of AI [video]",
-      "link": "https://www.youtube.com/watch?v=K-qll_Yhfms",
-      "summary": "Article URL: https://www.youtube.com/watch?v=K-qll_Yhfms Comments URL: https://news.ycombinator.com/item?id=50557669 Points: 2 # Comments: 0",
-      "date": "2026-11-19T08:57:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
@@ -1439,14 +1463,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "date": "2026-11-18T00:16:50+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
       "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
       "summary": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levels Students in England could suffer “life-altering” penalties if they are caught relying on AI or smart glasses to cheat, England’s qualifications regulator has said. T",
@@ -1485,14 +1501,6 @@
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-      "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-      "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earni",
-      "date": "2026-11-17T23:32:16+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "External sandboxes for coding agents",
@@ -1565,14 +1573,6 @@
       "date": "2026-11-17T19:00:03+00:00",
       "image": "https://spectrum.ieee.org/media-library/illustration-of-floating-hands-inspecting-the-use-of-ai-features-across-a-laptop-computer-academic-paper-and-the-world-wide-web.jpg?id=68699342&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-      "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-      "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resigna",
-      "date": "2026-11-17T17:58:05+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
