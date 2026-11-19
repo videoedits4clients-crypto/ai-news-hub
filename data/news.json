@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:50:26.236839+00:00",
+  "updated": "2026-11-19T00:06:23.975022+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -61,6 +61,27 @@
     },
     {
       "count": 2,
+      "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+      "date": "2026-11-18T21:19:25+00:00",
+      "sources": [
+        "CNBC Technology",
+        "Hacker News AI"
+      ],
+      "links": [
+        {
+          "source": "Hacker News AI",
+          "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+          "link": "https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8"
+        },
+        {
+          "source": "CNBC Technology",
+          "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+          "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html"
+        }
+      ]
+    },
+    {
+      "count": 2,
       "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
       "date": "2026-11-17T22:38:52+00:00",
       "sources": [
@@ -99,29 +120,25 @@
           "link": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ]
-    },
-    {
-      "count": 2,
-      "title": "Microsoft Research Focus – Edition #98",
-      "date": "2026-11-12T21:31:57+00:00",
-      "sources": [
-        "Microsoft Research"
-      ],
-      "links": [
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #98",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
-        },
-        {
-          "source": "Microsoft Research",
-          "title": "Microsoft Research Focus – Edition #97",
-          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "title": "New Study Shows How Young People Feel About AI Companions",
+      "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
+      "summary": "Article URL: https://www.404media.co/gallup-study-friendship-ai-companions/ Comments URL: https://news.ycombinator.com/item?id=50554097 Points: 1 # Comments: 0",
+      "date": "2026-11-18T23:58:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a ",
+      "date": "2026-11-18T23:53:51+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
     {
       "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
       "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
@@ -129,6 +146,22 @@
       "date": "2026-11-18T23:45:50+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
+      "link": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "summary": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thou",
+      "date": "2026-11-18T23:45:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "date": "2026-11-18T23:45:00+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
@@ -155,12 +188,28 @@
       "source": "BBC Technology"
     },
     {
+      "title": "The public database of AI agent incidents",
+      "link": "https://www.experimentempire.com/agent-incident-register",
+      "summary": "Article URL: https://www.experimentempire.com/agent-incident-register Comments URL: https://news.ycombinator.com/item?id=50553944 Points: 1 # Comments: 0",
+      "date": "2026-11-18T23:42:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Microsoft had rallied back to record highs. Then came the election and Outlook outage",
       "link": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
       "summary": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
       "date": "2026-11-18T23:39:21+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good",
+      "link": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
+      "summary": "Article URL: https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines Comments URL: https://news.ycombinator.com/item?id=50553878 Points: 1 # Comments: 0",
+      "date": "2026-11-18T23:34:44+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
@@ -171,6 +220,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+      "link": "https://news.ycombinator.com/item?id=50553802",
+      "summary": "Back in April, I built auto-arch-tournament (https://github.com/FeSens/auto-arch-tournament) to explore a question I’m still curious about: how well can different AI models improve a RISC-V CPU? I’ve been tracking the results on HWEBench(https://hwebench.com/v2). It’s fun to see ",
+      "date": "2026-11-18T23:26:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
       "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
       "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
@@ -179,12 +236,12 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere",
-      "date": "2026-11-18T23:18:35+00:00",
+      "title": "Corporate AI Strategy, my ass",
+      "link": "https://deadsimpletech.com/blog/corporate-ai-strategy-my-ass",
+      "summary": "Article URL: https://deadsimpletech.com/blog/corporate-ai-strategy-my-ass Comments URL: https://news.ycombinator.com/item?id=50553750 Points: 2 # Comments: 0",
+      "date": "2026-11-18T23:19:02+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "Hacker News AI"
     },
     {
       "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
@@ -195,12 +252,68 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Casting an expert eye on Apple's AI photo-retouching features",
+      "link": "https://sixcolors.com/post/2026/11/casting-an-expert-eye-on-apples-ai-photo-retouching-features/",
+      "summary": "Article URL: https://sixcolors.com/post/2026/11/casting-an-expert-eye-on-apples-ai-photo-retouching-features/ Comments URL: https://news.ycombinator.com/item?id=50553668 Points: 2 # Comments: 0",
+      "date": "2026-11-18T23:09:47+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
       "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
       "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
       "date": "2026-11-18T22:58:11+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Cado – AI that helps you understand your credit, no account needed",
+      "link": "https://askcado.com/",
+      "summary": "Article URL: https://askcado.com/ Comments URL: https://news.ycombinator.com/item?id=50553560 Points: 1 # Comments: 0",
+      "date": "2026-11-18T22:58:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: 100ms copy-on-write workspaces for AI agents on macOS",
+      "link": "https://github.com/gabrielvfonseca/replica",
+      "summary": "Article URL: https://github.com/gabrielvfonseca/replica Comments URL: https://news.ycombinator.com/item?id=50553493 Points: 2 # Comments: 0",
+      "date": "2026-11-18T22:51:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "\"The best escape room players\" What Red Hat's AI architect thinks about agents",
+      "link": "https://thenewstack.io/openshell-ai-agent-security/",
+      "summary": "Article URL: https://thenewstack.io/openshell-ai-agent-security/ Comments URL: https://news.ycombinator.com/item?id=50553455 Points: 1 # Comments: 0",
+      "date": "2026-11-18T22:47:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "On-device AI: new knowledge without fine-tuning",
+      "link": "https://github.com/viperfoundation/Viper/blob/main/on-device-ai.md",
+      "summary": "Article URL: https://github.com/viperfoundation/Viper/blob/main/on-device-ai.md Comments URL: https://news.ycombinator.com/item?id=50553420 Points: 1 # Comments: 1",
+      "date": "2026-11-18T22:44:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI-Free FOSS Alternatives",
+      "link": "https://codeberg.org/ethical-foss/ai-free-foss-alternatives",
+      "summary": "Article URL: https://codeberg.org/ethical-foss/ai-free-foss-alternatives Comments URL: https://news.ycombinator.com/item?id=50553380 Points: 3 # Comments: 2",
+      "date": "2026-11-18T22:41:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Bots Broke It",
+      "link": "https://travelingluck.com/",
+      "summary": "Article URL: https://travelingluck.com/ Comments URL: https://news.ycombinator.com/item?id=50553354 Points: 1 # Comments: 0",
+      "date": "2026-11-18T22:39:28+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
@@ -211,20 +324,36 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "MAI Licensed Weights: Frontier Performance You Control – Microsoft AI",
+      "link": "https://microsoft.ai/news/introducing-mai-licensed-weights/",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-licensed-weights/ Comments URL: https://news.ycombinator.com/item?id=50553289 Points: 2 # Comments: 0",
+      "date": "2026-11-18T22:34:54+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Forks and Spoons: Uniting over AI Differences in Free Software",
+      "link": "https://www.oblomovka.com/wp/2026/11/16/forks-and-spoons-uniting-over-ai-differences-in-free-software/",
+      "summary": "Article URL: https://www.oblomovka.com/wp/2026/11/16/forks-and-spoons-uniting-over-ai-differences-in-free-software/ Comments URL: https://news.ycombinator.com/item?id=50553217 Points: 1 # Comments: 0",
+      "date": "2026-11-18T22:28:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Access Index: how 684 of the top thousand hostnames treat AI crawlers",
+      "link": "https://www.crawlreadiness.com/ai-access-index/2026-11",
+      "summary": "Article URL: https://www.crawlreadiness.com/ai-access-index/2026-11 Comments URL: https://news.ycombinator.com/item?id=50553175 Points: 1 # Comments: 0",
+      "date": "2026-11-18T22:25:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
       "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
       "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
       "date": "2026-11-18T22:25:32+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Nvidia’s rise, visualized",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary found",
-      "date": "2026-11-18T22:18:53+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
@@ -241,6 +370,30 @@
       "date": "2026-11-18T22:11:15+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "I'm a GM Master Technician Building a Team of AI Agents That Talk to Each Other",
+      "link": "https://oddityforge.net",
+      "summary": "Article URL: https://oddityforge.net Comments URL: https://news.ycombinator.com/item?id=50552902 Points: 4 # Comments: 0",
+      "date": "2026-11-18T22:07:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Canvas Dx, an AI app that diagnoses autism [video]",
+      "link": "https://vimeo.com/791026418",
+      "summary": "Article URL: https://vimeo.com/791026418 Comments URL: https://news.ycombinator.com/item?id=50552892 Points: 1 # Comments: 1",
+      "date": "2026-11-18T22:07:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Growing as an Engineer in a World of AI",
+      "link": "https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai",
+      "summary": "Article URL: https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai Comments URL: https://news.ycombinator.com/item?id=50552809 Points: 1 # Comments: 0",
+      "date": "2026-11-18T22:00:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
@@ -267,12 +420,20 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ral",
-      "date": "2026-11-18T21:44:01+00:00",
+      "title": "Energy Wins Driving Optical Computing AI",
+      "link": "https://spectrum.ieee.org/optical-computing-ai",
+      "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50552565 Points: 2 # Comments: 0",
+      "date": "2026-11-18T21:45:00+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Google Buys Worker Data from Spirit Airlines in a New Market to Feed AI",
+      "link": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html Comments URL: https://news.ycombinator.com/item?id=50552512 Points: 9 # Comments: 2",
+      "date": "2026-11-18T21:41:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
@@ -299,6 +460,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "A Couple of Posts about AI and the IGF Awards",
+      "link": "https://www.clockworkworlds.com/a-couple-of-posts-about-ai-and-the-igf-awards/",
+      "summary": "Article URL: https://www.clockworkworlds.com/a-couple-of-posts-about-ai-and-the-igf-awards/ Comments URL: https://news.ycombinator.com/item?id=50552406 Points: 1 # Comments: 0",
+      "date": "2026-11-18T21:32:38+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
       "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
       "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
@@ -313,6 +482,30 @@
       "date": "2026-11-18T21:28:04+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Nihil – A hardware IDE where your AI agent designs, simulates and tests PCBs",
+      "link": "https://nihil.sh/",
+      "summary": "Article URL: https://nihil.sh/ Comments URL: https://news.ycombinator.com/item?id=50552331 Points: 1 # Comments: 0",
+      "date": "2026-11-18T21:26:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Haru-4B: A voice AI that can listen and speak at the same time",
+      "link": "https://blog.higurashi.ai/melte/haru4b/",
+      "summary": "Article URL: https://blog.higurashi.ai/melte/haru4b/ Comments URL: https://news.ycombinator.com/item?id=50552258 Points: 2 # Comments: 0",
+      "date": "2026-11-18T21:19:43+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+      "link": "https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8",
+      "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8 Comments URL: https://news.ycombinator.com/item?id=50552251 Points: 4 # Comments: 0",
+      "date": "2026-11-18T21:19:25+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
@@ -369,6 +562,22 @@
       "date": "2026-11-18T19:54:56+00:00",
       "image": "",
       "source": "Hugging Face"
+    },
+    {
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ral",
+      "date": "2026-11-18T19:40:36+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary found",
+      "date": "2026-11-18T19:29:43+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
@@ -899,6 +1108,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "date": "2026-11-18T08:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
       "title": "Inside the Codex sandbox",
       "link": "https://openai.com/index/inside-the-codex-sandbox",
       "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
@@ -1019,6 +1236,14 @@
       "source": "BBC Technology"
     },
     {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's org",
+      "date": "2026-11-18T01:48:18+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
       "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
@@ -1083,17 +1308,17 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -1137,14 +1362,6 @@
       "date": "2026-11-17T23:32:16+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "date": "2026-11-17T23:04:35+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "External sandboxes for coding agents",
@@ -1251,14 +1468,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Can AI help build a healthier future?",
-      "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. ",
-      "date": "2026-11-17T16:52:17+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Google makes it easier to use Gemini without training AI on your data",
       "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
       "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
@@ -1345,14 +1554,6 @@
       "date": "2026-11-17T14:00:10+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "AI Is Giving Optical Computing Another Shot",
-      "link": "https://spectrum.ieee.org/optical-computing-ai",
-      "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now total",
-      "date": "2026-11-17T14:00:03+00:00",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=980",
-      "source": "IEEE Spectrum AI"
     },
     {
       "title": "Google ADK Agents That Pause, Resume, and Wait Hours for a Human",
@@ -1491,17 +1692,17 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "date": "2026-11-17T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "date": "2026-11-17T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -1539,14 +1740,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-      "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relation",
-      "date": "2026-11-16T21:00:21+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
       "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
       "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufac",
@@ -1569,14 +1762,6 @@
       "date": "2026-11-16T18:38:47+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
-      "date": "2026-11-16T17:01:35+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
@@ -2067,14 +2252,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "date": "2026-11-13T08:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
-    },
-    {
       "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
       "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond tho",
@@ -2089,14 +2266,6 @@
       "date": "2026-11-12T22:55:19+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Microsoft Research Focus – Edition #98",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
-      "date": "2026-11-12T21:31:57+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -2331,14 +2500,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
-      "date": "2026-11-10T20:52:56+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "llm-gemini 0.36",
       "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
       "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5",
@@ -2555,14 +2716,6 @@
       "source": "Google Research"
     },
     {
-      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
-      "date": "2026-11-05T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
       "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
@@ -2609,14 +2762,6 @@
       "date": "2026-11-04T16:35:44+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
       "source": "Interconnects"
-    },
-    {
-      "title": "Learn the rules: The hacker mindset",
-      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
-      "date": "2026-11-03T17:14:38+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -2697,22 +2842,6 @@
       "date": "2026-10-30T14:18:30+00:00",
       "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
-      "date": "2026-10-30T13:05:28+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
-      "title": "Microsoft Research Focus – Edition #97",
-      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
-      "date": "2026-10-29T19:19:16+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -2883,14 +3012,6 @@
       "source": "ScienceDaily AI"
     },
     {
-      "title": "Flint-interactive: A language for creating interactive data visualizations",
-      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
-      "date": "2026-10-22T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
-    },
-    {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -2921,14 +3042,6 @@
       "date": "2026-10-21T16:23:53+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "source": "Google Research"
-    },
-    {
-      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computi",
-      "date": "2026-10-21T16:00:00+00:00",
-      "image": "",
-      "source": "Microsoft Research"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -3209,118 +3322,6 @@
       "date": "2026-09-30T11:23:54+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
       "source": "Last Week in AI"
-    },
-    {
-      "title": "How Diffusion Controller unifies and simplifies AI image generation",
-      "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-      "summary": "Algorithms & Theory",
-      "date": "2026-09-29T18:38:27+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
-      "source": "Google Research"
-    },
-    {
-      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
-      "date": "2026-09-28T12:32:03+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "Quantum computing’s “dark horse” just proved it can go universal",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alo",
-      "date": "2026-09-25T12:45:04+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Automating coherent long-form video generation",
-      "link": "https://research.google/blog/coherent-long-form-video-generation/",
-      "summary": "Generative AI",
-      "date": "2026-09-24T19:40:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "date": "2026-09-24T16:20:39+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
-      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
-      "date": "2026-09-24T09:12:28+00:00",
-      "image": "",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "date": "2026-09-23T16:00:57+00:00",
-      "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "date": "2026-09-23T15:25:14+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
-      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
-      "summary": "Podcast #19",
-      "date": "2026-09-22T13:37:45+00:00",
-      "image": "",
-      "source": "Interconnects"
-    },
-    {
-      "title": "MIT’s tiny flying robot gets 450% faster with AI",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
-      "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate d",
-      "date": "2026-09-22T12:52:43+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
-      "date": "2026-09-21T12:31:04+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "The current balance of power in open models",
-      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "The expanded form of a testimony I prepared for Congress.",
-      "date": "2026-09-21T11:56:56+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Why I still haven’t bought into true RSI",
-      "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
-      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
-      "date": "2026-09-19T15:42:20+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-      "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-      "summary": "Algorithms & Theory",
-      "date": "2026-09-18T17:46:09+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
-      "source": "Google Research"
     }
   ]
 }
