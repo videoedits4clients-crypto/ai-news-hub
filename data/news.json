@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T06:50:27.567993+00:00",
+  "updated": "2026-11-19T07:07:12.723291+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,6 +143,14 @@
   ],
   "items": [
     {
+      "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+      "link": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+      "summary": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared fir",
+      "date": "2026-11-19T06:52:26+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
       "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
       "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
       "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
@@ -175,7 +183,7 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "date": "2026-11-19T02:59:06+00:00",
@@ -1491,14 +1499,6 @@
       "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
       "summary": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API. The post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open ",
       "date": "2026-11-17T09:51:18+00:00",
-      "image": "",
-      "source": "MarkTechPost"
-    },
-    {
-      "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
-      "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
-      "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1. The post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal De",
-      "date": "2026-11-17T09:20:57+00:00",
       "image": "",
       "source": "MarkTechPost"
     },
