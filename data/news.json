@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:36:32.519083+00:00",
+  "updated": "2026-11-19T04:50:28.703837+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -163,6 +163,22 @@
   ],
   "items": [
     {
+      "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+      "link": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the Comments URL: https://news.ycombinator.com/item?id=50556168 Points: 1 # Comments: 0",
+      "date": "2026-11-19T04:44:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Madras School System and AI Learning Share Similarity",
+      "link": "https://news.ycombinator.com/item?id=50556148",
+      "summary": "Madras School education system (https://en.wikipedia.org/wiki/Madras_School) that was the bedrock of mass public structured education in the late 18-19th century has several similarities on how AI is trained today. They both ensures that knowledge dissemination is free. The simil",
+      "date": "2026-11-19T04:39:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Ask HN: What positive impact has AI had in the past 5 years?",
       "link": "https://news.ycombinator.com/item?id=50556120",
       "summary": "I asked myself this question this morning and I swear I couldn't find one single thing. We still have all the problems we had before AI. AI did not solve the climate collapse, did not cure cancer, did not figure society-altering new technologies, did not make politics not suck an",
@@ -285,7 +301,7 @@
     {
       "title": "AI will not make you rich (2025)",
       "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 74 # Comments: 45",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 77 # Comments: 45",
       "date": "2026-11-19T01:51:28+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -341,7 +357,7 @@
     {
       "title": "Black high school students sue after AI mistakes Doritos bag for gun",
       "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 63 # Comments: 27",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 65 # Comments: 29",
       "date": "2026-11-19T00:57:20+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -389,7 +405,7 @@
     {
       "title": "Show HN: I built a harness that turns floor plans into 360° tours using AI",
       "link": "https://walkthisplan.com/",
-      "summary": "Article URL: https://walkthisplan.com/ Comments URL: https://news.ycombinator.com/item?id=50554399 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://walkthisplan.com/ Comments URL: https://news.ycombinator.com/item?id=50554399 Points: 4 # Comments: 1",
       "date": "2026-11-19T00:32:32+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -413,7 +429,7 @@
     {
       "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
       "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50554179 Points: 14 # Comments: 2",
+      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50554179 Points: 15 # Comments: 2",
       "date": "2026-11-19T00:08:35+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -451,14 +467,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
-      "link": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
-      "summary": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thou",
-      "date": "2026-11-18T23:45:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
       "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
@@ -473,14 +481,6 @@
       "date": "2026-11-18T23:42:07+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "The public database of AI agent incidents",
-      "link": "https://www.experimentempire.com/agent-incident-register",
-      "summary": "Article URL: https://www.experimentempire.com/agent-incident-register Comments URL: https://news.ycombinator.com/item?id=50553944 Points: 2 # Comments: 0",
-      "date": "2026-11-18T23:42:00+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
