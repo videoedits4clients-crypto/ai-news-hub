@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T09:20:40.737671+00:00",
+  "updated": "2026-11-19T09:36:37.274196+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,20 +143,28 @@
   ],
   "items": [
     {
+      "title": "Uncensored AI models are thriving on code hosting platforms",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891",
+      "summary": "Making a mockery of alignment",
+      "date": "2026-11-19T09:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310898&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic’s IPO could breathe life into London’s ailing high-end property market . The share sale is likely to turn more than 4,000 of its staff into millionaires as their stock options vest. The comp",
+      "date": "2026-11-19T09:24:44+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "There's a New Disruptor Throwing Terrible AI Slop at Sports Fans",
       "link": "https://defector.com/theres-a-new-disruptor-throwing-terrible-ai-slop-at-sports-fans",
       "summary": "Article URL: https://defector.com/theres-a-new-disruptor-throwing-terrible-ai-slop-at-sports-fans Comments URL: https://news.ycombinator.com/item?id=50557811 Points: 1 # Comments: 0",
       "date": "2026-11-19T09:18:25+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news The US stock market is set to open higher, which might help Anthropic make a smooth debut on the Nasdaq market. The tech-focused Nasdaq index is on track to open 1.8% higher. “Nvidia fell another 3% y",
-      "date": "2026-11-19T09:05:25+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "When tech workers have to quit their jobs to raise the alarm, it’s time to worry | Isabelle Ferreras",
@@ -653,6 +661,14 @@
       "date": "2026-11-18T21:31:21+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "date": "2026-11-18T21:28:08+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "source": "BBC Technology"
     },
     {
       "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
@@ -1581,14 +1597,6 @@
       "date": "2026-11-17T14:39:46+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "date": "2026-11-17T14:25:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -3333,14 +3341,6 @@
       "date": "2026-10-05T12:32:30+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "date": "2026-10-03T07:32:03+00:00",
-      "image": "",
-      "source": "Last Week in AI"
     }
   ]
 }
