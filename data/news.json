@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T14:35:53.459872+00:00",
+  "updated": "2026-11-19T14:50:23.734932+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,10 +143,10 @@
   ],
   "items": [
     {
-      "title": "Anthropic shares expected to jump when trading begins after raising $81bn in record IPO – business live",
+      "title": "Anthropic rings Nasdaq opening bell as trading begins after record IPO – business live",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant",
-      "date": "2026-11-19T14:30:42+00:00",
+      "date": "2026-11-19T14:44:43+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
@@ -154,9 +154,17 @@
       "title": "Anthropic IPO live updates: AI lab's founders ring the Nasdaq opening bell",
       "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T14:30:06+00:00",
+      "date": "2026-11-19T14:42:53+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was fo",
+      "date": "2026-11-19T14:26:20+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
@@ -175,9 +183,9 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "‘Communities are really angry’: how datacentre opposition has gone from marginal to mainstream in five months",
+      "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
       "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
-      "summary": "A network of grassroots campaigners around Australia are sharing information to help push back against the datacentre boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to power",
+      "summary": "A network of grassroots campaigners around the country are sharing information to help push back against the datacentre boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to pow",
       "date": "2026-11-19T14:00:50+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -218,7 +226,7 @@
       "title": "Canva adds an AI ‘off’ button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
       "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This",
-      "date": "2026-11-19T13:06:46+00:00",
+      "date": "2026-11-19T13:08:05+00:00",
       "image": "",
       "source": "The Verge AI"
     },
@@ -879,14 +887,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explo",
-      "date": "2026-11-18T16:27:13+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Remember the frontier AI pause? Chip companies don’t either",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
       "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slow",
@@ -1013,14 +1013,6 @@
       "date": "2026-11-18T14:00:31+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Business as usual, but Huang ain't coming back, says Nvidia",
-      "link": "https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772",
-      "summary": "GPU giant puts on a brave face for investors, while analysts say doubts remain over the company's future",
-      "date": "2026-11-18T13:54:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310782&width=800",
-      "source": "The Register"
     },
     {
       "title": "When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores",
@@ -3341,6 +3333,14 @@
       "date": "2026-09-15T20:00:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
       "source": "Google Research"
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "date": "2026-09-15T13:14:55+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
