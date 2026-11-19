@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:36:35.399136+00:00",
+  "updated": "2026-11-19T20:51:21.131426+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,12 +123,36 @@
   ],
   "items": [
     {
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the ho",
-      "date": "2026-11-19T20:29:21+00:00",
+      "title": "PostgreSQL 19 Released",
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release ",
+      "date": "2026-11-19T20:43:57+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Spec-Driven Development: The Approaches Behind AI Software Factories (2026)",
+      "link": "https://netling.digital/blog/spec-driven-development-ai-software-factory",
+      "summary": "Article URL: https://netling.digital/blog/spec-driven-development-ai-software-factory Comments URL: https://news.ycombinator.com/item?id=50565988 Points: 1 # Comments: 0",
+      "date": "2026-11-19T20:35:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "date": "2026-11-19T20:34:17+00:00",
+      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
+      "source": "Wired AI"
+    },
+    {
+      "title": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+      "link": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+      "summary": "Payward, the owner of crypto exchange Kraken, is pushing into private markets with its purchase of venture capital and asset management provider Tribe Capital.",
+      "date": "2026-11-19T20:33:05+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
@@ -141,7 +165,7 @@
     {
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/ Comments URL: https://news.ycombinator.com/item?id=50565836 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/ Comments URL: https://news.ycombinator.com/item?id=50565836 Points: 4 # Comments: 0",
       "date": "2026-11-19T20:24:09+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -323,14 +347,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
-      "link": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
-      "summary": "Payward, the owner of crypto exchange Kraken, is pushing into private markets with its purchase of venture capital and asset management provider Tribe Capital.",
-      "date": "2026-11-19T19:06:50+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "With AI Gateway, coding agents perform bulk tasks 8x faster and 20x cheaper",
       "link": "https://ploy.ai/blog/ploy-ai-gateway",
       "summary": "Article URL: https://ploy.ai/blog/ploy-ai-gateway Comments URL: https://news.ycombinator.com/item?id=50564625 Points: 7 # Comments: 0",
@@ -365,7 +381,7 @@
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 23 # Comments: 28",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 27 # Comments: 35",
       "date": "2026-11-19T18:47:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -373,7 +389,7 @@
     {
       "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
       "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 16 # Comments: 3",
+      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 19 # Comments: 3",
       "date": "2026-11-19T18:42:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -449,14 +465,6 @@
       "date": "2026-11-19T18:13:21+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "The Sanders-Casar AI Ban Would Turn a Forecast into a Felony",
-      "link": "https://reason.com/2026/11/19/bernie-sanders-superintelligence-ban-would-criminalize-todays-ai-for-what-tomorrows-ai-might-do/",
-      "summary": "Article URL: https://reason.com/2026/11/19/bernie-sanders-superintelligence-ban-would-criminalize-todays-ai-for-what-tomorrows-ai-might-do/ Comments URL: https://news.ycombinator.com/item?id=50563744 Points: 1 # Comments: 2",
-      "date": "2026-11-19T18:12:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Google gives Gemini the ability to use your Mac for you",
@@ -579,6 +587,14 @@
       "source": "The Register"
     },
     {
+      "title": "Nvidia’s rise, visualized",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary found",
+      "date": "2026-11-19T16:19:57+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
@@ -669,7 +685,7 @@
     {
       "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
       "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry will not accept an AI carveout deal that leaves other creative sectors behi",
+      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria chief executive says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry has declared it will not accept an AI carveout deal that leaves",
       "date": "2026-11-19T14:00:52+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1505,14 +1521,6 @@
       "date": "2026-11-18T05:10:02+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce0b/live/4f4097b0-e32e-11f1-9c56-6ffaf0e1e706.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-      "date": "2026-11-18T05:01:00+00:00",
-      "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Waymo pulls driverless taxis from all US freeways",
@@ -2537,14 +2545,6 @@
       "date": "2026-11-10T20:52:56+00:00",
       "image": "",
       "source": "Microsoft Research"
-    },
-    {
-      "title": "llm-gemini 0.36",
-      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5",
-      "date": "2026-11-10T20:09:44+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
