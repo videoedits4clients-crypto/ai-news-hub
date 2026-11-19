@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:11:25.333756+00:00",
+  "updated": "2026-11-19T19:20:39.228637+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,9 +123,65 @@
   ],
   "items": [
     {
+      "title": "Show HN: Company docs didn't help our AI agent. Four shortnotes doubled accuracy",
+      "link": "https://contextflo.com/benchmarks/dabstep-haiku",
+      "summary": "Article URL: https://contextflo.com/benchmarks/dabstep-haiku Comments URL: https://news.ycombinator.com/item?id=50564793 Points: 1 # Comments: 0",
+      "date": "2026-11-19T19:14:24+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Google Quantum AI shows contextuality powers quantum algorithms at scale",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/ Comments URL: https://news.ycombinator.com/item?id=50564760 Points: 1 # Comments: 0",
+      "date": "2026-11-19T19:12:37+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself",
+      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "summary": "Article URL: https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/ Comments URL: https://news.ycombinator.com/item?id=50564757 Points: 1 # Comments: 0",
+      "date": "2026-11-19T19:12:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was fo",
+      "date": "2026-11-19T19:10:57+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $156 billion.",
+      "date": "2026-11-19T19:10:45+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, makin",
+      "date": "2026-11-19T19:07:41+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+      "date": "2026-11-19T19:06:48+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "With AI Gateway, coding agents perform bulk tasks 8x faster and 20x cheaper",
       "link": "https://ploy.ai/blog/ploy-ai-gateway",
-      "summary": "Article URL: https://ploy.ai/blog/ploy-ai-gateway Comments URL: https://news.ycombinator.com/item?id=50564625 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://ploy.ai/blog/ploy-ai-gateway Comments URL: https://news.ycombinator.com/item?id=50564625 Points: 7 # Comments: 0",
       "date": "2026-11-19T19:03:21+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -137,14 +193,6 @@
       "date": "2026-11-19T19:01:01+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T18:58:30+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Show HN: Relic – An AI that only answers from what you've saved",
@@ -173,7 +221,7 @@
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 8 # Comments: 1",
       "date": "2026-11-19T18:47:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -181,7 +229,7 @@
     {
       "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
       "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 7 # Comments: 0",
       "date": "2026-11-19T18:42:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -233,14 +281,6 @@
       "date": "2026-11-19T18:24:54+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, makin",
-      "date": "2026-11-19T18:24:32+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "A linked history of the AI stack",
@@ -387,14 +427,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Can You Afford to Run a 70B AI Model? [video]",
-      "link": "https://www.youtube.com/watch?v=T58AjM7IGDg",
-      "summary": "Article URL: https://www.youtube.com/watch?v=T58AjM7IGDg Comments URL: https://news.ycombinator.com/item?id=50563284 Points: 1 # Comments: 0",
-      "date": "2026-11-19T17:40:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
       "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
@@ -409,22 +441,6 @@
       "date": "2026-11-19T17:36:14+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "‘AI gravity’ is pulling you toward dependency. Here’s how to push back",
-      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-gravity-pulling-you-toward-dependency-heres-how-to-push-back",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-gravity-pulling-you-toward-dependency-heres-how-to-push-back Comments URL: https://news.ycombinator.com/item?id=50563108 Points: 1 # Comments: 0",
-      "date": "2026-11-19T17:28:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft",
-      "link": "https://www.youtube.com/watch?v=UCL4K36SHp0",
-      "summary": "Article URL: https://www.youtube.com/watch?v=UCL4K36SHp0 Comments URL: https://news.ycombinator.com/item?id=50563038 Points: 1 # Comments: 0",
-      "date": "2026-11-19T17:24:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
@@ -603,14 +619,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was fo",
-      "date": "2026-11-19T14:26:20+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
       "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
       "summary": "Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud",
@@ -705,14 +713,6 @@
       "date": "2026-11-19T12:00:03+00:00",
       "image": "https://spectrum.ieee.org/media-library/pop-art-robot-head-wired-to-colorful-neural-network-nodes-on-patterned-background.png?id=68699683&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
-      "date": "2026-11-19T12:00:00+00:00",
-      "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Analytics Engineering's Missing Layer Is Business Communication",
@@ -1201,14 +1201,6 @@
       "date": "2026-11-18T17:33:07+00:00",
       "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "date": "2026-11-18T17:32:10+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
@@ -3321,6 +3313,14 @@
       "date": "2026-10-02T14:57:41+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
       "source": "Google Research"
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
+      "date": "2026-10-01T13:17:13+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
