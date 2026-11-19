@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:20:42.188900+00:00",
+  "updated": "2026-11-19T13:36:35.417769+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,10 +143,26 @@
   ],
   "items": [
     {
-      "title": "Anthropic IPO live updates: Dario and Daniela Amodei to join CNBC in exclusive interview",
+      "title": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
+      "link": "https://towardsdatascience.com/how-to-oversee-ai-agents-at-scale-with-a-three-tier-architecture/",
+      "summary": "Separate runtime oversight from human review: an autonomous supervisor handles reversible fixes, while humans approve high-impact changes. The post How to Oversee AI Agents at Scale With a Three-Tier Architecture appeared first on Towards Data Science .",
+      "date": "2026-11-19T13:30:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Anthropic shares expected to jump when trading begins after raising $81bn in record IPO – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature compa",
+      "date": "2026-11-19T13:24:59+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Anthropic IPO live updates: Dario and Daniela Amodei arrive at Nasdaq ahead of debut",
       "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T13:15:44+00:00",
+      "date": "2026-11-19T13:20:13+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -157,14 +173,6 @@
       "date": "2026-11-19T13:08:05+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Anthropic shares expected to jump when trading begins after raising $81bn in record IPO – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature compa",
-      "date": "2026-11-19T13:01:23+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Anthropic to begin public trading at $1.5tn valuation after largest ever IPO",
@@ -417,7 +425,7 @@
     {
       "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-      "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a ",
+      "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag o",
       "date": "2026-11-18T23:53:51+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -2069,14 +2077,6 @@
       "date": "2026-11-13T14:05:22+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "What AI Agents Speed Up in PhD Research, and What They Can't",
-      "link": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
-      "summary": "A PhD student in ML and ecology on why faster code, experiments, and drafts don't fix data with a backstory, and three predictions for how labs will change. The post What AI Agents Speed Up in PhD Research, and What They Can't appeared first on Towards Data Science .",
-      "date": "2026-11-13T13:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
