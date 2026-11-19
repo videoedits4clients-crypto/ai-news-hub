@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:50:25.226522+00:00",
+  "updated": "2026-11-19T12:06:52.465931+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,20 +164,44 @@
   ],
   "items": [
     {
+      "title": "Anthropic IPO live updates: Dario and Daniela Amodei to join CNBC in exclusive interview",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+      "date": "2026-11-19T12:01:26+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+      "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "summary": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his",
+      "date": "2026-11-19T12:00:03+00:00",
+      "image": "https://spectrum.ieee.org/media-library/pop-art-robot-head-wired-to-colorful-neural-network-nodes-on-patterned-background.png?id=68699683&width=980",
+      "source": "IEEE Spectrum AI"
+    },
+    {
+      "title": "Analytics Engineering's Missing Layer Is Business Communication",
+      "link": "https://towardsdatascience.com/analytics-engineerings-missing-layer-is-business-communication/",
+      "summary": "Why grains, joins, filters, and tests need business translations, and how a four-step framework keeps stakeholders from misreading metric changes. The post Analytics Engineering's Missing Layer Is Business Communication appeared first on Towards Data Science .",
+      "date": "2026-11-19T12:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Dealbook Summit 2026 recap: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
+      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
+      "date": "2026-11-19T11:50:48+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature compa",
       "date": "2026-11-19T11:43:42+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic IPO live updates: Dario and Daniela Amodei to join CNBC in exclusive interview",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "date": "2026-11-19T11:39:53+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Data center electricity use could double by 2030, IEA says",
@@ -330,14 +354,6 @@
       "date": "2026-11-19T00:39:16+00:00",
       "image": "https://image.theregister.com/?imageId=233376&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
-      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
-      "date": "2026-11-19T00:35:59+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
@@ -2092,14 +2108,6 @@
       "source": "NVIDIA Blog"
     },
     {
-      "title": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
-      "link": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/",
-      "summary": "Gemma 4 E2B drafts the replies, Bespoke Labs' Nimble 9B picks accept, revise, or human review, and only flagged questions get a focused retry. The post How to Check Local LLM Output with Ollama, Gemma 4, and Nimble appeared first on Towards Data Science .",
-      "date": "2026-11-13T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
       "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond tho",
@@ -2994,14 +3002,6 @@
       "date": "2026-10-16T18:11:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
       "source": "Google Research"
-    },
-    {
-      "title": "Simulation App Speeds Up Electric Truck Battery Design",
-      "link": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "summary": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to ma",
-      "date": "2026-10-16T16:49:18+00:00",
-      "image": "https://spectrum.ieee.org/media-library/light-blue-volvo-fh-electric-semi-truck-cab-shown-from-front-side-view.png?id=67846334&width=980",
-      "source": "IEEE Spectrum AI"
     },
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
