@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:35:53.904288+00:00",
+  "updated": "2026-11-19T18:50:30.466761+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,9 +123,41 @@
   ],
   "items": [
     {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 1 # Comments: 0",
+      "date": "2026-11-19T18:47:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+      "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 3 # Comments: 0",
+      "date": "2026-11-19T18:42:13+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow in",
+      "date": "2026-11-19T18:39:51+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "We asked 29 people building US data centers when AI capacity will arrive",
+      "link": "https://www.latolabs.io/studies/ear-to-the-ground/",
+      "summary": "Article URL: https://www.latolabs.io/studies/ear-to-the-ground/ Comments URL: https://news.ycombinator.com/item?id=50564186 Points: 1 # Comments: 0",
+      "date": "2026-11-19T18:36:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Thomas Nagel on AI Consciousness",
       "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50564120 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50564120 Points: 4 # Comments: 0",
       "date": "2026-11-19T18:33:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -149,7 +181,7 @@
     {
       "title": "RDMA over USB4 on Windows: run larger local AI models across PCs",
       "link": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
-      "summary": "Article URL: https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602 Comments URL: https://news.ycombinator.com/item?id=50564019 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602 Comments URL: https://news.ycombinator.com/item?id=50564019 Points: 2 # Comments: 1",
       "date": "2026-11-19T18:27:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -161,6 +193,14 @@
       "date": "2026-11-19T18:24:54+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, makin",
+      "date": "2026-11-19T18:24:32+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut",
@@ -177,14 +217,6 @@
       "date": "2026-11-19T18:22:30+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, makin",
-      "date": "2026-11-19T18:21:13+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
@@ -209,14 +241,6 @@
       "date": "2026-11-19T18:12:59+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow in",
-      "date": "2026-11-19T18:11:11+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Google gives Gemini the ability to use your Mac for you",
@@ -325,7 +349,7 @@
     {
       "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
       "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 2 # Comments: 0",
       "date": "2026-11-19T17:43:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -371,6 +395,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+      "summary": "Company still has to content with massive compute obligations and the threat of open models, neither of which Dario Amodei is worried about, he claims",
+      "date": "2026-11-19T17:09:45+00:00",
+      "image": "https://image.theregister.com/?imageId=166252&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic starts trading on Wall Street",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
       "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans t",
@@ -413,7 +445,7 @@
     {
       "title": "Chrome AI features wasting much bandwidth",
       "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 64 # Comments: 16",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 66 # Comments: 20",
       "date": "2026-11-19T16:54:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -431,30 +463,6 @@
       "link": "https://the54.eu/",
       "summary": "Article URL: https://the54.eu/ Comments URL: https://news.ycombinator.com/item?id=50562544 Points: 2 # Comments: 0",
       "date": "2026-11-19T16:48:27+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Did the attack work? Auditing AI-agent security benchmark verdicts",
-      "link": "https://zenodo.org/records/24321025",
-      "summary": "Article URL: https://zenodo.org/records/24321025 Comments URL: https://news.ycombinator.com/item?id=50562525 Points: 2 # Comments: 0",
-      "date": "2026-11-19T16:47:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: AgentMall – Let your AI agent buy groceries",
-      "link": "https://getagentmall.com",
-      "summary": "Hey HN, we’re Nel and Kosi. We noticed personal agents like Instinct, Muse were terrible at buying stuff. Most of the time the checkout would fail. So we built reliable automations for agents to checkout at 9 leading grocery merchants. We grapple with anti bot, logins, OTP codes,",
-      "date": "2026-11-19T16:46:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 26 # Comments: 7",
-      "date": "2026-11-19T16:45:50+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1257,14 +1265,6 @@
       "date": "2026-11-18T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "The wrong setting for AI cache can cost you a lot of cash",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
-      "summary": "Beware of the temptation to drop just a few more dollars to get the work done",
-      "date": "2026-11-18T16:17:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310849&width=800",
-      "source": "The Register"
     },
     {
       "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
