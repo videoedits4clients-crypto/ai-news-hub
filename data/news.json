@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:20:29.484142+00:00",
+  "updated": "2026-11-20T18:36:31.289547+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -165,6 +165,46 @@
   ],
   "items": [
     {
+      "title": "Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine",
+      "link": "https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d",
+      "summary": "Article URL: https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d Comments URL: https://news.ycombinator.com/item?id=50579604 Points: 1 # Comments: 0",
+      "date": "2026-11-20T18:35:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Why software engineers will survive the AI era",
+      "link": "https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era",
+      "summary": "Article URL: https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era Comments URL: https://news.ycombinator.com/item?id=50579480 Points: 1 # Comments: 0",
+      "date": "2026-11-20T18:27:13+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
+      "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
+      "date": "2026-11-20T18:25:33+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "date": "2026-11-20T18:22:15+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Hockeysticky – For solo founders and small teams who can ship with AI",
+      "link": "https://hockeysticky.com",
+      "summary": "Article URL: https://hockeysticky.com Comments URL: https://news.ycombinator.com/item?id=50579361 Points: 1 # Comments: 0",
+      "date": "2026-11-20T18:19:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Keeping AI Coding Agent Memory Relevant as Code Changes",
       "link": "https://enola.tech/blog/agent-memory-needs-a-code-reference",
       "summary": "Article URL: https://enola.tech/blog/agent-memory-needs-a-code-reference Comments URL: https://news.ycombinator.com/item?id=50579337 Points: 1 # Comments: 0",
@@ -183,7 +223,7 @@
     {
       "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
       "link": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 5 # Comments: 0",
       "date": "2026-11-20T18:11:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -219,14 +259,6 @@
       "date": "2026-11-20T17:50:07+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
-      "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
-      "date": "2026-11-20T17:49:51+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Get rid of Siri AI's aggressive writing controls in Mail",
@@ -325,14 +357,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "date": "2026-11-20T17:10:52+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Code Inflation: AI Prints Code Faster Than Anyone Can Review It",
       "link": "https://www.everydev.ai/p/blog-code-inflation-ai-prints-code-faster-than-anyone-can-review-it",
       "summary": "Article URL: https://www.everydev.ai/p/blog-code-inflation-ai-prints-code-faster-than-anyone-can-review-it Comments URL: https://news.ycombinator.com/item?id=50578031 Points: 1 # Comments: 1",
@@ -367,7 +391,7 @@
     {
       "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
       "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 36 # Comments: 6",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 59 # Comments: 12",
       "date": "2026-11-20T16:59:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -421,22 +445,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "The Essay That Started the AI Race",
-      "link": "https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race",
-      "summary": "Article URL: https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race Comments URL: https://news.ycombinator.com/item?id=50577530 Points: 1 # Comments: 0",
-      "date": "2026-11-20T16:41:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Cooked Yet? A daily game: real photo or AI recreation?",
-      "link": "https://www.cookedyet.com/",
-      "summary": "Article URL: https://www.cookedyet.com/ Comments URL: https://news.ycombinator.com/item?id=50577479 Points: 1 # Comments: 0",
-      "date": "2026-11-20T16:39:00+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Quoting Levent Alpöge",
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
@@ -461,14 +469,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "The AI Forecasting Agenda",
-      "link": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda",
-      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-forecasting-agenda Comments URL: https://news.ycombinator.com/item?id=50577110 Points: 1 # Comments: 0",
-      "date": "2026-11-20T16:21:41+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
       "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
       "summary": "Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028",
@@ -483,14 +483,6 @@
       "date": "2026-11-20T15:13:37+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "'Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years",
-      "link": "https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322",
-      "summary": "Home Office needs more time with the PNC, which began life more than 50 years ago",
-      "date": "2026-11-20T15:12:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5311357&width=800",
-      "source": "The Register"
     },
     {
       "title": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
@@ -1291,6 +1283,14 @@
       "date": "2026-11-19T14:54:39+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
+      "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
+      "summary": "Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud",
+      "date": "2026-11-19T14:03:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310970&width=800",
+      "source": "The Register"
     },
     {
       "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
