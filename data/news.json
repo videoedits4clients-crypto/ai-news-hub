@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:51:08.168221+00:00",
+  "updated": "2026-11-20T19:06:23.444652+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -165,6 +165,46 @@
   ],
   "items": [
     {
+      "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+      "link": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
+      "summary": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist? There was an interesting development this week in the endless rolling mega-froth over tech billionaire Jensen Huang , a saga that may or may not hav",
+      "date": "2026-11-20T19:00:36+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Trump says he discussed Jensen Huang with Xi, contradicting Bessent",
+      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "summary": "Trump said he discussed Jensen Huang with China's Xi, hours after Bessent said the ousted Nvidia CEO didn't come up in the talks.",
+      "date": "2026-11-20T18:59:02+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Is Claude creator Anthropic really worth $1.5 trillion? - The Latest",
+      "link": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
+      "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
+      "date": "2026-11-20T18:53:50+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers",
+      "date": "2026-11-20T18:50:19+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "summary": "A deeper look at Vera",
+      "date": "2026-11-20T18:45:50+00:00",
+      "image": "https://image.theregister.com/?imageId=5228929&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
       "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
@@ -179,6 +219,14 @@
       "date": "2026-11-20T18:35:22+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "date": "2026-11-20T18:35:16+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
@@ -221,14 +269,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
-      "date": "2026-11-20T18:15:50+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
@@ -239,7 +279,7 @@
     {
       "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
       "link": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 7 # Comments: 0",
+      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 9 # Comments: 0",
       "date": "2026-11-20T18:11:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -317,7 +357,7 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Chips can survive the space environment. Can their financing?",
+      "title": "Chips can survive the space environment — can their financing?",
       "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
       "date": "2026-11-20T17:40:01+00:00",
@@ -399,7 +439,7 @@
     {
       "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
       "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 73 # Comments: 24",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 79 # Comments: 26",
       "date": "2026-11-20T16:59:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -965,14 +1005,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
-      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-      "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
-      "date": "2026-11-19T20:46:23+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "PostgreSQL 19 Released",
       "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
       "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release ",
@@ -1237,14 +1269,6 @@
       "source": "The Register"
     },
     {
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. Whi",
-      "date": "2026-11-19T15:16:45+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "AI demand will push up interest rates around the world, IMF head warns",
       "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
       "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the Internatio",
@@ -1291,30 +1315,6 @@
       "date": "2026-11-19T14:54:39+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
-      "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
-      "summary": "Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud",
-      "date": "2026-11-19T14:03:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310970&width=800",
-      "source": "The Register"
-    },
-    {
-      "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-      "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria chief executive says Get our daily political email , free app or daily news podcast The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, reject",
-      "date": "2026-11-19T14:00:52+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
-      "summary": "A network of grassroots campaigners around the country is sharing information to help push back against the development boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to pow",
-      "date": "2026-11-19T14:00:50+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
