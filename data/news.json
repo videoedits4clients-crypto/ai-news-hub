@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:20:26.841424+00:00",
+  "updated": "2026-11-20T11:36:33.242279+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,22 @@
   ],
   "items": [
     {
+      "title": "Apple is building an AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 1 # Comments: 0",
+      "date": "2026-11-20T11:22:27+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The Cottage Industry That Is the AI Training Data Market",
+      "link": "https://twitter.com/DeepInsightLabs/status/2123721278112911860",
+      "summary": "Article URL: https://twitter.com/DeepInsightLabs/status/2123721278112911860 Comments URL: https://news.ycombinator.com/item?id=50573161 Points: 1 # Comments: 0",
+      "date": "2026-11-20T11:21:47+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Windows 11 passkey bug cries failure after successful sign-in",
       "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
       "summary": "Optional update fixes misleading Android error for versions 25H2 and 26H2",
@@ -176,6 +192,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "date": "2026-11-20T11:00:01+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Regular Tech Bros Are Worried About Honeypots",
       "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
       "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
@@ -186,7 +210,7 @@
     {
       "title": "The Use of AI-Based Tools to Find Bugs in Open Source Software",
       "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50572982 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50572982 Points: 2 # Comments: 0",
       "date": "2026-11-20T10:59:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -258,7 +282,7 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 77 # Comments: 53",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 96 # Comments: 63",
       "date": "2026-11-20T10:01:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -424,14 +448,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: Bulchimbeon, night watch that keeps your Mac awake while AI agents work",
-      "link": "https://github.com/s3onghyun/bulchimbeon",
-      "summary": "Article URL: https://github.com/s3onghyun/bulchimbeon Comments URL: https://news.ycombinator.com/item?id=50571101 Points: 1 # Comments: 0",
-      "date": "2026-11-20T07:01:41+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
       "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
       "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
@@ -446,14 +462,6 @@
       "date": "2026-11-20T06:29:00+00:00",
       "image": "https://image.theregister.com/?imageId=252539&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "How should we evaluate image memory in AI agents?",
-      "link": "https://twitter.com/AgentMemoryL/status/2123418533950591252",
-      "summary": "Article URL: https://twitter.com/AgentMemoryL/status/2123418533950591252 Comments URL: https://news.ycombinator.com/item?id=50570866 Points: 2 # Comments: 0",
-      "date": "2026-11-20T06:24:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "AI is changing software engineering — and some developers miss the struggle",
@@ -614,14 +622,6 @@
       "date": "2026-11-19T23:22:53+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the cre",
-      "date": "2026-11-19T23:13:01+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
@@ -1244,14 +1244,6 @@
       "link": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
       "summary": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
       "date": "2026-11-19T00:18:28+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-      "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-      "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
-      "date": "2026-11-19T00:07:06+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -3342,6 +3334,14 @@
       "date": "2026-10-06T14:22:41+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
       "source": "Interconnects"
+    },
+    {
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "summary": "Generative AI",
+      "date": "2026-10-05T21:08:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
+      "source": "Google Research"
     }
   ]
 }
