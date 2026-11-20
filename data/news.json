@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:06:27.571826+00:00",
+  "updated": "2026-11-20T12:20:28.652817+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,38 @@
   ],
   "items": [
     {
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 1 # Comments: 0",
+      "date": "2026-11-20T12:16:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Will AI Break the Internet?",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse Comments URL: https://news.ycombinator.com/item?id=50573648 Points: 1 # Comments: 0",
+      "date": "2026-11-20T12:13:17+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic shares fall 8% in premarket amid AI selloff as Nvidia, AMD shares drop",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
+      "date": "2026-11-20T12:08:50+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "Article URL: https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/ Comments URL: https://news.ycombinator.com/item?id=50573606 Points: 1 # Comments: 0",
+      "date": "2026-11-20T12:08:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Muse Is Unleashing a World of Pettiness on Instagram",
       "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
       "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
@@ -170,7 +202,7 @@
     {
       "title": "AI is building me a web browser",
       "link": "https://blog.senko.net/ai-is-building-me-a-web-browser",
-      "summary": "Article URL: https://blog.senko.net/ai-is-building-me-a-web-browser Comments URL: https://news.ycombinator.com/item?id=50573333 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://blog.senko.net/ai-is-building-me-a-web-browser Comments URL: https://news.ycombinator.com/item?id=50573333 Points: 4 # Comments: 0",
       "date": "2026-11-20T11:41:50+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -194,7 +226,7 @@
     {
       "title": "Apple is building an AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 6 # Comments: 5",
+      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 6 # Comments: 6",
       "date": "2026-11-20T11:22:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -304,14 +336,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-      "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
-      "date": "2026-11-20T10:08:47+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
       "link": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a",
       "summary": "Article URL: https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a Comments URL: https://news.ycombinator.com/item?id=50572553 Points: 2 # Comments: 0",
@@ -330,7 +354,7 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 148 # Comments: 99",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 159 # Comments: 104",
       "date": "2026-11-20T10:01:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -342,14 +366,6 @@
       "date": "2026-11-20T10:01:27+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Will AI break the internet? | Garrison Lovely",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
-      "summary": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm You’re not crazy to feel the world is coming apart at the seams. Within the last week, outages took down core services at Microsoft , United Airlines and",
-      "date": "2026-11-20T10:00:31+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
@@ -422,30 +438,6 @@
       "date": "2026-11-20T08:34:13+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Enemy AI: chasing a player without Navigation2D or A* pathfinding (2020)",
-      "link": "https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding",
-      "summary": "Article URL: https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding Comments URL: https://news.ycombinator.com/item?id=50571783 Points: 2 # Comments: 0",
-      "date": "2026-11-20T08:31:12+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Prove what your AI agent did – sign actions, verify in the browser",
-      "link": "https://agentproofchain.com/try/",
-      "summary": "Article URL: https://agentproofchain.com/try/ Comments URL: https://news.ycombinator.com/item?id=50571709 Points: 3 # Comments: 1",
-      "date": "2026-11-20T08:20:57+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "What Shaped Anthropic CEO Dario Amodei's Thinking on AI",
-      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html Comments URL: https://news.ycombinator.com/item?id=50571432 Points: 1 # Comments: 0",
-      "date": "2026-11-20T07:46:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Should AI be judging our credit worthiness?",
@@ -566,14 +558,6 @@
       "date": "2026-11-20T02:00:18+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "date": "2026-11-20T00:56:01+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -1565,14 +1549,6 @@
       "summary": "As Axiom Math ’s AI swarm was putting the final touches on the automatic verification of 15,000-page proof of the Classification of Finite Simple Groups (CFSG) , colloquially referred to as the ‘enormous theorem’, on Sunday 25 October, the company’s Founding Mathematician Ken Ono",
       "date": "2026-11-18T13:00:03+00:00",
       "image": "https://spectrum.ieee.org/media-library/a-dot-with-thousands-of-plotted-points-radiating-from-its-center.jpg?id=68692858&width=980",
-      "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Will AI Coding Eat Video Game Engines?",
-      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-      "summary": "When Travis McGeathy’s studio, Seeker Entertainment, ran out of funding in September, its game KinForge went down with it. KinForge was an online game built in Unreal Engine 5.7 and designed to run on servers hosted by Amazon Web Services (AWS). With no one left to pay the server",
-      "date": "2026-11-18T12:00:03+00:00",
-      "image": "https://spectrum.ieee.org/media-library/a-game-development-software-being-used-to-generate-and-refine-images-videos-and-3d-models-of-an-1800s-saloon-setting-for-a-vi.jpg?id=68705132&width=980",
       "source": "IEEE Spectrum AI"
     },
     {
@@ -3341,6 +3317,30 @@
       "summary": "Generative AI",
       "date": "2026-10-05T21:08:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
+      "date": "2026-10-05T12:32:30+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "date": "2026-10-03T07:32:03+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Toward provably private learning from federated data",
+      "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "summary": "Mobile Systems",
+      "date": "2026-10-02T14:57:41+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
       "source": "Google Research"
     }
   ]
