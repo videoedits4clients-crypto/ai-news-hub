@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:36:50.105615+00:00",
+  "updated": "2026-11-20T16:51:16.837028+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -165,6 +165,62 @@
   ],
   "items": [
     {
+      "title": "AI Is Coming to Your Doctor's Office",
+      "link": "https://thewalrus.ca/ai-doctors/",
+      "summary": "Article URL: https://thewalrus.ca/ai-doctors/ Comments URL: https://news.ycombinator.com/item?id=50577683 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:49:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "summary": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
+      "date": "2026-11-20T16:44:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5308699&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "EU reveals it suffered 'AI-powered' cyber attack",
+      "link": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
+      "summary": "Article URL: https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970 Comments URL: https://news.ycombinator.com/item?id=50577559 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:43:08+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The Essay That Started the AI Race",
+      "link": "https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race",
+      "summary": "Article URL: https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race Comments URL: https://news.ycombinator.com/item?id=50577530 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:41:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "date": "2026-11-20T16:41:00+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Show HN: Cooked Yet? A daily game: real photo or AI recreation?",
+      "link": "https://www.cookedyet.com/",
+      "summary": "Article URL: https://www.cookedyet.com/ Comments URL: https://news.ycombinator.com/item?id=50577479 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:39:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
+      "date": "2026-11-20T16:34:16+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Quoting Levent Alpöge",
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
@@ -225,14 +281,6 @@
       "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
       "date": "2026-11-20T16:10:20+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
-      "date": "2026-11-20T16:09:57+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -429,14 +477,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax Comments URL: https://news.ycombinator.com/item?id=50575395 Points: 1 # Comments: 0",
-      "date": "2026-11-20T14:48:07+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
       "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
       "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
@@ -453,22 +493,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Show HN: Greatai Review – free AI and human code review for open source",
-      "link": "https://greatai.dev/clinic",
-      "summary": "Article URL: https://greatai.dev/clinic Comments URL: https://news.ycombinator.com/item?id=50575270 Points: 1 # Comments: 0",
-      "date": "2026-11-20T14:40:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: AI Inference for Beginners: 6 hours of video and 85 pages of notes [pdf]",
-      "link": "https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf",
-      "summary": "Tired of AI Slop learning? This took me months to write,record, and edit. I hope you can learn from this! It dives into a smaller version of vLLM and explains many deep learning concepts and optimizations from first principles! enjoy :) Comments URL: https://news.ycombinator.com/",
-      "date": "2026-11-20T14:39:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
       "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user",
@@ -483,14 +507,6 @@
       "date": "2026-11-20T14:34:14+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: Agent Guard – limit what an AI agent can do when it gets tricked",
-      "link": "https://github.com/ShieldaAI/agent-guard",
-      "summary": "Article URL: https://github.com/ShieldaAI/agent-guard Comments URL: https://news.ycombinator.com/item?id=50575068 Points: 2 # Comments: 0",
-      "date": "2026-11-20T14:25:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "A brief history of Nvidia’s recent stock fluctuations",
@@ -539,14 +555,6 @@
       "date": "2026-11-20T13:28:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "date": "2026-11-20T13:25:56+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
@@ -619,6 +627,14 @@
       "date": "2026-11-20T11:09:44+00:00",
       "image": "https://image.theregister.com/?imageId=5289791&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "date": "2026-11-20T11:00:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
     },
     {
       "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
@@ -3347,22 +3363,6 @@
       "date": "2026-10-09T05:06:58+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
       "source": "Last Week in AI"
-    },
-    {
-      "title": "Does better work always mean better workers?",
-      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "summary": "",
-      "date": "2026-10-07T20:19:57+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "image": "",
-      "source": "Google DeepMind"
     }
   ]
 }
