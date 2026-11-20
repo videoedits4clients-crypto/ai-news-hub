@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:36:39.341933+00:00",
+  "updated": "2026-11-20T13:50:52.654776+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,14 @@
   ],
   "items": [
     {
+      "title": "Anthropic stock falls 13% premarket amid AI sell-off as Nvidia, AMD also sink",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
+      "date": "2026-11-20T13:42:49+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
       "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
       "summary": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini. The post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on Towards Data Science .",
@@ -164,14 +172,6 @@
       "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
       "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
       "date": "2026-11-20T13:25:56+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic stock falls 10% premarket amid AI sell-off as Nvidia, AMD also sink",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-      "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
-      "date": "2026-11-20T13:22:30+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -462,6 +462,14 @@
       "date": "2026-11-20T00:02:07+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "summary": "",
+      "date": "2026-11-20T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
     },
     {
       "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
@@ -2778,14 +2786,6 @@
     {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "link": "https://huggingface.co/blog/announcing-project-protostar",
-      "summary": "",
-      "date": "2026-10-29T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "link": "https://huggingface.co/blog/mistral-large4",
       "summary": "",
       "date": "2026-10-29T00:00:00+00:00",
       "image": "",
