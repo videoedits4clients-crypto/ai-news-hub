@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:35:53.882654+00:00",
+  "updated": "2026-11-20T12:50:27.473801+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,17 +144,33 @@
   ],
   "items": [
     {
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "date": "2026-11-20T12:45:11+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user",
-      "date": "2026-11-20T12:30:47+00:00",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app Comments URL: https://news.ycombinator.com/item?id=50573902 Points: 1 # Comments: 0",
+      "date": "2026-11-20T12:42:54+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "A Society of AI Scientists",
+      "link": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
+      "summary": "Article URL: https://www.alphaxiv.org/abs/2611.society-ai-scientists Comments URL: https://news.ycombinator.com/item?id=50573854 Points: 1 # Comments: 0",
+      "date": "2026-11-20T12:38:24+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Epic Games Turns to AI Coding for the Unreal Engine",
       "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 2 # Comments: 0",
       "date": "2026-11-20T12:16:36+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -242,7 +258,7 @@
     {
       "title": "Apple is building an AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 7 # Comments: 6",
+      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 8 # Comments: 6",
       "date": "2026-11-20T11:22:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -286,14 +302,6 @@
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "date": "2026-11-20T11:00:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Regular Tech Bros Are Worried About Honeypots",
@@ -370,7 +378,7 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 173 # Comments: 108",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 188 # Comments: 116",
       "date": "2026-11-20T10:01:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -428,22 +436,6 @@
       "link": "https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html",
       "summary": "Article URL: https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html Comments URL: https://news.ycombinator.com/item?id=50572295 Points: 4 # Comments: 0",
       "date": "2026-11-20T09:34:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Being a designer in an AI-forward team",
-      "link": "https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable",
-      "summary": "Article URL: https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable Comments URL: https://news.ycombinator.com/item?id=50572152 Points: 2 # Comments: 0",
-      "date": "2026-11-20T09:17:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Can Draw Any Frame. Animation Is Not Its Strong Suit",
-      "link": "https://sbsgames.dev/blog/ai-sprite-animation",
-      "summary": "Article URL: https://sbsgames.dev/blog/ai-sprite-animation Comments URL: https://news.ycombinator.com/item?id=50572144 Points: 1 # Comments: 0",
-      "date": "2026-11-20T09:16:30+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -3342,6 +3334,14 @@
       "date": "2026-10-02T14:57:41+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
       "source": "Google Research"
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
+      "date": "2026-10-01T13:17:13+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
