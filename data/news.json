@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:06:52.738436+00:00",
+  "updated": "2026-11-20T07:20:47.817591+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -120,16 +120,36 @@
           "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
         }
       ]
+    },
+    {
+      "count": 2,
+      "title": "Microsoft Research Focus – Edition #98",
+      "date": "2026-11-12T21:31:57+00:00",
+      "sources": [
+        "Microsoft Research"
+      ],
+      "links": [
+        {
+          "source": "Microsoft Research",
+          "title": "Microsoft Research Focus – Edition #98",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+        },
+        {
+          "source": "Microsoft Research",
+          "title": "Microsoft Research Focus – Edition #97",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+        }
+      ]
     }
   ],
   "items": [
     {
-      "title": "Show HN: Bulchimbeon, a night watch keep your Mac awake while AI agents work",
-      "link": "https://github.com/s3onghyun/bulchimbeon",
-      "summary": "Article URL: https://github.com/s3onghyun/bulchimbeon Comments URL: https://news.ycombinator.com/item?id=50571101 Points: 1 # Comments: 0",
-      "date": "2026-11-20T07:01:41+00:00",
+      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+      "link": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+      "summary": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+      "date": "2026-11-20T07:08:36+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "CNBC Technology"
     },
     {
       "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
@@ -140,14 +160,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
-      "link": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
-      "summary": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
-      "date": "2026-11-20T06:36:32+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Support tech fixed malware by charging client less for their services",
       "link": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
       "summary": "‘I gave up at least $6,000 and I’d do it again’",
@@ -156,60 +168,12 @@
       "source": "The Register"
     },
     {
-      "title": "How should we evaluate image memory in AI agents?",
-      "link": "https://twitter.com/AgentMemoryL/status/2123418533950591252",
-      "summary": "Article URL: https://twitter.com/AgentMemoryL/status/2123418533950591252 Comments URL: https://news.ycombinator.com/item?id=50570866 Points: 1 # Comments: 0",
-      "date": "2026-11-20T06:24:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Sandscale – Cloud infrastructure for AI creators, agents and developers",
-      "link": "https://sandscale.dev",
-      "summary": "Sandscale is live! We’re building a platform that helps developers, AI creators and businesses create, experiment and execute AI-powered workflows. It provides secure isolated environments, cloud workspaces and infrastructure for AI-powered development. We’re excited to hear feed",
-      "date": "2026-11-20T06:17:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
-      "link": "https://github.com/XiaoMi/bsworld",
-      "summary": "Article URL: https://github.com/XiaoMi/bsworld Comments URL: https://news.ycombinator.com/item?id=50570766 Points: 2 # Comments: 1",
-      "date": "2026-11-20T06:06:42+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "AI is changing software engineering — and some developers miss the struggle",
       "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
       "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
       "date": "2026-11-20T06:00:01+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: AiTz – A universal gateway for discovering AI tools",
-      "link": "https://aitz.site",
-      "summary": "About AiTz I started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet. I wanted to build one place where people can discover different AI tools and find solutions for different tasks. AiTz is an independent project that I'm bui",
-      "date": "2026-11-20T05:54:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
-      "link": "https://soundbench.net/",
-      "summary": "Article URL: https://soundbench.net/ Comments URL: https://news.ycombinator.com/item?id=50570611 Points: 1 # Comments: 1",
-      "date": "2026-11-20T05:44:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Humans.md: tell your AI agents how to work with you",
-      "link": "https://humansmd.dev/",
-      "summary": "Article URL: https://humansmd.dev/ Comments URL: https://news.ycombinator.com/item?id=50570598 Points: 3 # Comments: 0",
-      "date": "2026-11-20T05:42:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
@@ -228,30 +192,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Ask HN: Does AI slop require more marketing in the future?",
-      "link": "https://news.ycombinator.com/item?id=50570283",
-      "summary": "Now that after Anthropic's IPO debut and with OpenAPI IPO in the works there is no doubt that the % of AI slop is going to increase disproportionately though this study says it has indeed gone down in 2026 since 2025 (https://tom-riley.co.uk/blog/ai-generated-content-statistics/)",
-      "date": "2026-11-20T04:45:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Animated Steller's Jay, a beautiful AI benchmark",
-      "link": "https://grady.dev/projects/steller/",
-      "summary": "Article URL: https://grady.dev/projects/steller/ Comments URL: https://news.ycombinator.com/item?id=50570274 Points: 1 # Comments: 0",
-      "date": "2026-11-20T04:43:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html Comments URL: https://news.ycombinator.com/item?id=50570266 Points: 2 # Comments: 0",
-      "date": "2026-11-20T04:41:23+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
       "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
       "summary": "Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Get our breaking news email , free app or daily news podcast Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40",
@@ -268,12 +208,12 @@
       "source": "The Register"
     },
     {
-      "title": "Show HN: GhostFleet: A Battleship game with an advanced AI opponent",
-      "link": "https://ghostfleet.in/play?mode=wraithAI",
-      "summary": "Hi HN I've always been drawn to puzzle and strategy games, and for a long time I've wanted to build a game of my own. While building my own version of battleship, I came across this idea of adding a super intelligent in-game AI which uses probability and statistics to reason with",
-      "date": "2026-11-20T03:59:43+00:00",
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "date": "2026-11-20T03:56:17+00:00",
       "image": "",
-      "source": "Hacker News AI"
+      "source": "CNBC Technology"
     },
     {
       "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
@@ -292,14 +232,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "You can't spell ennui without AI",
-      "link": "https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai Comments URL: https://news.ycombinator.com/item?id=50569751 Points: 1 # Comments: 0",
-      "date": "2026-11-20T03:20:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "GTA 6 breaks records as estimated sales top $2.3bn",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
@@ -316,44 +248,12 @@
       "source": "Simon Willison"
     },
     {
-      "title": "Nobody is talking seriously about AI demand",
-      "link": "https://twitter.com/giovannicatt3/status/2094815425972539565",
-      "summary": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 4 # Comments: 1",
-      "date": "2026-11-20T02:36:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "link": "https://www.bbc.com/news/articles/ckq6eyrzrzy5o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/ckq6eyrzrzy5o Comments URL: https://news.ycombinator.com/item?id=50569465 Points: 2 # Comments: 0",
-      "date": "2026-11-20T02:34:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
       "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
       "summary": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email , free app or daily news podcast Right now, the prime minister faces a choice. Does he stand with Jimmy",
       "date": "2026-11-20T02:00:18+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Hyperscale. Play as a Frontier AI Lab and try cash out before society collapses",
-      "link": "https://hyperscale.serinstudios.com/",
-      "summary": "Article URL: https://hyperscale.serinstudios.com/ Comments URL: https://news.ycombinator.com/item?id=50568967 Points: 5 # Comments: 1",
-      "date": "2026-11-20T01:21:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "'Anthropic was supposed to save the AI trade. What went wrong?' – CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html Comments URL: https://news.ycombinator.com/item?id=50568902 Points: 2 # Comments: 0",
-      "date": "2026-11-20T01:11:25+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -372,36 +272,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Show HN: Zeus – Claude Code for AI voice agents",
-      "link": "https://thunderphone.com/blog/introducing-zeus",
-      "summary": "Hi everyone, Alex here - I’m one of the founders of ThunderPhone. We’re excited to announce the launch of Zeus, a platform that makes AI phone calls actually work without extensive hand-tuning! You can see a head-to-head I made of the last version of ThunderPhone vs this one here",
-      "date": "2026-11-20T00:51:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
       "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
       "date": "2026-11-20T00:43:50+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "The Part About Machines (On AI Literary Scandals)",
-      "link": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
-      "summary": "Article URL: https://thepointmag.com/examined-life/the-part-about-the-machines/ Comments URL: https://news.ycombinator.com/item?id=50568518 Points: 3 # Comments: 0",
-      "date": "2026-11-20T00:22:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI can be tricked to target civilians as military targets by preteding it's game",
-      "link": "https://www.vals.ai/blogs/autonomous-warfare",
-      "summary": "Article URL: https://www.vals.ai/blogs/autonomous-warfare Comments URL: https://news.ycombinator.com/item?id=50568442 Points: 3 # Comments: 1",
-      "date": "2026-11-20T00:14:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "AMD dives on short seller report of alleged China exposure",
@@ -428,28 +304,12 @@
       "source": "BBC Technology"
     },
     {
-      "title": "EU targeted by cyber attack using AI: 'No one is immune'",
-      "link": "https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html",
-      "summary": "Article URL: https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html Comments URL: https://news.ycombinator.com/item?id=50568188 Points: 4 # Comments: 0",
-      "date": "2026-11-19T23:41:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
       "link": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
       "summary": "Jim Cramer said that veteran chartist Larry Williams sees bullish signals in Alphabet’s charts.",
       "date": "2026-11-19T23:38:35+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 10 # Comments: 2",
-      "date": "2026-11-19T23:34:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -476,44 +336,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
-      "link": "https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy",
-      "summary": "Article URL: https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy Comments URL: https://news.ycombinator.com/item?id=50567945 Points: 6 # Comments: 0",
-      "date": "2026-11-19T23:16:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Apple is hiring engineers to build its own AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the cre",
       "date": "2026-11-19T23:13:01+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Google Search homepage gets AI-heavy redesign with Gemini",
-      "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-      "summary": "Article URL: https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/ Comments URL: https://news.ycombinator.com/item?id=50567778 Points: 4 # Comments: 3",
-      "date": "2026-11-19T23:00:38+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 62 # Comments: 18",
-      "date": "2026-11-19T22:56:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Agentic harness with explicit risk analysis",
-      "link": "https://github.com/AppliedIngenuity-ai/project-chaperone",
-      "summary": "Article URL: https://github.com/AppliedIngenuity-ai/project-chaperone Comments URL: https://news.ycombinator.com/item?id=50567719 Points: 7 # Comments: 1",
-      "date": "2026-11-19T22:55:05+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
@@ -826,6 +654,14 @@
       "date": "2026-11-19T16:59:23+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "date": "2026-11-19T16:33:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
+      "source": "BBC Technology"
     },
     {
       "title": "The 0.95 Expectile Is Not the 95th Percentile",
@@ -1700,6 +1536,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Can AI help build a healthier future?",
+      "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. ",
+      "date": "2026-11-17T16:52:17+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Google makes it easier to use Gemini without training AI on your data",
       "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
       "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
@@ -1898,6 +1742,14 @@
       "date": "2026-11-16T18:38:47+00:00",
       "image": "",
       "source": "MIT Tech Review"
+    },
+    {
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
+      "date": "2026-11-16T17:01:35+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
@@ -2324,6 +2176,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "Microsoft Research Focus – Edition #98",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
+      "date": "2026-11-12T21:31:57+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
@@ -2540,6 +2400,14 @@
       "source": "Ars Technica AI"
     },
     {
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
+      "date": "2026-11-10T20:52:56+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
       "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
       "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive r",
@@ -2708,6 +2576,14 @@
       "source": "Google Research"
     },
     {
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
+      "date": "2026-11-05T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
       "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
@@ -2754,6 +2630,14 @@
       "date": "2026-11-04T16:35:44+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
       "source": "Interconnects"
+    },
+    {
+      "title": "Learn the rules: The hacker mindset",
+      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
+      "date": "2026-11-03T17:14:38+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -2834,6 +2718,22 @@
       "date": "2026-10-30T14:18:30+00:00",
       "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
+      "date": "2026-10-30T13:05:28+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "Microsoft Research Focus – Edition #97",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
+      "date": "2026-10-29T19:19:16+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -3004,6 +2904,14 @@
       "source": "ScienceDaily AI"
     },
     {
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
+      "date": "2026-10-22T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -3034,6 +2942,14 @@
       "date": "2026-10-21T16:23:53+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "source": "Google Research"
+    },
+    {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computi",
+      "date": "2026-10-21T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -3322,6 +3238,110 @@
       "date": "2026-09-25T12:45:04+00:00",
       "image": "",
       "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Automating coherent long-form video generation",
+      "link": "https://research.google/blog/coherent-long-form-video-generation/",
+      "summary": "Generative AI",
+      "date": "2026-09-24T19:40:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MIT’s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate d",
+      "date": "2026-09-22T12:52:43+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
+      "date": "2026-09-21T12:31:04+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "The expanded form of a testimony I prepared for Congress.",
+      "date": "2026-09-21T11:56:56+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Why I still haven’t bought into true RSI",
+      "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
+      "date": "2026-09-19T15:42:20+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+      "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-18T17:46:09+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+      "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+      "summary": "Education Innovation",
+      "date": "2026-09-17T20:45:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+      "summary": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+      "date": "2026-09-17T08:02:55+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
+      "source": "Last Week in AI"
     }
   ]
 }
