@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:26:26.754252+00:00",
+  "updated": "2026-11-20T17:36:28.677063+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -186,6 +186,14 @@
   ],
   "items": [
     {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+      "date": "2026-11-20T17:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311400&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic's Plunge Deepens AI Selloff",
       "link": "https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html",
       "summary": "Article URL: https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html Comments URL: https://news.ycombinator.com/item?id=50578289 Points: 6 # Comments: 0",
@@ -340,7 +348,7 @@
     {
       "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a ",
+      "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its record-breaking IPO failed to stem a sell-o",
       "date": "2026-11-20T16:26:07+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -658,17 +666,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1288,14 +1296,6 @@
       "date": "2026-11-19T14:54:39+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
-      "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
-      "summary": "Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud",
-      "date": "2026-11-19T14:03:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5310970&width=800",
-      "source": "The Register"
     },
     {
       "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
