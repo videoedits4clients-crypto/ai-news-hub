@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T06:20:33.816521+00:00",
+  "updated": "2026-11-20T06:36:52.146282+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,22 @@
   ],
   "items": [
     {
+      "title": "Support tech fixed malware by charging client less for their services",
+      "link": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
+      "summary": "‘I gave up at least $6,000 and I’d do it again’",
+      "date": "2026-11-20T06:29:00+00:00",
+      "image": "https://image.theregister.com/?imageId=252539&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "How should we evaluate image memory in AI agents?",
+      "link": "https://twitter.com/AgentMemoryL/status/2123418533950591252",
+      "summary": "Article URL: https://twitter.com/AgentMemoryL/status/2123418533950591252 Comments URL: https://news.ycombinator.com/item?id=50570866 Points: 1 # Comments: 0",
+      "date": "2026-11-20T06:24:56+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: Sandscale – Cloud infrastructure for AI creators, agents and developers",
       "link": "https://sandscale.dev",
       "summary": "Sandscale is live! We’re building a platform that helps developers, AI creators and businesses create, experiment and execute AI-powered workflows. It provides secure isolated environments, cloud workspaces and infrastructure for AI-powered development. We’re excited to hear feed",
@@ -154,10 +170,18 @@
     {
       "title": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
       "link": "https://github.com/XiaoMi/bsworld",
-      "summary": "Article URL: https://github.com/XiaoMi/bsworld Comments URL: https://news.ycombinator.com/item?id=50570766 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/XiaoMi/bsworld Comments URL: https://news.ycombinator.com/item?id=50570766 Points: 1 # Comments: 1",
       "date": "2026-11-20T06:06:42+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+      "date": "2026-11-20T06:00:01+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Show HN: AiTz – A universal gateway for discovering AI tools",
@@ -466,7 +490,7 @@
     {
       "title": "Google Search homepage gets AI-heavy redesign with Gemini",
       "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-      "summary": "Article URL: https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/ Comments URL: https://news.ycombinator.com/item?id=50567778 Points: 4 # Comments: 2",
+      "summary": "Article URL: https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/ Comments URL: https://news.ycombinator.com/item?id=50567778 Points: 4 # Comments: 3",
       "date": "2026-11-19T23:00:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -474,7 +498,7 @@
     {
       "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
       "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 59 # Comments: 18",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 61 # Comments: 18",
       "date": "2026-11-19T22:56:59+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1152,14 +1176,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’",
-      "link": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927",
-      "summary": "Don’t hoist the Mission Accomplished banner, because company president thinks it also will spur China’s chip biz into action",
-      "date": "2026-11-19T00:39:16+00:00",
-      "image": "https://image.theregister.com/?imageId=233376&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
       "link": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
       "summary": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
@@ -1406,14 +1422,6 @@
       "date": "2026-11-18T16:59:38+00:00",
       "image": "",
       "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Jim Cramer looks at what turned the market lower and where stocks could go next",
-      "link": "https://www.cnbc.com/investingclub/2026/11/18/cramer-looks-at-what-turned-the-market-lower-where-stocks-could-go-next.html",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "date": "2026-11-18T16:54:42+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
@@ -3334,14 +3342,6 @@
       "date": "2026-10-05T12:32:30+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "date": "2026-10-03T07:32:03+00:00",
-      "image": "",
-      "source": "Last Week in AI"
     }
   ]
 }
