@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:20:25.740037+00:00",
+  "updated": "2026-11-20T13:36:39.341933+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,10 +144,34 @@
   ],
   "items": [
     {
-      "title": "Anthropic shares fall 8% premarket amid AI sell-off as Nvidia, AMD shares drop",
+      "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
+      "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
+      "summary": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini. The post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on Towards Data Science .",
+      "date": "2026-11-20T13:30:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "date": "2026-11-20T13:28:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "date": "2026-11-20T13:25:56+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Anthropic stock falls 10% premarket amid AI sell-off as Nvidia, AMD also sink",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
-      "date": "2026-11-20T13:14:12+00:00",
+      "date": "2026-11-20T13:22:30+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -160,20 +184,20 @@
       "source": "BBC Technology"
     },
     {
+      "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
+      "link": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
+      "summary": "Public funds should absorb early risks in major technology projects, the European Central Bank chief said Friday.",
+      "date": "2026-11-20T12:52:15+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
       "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
       "date": "2026-11-20T12:47:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311243&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "date": "2026-11-20T12:45:11+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -256,9 +280,9 @@
       "source": "Wired AI"
     },
     {
-      "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+      "title": "Global stock markets slump as Anthropic’s record IPO fails to stem AI sell-off",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded the",
+      "summary": "Asian markets record their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded their wor",
       "date": "2026-11-20T10:02:21+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -270,14 +294,6 @@
       "date": "2026-11-20T10:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "date": "2026-11-20T09:37:59+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Data center electricity use could double by 2030, IEA says",
@@ -1060,14 +1076,6 @@
       "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
       "summary": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
       "date": "2026-11-19T02:49:35+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Intel signs first external customer for advanced 18A chips",
-      "link": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
-      "summary": "Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.",
-      "date": "2026-11-19T01:05:25+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -2062,14 +2070,6 @@
       "date": "2026-11-14T17:09:09+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "How to Build a Markov Chain in Python With NumPy",
-      "link": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/",
-      "summary": "A step-by-step guide to transition matrices, the Chapman–Kolmogorov equation, and stationary distributions, built around a three-state writing example. The post How to Build a Markov Chain in Python With NumPy appeared first on Towards Data Science .",
-      "date": "2026-11-14T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Open-source AI without Jensen",
