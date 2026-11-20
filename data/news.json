@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:50:28.059789+00:00",
+  "updated": "2026-11-20T23:06:54.663799+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,10 +164,18 @@
   ],
   "items": [
     {
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "date": "2026-11-20T22:59:33+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "date": "2026-11-20T22:42:52+00:00",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "date": "2026-11-20T22:53:24+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
       "source": "BBC Technology"
     },
@@ -220,6 +228,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+      "summary": "No financial details, but plenty of other clues",
+      "date": "2026-11-20T21:27:56+00:00",
+      "image": "https://image.theregister.com/?imageId=5311482&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
@@ -232,14 +248,6 @@
       "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
       "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
       "date": "2026-11-20T21:06:45+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-      "summary": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
-      "date": "2026-11-20T21:03:41+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -268,6 +276,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+      "date": "2026-11-20T20:42:04+00:00",
+      "image": "https://image.theregister.com/?imageId=227546&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
@@ -292,7 +308,7 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "date": "2026-11-20T19:32:08+00:00",
@@ -340,6 +356,14 @@
       "source": "The Verge AI"
     },
     {
+      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "summary": "A deeper look at Vera",
+      "date": "2026-11-20T18:45:50+00:00",
+      "image": "https://image.theregister.com/?imageId=5228929&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
       "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
       "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
@@ -380,12 +404,28 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+      "date": "2026-11-20T17:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311400&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
       "date": "2026-11-20T16:57:47+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "summary": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
+      "date": "2026-11-20T16:44:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5308699&width=800",
+      "source": "The Register"
     },
     {
       "title": "Quoting Levent Alpöge",
@@ -402,6 +442,14 @@
       "date": "2026-11-20T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
+      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "summary": "Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028",
+      "date": "2026-11-20T16:01:00+00:00",
+      "image": "https://image.theregister.com/?imageId=247172&width=800",
+      "source": "The Register"
     },
     {
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -508,6 +556,22 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
+      "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
+      "date": "2026-11-20T12:47:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311243&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+      "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+      "summary": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
+      "date": "2026-11-20T12:18:19+00:00",
+      "image": "https://image.theregister.com/?imageId=5220278&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
       "link": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
       "summary": "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
@@ -540,17 +604,25 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
-      "date": "2026-11-20T11:00:31+00:00",
-      "image": "",
-      "source": "The Guardian AI"
+      "title": "Windows 11 passkey bug cries failure after successful sign-in",
+      "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+      "summary": "Optional update fixes misleading Android error for versions 25H2 and 26H2",
+      "date": "2026-11-20T11:09:44+00:00",
+      "image": "https://image.theregister.com/?imageId=5289791&width=800",
+      "source": "The Register"
     },
     {
       "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
       "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "date": "2026-11-20T11:00:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -612,6 +684,14 @@
       "source": "Wired AI"
     },
     {
+      "title": "Support tech fixed malware by charging client less for their services",
+      "link": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
+      "summary": "‘I gave up at least $6,000 and I’d do it again’",
+      "date": "2026-11-20T06:29:00+00:00",
+      "image": "https://image.theregister.com/?imageId=252539&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "AI is changing software engineering — and some developers miss the struggle",
       "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
       "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
@@ -642,6 +722,14 @@
       "date": "2026-11-20T04:37:08+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
+      "link": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
+      "summary": "Not many of the deals went through, but Chinese clouds no longer care about importing GPUs",
+      "date": "2026-11-20T04:04:56+00:00",
+      "image": "https://image.theregister.com/?imageId=236466&width=800",
+      "source": "The Register"
     },
     {
       "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
@@ -924,6 +1012,14 @@
       "source": "NVIDIA Blog"
     },
     {
+      "title": "Palo Alto Networks opens wallet for open-weight training biz",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
+      "summary": "Security shop buys the hand that feeds it",
+      "date": "2026-11-19T20:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311172&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic’s IPO could deliver $156B to charity",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
@@ -938,6 +1034,14 @@
       "date": "2026-11-19T19:07:41+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Nvidia adds possible hack to list of very bad things under investigation",
+      "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+      "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+      "date": "2026-11-19T18:52:53+00:00",
+      "image": "https://image.theregister.com/?imageId=5311157&width=800",
+      "source": "The Register"
     },
     {
       "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
@@ -986,6 +1090,14 @@
       "date": "2026-11-19T17:38:40+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+      "summary": "Company still has to contend with massive compute obligations and the threat of open models, neither of which Dario Amodei is worried about, he claims",
+      "date": "2026-11-19T17:09:45+00:00",
+      "image": "https://image.theregister.com/?imageId=166252&width=800",
+      "source": "The Register"
     },
     {
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -1044,6 +1156,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
+      "link": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
+      "summary": "DoJ claims suspect part of 4-month operation to steal secrets, surveil employees",
+      "date": "2026-11-19T16:20:00+00:00",
+      "image": "https://image.theregister.com/?imageId=259265&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
@@ -1058,6 +1178,14 @@
       "date": "2026-11-19T15:58:58+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Europe's biggest gas supplier battling cyberattack – with no timeline for recovery",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
+      "summary": "Norwegian energy giant Equinor says oil and gas production remains unaffected",
+      "date": "2026-11-19T15:37:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311057&width=800",
+      "source": "The Register"
     },
     {
       "title": "AI demand will push up interest rates around the world, IMF head warns",
@@ -3234,134 +3362,6 @@
       "date": "2026-09-22T12:52:43+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
-      "date": "2026-09-21T12:31:04+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "The current balance of power in open models",
-      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "The expanded form of a testimony I prepared for Congress.",
-      "date": "2026-09-21T11:56:56+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Why I still haven’t bought into true RSI",
-      "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
-      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
-      "date": "2026-09-19T15:42:20+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-      "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-      "summary": "Algorithms & Theory",
-      "date": "2026-09-18T17:46:09+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-      "summary": "Education Innovation",
-      "date": "2026-09-17T20:45:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
-      "summary": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
-      "date": "2026-09-17T08:02:55+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-      "summary": "Algorithms & Theory",
-      "date": "2026-09-15T20:00:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
-      "date": "2026-09-15T13:14:55+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns",
-      "date": "2026-09-13T10:46:19+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Open-Source AI & Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "How to get up to speed on open models and their implications.",
-      "date": "2026-09-11T12:36:25+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Tiny nanolaser could cut computer energy use in half",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
-      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, ope",
-      "date": "2026-09-11T12:03:26+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Scientists just made quantum computer operations 1,000 times faster",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
-      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
-      "date": "2026-09-11T11:52:30+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-      "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-      "summary": "Machine Intelligence",
-      "date": "2026-09-10T22:50:22+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ToolGrad1_teaser.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "One resignation turned the embers of AI fear into a wildfire",
-      "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-      "summary": "Some quick notes on a truly weird week.",
-      "date": "2026-09-10T15:28:52+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "When will average people feel AI’s impact?",
-      "link": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
-      "summary": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
-      "date": "2026-09-09T11:01:23+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/33531b35-1bdf-475d-b089-61fa6ed27580_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
-      "summary": "Anthropic launches Claude Fable 5.1, OpenAI Is About (already has) to Release Its First AI Model With ‘Critical’ Cyber Abilities, OpenAI’s rogue AI model incident was worse than we thought",
-      "date": "2026-09-09T08:01:40+00:00",
-      "image": "",
-      "source": "Last Week in AI"
     }
   ]
 }
