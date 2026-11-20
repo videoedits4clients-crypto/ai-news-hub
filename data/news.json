@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:20:32.534215+00:00",
+  "updated": "2026-11-20T15:35:56.882215+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,46 @@
   ],
   "items": [
     {
+      "title": "Signal restricts screenshots to block AI from reading messages",
+      "link": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/ Comments URL: https://news.ycombinator.com/item?id=50576061 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:26:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Top AI models have mostly stopped inventing citations, Stanford study",
+      "link": "https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/",
+      "summary": "Article URL: https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/ Comments URL: https://news.ycombinator.com/item?id=50575999 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:23:45+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Debian APT to drop legacy features, citing advances in AI security research",
+      "link": "https://lists.debian.org/debian-devel-announce/2026/11/msg00001.html",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/11/msg00001.html Comments URL: https://news.ycombinator.com/item?id=50575954 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:22:09+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The Dubious Idea of AI-Run Companies",
+      "link": "https://read.misalignedmag.com/the-dubious-idea-of-ai-run-companies-b26c49c77dc5",
+      "summary": "Article URL: https://read.misalignedmag.com/the-dubious-idea-of-ai-run-companies-b26c49c77dc5 Comments URL: https://news.ycombinator.com/item?id=50575947 Points: 1 # Comments: 1",
+      "date": "2026-11-20T15:21:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "date": "2026-11-20T15:16:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "source": "BBC Technology"
+    },
+    {
       "title": "Show HN: Preflight-agent – five checks your AI-agent setup needs before it runs",
       "link": "https://github.com/jasveerai88/preflight-agent",
       "summary": "Article URL: https://github.com/jasveerai88/preflight-agent Comments URL: https://news.ycombinator.com/item?id=50575799 Points: 1 # Comments: 0",
@@ -186,14 +226,6 @@
       "date": "2026-11-20T15:12:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311357&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "date": "2026-11-20T15:10:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "An Italian court just put a price on \"I made it with AI\"",
@@ -468,22 +500,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Canary Token Test Exposes AI Provider Breaches",
-      "link": "https://epyhia.com/dragos-canary-token-test-exposes-three-ai-provider-breaches-prompt",
-      "summary": "Article URL: https://epyhia.com/dragos-canary-token-test-exposes-three-ai-provider-breaches-prompt Comments URL: https://news.ycombinator.com/item?id=50574269 Points: 2 # Comments: 0",
-      "date": "2026-11-20T13:20:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Lipogram AI Model Test",
-      "link": "https://shaungallagher.pressbin.com/blog/lipogram.html",
-      "summary": "Article URL: https://shaungallagher.pressbin.com/blog/lipogram.html Comments URL: https://news.ycombinator.com/item?id=50574196 Points: 1 # Comments: 0",
-      "date": "2026-11-20T13:11:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
@@ -492,28 +508,12 @@
       "source": "BBC Technology"
     },
     {
-      "title": "OutcomeOps: Context Engineering for AI-Assisted Development OSS GitHub Repo",
-      "link": "https://github.com/bcarpio/outcome-ops-ai-assist",
-      "summary": "Article URL: https://github.com/bcarpio/outcome-ops-ai-assist Comments URL: https://news.ycombinator.com/item?id=50574094 Points: 1 # Comments: 0",
-      "date": "2026-11-20T12:59:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
       "link": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
       "summary": "Public funds should absorb early risks in major technology projects, the European Central Bank chief said Friday.",
       "date": "2026-11-20T12:52:15+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Apple Working on Own AI Agent to Rival OAI and Ant",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding Comments URL: https://news.ycombinator.com/item?id=50573966 Points: 6 # Comments: 0",
-      "date": "2026-11-20T12:48:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
