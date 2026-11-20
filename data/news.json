@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:36:31.289547+00:00",
+  "updated": "2026-11-20T18:51:08.168221+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,8 +41,8 @@
   "trending": [
     {
       "count": 2,
-      "title": "Anthropic stock falls 14% in first full day of trading amid AI sell-off",
-      "date": "2026-11-20T17:52:15+00:00",
+      "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
+      "date": "2026-11-20T18:32:16+00:00",
       "sources": [
         "CNBC Technology",
         "Hacker News AI"
@@ -50,7 +50,7 @@
       "links": [
         {
           "source": "CNBC Technology",
-          "title": "Anthropic stock falls 14% in first full day of trading amid AI sell-off",
+          "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
           "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
         },
         {
@@ -165,6 +165,14 @@
   ],
   "items": [
     {
+      "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "date": "2026-11-20T18:38:37+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine",
       "link": "https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d",
       "summary": "Article URL: https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d Comments URL: https://news.ycombinator.com/item?id=50579604 Points: 1 # Comments: 0",
@@ -173,28 +181,28 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
+      "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
+      "date": "2026-11-20T18:33:06+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
+      "date": "2026-11-20T18:32:16+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Why software engineers will survive the AI era",
       "link": "https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era",
       "summary": "Article URL: https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era Comments URL: https://news.ycombinator.com/item?id=50579480 Points: 1 # Comments: 0",
       "date": "2026-11-20T18:27:13+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
-      "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
-      "date": "2026-11-20T18:25:33+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "date": "2026-11-20T18:22:15+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Hockeysticky – For solo founders and small teams who can ship with AI",
@@ -221,9 +229,17 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
+      "date": "2026-11-20T18:15:15+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
       "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
       "link": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 7 # Comments: 0",
       "date": "2026-11-20T18:11:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -241,14 +257,6 @@
       "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
       "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
       "date": "2026-11-20T18:07:18+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic stock falls 14% in first full day of trading amid AI sell-off",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-      "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
-      "date": "2026-11-20T17:52:15+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -391,7 +399,7 @@
     {
       "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
       "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 59 # Comments: 12",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 73 # Comments: 24",
       "date": "2026-11-20T16:59:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -2787,14 +2795,6 @@
       "date": "2026-11-09T13:31:34+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "Innovating with AI in the specialty chemicals industry",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
-      "date": "2026-11-09T13:00:00+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     },
     {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
