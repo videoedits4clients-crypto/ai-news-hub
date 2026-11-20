@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:50:26.867327+00:00",
+  "updated": "2026-11-20T03:06:21.458197+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,9 +144,25 @@
   ],
   "items": [
     {
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "date": "2026-11-20T02:54:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see al",
+      "date": "2026-11-20T02:49:57+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
       "title": "Nobody is talking seriously about AI demand",
       "link": "https://twitter.com/giovannicatt3/status/2094815425972539565",
-      "summary": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 2 # Comments: 0",
       "date": "2026-11-20T02:36:40+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -160,20 +176,20 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "date": "2026-11-20T02:33:39+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
       "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
       "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
       "date": "2026-11-20T02:14:50+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "date": "2026-11-20T02:13:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
@@ -290,7 +306,7 @@
     {
       "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
       "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 7 # Comments: 0",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 7 # Comments: 1",
       "date": "2026-11-19T23:34:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1328,14 +1344,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "date": "2026-11-18T19:17:27+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "summary": "",
@@ -1681,7 +1689,7 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "date": "2026-11-17T20:30:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
@@ -2494,14 +2502,6 @@
       "date": "2026-11-11T17:00:38+00:00",
       "image": "",
       "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Anthropic's IPO roadshow video",
-      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, descri",
-      "date": "2026-11-11T15:11:59+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
