@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:06:26.411847+00:00",
+  "updated": "2026-11-20T20:20:25.567392+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,22 @@
   ],
   "items": [
     {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cmde1lw9y54ko Comments URL: https://news.ycombinator.com/item?id=50581384 Points: 2 # Comments: 0",
+      "date": "2026-11-20T20:18:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Monkeys, Libraries, and AI",
+      "link": "https://abitwired.substack.com/p/monkeys-libraries-and-ai",
+      "summary": "Article URL: https://abitwired.substack.com/p/monkeys-libraries-and-ai Comments URL: https://news.ycombinator.com/item?id=50581166 Points: 1 # Comments: 0",
+      "date": "2026-11-20T20:07:18+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
@@ -212,14 +228,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "date": "2026-11-20T19:51:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "summary": "Article URL: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/ Comments URL: https://news.ycombinator.com/item?id=50580825 Points: 1 # Comments: 0",
@@ -254,15 +262,15 @@
     {
       "title": "The use of AI based tools to find bugs in Open Source software",
       "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50580695 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50580695 Points: 1 # Comments: 1",
       "date": "2026-11-20T19:39:15+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "date": "2026-11-20T19:32:08+00:00",
       "image": "",
       "source": "TechCrunch AI"
@@ -430,7 +438,7 @@
     {
       "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
       "link": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 17 # Comments: 2",
+      "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 18 # Comments: 3",
       "date": "2026-11-20T18:11:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -514,22 +522,6 @@
       "date": "2026-11-20T17:40:01+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "How many Phrack 73 articles used AI?",
-      "link": "https://dustri.org/b/how-many-phrack-73-articles-used-ai.html",
-      "summary": "Article URL: https://dustri.org/b/how-many-phrack-73-articles-used-ai.html Comments URL: https://news.ycombinator.com/item?id=50578593 Points: 1 # Comments: 0",
-      "date": "2026-11-20T17:33:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Starwright – a browser orbital flight game written by AI agents",
-      "link": "https://github.com/jsmith0475/Starwright",
-      "summary": "Article URL: https://github.com/jsmith0475/Starwright Comments URL: https://news.ycombinator.com/item?id=50578585 Points: 1 # Comments: 0",
-      "date": "2026-11-20T17:32:07+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -3362,6 +3354,14 @@
       "date": "2026-10-06T19:57:04+00:00",
       "image": "",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "summary": "Earth AI",
+      "date": "2026-10-06T15:05:11+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
+      "source": "Google Research"
     }
   ]
 }
