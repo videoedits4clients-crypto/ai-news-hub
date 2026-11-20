@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T06:06:22.045579+00:00",
+  "updated": "2026-11-20T06:20:33.816521+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,9 +144,33 @@
   ],
   "items": [
     {
+      "title": "Show HN: Sandscale – Cloud infrastructure for AI creators, agents and developers",
+      "link": "https://sandscale.dev",
+      "summary": "Sandscale is live! We’re building a platform that helps developers, AI creators and businesses create, experiment and execute AI-powered workflows. It provides secure isolated environments, cloud workspaces and infrastructure for AI-powered development. We’re excited to hear feed",
+      "date": "2026-11-20T06:17:14+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
+      "link": "https://github.com/XiaoMi/bsworld",
+      "summary": "Article URL: https://github.com/XiaoMi/bsworld Comments URL: https://news.ycombinator.com/item?id=50570766 Points: 1 # Comments: 0",
+      "date": "2026-11-20T06:06:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: AiTz – A universal gateway for discovering AI tools",
+      "link": "https://aitz.site",
+      "summary": "About AiTz I started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet. I wanted to build one place where people can discover different AI tools and find solutions for different tasks. AiTz is an independent project that I'm bui",
+      "date": "2026-11-20T05:54:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
       "link": "https://soundbench.net/",
-      "summary": "Article URL: https://soundbench.net/ Comments URL: https://news.ycombinator.com/item?id=50570611 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://soundbench.net/ Comments URL: https://news.ycombinator.com/item?id=50570611 Points: 1 # Comments: 1",
       "date": "2026-11-20T05:44:10+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -154,7 +178,7 @@
     {
       "title": "Humans.md: tell your AI agents how to work with you",
       "link": "https://humansmd.dev/",
-      "summary": "Article URL: https://humansmd.dev/ Comments URL: https://news.ycombinator.com/item?id=50570598 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://humansmd.dev/ Comments URL: https://news.ycombinator.com/item?id=50570598 Points: 2 # Comments: 0",
       "date": "2026-11-20T05:42:30+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -394,7 +418,7 @@
     {
       "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
       "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 9 # Comments: 1",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 10 # Comments: 2",
       "date": "2026-11-19T23:34:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -442,7 +466,7 @@
     {
       "title": "Google Search homepage gets AI-heavy redesign with Gemini",
       "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-      "summary": "Article URL: https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/ Comments URL: https://news.ycombinator.com/item?id=50567778 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/ Comments URL: https://news.ycombinator.com/item?id=50567778 Points: 4 # Comments: 2",
       "date": "2026-11-19T23:00:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -468,30 +492,6 @@
       "link": "https://chromewebstore.google.com/detail/prethink-ai/ekolohicgedlnehalkchpnbhpfmgnglk",
       "summary": "Hello There, I built a small chrome extension to track my chat-based AI usage. I'm interested in understanding how I use AI conversationally, and how that affects my brain. AI as a means to efficiency is key in the modern world, but I don't believe that our brains are geared to p",
       "date": "2026-11-19T22:54:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Wolf at the Door: Apple Rethinking Mac Permissions in the Age of AI",
-      "link": "https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/",
-      "summary": "Article URL: https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50567665 Points: 2 # Comments: 0",
-      "date": "2026-11-19T22:51:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
-      "link": "https://olmapp.ai/index.html",
-      "summary": "Article URL: https://olmapp.ai/index.html Comments URL: https://news.ycombinator.com/item?id=50567538 Points: 1 # Comments: 1",
-      "date": "2026-11-19T22:41:05+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
-      "link": "https://arxiv.org/abs/2611.18036",
-      "summary": "Article URL: https://arxiv.org/abs/2611.18036 Comments URL: https://news.ycombinator.com/item?id=50567314 Points: 3 # Comments: 0",
-      "date": "2026-11-19T22:23:02+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
