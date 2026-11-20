@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:36:39.042424+00:00",
+  "updated": "2026-11-20T19:50:26.565682+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,7 +41,7 @@
   "trending": [
     {
       "count": 2,
-      "title": "Is Claude creator Anthropic really worth $1.5 trillion? - The Latest",
+      "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
       "date": "2026-11-20T18:53:50+00:00",
       "sources": [
         "The Guardian AI"
@@ -49,34 +49,13 @@
       "links": [
         {
           "source": "The Guardian AI",
-          "title": "Is Claude creator Anthropic really worth $1.5 trillion? - The Latest",
+          "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
           "link": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest"
         },
         {
           "source": "The Guardian AI",
-          "title": "Is Anthropic really worth $1.5 trillion? - The Latest",
+          "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
           "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
-      "date": "2026-11-20T18:32:16+00:00",
-      "sources": [
-        "CNBC Technology",
-        "Hacker News AI"
-      ],
-      "links": [
-        {
-          "source": "CNBC Technology",
-          "title": "Anthropic stock falls 12% in first full day of trading amid AI sell-off",
-          "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Anthropic Stock Falls About 9% on First Full Trading Day as AI Stocks Slide",
-          "link": "https://www.gadgetreview.com/anthropic-stock-falls-about-9-on-first-full-trading-day-as-ai-stocks-slide"
         }
       ]
     },
@@ -185,9 +164,57 @@
   ],
   "items": [
     {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/ Comments URL: https://news.ycombinator.com/item?id=50580825 Points: 1 # Comments: 0",
+      "date": "2026-11-20T19:47:58+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Concepts to Know for Coding with AI Agents",
+      "link": "https://www.davidayo.com/blog/5-concepts-to-know-for-coding-with-ai-agents/",
+      "summary": "Article URL: https://www.davidayo.com/blog/5-concepts-to-know-for-coding-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50580804 Points: 1 # Comments: 0",
+      "date": "2026-11-20T19:47:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "China Is Mass-Producing One-Person AI Companies",
+      "link": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs Comments URL: https://news.ycombinator.com/item?id=50580788 Points: 1 # Comments: 0",
+      "date": "2026-11-20T19:45:43+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The use of AI based tools to find bugs in Open Source software",
+      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50580695 Points: 1 # Comments: 0",
+      "date": "2026-11-20T19:39:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "date": "2026-11-20T19:38:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "date": "2026-11-20T19:32:08+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "Dutch data watchdog highlights safety issues with AI glasses",
       "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
-      "summary": "Article URL: https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345 Comments URL: https://news.ycombinator.com/item?id=50580461 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345 Comments URL: https://news.ycombinator.com/item?id=50580461 Points: 3 # Comments: 0",
       "date": "2026-11-20T19:26:01+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -265,7 +292,7 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Is Claude creator Anthropic really worth $1.5 trillion? - The Latest",
+      "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
       "link": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
       "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
       "date": "2026-11-20T18:53:50+00:00",
@@ -305,7 +332,7 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Is Anthropic really worth $1.5 trillion? - The Latest",
+      "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
       "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
       "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
       "date": "2026-11-20T18:33:06+00:00",
@@ -339,18 +366,10 @@
     {
       "title": "Keeping AI Coding Agent Memory Relevant as Code Changes",
       "link": "https://enola.tech/blog/agent-memory-needs-a-code-reference",
-      "summary": "Article URL: https://enola.tech/blog/agent-memory-needs-a-code-reference Comments URL: https://news.ycombinator.com/item?id=50579337 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://enola.tech/blog/agent-memory-needs-a-code-reference Comments URL: https://news.ycombinator.com/item?id=50579337 Points: 2 # Comments: 0",
       "date": "2026-11-20T18:18:13+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
-      "date": "2026-11-20T18:15:15+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     },
     {
       "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
@@ -441,14 +460,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "date": "2026-11-20T17:36:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "How many Phrack 73 articles used AI?",
       "link": "https://dustri.org/b/how-many-phrack-73-articles-used-ai.html",
       "summary": "Article URL: https://dustri.org/b/how-many-phrack-73-articles-used-ai.html Comments URL: https://news.ycombinator.com/item?id=50578593 Points: 1 # Comments: 0",
@@ -477,38 +488,6 @@
       "link": "https://www.sideprojectors.com/user/profile/288750",
       "summary": "Article URL: https://www.sideprojectors.com/user/profile/288750 Comments URL: https://news.ycombinator.com/item?id=50578453 Points: 1 # Comments: 0",
       "date": "2026-11-20T17:26:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Code Inflation: AI Prints Code Faster Than Anyone Can Review It",
-      "link": "https://www.everydev.ai/p/blog-code-inflation-ai-prints-code-faster-than-anyone-can-review-it",
-      "summary": "Article URL: https://www.everydev.ai/p/blog-code-inflation-ai-prints-code-faster-than-anyone-can-review-it Comments URL: https://news.ycombinator.com/item?id=50578031 Points: 1 # Comments: 1",
-      "date": "2026-11-20T17:05:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Auditing 23.5k Google AI Ultra ($200/mo) SQLite logs: 0% KV cache and tiered IDs",
-      "link": "https://github.com/fatrabbit29/antigravity-ultra-quota-audit",
-      "summary": "Article URL: https://github.com/fatrabbit29/antigravity-ultra-quota-audit Comments URL: https://news.ycombinator.com/item?id=50578021 Points: 1 # Comments: 0",
-      "date": "2026-11-20T17:05:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "SEC filings suggest press releases and executive quotes increasingly using AI",
-      "link": "https://www.assetroom.net/blog/public-companies-using-ai-to-write-press-releases",
-      "summary": "Article URL: https://www.assetroom.net/blog/public-companies-using-ai-to-write-press-releases Comments URL: https://news.ycombinator.com/item?id=50578013 Points: 1 # Comments: 0",
-      "date": "2026-11-20T17:04:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic Stock Falls About 9% on First Full Trading Day as AI Stocks Slide",
-      "link": "https://www.gadgetreview.com/anthropic-stock-falls-about-9-on-first-full-trading-day-as-ai-stocks-slide",
-      "summary": "Article URL: https://www.gadgetreview.com/anthropic-stock-falls-about-9-on-first-full-trading-day-as-ai-stocks-slide Comments URL: https://news.ycombinator.com/item?id=50577974 Points: 6 # Comments: 0",
-      "date": "2026-11-20T17:02:51+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1521,14 +1500,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "date": "2026-11-18T23:17:28+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
       "link": "https://www.wired.com/story/guys-really-we-got-this/",
       "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
@@ -2099,7 +2070,7 @@
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
       "link": "https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models",
-      "summary": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev . The company’s broad, disruptive claims about Jev that turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate. TypeSafe AI’s market",
+      "summary": "On 15 September, a startup called TypeSafe AI released a new AI model called Jev . The company’s broad, disruptive claims about Jev turned heads: The company claimed that Jev, which it calls a “System One model” is cheaper, faster, and can’t hallucinate. TypeSafe AI’s marketing i",
       "date": "2026-11-16T17:00:54+00:00",
       "image": "https://spectrum.ieee.org/media-library/collage-of-the-question-what-color-is-the-sky-surrounded-by-a-shiny-sun-sticker-geometric-grid-and-a-confidence-meter-at-7.jpg?id=68692558&width=980",
       "source": "IEEE Spectrum AI"
@@ -3383,6 +3354,14 @@
       "date": "2026-10-07T20:19:57+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
       "source": "Google Research"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "date": "2026-10-06T19:57:04+00:00",
+      "image": "",
+      "source": "Google DeepMind"
     }
   ]
 }
