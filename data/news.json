@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:23:53.735688+00:00",
+  "updated": "2026-11-20T23:36:26.978463+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,9 +164,41 @@
   ],
   "items": [
     {
+      "title": "AI models change their answers when they are monitored",
+      "link": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+      "summary": "Article URL: https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093 Comments URL: https://news.ycombinator.com/item?id=50583899 Points: 1 # Comments: 0",
+      "date": "2026-11-20T23:33:44+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+      "link": "https://saturnsql.com/context-layer",
+      "summary": "I've seen a rising demand for context when AI queries data from different places, so I built a way to provide it. You basically describe the tables, write free-form markdown notes and set definitions (e.g. the SQL for how to calculate an active user, so everyone in the company ca",
+      "date": "2026-11-20T23:31:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "summary": "Generative AI",
+      "date": "2026-11-20T23:30:30+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "date": "2026-11-20T23:24:02+00:00",
+      "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
+      "source": "Wired AI"
+    },
+    {
       "title": "Tor Books Removes Book Cover Generated with AI",
       "link": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
-      "summary": "Article URL: https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w Comments URL: https://news.ycombinator.com/item?id=50583716 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w Comments URL: https://news.ycombinator.com/item?id=50583716 Points: 3 # Comments: 0",
       "date": "2026-11-20T23:14:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -222,7 +254,7 @@
     {
       "title": "Libreboot Abandons Anti-AI Policy After One Month",
       "link": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
-      "summary": "Article URL: https://www.phoronix.com/news/Libreboot-Drops-AI-Policy Comments URL: https://news.ycombinator.com/item?id=50583380 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://www.phoronix.com/news/Libreboot-Drops-AI-Policy Comments URL: https://news.ycombinator.com/item?id=50583380 Points: 4 # Comments: 0",
       "date": "2026-11-20T22:42:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -334,7 +366,7 @@
     {
       "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
       "link": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
-      "summary": "Article URL: https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1 Comments URL: https://news.ycombinator.com/item?id=50582358 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1 Comments URL: https://news.ycombinator.com/item?id=50582358 Points: 3 # Comments: 0",
       "date": "2026-11-20T21:23:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -342,7 +374,7 @@
     {
       "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
       "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
-      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 15 # Comments: 1",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 18 # Comments: 1",
       "date": "2026-11-20T21:18:46+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -366,7 +398,7 @@
     {
       "title": "AI is building me a web browser",
       "link": "https://blog.senko.net/ai-is-building-me-a-web-browser",
-      "summary": "Article URL: https://blog.senko.net/ai-is-building-me-a-web-browser Comments URL: https://news.ycombinator.com/item?id=50581976 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://blog.senko.net/ai-is-building-me-a-web-browser Comments URL: https://news.ycombinator.com/item?id=50581976 Points: 6 # Comments: 0",
       "date": "2026-11-20T20:57:55+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -406,7 +438,7 @@
     {
       "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers, or Physicians?",
       "link": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
-      "summary": "Article URL: https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/ Comments URL: https://news.ycombinator.com/item?id=50581827 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/ Comments URL: https://news.ycombinator.com/item?id=50581827 Points: 2 # Comments: 0",
       "date": "2026-11-20T20:47:47+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -422,7 +454,7 @@
     {
       "title": "Monkeys, Libraries, and AI",
       "link": "https://abitwired.substack.com/p/monkeys-libraries-and-ai",
-      "summary": "Article URL: https://abitwired.substack.com/p/monkeys-libraries-and-ai Comments URL: https://news.ycombinator.com/item?id=50581166 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://abitwired.substack.com/p/monkeys-libraries-and-ai Comments URL: https://news.ycombinator.com/item?id=50581166 Points: 3 # Comments: 0",
       "date": "2026-11-20T20:07:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -476,28 +508,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "China Is Mass-Producing One-Person AI Companies",
-      "link": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs Comments URL: https://news.ycombinator.com/item?id=50580788 Points: 3 # Comments: 0",
-      "date": "2026-11-20T19:45:43+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
       "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
       "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
       "date": "2026-11-20T19:42:53+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "The use of AI based tools to find bugs in Open Source software",
-      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50580695 Points: 1 # Comments: 1",
-      "date": "2026-11-20T19:39:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
@@ -788,17 +804,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1569,14 +1585,6 @@
       "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
       "date": "2026-11-18T22:16:23+00:00",
       "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
-      "source": "Wired AI"
-    },
-    {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "date": "2026-11-18T22:00:00+00:00",
-      "image": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/master/pass/politics_trump_adventures_china.jpg",
       "source": "Wired AI"
     },
     {
@@ -3354,14 +3362,6 @@
       "date": "2026-10-07T20:19:57+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
       "source": "Google Research"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "image": "",
-      "source": "Google DeepMind"
     }
   ]
 }
