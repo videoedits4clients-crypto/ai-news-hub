@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:06:40.690873+00:00",
+  "updated": "2026-11-20T13:20:25.740037+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,22 @@
   ],
   "items": [
     {
+      "title": "Anthropic shares fall 8% premarket amid AI sell-off as Nvidia, AMD shares drop",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
+      "date": "2026-11-20T13:14:12+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "date": "2026-11-20T13:08:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+      "source": "BBC Technology"
+    },
+    {
       "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
       "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
@@ -174,14 +190,6 @@
       "date": "2026-11-20T12:18:19+00:00",
       "image": "https://image.theregister.com/?imageId=5220278&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Anthropic shares fall 8% in premarket amid AI selloff as Nvidia, AMD shares drop",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-      "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
-      "date": "2026-11-20T12:08:50+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
@@ -224,17 +232,17 @@
       "source": "The Register"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -374,14 +382,6 @@
       "date": "2026-11-20T03:33:45+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "date": "2026-11-20T02:54:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Token fraud is here and it’s BAD (YouTube)",
