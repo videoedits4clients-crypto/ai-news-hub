@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T04:36:28.951421+00:00",
+  "updated": "2026-11-20T04:50:29.485155+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,46 @@
   ],
   "items": [
     {
+      "title": "Ask HN: Does AI slop require more marketing in the future?",
+      "link": "https://news.ycombinator.com/item?id=50570283",
+      "summary": "Now that after Anthropic's IPO debut and with OpenAPI IPO in the works there is no doubt that the % of AI slop is going to increase disproportionately though this study says it has indeed gone down in 2026 since 2025 (https://tom-riley.co.uk/blog/ai-generated-content-statistics/)",
+      "date": "2026-11-20T04:45:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Animated Steller's Jay, a beautiful AI benchmark",
+      "link": "https://grady.dev/projects/steller/",
+      "summary": "Article URL: https://grady.dev/projects/steller/ Comments URL: https://news.ycombinator.com/item?id=50570274 Points: 1 # Comments: 0",
+      "date": "2026-11-20T04:43:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html Comments URL: https://news.ycombinator.com/item?id=50570266 Points: 2 # Comments: 0",
+      "date": "2026-11-20T04:41:23+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "date": "2026-11-20T04:41:17+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+      "summary": "Community expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Get our breaking news email , free app or daily news podcast Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping",
+      "date": "2026-11-20T04:37:08+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
       "link": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
       "summary": "Not many of them made it in, but Chinese clouds no longer care",
@@ -158,22 +198,6 @@
       "date": "2026-11-20T03:59:43+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
-      "date": "2026-11-20T03:56:17+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
-      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
-      "date": "2026-11-20T03:38:07+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
@@ -504,22 +528,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "Replit Datacat – their self-hosted observability is AI slop and it doesn't work",
-      "link": "https://github.com/replit/datacat",
-      "summary": "Article URL: https://github.com/replit/datacat Comments URL: https://news.ycombinator.com/item?id=50567005 Points: 1 # Comments: 0",
-      "date": "2026-11-19T21:55:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
-      "link": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/",
-      "summary": "Article URL: https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection/ Comments URL: https://news.ycombinator.com/item?id=50566999 Points: 2 # Comments: 0",
-      "date": "2026-11-19T21:55:07+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
       "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
       "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco As the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in ",
@@ -534,14 +542,6 @@
       "date": "2026-11-19T21:46:22+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "Host your repo, AI tool or service on ASTAR for learners to build with",
-      "link": "https://beta.astar.inc",
-      "summary": "Article URL: https://beta.astar.inc Comments URL: https://news.ycombinator.com/item?id=50566865 Points: 1 # Comments: 1",
-      "date": "2026-11-19T21:43:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "These tech outages are giving Y2K, AI agent style",
@@ -1278,14 +1278,6 @@
       "date": "2026-11-18T22:11:15+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
-      "summary": "A defence bill being rushed through parliament could expand the definition of ‘defence official’ and see AI datacentres deemed ‘defence security zones’ In 2019, the New York Times described Australia as “the world’s most secretive democracy” . Since then, a succession of defence,",
-      "date": "2026-11-18T22:00:09+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
@@ -3342,6 +3334,14 @@
       "date": "2026-10-05T12:32:30+00:00",
       "image": "",
       "source": "Import AI"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "date": "2026-10-03T07:32:03+00:00",
+      "image": "",
+      "source": "Last Week in AI"
     }
   ]
 }
