@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:20:28.652817+00:00",
+  "updated": "2026-11-20T12:35:53.882654+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,14 @@
   ],
   "items": [
     {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user",
+      "date": "2026-11-20T12:30:47+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Epic Games Turns to AI Coding for the Unreal Engine",
       "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
       "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 1 # Comments: 0",
@@ -174,6 +182,14 @@
       "date": "2026-11-20T12:08:32+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+      "link": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+      "summary": "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
+      "date": "2026-11-20T12:00:02+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Muse Is Unleashing a World of Pettiness on Instagram",
@@ -226,7 +242,7 @@
     {
       "title": "Apple is building an AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 6 # Comments: 6",
+      "summary": "Article URL: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing Comments URL: https://news.ycombinator.com/item?id=50573166 Points: 7 # Comments: 6",
       "date": "2026-11-20T11:22:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -354,7 +370,7 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 159 # Comments: 104",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 173 # Comments: 108",
       "date": "2026-11-20T10:01:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1104,14 +1120,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Canva adds an AI ‘off’ button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This",
-      "date": "2026-11-19T13:08:05+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
       "link": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
       "summary": "Shares price above the expected range, raising over $81 billion",
@@ -1150,14 +1158,6 @@
       "date": "2026-11-19T12:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
-      "summary": "CNBC's Jim Cramer warned that Anthropic's highly anticipated IPO presents another headwind for Nvidia.",
-      "date": "2026-11-19T11:26:09+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
