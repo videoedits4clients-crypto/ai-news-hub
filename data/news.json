@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:35:56.882215+00:00",
+  "updated": "2026-11-20T15:50:28.902824+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -39,6 +39,27 @@
     "Towards Data Science"
   ],
   "trending": [
+    {
+      "count": 2,
+      "title": "EU confirms AI-assisted cyberattack on European Commission",
+      "date": "2026-11-20T15:28:29+00:00",
+      "sources": [
+        "Hacker News AI",
+        "The Register"
+      ],
+      "links": [
+        {
+          "source": "Hacker News AI",
+          "title": "EU confirms AI-assisted cyberattack on European Commission",
+          "link": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70"
+        },
+        {
+          "source": "The Register",
+          "title": "European Commission scrambles to contain AI-assisted cyberattack",
+          "link": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"
+        }
+      ]
+    },
     {
       "count": 2,
       "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
@@ -164,9 +185,57 @@
   ],
   "items": [
     {
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "date": "2026-11-20T15:44:53+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "An experimental web browser written from scratch in Rust by an AI agent (Claude)",
+      "link": "https://github.com/senko/swb",
+      "summary": "Article URL: https://github.com/senko/swb Comments URL: https://news.ycombinator.com/item?id=50576386 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:41:40+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Tutor as a Programming Learning Aid",
+      "link": "https://www.tugraz.at/en/news/article/ai-tutor-computor",
+      "summary": "Article URL: https://www.tugraz.at/en/news/article/ai-tutor-computor Comments URL: https://news.ycombinator.com/item?id=50576334 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:39:08+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Sandscale – Firecracker microVMs for AI coding agents",
+      "link": "https://sandscale.dev",
+      "summary": "Article URL: https://sandscale.dev Comments URL: https://news.ycombinator.com/item?id=50576141 Points: 2 # Comments: 0",
+      "date": "2026-11-20T15:29:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Next wave: data, AI agents, and no-code automation",
+      "link": "https://aws.amazon.com/marketplace/pp/prodview-pvfpfkgk2vdba",
+      "summary": "Article URL: https://aws.amazon.com/marketplace/pp/prodview-pvfpfkgk2vdba Comments URL: https://news.ycombinator.com/item?id=50576123 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:28:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "EU confirms AI-assisted cyberattack on European Commission",
+      "link": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
+      "summary": "Article URL: https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70 Comments URL: https://news.ycombinator.com/item?id=50576113 Points: 3 # Comments: 0",
+      "date": "2026-11-20T15:28:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Signal restricts screenshots to block AI from reading messages",
       "link": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/",
-      "summary": "Article URL: https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/ Comments URL: https://news.ycombinator.com/item?id=50576061 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/ Comments URL: https://news.ycombinator.com/item?id=50576061 Points: 2 # Comments: 2",
       "date": "2026-11-20T15:26:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -194,14 +263,6 @@
       "date": "2026-11-20T15:21:48+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "date": "2026-11-20T15:16:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Show HN: Preflight-agent – five checks your AI-agent setup needs before it runs",
@@ -422,7 +483,7 @@
     {
       "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
       "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares slumped at the start of trading on Friday, as its record-breaking IPO failed to stem a sell-off in AI-linked companies",
+      "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linke",
       "date": "2026-11-20T13:53:13+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -444,22 +505,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "SoduWork – AI agents must show evidence before a task passes",
-      "link": "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
-      "summary": "Article URL: https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85 Comments URL: https://news.ycombinator.com/item?id=50574413 Points: 4 # Comments: 0",
-      "date": "2026-11-20T13:32:50+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Jonathan Swift vs. AI",
-      "link": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
-      "summary": "Article URL: https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50574402 Points: 2 # Comments: 0",
-      "date": "2026-11-20T13:31:41+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
       "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
       "summary": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini. The post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on Towards Data Science .",
@@ -476,28 +521,12 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Why Canada is embracing AI data centres while the US pushes back",
-      "link": "https://www.bbc.com/news/articles/cmx2q223z1jlo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cmx2q223z1jlo Comments URL: https://news.ycombinator.com/item?id=50574341 Points: 2 # Comments: 2",
-      "date": "2026-11-20T13:26:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
       "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
       "date": "2026-11-20T13:25:56+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "AI Token Fraud, Disposable Software, Lean Luddites – Food for Agile Thought 571",
-      "link": "https://age-of-product.com/food-agile-thought-571-ai-token-fraud/",
-      "summary": "Article URL: https://age-of-product.com/food-agile-thought-571-ai-token-fraud/ Comments URL: https://news.ycombinator.com/item?id=50574293 Points: 1 # Comments: 0",
-      "date": "2026-11-20T13:22:22+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
@@ -3354,14 +3383,6 @@
       "date": "2026-10-05T21:08:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
       "source": "Google Research"
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
-      "date": "2026-10-05T12:32:30+00:00",
-      "image": "",
-      "source": "Import AI"
     }
   ]
 }
