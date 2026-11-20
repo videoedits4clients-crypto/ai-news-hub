@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T09:51:08.235502+00:00",
+  "updated": "2026-11-20T10:06:11.741207+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,9 +144,41 @@
   ],
   "items": [
     {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "link": "https://architectlabs.com/blog/frostbite",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 2 # Comments: 0",
+      "date": "2026-11-20T10:01:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+      "link": "https://github.com/PHONGUIT22/nostrpulse-full",
+      "summary": "Article URL: https://github.com/PHONGUIT22/nostrpulse-full Comments URL: https://news.ycombinator.com/item?id=50572502 Points: 1 # Comments: 0",
+      "date": "2026-11-20T10:01:27+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Will AI break the internet? | Garrison Lovely",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
+      "summary": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm You’re not crazy to feel the world is coming apart at the seams. Within the last week, outages took down core services at Microsoft , United Airlines and",
+      "date": "2026-11-20T10:00:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
+      "link": "https://bitrise.io/artex-incident-report",
+      "summary": "Article URL: https://bitrise.io/artex-incident-report Comments URL: https://news.ycombinator.com/item?id=50572416 Points: 1 # Comments: 0",
+      "date": "2026-11-20T09:51:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
       "link": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
-      "summary": "Article URL: https://www.aikido.dev/blog/ai-incidents-root-causes-patterns Comments URL: https://news.ycombinator.com/item?id=50572347 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.aikido.dev/blog/ai-incidents-root-causes-patterns Comments URL: https://news.ycombinator.com/item?id=50572347 Points: 4 # Comments: 0",
       "date": "2026-11-20T09:42:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -154,7 +186,7 @@
     {
       "title": "Energy Wins Driving Optical Computing AI",
       "link": "https://spectrum.ieee.org/optical-computing-ai",
-      "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50572344 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50572344 Points: 3 # Comments: 0",
       "date": "2026-11-20T09:41:46+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -178,7 +210,7 @@
     {
       "title": "Britain must not rely on foreign AI, says former military intelligence chief",
       "link": "https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html",
-      "summary": "Article URL: https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html Comments URL: https://news.ycombinator.com/item?id=50572295 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html Comments URL: https://news.ycombinator.com/item?id=50572295 Points: 3 # Comments: 0",
       "date": "2026-11-20T09:34:40+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -194,7 +226,7 @@
     {
       "title": "Being a designer in an AI-forward team",
       "link": "https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable",
-      "summary": "Article URL: https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable Comments URL: https://news.ycombinator.com/item?id=50572152 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable Comments URL: https://news.ycombinator.com/item?id=50572152 Points: 2 # Comments: 0",
       "date": "2026-11-20T09:17:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -424,28 +456,12 @@
       "source": "The Register"
     },
     {
-      "title": "Show HN: GhostFleet: A Battleship game with an advanced AI opponent",
-      "link": "https://ghostfleet.in/play?mode=wraithAI",
-      "summary": "Hi HN I've always been drawn to puzzle and strategy games, and for a long time I've wanted to build a game of my own. While building my own version of battleship, I came across this idea of adding a super intelligent in-game AI which uses probability and statistics to reason with",
-      "date": "2026-11-20T03:59:43+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
       "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
       "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s m",
       "date": "2026-11-20T03:33:45+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "You can't spell ennui without AI",
-      "link": "https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai Comments URL: https://news.ycombinator.com/item?id=50569751 Points: 1 # Comments: 0",
-      "date": "2026-11-20T03:20:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "GTA 6 breaks records as estimated sales top $2.3bn",
@@ -462,14 +478,6 @@
       "date": "2026-11-20T02:49:57+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Nobody is talking seriously about AI demand",
-      "link": "https://twitter.com/giovannicatt3/status/2094815425972539565",
-      "summary": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 4 # Comments: 1",
-      "date": "2026-11-20T02:36:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
@@ -1164,14 +1172,6 @@
       "link": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
       "summary": "The government doesn’t know what they are going to be used for, but that’s beside the point. Their real purpose is to sustain the share price of big tech It should have the status of an economic law: the sectors a government does most to promote in the name of growth are the sect",
       "date": "2026-11-19T06:00:19+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-      "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according",
-      "date": "2026-11-19T05:00:18+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
