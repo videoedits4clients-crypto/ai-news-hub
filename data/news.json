@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T10:27:26.073962+00:00",
+  "updated": "2026-11-20T10:36:36.537612+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,12 +144,52 @@
   ],
   "items": [
     {
+      "title": "Thoughts from Before and After AI",
+      "link": "https://chevyclutchfoot.substack.com/p/thought-process-before-and-after",
+      "summary": "Article URL: https://chevyclutchfoot.substack.com/p/thought-process-before-and-after Comments URL: https://news.ycombinator.com/item?id=50572638 Points: 1 # Comments: 0",
+      "date": "2026-11-20T10:16:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Greece's PM Mitsotakis and Greek AI Founders [video]",
+      "link": "https://www.youtube.com/watch?v=Gis_2Y_pLOo",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Gis_2Y_pLOo Comments URL: https://news.ycombinator.com/item?id=50572626 Points: 1 # Comments: 0",
+      "date": "2026-11-20T10:15:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Is Making China's Jobs Slump Worse",
+      "link": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
+      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/ Comments URL: https://news.ycombinator.com/item?id=50572621 Points: 2 # Comments: 0",
+      "date": "2026-11-20T10:15:28+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Cool Flex AI Bro",
+      "link": "https://interconnected.org/home/2026/11/20/flex",
+      "summary": "Article URL: https://interconnected.org/home/2026/11/20/flex Comments URL: https://news.ycombinator.com/item?id=50572577 Points: 2 # Comments: 0",
+      "date": "2026-11-20T10:10:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
       "date": "2026-11-20T10:08:47+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
+      "link": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a",
+      "summary": "Article URL: https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a Comments URL: https://news.ycombinator.com/item?id=50572553 Points: 1 # Comments: 0",
+      "date": "2026-11-20T10:08:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
@@ -162,7 +202,7 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 3 # Comments: 1",
       "date": "2026-11-20T10:01:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -170,7 +210,7 @@
     {
       "title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
       "link": "https://github.com/PHONGUIT22/nostrpulse-full",
-      "summary": "Article URL: https://github.com/PHONGUIT22/nostrpulse-full Comments URL: https://news.ycombinator.com/item?id=50572502 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/PHONGUIT22/nostrpulse-full Comments URL: https://news.ycombinator.com/item?id=50572502 Points: 2 # Comments: 0",
       "date": "2026-11-20T10:01:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -186,7 +226,7 @@
     {
       "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
       "link": "https://bitrise.io/artex-incident-report",
-      "summary": "Article URL: https://bitrise.io/artex-incident-report Comments URL: https://news.ycombinator.com/item?id=50572416 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://bitrise.io/artex-incident-report Comments URL: https://news.ycombinator.com/item?id=50572416 Points: 2 # Comments: 0",
       "date": "2026-11-20T09:51:05+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -266,7 +306,7 @@
     {
       "title": "Show HN: Prove what your AI agent did – sign actions, verify in the browser",
       "link": "https://agentproofchain.com/try/",
-      "summary": "Article URL: https://agentproofchain.com/try/ Comments URL: https://news.ycombinator.com/item?id=50571709 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://agentproofchain.com/try/ Comments URL: https://news.ycombinator.com/item?id=50571709 Points: 3 # Comments: 1",
       "date": "2026-11-20T08:20:57+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -392,22 +432,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
-      "link": "https://soundbench.net/",
-      "summary": "Article URL: https://soundbench.net/ Comments URL: https://news.ycombinator.com/item?id=50570611 Points: 1 # Comments: 1",
-      "date": "2026-11-20T05:44:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Humans.md: tell your AI agents how to work with you",
-      "link": "https://humansmd.dev/",
-      "summary": "Article URL: https://humansmd.dev/ Comments URL: https://news.ycombinator.com/item?id=50570598 Points: 4 # Comments: 0",
-      "date": "2026-11-20T05:42:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
       "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
       "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Peter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a k",
@@ -422,30 +446,6 @@
       "date": "2026-11-20T04:51:28+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Ask HN: Does AI slop require more marketing in the future?",
-      "link": "https://news.ycombinator.com/item?id=50570283",
-      "summary": "Now that after Anthropic's IPO debut and with OpenAPI IPO in the works there is no doubt that the % of AI slop is going to increase disproportionately though this study says it has indeed gone down in 2026 since 2025 (https://tom-riley.co.uk/blog/ai-generated-content-statistics/)",
-      "date": "2026-11-20T04:45:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Animated Steller's Jay, a beautiful AI benchmark",
-      "link": "https://grady.dev/projects/steller/",
-      "summary": "Article URL: https://grady.dev/projects/steller/ Comments URL: https://news.ycombinator.com/item?id=50570274 Points: 1 # Comments: 0",
-      "date": "2026-11-20T04:43:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html Comments URL: https://news.ycombinator.com/item?id=50570266 Points: 2 # Comments: 0",
-      "date": "2026-11-20T04:41:23+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
@@ -464,6 +464,14 @@
       "source": "The Register"
     },
     {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "date": "2026-11-20T03:56:17+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
       "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
       "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s m",
@@ -476,7 +484,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
       "date": "2026-11-20T02:54:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929e/live/80e88200-e4b9-11f1-99a1-253766e7ad8b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
       "source": "BBC Technology"
     },
     {
@@ -3334,14 +3342,6 @@
       "date": "2026-10-05T21:08:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
       "source": "Google Research"
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
-      "date": "2026-10-05T12:32:30+00:00",
-      "image": "",
-      "source": "Import AI"
     }
   ]
 }
