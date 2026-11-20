@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:51:16.837028+00:00",
+  "updated": "2026-11-20T17:06:25.094759+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -39,6 +39,27 @@
     "Towards Data Science"
   ],
   "trending": [
+    {
+      "count": 2,
+      "title": "Anthropic Stock Falls About 9% on First Full Trading Day as AI Stocks Slide",
+      "date": "2026-11-20T17:02:51+00:00",
+      "sources": [
+        "CNBC Technology",
+        "Hacker News AI"
+      ],
+      "links": [
+        {
+          "source": "Hacker News AI",
+          "title": "Anthropic Stock Falls About 9% on First Full Trading Day as AI Stocks Slide",
+          "link": "https://www.gadgetreview.com/anthropic-stock-falls-about-9-on-first-full-trading-day-as-ai-stocks-slide"
+        },
+        {
+          "source": "CNBC Technology",
+          "title": "Anthropic stock falls 10% in first full day of trading amid AI sell-off",
+          "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+        }
+      ]
+    },
     {
       "count": 2,
       "title": "EU confirms AI-assisted cyberattack on European Commission",
@@ -164,6 +185,70 @@
     }
   ],
   "items": [
+    {
+      "title": "Code Inflation: AI Prints Code Faster Than Anyone Can Review It",
+      "link": "https://www.everydev.ai/p/blog-code-inflation-ai-prints-code-faster-than-anyone-can-review-it",
+      "summary": "Article URL: https://www.everydev.ai/p/blog-code-inflation-ai-prints-code-faster-than-anyone-can-review-it Comments URL: https://news.ycombinator.com/item?id=50578031 Points: 1 # Comments: 0",
+      "date": "2026-11-20T17:05:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Auditing 23.5k Google AI Ultra ($200/mo) SQLite logs: 0% KV cache and tiered IDs",
+      "link": "https://github.com/fatrabbit29/antigravity-ultra-quota-audit",
+      "summary": "Article URL: https://github.com/fatrabbit29/antigravity-ultra-quota-audit Comments URL: https://news.ycombinator.com/item?id=50578021 Points: 1 # Comments: 0",
+      "date": "2026-11-20T17:05:14+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "SEC filings suggest press releases and executive quotes increasingly using AI",
+      "link": "https://www.assetroom.net/blog/public-companies-using-ai-to-write-press-releases",
+      "summary": "Article URL: https://www.assetroom.net/blog/public-companies-using-ai-to-write-press-releases Comments URL: https://news.ycombinator.com/item?id=50578013 Points: 1 # Comments: 0",
+      "date": "2026-11-20T17:04:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic Stock Falls About 9% on First Full Trading Day as AI Stocks Slide",
+      "link": "https://www.gadgetreview.com/anthropic-stock-falls-about-9-on-first-full-trading-day-as-ai-stocks-slide",
+      "summary": "Article URL: https://www.gadgetreview.com/anthropic-stock-falls-about-9-on-first-full-trading-day-as-ai-stocks-slide Comments URL: https://news.ycombinator.com/item?id=50577974 Points: 1 # Comments: 0",
+      "date": "2026-11-20T17:02:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:59:27+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI is giving everyone the same advice",
+      "link": "https://a90.com/experiments/same-advice/",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:58:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
+      "date": "2026-11-20T16:57:47+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Show HN: Full Production Studio, 77 open-source AI skills for video creators",
+      "link": "https://github.com/alfaris/full-production-studio",
+      "summary": "Article URL: https://github.com/alfaris/full-production-studio Comments URL: https://news.ycombinator.com/item?id=50577746 Points: 1 # Comments: 0",
+      "date": "2026-11-20T16:51:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "AI Is Coming to Your Doctor's Office",
       "link": "https://thewalrus.ca/ai-doctors/",
@@ -381,38 +466,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Top AI models have mostly stopped inventing citations, Stanford study",
-      "link": "https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/",
-      "summary": "Article URL: https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/ Comments URL: https://news.ycombinator.com/item?id=50575999 Points: 2 # Comments: 0",
-      "date": "2026-11-20T15:23:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Debian APT to drop legacy features, citing advances in AI security research",
-      "link": "https://lists.debian.org/debian-devel-announce/2026/11/msg00001.html",
-      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/11/msg00001.html Comments URL: https://news.ycombinator.com/item?id=50575954 Points: 1 # Comments: 0",
-      "date": "2026-11-20T15:22:09+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Dubious Idea of AI-Run Companies",
-      "link": "https://read.misalignedmag.com/the-dubious-idea-of-ai-run-companies-b26c49c77dc5",
-      "summary": "Article URL: https://read.misalignedmag.com/the-dubious-idea-of-ai-run-companies-b26c49c77dc5 Comments URL: https://news.ycombinator.com/item?id=50575947 Points: 1 # Comments: 1",
-      "date": "2026-11-20T15:21:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Preflight-agent – five checks your AI-agent setup needs before it runs",
-      "link": "https://github.com/jasveerai88/preflight-agent",
-      "summary": "Article URL: https://github.com/jasveerai88/preflight-agent Comments URL: https://news.ycombinator.com/item?id=50575799 Points: 1 # Comments: 0",
-      "date": "2026-11-20T15:14:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Apple is hiring engineers to build its own AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to ",
@@ -427,14 +480,6 @@
       "date": "2026-11-20T15:12:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311357&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "An Italian court just put a price on \"I made it with AI\"",
-      "link": "https://tokyoticker.substack.com/p/six-prompts-15-minutes-no-copyright",
-      "summary": "Article URL: https://tokyoticker.substack.com/p/six-prompts-15-minutes-no-copyright Comments URL: https://news.ycombinator.com/item?id=50575649 Points: 1 # Comments: 0",
-      "date": "2026-11-20T15:03:51+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
@@ -459,22 +504,6 @@
       "date": "2026-11-20T14:55:44+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50575429 Points: 1 # Comments: 0",
-      "date": "2026-11-20T14:50:18+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "What's the environmental impact of my AI usage?",
-      "link": "https://substack.hadley.nz/p/whats-the-environmental-impact-of",
-      "summary": "Article URL: https://substack.hadley.nz/p/whats-the-environmental-impact-of Comments URL: https://news.ycombinator.com/item?id=50575419 Points: 1 # Comments: 1",
-      "date": "2026-11-20T14:49:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
@@ -629,17 +658,17 @@
       "source": "The Register"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -683,6 +712,14 @@
       "date": "2026-11-20T07:08:36+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "date": "2026-11-20T07:00:00+00:00",
+      "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "source": "Wired AI"
     },
     {
       "title": "Support tech fixed malware by charging client less for their services",
@@ -1027,14 +1064,6 @@
       "date": "2026-11-19T19:43:08+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was fo",
-      "date": "2026-11-19T19:10:57+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Anthropic’s IPO could deliver $156B to charity",
@@ -3355,14 +3384,6 @@
       "date": "2026-10-09T21:33:47+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
       "source": "Interconnects"
-    },
-    {
-      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
-      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
-      "date": "2026-10-09T05:06:58+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
-      "source": "Last Week in AI"
     }
   ]
 }
