@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T03:50:54.072945+00:00",
+  "updated": "2026-11-20T04:06:24.324540+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -144,6 +144,22 @@
   ],
   "items": [
     {
+      "title": "Show HN: GhostFleet: A Battleship game with an advanced AI opponent",
+      "link": "https://ghostfleet.in/play?mode=wraithAI",
+      "summary": "Hi HN I've always been drawn to puzzle and strategy games, and for a long time I've wanted to build a game of my own. While building my own version of battleship, I came across this idea of adding a super intelligent in-game AI which uses probability and statistics to reason with",
+      "date": "2026-11-20T03:59:43+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "date": "2026-11-20T03:56:17+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
       "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
@@ -194,7 +210,7 @@
     {
       "title": "Nobody is talking seriously about AI demand",
       "link": "https://twitter.com/giovannicatt3/status/2094815425972539565",
-      "summary": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 4 # Comments: 0",
       "date": "2026-11-20T02:36:40+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -322,7 +338,7 @@
     {
       "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
       "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 7 # Comments: 1",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50568114 Points: 8 # Comments: 1",
       "date": "2026-11-19T23:34:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -378,7 +394,7 @@
     {
       "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
       "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 54 # Comments: 17",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 54 # Comments: 18",
       "date": "2026-11-19T22:56:59+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -534,14 +550,6 @@
       "date": "2026-11-19T21:40:31+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "When AI-built apps get risky: data from 3,911 repos",
-      "link": "https://pathtoship.com/blog/when-ai-built-apps-actually-break",
-      "summary": "Article URL: https://pathtoship.com/blog/when-ai-built-apps-actually-break Comments URL: https://news.ycombinator.com/item?id=50566694 Points: 2 # Comments: 0",
-      "date": "2026-11-19T21:31:32+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic starts trading on Wall Street",
@@ -926,14 +934,6 @@
       "date": "2026-11-19T14:00:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-      "date": "2026-11-19T13:57:40+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
