@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:36:28.677063+00:00",
+  "updated": "2026-11-20T17:51:12.412177+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -186,6 +186,30 @@
   ],
   "items": [
     {
+      "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+      "link": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+      "summary": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model T",
+      "date": "2026-11-20T17:42:29+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
+      "title": "Chips can survive the space environment. Can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "date": "2026-11-20T17:40:01+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "date": "2026-11-20T17:36:29+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "source": "BBC Technology"
+    },
+    {
       "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
       "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
       "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
@@ -336,14 +360,6 @@
       "date": "2026-11-20T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "date": "2026-11-20T16:27:47+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
@@ -666,17 +682,17 @@
       "source": "The Register"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1498,14 +1514,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "date": "2026-11-18T22:58:11+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
       "link": "https://www.wired.com/story/guys-really-we-got-this/",
       "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
@@ -1758,14 +1766,6 @@
       "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
       "summary": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.72",
       "date": "2026-11-18T07:10:53+00:00",
-      "image": "",
-      "source": "MarkTechPost"
-    },
-    {
-      "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
-      "link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-      "summary": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run. The post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls i",
-      "date": "2026-11-18T06:53:28+00:00",
       "image": "",
       "source": "MarkTechPost"
     },
