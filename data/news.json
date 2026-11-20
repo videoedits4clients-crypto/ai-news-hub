@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:50:28.902824+00:00",
+  "updated": "2026-11-20T16:05:52.693014+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,62 @@
   ],
   "items": [
     {
+      "title": "Bounded checking and repair for AI(or other) proposers",
+      "link": "https://github.com/Onescale414/BRACE-Harness",
+      "summary": "Article URL: https://github.com/Onescale414/BRACE-Harness Comments URL: https://news.ycombinator.com/item?id=50576786 Points: 1 # Comments: 1",
+      "date": "2026-11-20T16:03:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
+      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "summary": "Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028",
+      "date": "2026-11-20T16:01:00+00:00",
+      "image": "https://image.theregister.com/?imageId=247172&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked comp",
+      "date": "2026-11-20T15:59:08+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Channel.is – email and social media with no AI. take back the human internet",
+      "link": "https://channel.is/",
+      "summary": "Article URL: https://channel.is/ Comments URL: https://news.ycombinator.com/item?id=50576649 Points: 1 # Comments: 1",
+      "date": "2026-11-20T15:55:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Tiny AI Security Model Beats Five Frontier LLMs on Privacy Detection",
+      "link": "https://www.proofagent.ai/research/ai-shield-nano",
+      "summary": "Article URL: https://www.proofagent.ai/research/ai-shield-nano Comments URL: https://news.ycombinator.com/item?id=50576647 Points: 1 # Comments: 0",
+      "date": "2026-11-20T15:55:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic stock falls 10% in first full day of trading amid AI sell-off",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
+      "date": "2026-11-20T15:52:55+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "\"Artificial\" Gets a Human-Made AI-Style Poster",
+      "link": "https://www.darkhorizons.com/artificial-gets-a-human-made-ai-style-poster/",
+      "summary": "Article URL: https://www.darkhorizons.com/artificial-gets-a-human-made-ai-style-poster/ Comments URL: https://news.ycombinator.com/item?id=50576516 Points: 2 # Comments: 0",
+      "date": "2026-11-20T15:49:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Anthropic shares fall a day after blockbuster opening",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
@@ -195,7 +251,7 @@
     {
       "title": "An experimental web browser written from scratch in Rust by an AI agent (Claude)",
       "link": "https://github.com/senko/swb",
-      "summary": "Article URL: https://github.com/senko/swb Comments URL: https://news.ycombinator.com/item?id=50576386 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/senko/swb Comments URL: https://news.ycombinator.com/item?id=50576386 Points: 2 # Comments: 0",
       "date": "2026-11-20T15:41:40+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -243,7 +299,7 @@
     {
       "title": "Top AI models have mostly stopped inventing citations, Stanford study",
       "link": "https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/",
-      "summary": "Article URL: https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/ Comments URL: https://news.ycombinator.com/item?id=50575999 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/ Comments URL: https://news.ycombinator.com/item?id=50575999 Points: 2 # Comments: 0",
       "date": "2026-11-20T15:23:45+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -393,14 +449,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Anthropic stock falls 9% to open first full day of trading amid AI sell-off",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-      "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
-      "date": "2026-11-20T14:32:47+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Show HN: Agent Guard – limit what an AI agent can do when it gets tricked",
       "link": "https://github.com/ShieldaAI/agent-guard",
       "summary": "Article URL: https://github.com/ShieldaAI/agent-guard Comments URL: https://news.ycombinator.com/item?id=50575068 Points: 2 # Comments: 0",
@@ -449,14 +497,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI Gateway: Manage your company's AI from one place",
-      "link": "https://layerx.xyz/ai-gateway",
-      "summary": "Article URL: https://layerx.xyz/ai-gateway Comments URL: https://news.ycombinator.com/item?id=50574879 Points: 4 # Comments: 0",
-      "date": "2026-11-20T14:09:22+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "The week everything fell apart",
       "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be th",
@@ -471,38 +511,6 @@
       "date": "2026-11-20T14:00:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "A Man and His Muse AI Agent Sue Meta",
-      "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50574732 Points: 1 # Comments: 0",
-      "date": "2026-11-20T13:57:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linke",
-      "date": "2026-11-20T13:53:13+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Be Kind to AI (?)",
-      "link": "https://elsevanderberg.substack.com/p/be-kind-to-ai",
-      "summary": "Article URL: https://elsevanderberg.substack.com/p/be-kind-to-ai Comments URL: https://news.ycombinator.com/item?id=50574620 Points: 1 # Comments: 0",
-      "date": "2026-11-20T13:49:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Search Analytics Confirm Higher Ed's LLM Winners Are Large Publics/Nonprofits",
-      "link": "https://insights.kolariconsulting.com/p/ai-search-analytics-confirm-higher",
-      "summary": "Article URL: https://insights.kolariconsulting.com/p/ai-search-analytics-confirm-higher Comments URL: https://news.ycombinator.com/item?id=50574569 Points: 1 # Comments: 0",
-      "date": "2026-11-20T13:45:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
@@ -3375,14 +3383,6 @@
       "date": "2026-10-06T14:22:41+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
       "source": "Interconnects"
-    },
-    {
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "summary": "Generative AI",
-      "date": "2026-10-05T21:08:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
-      "source": "Google Research"
     }
   ]
 }
