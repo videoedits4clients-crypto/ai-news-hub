@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:50:39.698729+00:00",
+  "updated": "2026-11-21T01:06:14.743669+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,52 +164,12 @@
   ],
   "items": [
     {
-      "title": "A push for a treaty to not allow AI total control over nukes",
-      "link": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
-      "summary": "Article URL: https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons Comments URL: https://news.ycombinator.com/item?id=50584410 Points: 1 # Comments: 0",
-      "date": "2026-11-21T00:31:13+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "If AI found better drugs for every disease, what would it cost to prove it?",
-      "link": "https://cvigoe.github.io/website/ai-cures/",
-      "summary": "Article URL: https://cvigoe.github.io/website/ai-cures/ Comments URL: https://news.ycombinator.com/item?id=50584400 Points: 1 # Comments: 0",
-      "date": "2026-11-21T00:29:57+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Is Ssense Pivoting to AI Slop?",
-      "link": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
-      "summary": "Article URL: https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=50584218 Points: 3 # Comments: 1",
-      "date": "2026-11-21T00:06:18+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
       "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
       "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
       "date": "2026-11-21T00:06:11+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "AI models change their answers when they are monitored",
-      "link": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
-      "summary": "Article URL: https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093 Comments URL: https://news.ycombinator.com/item?id=50583899 Points: 2 # Comments: 0",
-      "date": "2026-11-20T23:33:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
-      "link": "https://saturnsql.com/context-layer",
-      "summary": "I've seen a rising demand for context when AI queries data from different places, so I built a way to provide it. You basically describe the tables, write free-form markdown notes and set definitions (e.g. the SQL for how to calculate an active user, so everyone in the company ca",
-      "date": "2026-11-20T23:31:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
@@ -228,14 +188,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "Tor Books Removes Book Cover Generated with AI",
-      "link": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
-      "summary": "Article URL: https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w Comments URL: https://news.ycombinator.com/item?id=50583716 Points: 7 # Comments: 0",
-      "date": "2026-11-20T23:14:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
       "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
@@ -252,28 +204,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
-      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html Comments URL: https://news.ycombinator.com/item?id=50583519 Points: 3 # Comments: 0",
-      "date": "2026-11-20T22:55:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
       "date": "2026-11-20T22:53:24+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "AI may have solved the most important problem in mathematics",
-      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points: 15 # Comments: 7",
-      "date": "2026-11-20T22:46:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -284,30 +220,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Libreboot Abandons Anti-AI Policy After One Month",
-      "link": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
-      "summary": "Article URL: https://www.phoronix.com/news/Libreboot-Drops-AI-Policy Comments URL: https://news.ycombinator.com/item?id=50583380 Points: 6 # Comments: 0",
-      "date": "2026-11-20T22:42:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
-      "link": "https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md",
-      "summary": "Article URL: https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md Comments URL: https://news.ycombinator.com/item?id=50583377 Points: 2 # Comments: 0",
-      "date": "2026-11-20T22:41:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Antseed – brings people's computers together to serve AI",
-      "link": "https://antseed.com/",
-      "summary": "Article URL: https://antseed.com/ Comments URL: https://news.ycombinator.com/item?id=50583354 Points: 2 # Comments: 0",
-      "date": "2026-11-20T22:39:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
       "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
       "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
@@ -316,44 +228,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Jsonbit – Reduce token usage when AI reads logs",
-      "link": "https://github.com/prathikmurugan/jsonbit",
-      "summary": "Article URL: https://github.com/prathikmurugan/jsonbit Comments URL: https://news.ycombinator.com/item?id=50582997 Points: 2 # Comments: 0",
-      "date": "2026-11-20T22:08:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "date": "2026-11-20T21:58:29+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 7 # Comments: 1",
-      "date": "2026-11-20T21:53:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
-      "link": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
-      "summary": "Article URL: https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq Comments URL: https://news.ycombinator.com/item?id=50582751 Points: 3 # Comments: 0",
-      "date": "2026-11-20T21:50:43+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50582734 Points: 2 # Comments: 0",
-      "date": "2026-11-20T21:49:42+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
@@ -380,28 +260,20 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+      "summary": "No financial details, but plenty of other clues",
+      "date": "2026-11-20T21:27:56+00:00",
+      "image": "https://image.theregister.com/?imageId=5311482&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
       "date": "2026-11-20T21:27:51+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
-      "link": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
-      "summary": "Article URL: https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1 Comments URL: https://news.ycombinator.com/item?id=50582358 Points: 3 # Comments: 0",
-      "date": "2026-11-20T21:23:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
-      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 30 # Comments: 3",
-      "date": "2026-11-20T21:18:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
@@ -412,20 +284,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
-      "link": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
-      "summary": "Article URL: https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil Comments URL: https://news.ycombinator.com/item?id=50582084 Points: 4 # Comments: 1",
-      "date": "2026-11-20T21:04:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI is building me a web browser",
-      "link": "https://blog.senko.net/ai-is-building-me-a-web-browser",
-      "summary": "Article URL: https://blog.senko.net/ai-is-building-me-a-web-browser Comments URL: https://news.ycombinator.com/item?id=50581976 Points: 6 # Comments: 0",
-      "date": "2026-11-20T20:57:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "date": "2026-11-20T20:59:08+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -436,22 +300,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "LegisComply – Mask sensitive details in AI prompts",
-      "link": "https://www.legiscomply.com/?sample=proposal-review",
-      "summary": "Article URL: https://www.legiscomply.com/?sample=proposal-review Comments URL: https://news.ycombinator.com/item?id=50581897 Points: 1 # Comments: 0",
-      "date": "2026-11-20T20:52:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Second Brain and Agent Maintenance Thoughts on AI Usage?",
-      "link": "https://news.ycombinator.com/item?id=50581873",
-      "summary": "I have been seeing tons of stuff about people developing 'second brains' as a data vault for their AI usage on X. I fully understand the ideology, in terms of storing data, reducing context, having a single pane to work off of, etc. The part I struggle with, is that as an employe",
-      "date": "2026-11-20T20:51:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
       "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
@@ -460,28 +308,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Who Should Make Medical-Necessity Decisions: AI, Insurers, or Physicians?",
-      "link": "https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/",
-      "summary": "Article URL: https://medcitynews.com/2026/11/who-should-make-medical-necessity-decisions-ai-insurers-or-treating-physicians/ Comments URL: https://news.ycombinator.com/item?id=50581827 Points: 2 # Comments: 0",
-      "date": "2026-11-20T20:47:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Monkeys, Libraries, and AI",
-      "link": "https://abitwired.substack.com/p/monkeys-libraries-and-ai",
-      "summary": "Article URL: https://abitwired.substack.com/p/monkeys-libraries-and-ai Comments URL: https://news.ycombinator.com/item?id=50581166 Points: 3 # Comments: 0",
-      "date": "2026-11-20T20:07:18+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: ArkViz – AI generated software architecture diagrams",
-      "link": "https://arkviz.io",
-      "summary": "Hi HN, I’m Bryant, founder of ArkViz ( https://arkviz.io ). ArkViz is a product to automatically generate architecture diagrams from your codebase using AI. The vision behind ArkViz is to supercharge both AI agents and humans by providing AI agents deeper relational context using",
-      "date": "2026-11-20T19:58:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+      "date": "2026-11-20T20:42:04+00:00",
+      "image": "https://image.theregister.com/?imageId=227546&width=800",
+      "source": "The Register"
     },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -556,6 +388,14 @@
       "source": "The Verge AI"
     },
     {
+      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "summary": "A deeper look at Vera",
+      "date": "2026-11-20T18:45:50+00:00",
+      "image": "https://image.theregister.com/?imageId=5228929&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
       "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
       "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, s",
@@ -596,12 +436,28 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+      "date": "2026-11-20T17:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311400&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
       "date": "2026-11-20T16:57:47+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "summary": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
+      "date": "2026-11-20T16:44:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5308699&width=800",
+      "source": "The Register"
     },
     {
       "title": "Quoting Levent Alpöge",
@@ -618,6 +474,14 @@
       "date": "2026-11-20T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
+      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "summary": "Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028",
+      "date": "2026-11-20T16:01:00+00:00",
+      "image": "https://image.theregister.com/?imageId=247172&width=800",
+      "source": "The Register"
     },
     {
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -684,6 +548,14 @@
       "source": "The Verge AI"
     },
     {
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+      "date": "2026-11-20T14:07:24+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "The week everything fell apart",
       "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be th",
@@ -714,6 +586,22 @@
       "date": "2026-11-20T12:52:15+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
+      "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
+      "date": "2026-11-20T12:47:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311243&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+      "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+      "summary": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
+      "date": "2026-11-20T12:18:19+00:00",
+      "image": "https://image.theregister.com/?imageId=5220278&width=800",
+      "source": "The Register"
     },
     {
       "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
@@ -748,17 +636,25 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
-      "date": "2026-11-20T11:00:31+00:00",
-      "image": "",
-      "source": "The Guardian AI"
+      "title": "Windows 11 passkey bug cries failure after successful sign-in",
+      "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+      "summary": "Optional update fixes misleading Android error for versions 25H2 and 26H2",
+      "date": "2026-11-20T11:09:44+00:00",
+      "image": "https://image.theregister.com/?imageId=5289791&width=800",
+      "source": "The Register"
     },
     {
       "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
       "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "date": "2026-11-20T11:00:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -820,6 +716,14 @@
       "source": "Wired AI"
     },
     {
+      "title": "Support tech fixed malware by charging client less for their services",
+      "link": "https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959",
+      "summary": "‘I gave up at least $6,000 and I’d do it again’",
+      "date": "2026-11-20T06:29:00+00:00",
+      "image": "https://image.theregister.com/?imageId=252539&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "AI is changing software engineering — and some developers miss the struggle",
       "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
       "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
@@ -850,6 +754,14 @@
       "date": "2026-11-20T04:37:08+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
+      "link": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
+      "summary": "Not many of the deals went through, but Chinese clouds no longer care about importing GPUs",
+      "date": "2026-11-20T04:04:56+00:00",
+      "image": "https://image.theregister.com/?imageId=236466&width=800",
+      "source": "The Register"
     },
     {
       "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
@@ -1132,6 +1044,14 @@
       "source": "NVIDIA Blog"
     },
     {
+      "title": "Palo Alto Networks opens wallet for open-weight training biz",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
+      "summary": "Security shop buys the hand that feeds it",
+      "date": "2026-11-19T20:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311172&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic’s IPO could deliver $156B to charity",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
@@ -1146,6 +1066,14 @@
       "date": "2026-11-19T19:07:41+00:00",
       "image": "",
       "source": "The Verge AI"
+    },
+    {
+      "title": "Nvidia adds possible hack to list of very bad things under investigation",
+      "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+      "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+      "date": "2026-11-19T18:52:53+00:00",
+      "image": "https://image.theregister.com/?imageId=5311157&width=800",
+      "source": "The Register"
     },
     {
       "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
@@ -1194,6 +1122,14 @@
       "date": "2026-11-19T17:38:40+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+      "summary": "Company still has to contend with massive compute obligations and the threat of open models, neither of which Dario Amodei is worried about, he claims",
+      "date": "2026-11-19T17:09:45+00:00",
+      "image": "https://image.theregister.com/?imageId=166252&width=800",
+      "source": "The Register"
     },
     {
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -1252,6 +1188,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
+      "link": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
+      "summary": "DoJ claims suspect part of 4-month operation to steal secrets, surveil employees",
+      "date": "2026-11-19T16:20:00+00:00",
+      "image": "https://image.theregister.com/?imageId=259265&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
@@ -1266,6 +1210,14 @@
       "date": "2026-11-19T15:58:58+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Europe's biggest gas supplier battling cyberattack – with no timeline for recovery",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
+      "summary": "Norwegian energy giant Equinor says oil and gas production remains unaffected",
+      "date": "2026-11-19T15:37:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311057&width=800",
+      "source": "The Register"
     },
     {
       "title": "AI demand will push up interest rates around the world, IMF head warns",
@@ -3362,6 +3314,54 @@
       "date": "2026-09-25T12:45:04+00:00",
       "image": "",
       "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Automating coherent long-form video generation",
+      "link": "https://research.google/blog/coherent-long-form-video-generation/",
+      "summary": "Generative AI",
+      "date": "2026-09-24T19:40:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+      "source": "Google Research"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
     }
   ]
 }
