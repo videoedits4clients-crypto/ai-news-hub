@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:06:23.021598+00:00",
+  "updated": "2026-11-21T21:21:07.013559+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,14 @@
   ],
   "items": [
     {
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "date": "2026-11-21T21:07:42+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "Air Office – Open-source local-first desktop workspace for AI safety research",
       "link": "https://gyrogovernance.com/air-office/",
       "summary": "Article URL: https://gyrogovernance.com/air-office/ Comments URL: https://news.ycombinator.com/item?id=50593563 Points: 1 # Comments: 0",
@@ -190,7 +198,7 @@
     {
       "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
       "link": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
-      "summary": "Article URL: https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html Comments URL: https://news.ycombinator.com/item?id=50593191 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html Comments URL: https://news.ycombinator.com/item?id=50593191 Points: 4 # Comments: 0",
       "date": "2026-11-21T20:14:20+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -202,6 +210,14 @@
       "date": "2026-11-21T20:12:04+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitl",
+      "date": "2026-11-21T20:03:37+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Windows: Run larger local AI models across PCs",
@@ -318,7 +334,7 @@
     {
       "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
       "link": "https://twitter.com/theallinpod/status/2123994998156722681",
-      "summary": "Article URL: https://twitter.com/theallinpod/status/2123994998156722681 Comments URL: https://news.ycombinator.com/item?id=50591687 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/theallinpod/status/2123994998156722681 Comments URL: https://news.ycombinator.com/item?id=50591687 Points: 6 # Comments: 0",
       "date": "2026-11-21T17:45:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1372,14 +1388,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Google is putting AI chats right on the homepage",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar b",
-      "date": "2026-11-19T20:14:34+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "A game you cannot win unless you have a quantum computer",
       "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
       "summary": "Quantum",
@@ -1546,14 +1554,6 @@
       "date": "2026-11-19T14:00:12+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "date": "2026-11-19T14:00:00+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
