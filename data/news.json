@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:50:28.608619+00:00",
+  "updated": "2026-11-21T22:05:54.763876+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,14 @@
   ],
   "items": [
     {
+      "title": "Drugs, AI, and What Remains of Us",
+      "link": "https://amirhkarimi.medium.com/drugs-ai-and-what-remains-of-us-2efa1494ecf5",
+      "summary": "Article URL: https://amirhkarimi.medium.com/drugs-ai-and-what-remains-of-us-2efa1494ecf5 Comments URL: https://news.ycombinator.com/item?id=50594050 Points: 1 # Comments: 1",
+      "date": "2026-11-21T21:57:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: Nistivo – custom AI models trained for you, one fixed quote",
       "link": "https://nistivo.com/",
       "summary": "Article URL: https://nistivo.com/ Comments URL: https://news.ycombinator.com/item?id=50593969 Points: 1 # Comments: 0",
@@ -206,7 +214,7 @@
     {
       "title": "Air Office – Open-source local-first desktop workspace for AI safety research",
       "link": "https://gyrogovernance.com/air-office/",
-      "summary": "Article URL: https://gyrogovernance.com/air-office/ Comments URL: https://news.ycombinator.com/item?id=50593563 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://gyrogovernance.com/air-office/ Comments URL: https://news.ycombinator.com/item?id=50593563 Points: 2 # Comments: 0",
       "date": "2026-11-21T20:57:01+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -392,14 +400,6 @@
       "link": "https://antseed.com/",
       "summary": "Article URL: https://antseed.com/ Comments URL: https://news.ycombinator.com/item?id=50591379 Points: 2 # Comments: 0",
       "date": "2026-11-21T17:18:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "NPR on AI Safety Factions",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
-      "summary": "Article URL: https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions Comments URL: https://news.ycombinator.com/item?id=50591319 Points: 1 # Comments: 0",
-      "date": "2026-11-21T17:13:50+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1052,17 +1052,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
