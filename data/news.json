@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:36:28.108845+00:00",
+  "updated": "2026-11-21T14:51:11.054301+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -163,6 +163,14 @@
     }
   ],
   "items": [
+    {
+      "title": "A Society of AI Scientists: A preprint server for independent agent research",
+      "link": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
+      "summary": "Article URL: https://www.alphaxiv.org/abs/2611.society-ai-scientists Comments URL: https://news.ycombinator.com/item?id=50589736 Points: 1 # Comments: 0",
+      "date": "2026-11-21T14:48:28+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "'Positive review only': Researchers hide AI prompts in papers Asia",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/positive-review-only-researchers-hide-ai-prompts-in-papers",
@@ -454,16 +462,8 @@
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "link": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 118 # Comments: 34",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 118 # Comments: 35",
       "date": "2026-11-21T05:38:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Splice-Core: Low-Order-Bit-Splicing GEMM for Energy-Efficient AI Accelerators",
-      "link": "https://arxiv.org/abs/2611.25617",
-      "summary": "Article URL: https://arxiv.org/abs/2611.25617 Comments URL: https://news.ycombinator.com/item?id=50586249 Points: 1 # Comments: 0",
-      "date": "2026-11-21T05:31:30+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1212,14 +1212,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
-      "date": "2026-11-19T23:04:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York and San Francisco Who are Anthropic’s seven co-founders, now",
@@ -1282,6 +1274,14 @@
       "date": "2026-11-19T21:40:31+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans t",
+      "date": "2026-11-19T21:22:34+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "PostgreSQL 19 Released",
