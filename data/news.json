@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:06:59.479853+00:00",
+  "updated": "2026-11-21T12:19:52.175763+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -140,9 +140,37 @@
           "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
         }
       ]
+    },
+    {
+      "count": 2,
+      "title": "Microsoft Research Focus – Edition #98",
+      "date": "2026-11-12T21:31:57+00:00",
+      "sources": [
+        "Microsoft Research"
+      ],
+      "links": [
+        {
+          "source": "Microsoft Research",
+          "title": "Microsoft Research Focus – Edition #98",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+        },
+        {
+          "source": "Microsoft Research",
+          "title": "Microsoft Research Focus – Edition #97",
+          "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+        }
+      ]
     }
   ],
   "items": [
+    {
+      "title": "Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces",
+      "link": "https://github.com/srpadmanabhuni/agentest",
+      "summary": "Article URL: https://github.com/srpadmanabhuni/agentest Comments URL: https://news.ycombinator.com/item?id=50588359 Points: 1 # Comments: 0",
+      "date": "2026-11-21T12:07:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
@@ -150,14 +178,6 @@
       "date": "2026-11-21T12:00:58+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
-      "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
-      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.",
-      "date": "2026-11-21T11:46:17+00:00",
-      "image": "",
-      "source": "MarkTechPost"
     },
     {
       "title": "ChatGPT shrunk down to run on a Super Nintendo",
@@ -210,7 +230,7 @@
     {
       "title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
       "link": "https://clawvet.vercel.app/",
-      "summary": "Article URL: https://clawvet.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50587571 Points: 4 # Comments: 1",
+      "summary": "Article URL: https://clawvet.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50587571 Points: 5 # Comments: 1",
       "date": "2026-11-21T09:40:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -266,7 +286,7 @@
     {
       "title": "Show HN: RMRFBench – How often AI agents wreck a server when asked to rm a file",
       "link": "https://www.rmrfbench.com/",
-      "summary": "Article URL: https://www.rmrfbench.com/ Comments URL: https://news.ycombinator.com/item?id=50587178 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://www.rmrfbench.com/ Comments URL: https://news.ycombinator.com/item?id=50587178 Points: 3 # Comments: 1",
       "date": "2026-11-21T08:28:37+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -330,7 +350,7 @@
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "link": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 84 # Comments: 23",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 87 # Comments: 23",
       "date": "2026-11-21T05:38:01+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -386,7 +406,7 @@
     {
       "title": "Images of Canada's most wanted are AI-generated",
       "link": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331 Comments URL: https://news.ycombinator.com/item?id=50585403 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331 Comments URL: https://news.ycombinator.com/item?id=50585403 Points: 2 # Comments: 2",
       "date": "2026-11-21T02:44:51+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -880,17 +900,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1688,6 +1708,14 @@
       "source": "Towards Data Science"
     },
     {
+      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
+      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
+      "summary": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Codi",
+      "date": "2026-11-18T16:07:50+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
       "title": "Quoting Daniel Stenberg",
       "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
       "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfi",
@@ -1904,6 +1932,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Can AI help build a healthier future?",
+      "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. ",
+      "date": "2026-11-17T16:52:17+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Google makes it easier to use Gemini without training AI on your data",
       "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
       "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
@@ -2102,6 +2138,14 @@
       "date": "2026-11-16T18:38:47+00:00",
       "image": "",
       "source": "MIT Tech Review"
+    },
+    {
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spen",
+      "date": "2026-11-16T17:01:35+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "AI Companies Develop Decision Models to Avoid Hallucinations",
@@ -2464,6 +2508,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "Microsoft Research Focus – Edition #98",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #",
+      "date": "2026-11-12T21:31:57+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
@@ -2640,6 +2692,14 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
+      "date": "2026-11-10T20:52:56+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
       "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
       "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm turns people’s natural language preferences into responsive r",
@@ -2800,6 +2860,14 @@
       "source": "Google Research"
     },
     {
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
+      "date": "2026-11-05T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
       "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional ",
@@ -2846,6 +2914,14 @@
       "date": "2026-11-04T16:35:44+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
       "source": "Interconnects"
+    },
+    {
+      "title": "Learn the rules: The hacker mindset",
+      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rule",
+      "date": "2026-11-03T17:14:38+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -2926,6 +3002,22 @@
       "date": "2026-10-30T14:18:30+00:00",
       "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data",
+      "date": "2026-10-30T13:05:28+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
+      "title": "Microsoft Research Focus – Edition #97",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus ",
+      "date": "2026-10-29T19:19:16+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -3080,6 +3172,14 @@
       "source": "ScienceDaily AI"
     },
     {
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualization",
+      "date": "2026-10-22T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
+    },
+    {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -3110,6 +3210,14 @@
       "date": "2026-10-21T16:23:53+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "source": "Google Research"
+    },
+    {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computi",
+      "date": "2026-10-21T16:00:00+00:00",
+      "image": "",
+      "source": "Microsoft Research"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -3254,94 +3362,6 @@
       "date": "2026-10-12T12:30:39+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "I expect rapid progress but not towards general superintelligence",
-      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "date": "2026-10-09T21:33:47+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
-      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
-      "date": "2026-10-09T05:06:58+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Does better work always mean better workers?",
-      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "summary": "",
-      "date": "2026-10-07T20:19:57+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "summary": "Earth AI",
-      "date": "2026-10-06T15:05:11+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "The Cyber Risk Discourse is Broken",
-      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
-      "date": "2026-10-06T14:22:41+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "summary": "Generative AI",
-      "date": "2026-10-05T21:08:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
-      "date": "2026-10-05T12:32:30+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "date": "2026-10-03T07:32:03+00:00",
-      "image": "",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Toward provably private learning from federated data",
-      "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "summary": "Mobile Systems",
-      "date": "2026-10-02T14:57:41+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
-      "date": "2026-10-01T13:17:13+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
     }
   ]
 }
