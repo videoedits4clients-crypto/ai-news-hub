@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T09:05:53.059126+00:00",
+  "updated": "2026-11-21T09:21:07.515457+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,14 @@
   ],
   "items": [
     {
+      "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+      "link": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+      "summary": "Article URL: https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393 Comments URL: https://news.ycombinator.com/item?id=50587451 Points: 1 # Comments: 1",
+      "date": "2026-11-21T09:16:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
       "link": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
       "summary": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
@@ -174,7 +182,7 @@
     {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/ Comments URL: https://news.ycombinator.com/item?id=50587246 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/ Comments URL: https://news.ycombinator.com/item?id=50587246 Points: 2 # Comments: 0",
       "date": "2026-11-21T08:39:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -246,7 +254,7 @@
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "link": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 49 # Comments: 15",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 56 # Comments: 15",
       "date": "2026-11-21T05:38:01+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -400,14 +408,6 @@
       "link": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
       "summary": "Article URL: https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093 Comments URL: https://news.ycombinator.com/item?id=50583899 Points: 2 # Comments: 1",
       "date": "2026-11-20T23:33:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
-      "link": "https://saturnsql.com/context-layer",
-      "summary": "I've seen a rising demand for context when AI queries data from different places, so I built a way to provide it. You basically describe the tables, write free-form markdown notes and set definitions (e.g. the SQL for how to calculate an active user, so everyone in the company ca",
-      "date": "2026-11-20T23:31:55+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -876,17 +876,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
