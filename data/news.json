@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T08:21:21.981639+00:00",
+  "updated": "2026-11-21T08:36:38.794618+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,22 @@
   ],
   "items": [
     {
+      "title": "Show HN: RMRFBench – How often AI agents wreck a server when asked to rm a file",
+      "link": "https://www.rmrfbench.com/",
+      "summary": "Article URL: https://www.rmrfbench.com/ Comments URL: https://news.ycombinator.com/item?id=50587178 Points: 1 # Comments: 0",
+      "date": "2026-11-21T08:28:37+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "What is a team in the age of AI?",
+      "link": "https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai",
+      "summary": "Article URL: https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50587145 Points: 1 # Comments: 0",
+      "date": "2026-11-21T08:23:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Aletheia Aegis: Deterministic sub-millisecond output guard for AI agents",
       "link": "https://github.com/vikasny30/aletheia-aegis",
       "summary": "Article URL: https://github.com/vikasny30/aletheia-aegis Comments URL: https://news.ycombinator.com/item?id=50586524 Points: 1 # Comments: 0",
@@ -214,7 +230,7 @@
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "link": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 38 # Comments: 8",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 42 # Comments: 12",
       "date": "2026-11-21T05:38:01+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -420,28 +436,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
-      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html Comments URL: https://news.ycombinator.com/item?id=50583519 Points: 3 # Comments: 0",
-      "date": "2026-11-20T22:55:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
       "date": "2026-11-20T22:53:24+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "AI may have solved the most important problem in mathematics",
-      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points: 36 # Comments: 6",
-      "date": "2026-11-20T22:46:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -780,6 +780,14 @@
       "source": "The Verge AI"
     },
     {
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+      "date": "2026-11-20T14:07:24+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "The week everything fell apart",
       "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be th",
@@ -868,17 +876,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -3354,14 +3362,6 @@
       "date": "2026-10-12T12:30:39+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "I expect rapid progress but not towards general superintelligence",
-      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "date": "2026-10-09T21:33:47+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
-      "source": "Interconnects"
     }
   ]
 }
