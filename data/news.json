@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:51:11.054301+00:00",
+  "updated": "2026-11-21T15:06:28.872033+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -163,6 +163,38 @@
     }
   ],
   "items": [
+    {
+      "title": "On the day the Riemann hypothesis fell to AI, I took my son for a walk",
+      "link": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+      "summary": "Article URL: https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis Comments URL: https://news.ycombinator.com/item?id=50589898 Points: 1 # Comments: 0",
+      "date": "2026-11-21T15:02:43+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The AI Safety Community Is Increasingly Freaked Out. Should They Be?",
+      "link": "https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/ Comments URL: https://news.ycombinator.com/item?id=50589885 Points: 1 # Comments: 0",
+      "date": "2026-11-21T15:01:23+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "link": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
+      "summary": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together. The post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science .",
+      "date": "2026-11-21T15:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
+      "link": "https://github.com/runpod/runpod-mcp/issues/202",
+      "summary": "Article URL: https://github.com/runpod/runpod-mcp/issues/202 Comments URL: https://news.ycombinator.com/item?id=50589793 Points: 1 # Comments: 0",
+      "date": "2026-11-21T14:53:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "A Society of AI Scientists: A preprint server for independent agent research",
       "link": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
@@ -358,7 +390,7 @@
     {
       "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
       "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50587516 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50587516 Points: 2 # Comments: 0",
       "date": "2026-11-21T09:26:37+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -442,30 +474,6 @@
       "date": "2026-11-21T06:00:52+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Show HN: Sniffy – a free AI detector and Chrome extension",
-      "link": "https://getsniffy.com/",
-      "summary": "Hi, I wanted to see if I can replicate a completely free pangram.com alternative. I directed Fable 5.2 to fine tune RoBert model. At this point it does make mistakes, and not as accurate as pangram.com but I intend to improve it as more people help me with data. Comments URL: htt",
-      "date": "2026-11-21T05:47:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-      "link": "https://github.com/Musset-App/musset",
-      "summary": "I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to feel less “alone” and have a sounding board while I write. - A book is a folder of pla",
-      "date": "2026-11-21T05:42:49+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "link": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 118 # Comments: 35",
-      "date": "2026-11-21T05:38:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
@@ -1212,6 +1220,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
+      "date": "2026-11-19T23:04:02+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York and San Francisco Who are Anthropic’s seven co-founders, now",
@@ -1274,14 +1290,6 @@
       "date": "2026-11-19T21:40:31+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic starts trading on Wall Street",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans t",
-      "date": "2026-11-19T21:22:34+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "PostgreSQL 19 Released",
@@ -2266,14 +2274,6 @@
       "date": "2026-11-16T14:01:15+00:00",
       "image": "",
       "source": "Import AI"
-    },
-    {
-      "title": "How to Avoid AI Replacement as an Analytics Professional in 2027",
-      "link": "https://towardsdatascience.com/how-to-avoid-ai-replacement-as-an-analytics-professional-in-2027/",
-      "summary": "Lessons from manufacturing and logistics projects: follow data from input to output, then turn vague requests into deterministic tools teams trust. The post How to Avoid AI Replacement as an Analytics Professional in 2027 appeared first on Towards Data Science .",
-      "date": "2026-11-16T13:30:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Building AI that can work across the enterprise",
