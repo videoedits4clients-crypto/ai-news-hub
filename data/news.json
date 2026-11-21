@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T18:06:42.713479+00:00",
+  "updated": "2026-11-21T18:21:23.895603+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,14 @@
   ],
   "items": [
     {
+      "title": "Loom: Shared memory, document search, and code indexing for AI agents",
+      "link": "https://github.com/ClickHouse/loom",
+      "summary": "Article URL: https://github.com/ClickHouse/loom Comments URL: https://news.ycombinator.com/item?id=50591960 Points: 1 # Comments: 0",
+      "date": "2026-11-21T18:14:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Zero retention AI providers caught logging prompts",
       "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
       "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50591871 Points: 2 # Comments: 0",
@@ -190,7 +198,7 @@
     {
       "title": "Ask HN: Have you changed your job due to AI?",
       "link": "https://news.ycombinator.com/item?id=50591728",
-      "summary": "Have you been working as a developer, software engineer and quit because of AI and now you are working in a different field like plumbing? What are your experiences so far - do you regret the decision? Comments URL: https://news.ycombinator.com/item?id=50591728 Points: 1 # Commen",
+      "summary": "Have you been working as a developer, software engineer and quit because of AI and now you are working in a different field like plumbing? What are your experiences so far - do you regret the decision? Comments URL: https://news.ycombinator.com/item?id=50591728 Points: 2 # Commen",
       "date": "2026-11-21T17:49:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -198,7 +206,7 @@
     {
       "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
       "link": "https://twitter.com/theallinpod/status/2123994998156722681",
-      "summary": "Article URL: https://twitter.com/theallinpod/status/2123994998156722681 Comments URL: https://news.ycombinator.com/item?id=50591687 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/theallinpod/status/2123994998156722681 Comments URL: https://news.ycombinator.com/item?id=50591687 Points: 5 # Comments: 0",
       "date": "2026-11-21T17:45:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -418,14 +426,6 @@
       "date": "2026-11-21T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
-      "link": "https://github.com/runpod/runpod-mcp/issues/202",
-      "summary": "Article URL: https://github.com/runpod/runpod-mcp/issues/202 Comments URL: https://news.ycombinator.com/item?id=50589793 Points: 3 # Comments: 0",
-      "date": "2026-11-21T14:53:19+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Can Anthropic afford to put safety first?",
