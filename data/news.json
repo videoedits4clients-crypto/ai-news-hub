@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:36:35.350721+00:00",
+  "updated": "2026-11-21T16:51:04.497697+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,30 @@
   ],
   "items": [
     {
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "date": "2026-11-21T16:40:05+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important uns",
+      "date": "2026-11-21T16:39:49+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks",
+      "date": "2026-11-21T16:36:11+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
@@ -196,12 +220,12 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "International talks on controlling use of autonomous weapons collapse",
-      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks",
-      "date": "2026-11-21T13:15:29+00:00",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
+      "date": "2026-11-21T13:29:45+00:00",
       "image": "",
-      "source": "The Guardian AI"
+      "source": "The Verge AI"
     },
     {
       "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
@@ -210,14 +234,6 @@
       "date": "2026-11-21T13:00:01+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-      "date": "2026-11-21T13:00:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "The Outages Are Just Getting Started",
@@ -1084,14 +1100,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-      "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco As the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in ",
-      "date": "2026-11-19T21:52:19+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
       "link": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
       "summary": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench. The post Meta FAIR Self-Improving Memory Hi",
@@ -1194,14 +1202,6 @@
       "date": "2026-11-19T19:10:45+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, makin",
-      "date": "2026-11-19T19:07:41+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Nvidia adds possible hack to list of very bad things under investigation",
