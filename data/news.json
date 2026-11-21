@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:05:53.294050+00:00",
+  "updated": "2026-11-21T13:20:36.099270+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,12 +164,44 @@
   ],
   "items": [
     {
+      "title": "International talks on controlling use of autonomous weapons collapse",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday mornin",
+      "date": "2026-11-21T13:15:29+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Mozilla Developer Spotlight: WebBrain – Open-source local-first AI browser agent",
+      "link": "https://blog.mozilla.org/addons/2026/11/20/developer-spotlight-webbrain/",
+      "summary": "Article URL: https://blog.mozilla.org/addons/2026/11/20/developer-spotlight-webbrain/ Comments URL: https://news.ycombinator.com/item?id=50588860 Points: 1 # Comments: 0",
+      "date": "2026-11-21T13:09:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Allianz Warns AI Insurance Losses Are \"Tip of the Iceberg\"",
+      "link": "https://epyhia.com/allianz-warns-ai-insurance-losses-are-tip-of-the-iceberg-as-incidents",
+      "summary": "Article URL: https://epyhia.com/allianz-warns-ai-insurance-losses-are-tip-of-the-iceberg-as-incidents Comments URL: https://news.ycombinator.com/item?id=50588793 Points: 1 # Comments: 0",
+      "date": "2026-11-21T13:01:28+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
       "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
       "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substra",
       "date": "2026-11-21T13:00:01+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "date": "2026-11-21T13:00:00+00:00",
+      "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+      "source": "Wired AI"
     },
     {
       "title": "Censored vs. Truncated Regression in Python, Explained",
@@ -390,7 +422,7 @@
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "link": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 99 # Comments: 26",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 105 # Comments: 28",
       "date": "2026-11-21T05:38:01+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -424,22 +456,6 @@
       "link": "https://uplinkswitch.ai",
       "summary": "Article URL: https://uplinkswitch.ai Comments URL: https://news.ycombinator.com/item?id=50585695 Points: 1 # Comments: 0",
       "date": "2026-11-21T03:44:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Dangers of AI 'Handoverism'",
-      "link": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
-      "summary": "Article URL: https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57 Comments URL: https://news.ycombinator.com/item?id=50585432 Points: 2 # Comments: 0",
-      "date": "2026-11-21T02:50:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Most Important Charts in AI Are Wrong",
-      "link": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
-      "summary": "Article URL: https://www.rameznaam.com/p/the-most-important-charts-in-ai-are Comments URL: https://news.ycombinator.com/item?id=50585411 Points: 2 # Comments: 1",
-      "date": "2026-11-21T02:45:31+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1364,14 +1380,6 @@
       "source": "The Register"
     },
     {
-      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-      "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-      "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually",
-      "date": "2026-11-19T18:15:48+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
       "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
       "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong,",
@@ -1634,14 +1642,6 @@
       "date": "2026-11-18T23:45:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "link": "https://www.wired.com/story/guys-really-we-got-this/",
-      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-      "date": "2026-11-18T22:16:23+00:00",
-      "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Introducing Gemini 4 Neon",
