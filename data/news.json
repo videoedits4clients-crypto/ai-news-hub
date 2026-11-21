@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:42:01.227860+00:00",
+  "updated": "2026-11-21T02:51:07.359227+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,30 @@
   ],
   "items": [
     {
+      "title": "The Dangers of AI 'Handoverism'",
+      "link": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
+      "summary": "Article URL: https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57 Comments URL: https://news.ycombinator.com/item?id=50585432 Points: 1 # Comments: 0",
+      "date": "2026-11-21T02:50:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The Most Important Charts in AI Are Wrong",
+      "link": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+      "summary": "Article URL: https://www.rameznaam.com/p/the-most-important-charts-in-ai-are Comments URL: https://news.ycombinator.com/item?id=50585411 Points: 1 # Comments: 1",
+      "date": "2026-11-21T02:45:31+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Images of Canada's most wanted are AI-generated",
+      "link": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331 Comments URL: https://news.ycombinator.com/item?id=50585403 Points: 1 # Comments: 0",
+      "date": "2026-11-21T02:44:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Experts warn: Everyone in AI is susceptible to a honey-trap scheme",
       "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
       "summary": "Article URL: https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/ Comments URL: https://news.ycombinator.com/item?id=50585239 Points: 1 # Comments: 0",
@@ -205,7 +229,7 @@
     },
     {
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
       "date": "2026-11-21T01:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
@@ -476,36 +500,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
-      "link": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
-      "summary": "Article URL: https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil Comments URL: https://news.ycombinator.com/item?id=50582084 Points: 4 # Comments: 1",
-      "date": "2026-11-20T21:04:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI is building me a web browser",
-      "link": "https://blog.senko.net/ai-is-building-me-a-web-browser",
-      "summary": "Article URL: https://blog.senko.net/ai-is-building-me-a-web-browser Comments URL: https://news.ycombinator.com/item?id=50581976 Points: 6 # Comments: 0",
-      "date": "2026-11-20T20:57:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
       "date": "2026-11-20T20:54:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "LegisComply – Mask sensitive details in AI prompts",
-      "link": "https://www.legiscomply.com/?sample=proposal-review",
-      "summary": "Article URL: https://www.legiscomply.com/?sample=proposal-review Comments URL: https://news.ycombinator.com/item?id=50581897 Points: 1 # Comments: 0",
-      "date": "2026-11-20T20:52:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
@@ -844,17 +844,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
