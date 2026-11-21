@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:19:52.175763+00:00",
+  "updated": "2026-11-21T12:25:24.312671+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -163,6 +163,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appear",
+      "date": "2026-11-21T12:13:50+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
     {
       "title": "Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces",
       "link": "https://github.com/srpadmanabhuni/agentest",
@@ -1545,14 +1553,6 @@
       "summary": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared fir",
       "date": "2026-11-19T06:52:26+00:00",
       "image": "",
-      "source": "MarkTechPost"
-    },
-    {
-      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
-      "link": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
-      "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Ci",
-      "date": "2026-11-19T03:23:50+00:00",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-2-150x150.png",
       "source": "MarkTechPost"
     },
     {
