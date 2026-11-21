@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T15:35:55.639567+00:00",
+  "updated": "2026-11-21T15:50:48.551694+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,22 @@
   ],
   "items": [
     {
+      "title": "Your next customer might be an AI agent",
+      "link": "https://www.jkfsom.com/writing/four-levels-of-agentic-commerce/",
+      "summary": "Article URL: https://www.jkfsom.com/writing/four-levels-of-agentic-commerce/ Comments URL: https://news.ycombinator.com/item?id=50590228 Points: 2 # Comments: 1",
+      "date": "2026-11-21T15:33:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use",
+      "date": "2026-11-21T15:24:58+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
       "title": "How to Iterate on Videos with AI",
       "link": "https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai",
       "summary": "Article URL: https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai Comments URL: https://news.ycombinator.com/item?id=50589976 Points: 2 # Comments: 1",
@@ -190,7 +206,7 @@
     {
       "title": "The AI Safety Community Is Increasingly Freaked Out. Should They Be?",
       "link": "https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/ Comments URL: https://news.ycombinator.com/item?id=50589885 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/ Comments URL: https://news.ycombinator.com/item?id=50589885 Points: 3 # Comments: 1",
       "date": "2026-11-21T15:01:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -206,7 +222,7 @@
     {
       "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
       "link": "https://github.com/runpod/runpod-mcp/issues/202",
-      "summary": "Article URL: https://github.com/runpod/runpod-mcp/issues/202 Comments URL: https://news.ycombinator.com/item?id=50589793 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/runpod/runpod-mcp/issues/202 Comments URL: https://news.ycombinator.com/item?id=50589793 Points: 2 # Comments: 0",
       "date": "2026-11-21T14:53:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -464,14 +480,6 @@
       "link": "https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai",
       "summary": "Article URL: https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50587145 Points: 3 # Comments: 0",
       "date": "2026-11-21T08:23:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Aletheia Aegis: Deterministic sub-millisecond output guard for AI agents",
-      "link": "https://github.com/vikasny30/aletheia-aegis",
-      "summary": "Article URL: https://github.com/vikasny30/aletheia-aegis Comments URL: https://news.ycombinator.com/item?id=50586524 Points: 1 # Comments: 0",
-      "date": "2026-11-21T06:21:38+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -3354,14 +3362,6 @@
       "date": "2026-10-13T04:19:32+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
-      "date": "2026-10-12T12:30:39+00:00",
-      "image": "",
-      "source": "Import AI"
     }
   ]
 }
