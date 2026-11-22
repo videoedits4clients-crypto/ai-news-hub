@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:51:24.703198+00:00",
+  "updated": "2026-11-22T13:06:37.944697+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -77,27 +77,6 @@
           "source": "The Guardian AI",
           "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
           "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "date": "2026-11-19T21:58:06+00:00",
-      "sources": [
-        "TechCrunch AI",
-        "The Verge AI"
-      ],
-      "links": [
-        {
-          "source": "TechCrunch AI",
-          "title": "Meta’s new Muse Charm device may cost $300",
-          "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-        },
-        {
-          "source": "The Verge AI",
-          "title": "Meta’s Muse Charm might cost $300",
-          "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
         }
       ]
     },
@@ -185,6 +164,14 @@
   ],
   "items": [
     {
+      "title": "How AI Changes the Four Types of Analytics for Data Scientists",
+      "link": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/",
+      "summary": "Treat AI agents as junior teammates and move up the abstraction ladder, owning problem framing, model evaluation, and business partnership. The post How AI Changes the Four Types of Analytics for Data Scientists appeared first on Towards Data Science .",
+      "date": "2026-11-22T13:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
       "title": "AI Explorables: Big Ideas in Machine Learning (People and AI Research (Pair))",
       "link": "https://pair.withgoogle.com/explorables/",
       "summary": "Article URL: https://pair.withgoogle.com/explorables/ Comments URL: https://news.ycombinator.com/item?id=50599071 Points: 1 # Comments: 0",
@@ -203,7 +190,7 @@
     {
       "title": "AI is becoming a disaster for the climate",
       "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 11 # Comments: 0",
       "date": "2026-11-22T12:19:46+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -217,9 +204,9 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
       "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-      "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university en",
+      "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. Th",
       "date": "2026-11-22T12:12:08+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -759,6 +746,14 @@
       "date": "2026-11-20T21:35:24+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik",
+      "date": "2026-11-20T21:30:59+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
@@ -1409,14 +1404,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the ho",
-      "date": "2026-11-19T20:29:21+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
       "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
@@ -1930,7 +1917,7 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "date": "2026-11-17T20:30:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
@@ -2255,14 +2242,6 @@
       "date": "2026-11-16T16:00:01+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Why Human in the Loop AI Oversight Fails and How to Fix It",
-      "link": "https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/",
-      "summary": "Kahneman's System 1 and System 2, plus the ODPS, ODCS, and Ossie standards, show how to wake reviewers up only when a check fails. The post Why Human in the Loop AI Oversight Fails and How to Fix It appeared first on Towards Data Science .",
-      "date": "2026-11-16T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
