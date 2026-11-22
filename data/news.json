@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:36:26.879335+00:00",
+  "updated": "2026-11-22T05:51:16.711268+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,9 +164,17 @@
   ],
   "items": [
     {
+      "title": "AI as a Lifestyle Choice",
+      "link": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
+      "summary": "Article URL: https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/ Comments URL: https://news.ycombinator.com/item?id=50596598 Points: 1 # Comments: 0",
+      "date": "2026-11-22T05:28:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Ask HN: What made you pivot your interest to the field of AI?",
       "link": "https://news.ycombinator.com/item?id=50596564",
-      "summary": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way? Comments URL: https://news.ycombinator.com/item?id=50596564 Points: 2 # Comments: 0",
+      "summary": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way? Comments URL: https://news.ycombinator.com/item?id=50596564 Points: 4 # Comments: 1",
       "date": "2026-11-22T05:20:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -238,7 +246,7 @@
     {
       "title": "Together.ai: Prompt Leakage for Requests",
       "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 9 # Comments: 4",
+      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 11 # Comments: 4",
       "date": "2026-11-22T03:07:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -246,7 +254,7 @@
     {
       "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
       "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 23 # Comments: 4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 24 # Comments: 5",
       "date": "2026-11-22T03:06:35+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -262,7 +270,7 @@
     {
       "title": "The Mythology of Conscious AI",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 18 # Comments: 45",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 18 # Comments: 47",
       "date": "2026-11-22T02:10:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -310,7 +318,7 @@
     {
       "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
       "link": "https://worldfoundry-demo.vercel.app/",
-      "summary": "Article URL: https://worldfoundry-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50594826 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://worldfoundry-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50594826 Points: 2 # Comments: 0",
       "date": "2026-11-21T23:53:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -376,14 +384,6 @@
       "link": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
       "summary": "Article URL: https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026 Comments URL: https://news.ycombinator.com/item?id=50594171 Points: 3 # Comments: 1",
       "date": "2026-11-21T22:14:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Can AI Rewrite OpenCode in 90% Rust?",
-      "link": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-      "summary": "Article URL: https://www.youtube.com/watch?v=SwX4OoxMaKM Comments URL: https://news.ycombinator.com/item?id=50594166 Points: 2 # Comments: 0",
-      "date": "2026-11-21T22:14:00+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1084,17 +1084,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
