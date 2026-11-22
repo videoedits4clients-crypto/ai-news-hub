@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:56:22.220353+00:00",
+  "updated": "2026-11-22T00:06:20.376032+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,9 +164,49 @@
   ],
   "items": [
     {
+      "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+      "link": "https://worldfoundry-demo.vercel.app/",
+      "summary": "Article URL: https://worldfoundry-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50594826 Points: 1 # Comments: 0",
+      "date": "2026-11-21T23:53:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Modular workflow governance and evals for AI-DLC",
+      "link": "https://mirevox.dev/",
+      "summary": "Article URL: https://mirevox.dev/ Comments URL: https://news.ycombinator.com/item?id=50594796 Points: 1 # Comments: 0",
+      "date": "2026-11-21T23:48:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Careers in the Age of AI",
+      "link": "https://carlkolon.com/2026/11/21/careers-age-of-ai/",
+      "summary": "Article URL: https://carlkolon.com/2026/11/21/careers-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50594742 Points: 1 # Comments: 0",
+      "date": "2026-11-21T23:37:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Fley AI Update 1.2v a voice AI assistant",
+      "link": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
+      "summary": "Article URL: https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe Comments URL: https://news.ycombinator.com/item?id=50594667 Points: 1 # Comments: 1",
+      "date": "2026-11-21T23:26:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Open-source harness and MCP dataset for options trading with AI agents",
+      "link": "https://github.com/DevDizzle/gammarips-harness",
+      "summary": "Article URL: https://github.com/DevDizzle/gammarips-harness Comments URL: https://news.ycombinator.com/item?id=50594625 Points: 1 # Comments: 0",
+      "date": "2026-11-21T23:20:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
       "link": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
-      "summary": "Article URL: https://twitter.com/Crashoverride_X/status/2123900241258955223 Comments URL: https://news.ycombinator.com/item?id=50594586 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/Crashoverride_X/status/2123900241258955223 Comments URL: https://news.ycombinator.com/item?id=50594586 Points: 2 # Comments: 3",
       "date": "2026-11-21T23:13:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -278,7 +318,7 @@
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
       "link": "https://www.pandex.io",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 10 # Comments: 1",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 15 # Comments: 2",
       "date": "2026-11-21T20:47:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -360,46 +400,6 @@
       "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
       "summary": "Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 Comments URL: https://news.ycombinator.com/item?id=50592379 Points: 2 # Comments: 0",
       "date": "2026-11-21T18:56:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Amazon closes in on $7.5B deal to buy AI startup Decart",
-      "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
-      "summary": "Article URL: https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616 Comments URL: https://news.ycombinator.com/item?id=50592314 Points: 2 # Comments: 0",
-      "date": "2026-11-21T18:50:27+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/ Comments URL: https://news.ycombinator.com/item?id=50592091 Points: 1 # Comments: 0",
-      "date": "2026-11-21T18:28:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Forkwise – AI engineer that runs in your terminal",
-      "link": "https://forkwiseai.com/",
-      "summary": "Article URL: https://forkwiseai.com/ Comments URL: https://news.ycombinator.com/item?id=50591976 Points: 2 # Comments: 0",
-      "date": "2026-11-21T18:16:50+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Loom: Shared memory, document search, and code indexing for AI agents",
-      "link": "https://github.com/ClickHouse/loom",
-      "summary": "Article URL: https://github.com/ClickHouse/loom Comments URL: https://news.ycombinator.com/item?id=50591960 Points: 2 # Comments: 0",
-      "date": "2026-11-21T18:14:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Zero retention AI providers caught logging prompts",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50591871 Points: 2 # Comments: 0",
-      "date": "2026-11-21T18:04:54+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1972,6 +1972,14 @@
       "source": "Microsoft Research"
     },
     {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "date": "2026-11-17T16:50:10+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
       "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
       "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You ",
@@ -3354,14 +3362,6 @@
       "date": "2026-10-13T04:19:32+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
-      "date": "2026-10-12T12:30:39+00:00",
-      "image": "",
-      "source": "Import AI"
     }
   ]
 }
