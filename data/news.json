@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:36:24.827023+00:00",
+  "updated": "2026-11-22T18:50:23.120514+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -143,6 +143,22 @@
   ],
   "items": [
     {
+      "title": "AI and hiring: bad for employees, bad for employers",
+      "link": "https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad",
+      "summary": "Article URL: https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad Comments URL: https://news.ycombinator.com/item?id=50602618 Points: 2 # Comments: 0",
+      "date": "2026-11-22T18:46:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "summary": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appear",
+      "date": "2026-11-22T18:37:57+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
+    {
       "title": "Why Building Trust Through Real People Stands the Test of Time in SEO/AI Search",
       "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
       "summary": "Article URL: https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/ Comments URL: https://news.ycombinator.com/item?id=50602258 Points: 1 # Comments: 0",
@@ -183,9 +199,9 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Solving a legendary math problem with AI be a candidate for a Fields Medal?",
+      "title": "Will Solving a legendary math problem with AI be a candidate for a Fields Medal?",
       "link": "https://news.ycombinator.com/item?id=50602128",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50602128 Points: 5 # Comments: 2",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50602128 Points: 6 # Comments: 4",
       "date": "2026-11-22T17:59:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -395,14 +411,6 @@
       "link": "https://github.com/hunvreus/reallysimpledocs",
       "summary": "Article URL: https://github.com/hunvreus/reallysimpledocs Comments URL: https://news.ycombinator.com/item?id=50599773 Points: 4 # Comments: 0",
       "date": "2026-11-22T13:58:23+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
-      "link": "https://github.com/RiccardoSottini/AffrescoUI",
-      "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50599626 Points: 3 # Comments: 0",
-      "date": "2026-11-22T13:41:29+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1207,9 +1215,9 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1493,14 +1501,6 @@
       "date": "2026-11-19T19:10:45+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-      "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-      "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong,",
-      "date": "2026-11-19T18:13:21+00:00",
-      "image": "",
-      "source": "MarkTechPost"
     },
     {
       "title": "Google gives Gemini the ability to use your Mac for you",
