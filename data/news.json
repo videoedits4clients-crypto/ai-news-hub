@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:36:50.260367+00:00",
+  "updated": "2026-11-22T23:51:15.647741+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,14 @@
   ],
   "items": [
     {
+      "title": "How to Implement AI with .NET",
+      "link": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
+      "summary": "Article URL: https://belitsoft.com/net-development-services/pdf-to-video-ai-converter Comments URL: https://news.ycombinator.com/item?id=50605323 Points: 1 # Comments: 1",
+      "date": "2026-11-22T23:39:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "The deadliest poison known to AI",
       "link": "https://iocaine.madhouse-project.org/",
       "summary": "Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=50605160 Points: 1 # Comments: 0",
@@ -213,7 +221,7 @@
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 113 # Comments: 36",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 130 # Comments: 44",
       "date": "2026-11-22T21:01:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -369,14 +377,6 @@
       "date": "2026-11-22T18:08:43+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Harvard CS 2881R AI Safety",
-      "link": "https://boazbk.github.io/mltheoryseminar/",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 25 # Comments: 1",
-      "date": "2026-11-22T18:01:54+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
