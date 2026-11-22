@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:06:23.251635+00:00",
+  "updated": "2026-11-22T21:21:05.375630+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,22 @@
   ],
   "items": [
     {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "date": "2026-11-22T21:14:07+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 1 # Comments: 0",
+      "date": "2026-11-22T21:01:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
       "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
       "summary": "Article URL: https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html Comments URL: https://news.ycombinator.com/item?id=50603729 Points: 1 # Comments: 0",
@@ -181,7 +197,7 @@
     {
       "title": "AI Privacy Cloak",
       "link": "https://github.com/miloshke/ai-privacy-cloak",
-      "summary": "Article URL: https://github.com/miloshke/ai-privacy-cloak Comments URL: https://news.ycombinator.com/item?id=50603212 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/miloshke/ai-privacy-cloak Comments URL: https://news.ycombinator.com/item?id=50603212 Points: 2 # Comments: 0",
       "date": "2026-11-22T19:50:15+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -229,7 +245,7 @@
     {
       "title": "AI and hiring: bad for employees, bad for employers",
       "link": "https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad",
-      "summary": "Article URL: https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad Comments URL: https://news.ycombinator.com/item?id=50602618 Points: 2 # Comments: 3",
+      "summary": "Article URL: https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad Comments URL: https://news.ycombinator.com/item?id=50602618 Points: 3 # Comments: 3",
       "date": "2026-11-22T18:46:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -277,7 +293,7 @@
     {
       "title": "Harvard CS 2881R AI Safety",
       "link": "https://boazbk.github.io/mltheoryseminar/",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 3 # Comments: 0",
       "date": "2026-11-22T18:01:54+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -301,7 +317,7 @@
     {
       "title": "Domesticity and Danger: Harvard Law's \"Canine Framework\" for AI Liability",
       "link": "https://news.harvard.edu/gazette/story/2026/07/is-that-bot-a-pomeranian-or-a-wolf-and-who-to-sue-when-it-bites/",
-      "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/07/is-that-bot-a-pomeranian-or-a-wolf-and-who-to-sue-when-it-bites/ Comments URL: https://news.ycombinator.com/item?id=50602068 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/07/is-that-bot-a-pomeranian-or-a-wolf-and-who-to-sue-when-it-bites/ Comments URL: https://news.ycombinator.com/item?id=50602068 Points: 2 # Comments: 0",
       "date": "2026-11-22T17:54:39+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -393,14 +409,6 @@
       "date": "2026-11-22T16:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "The EU Commission has been the victim of a cyberattack carried out using AI",
-      "link": "https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/",
-      "summary": "Article URL: https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50600632 Points: 3 # Comments: 0",
-      "date": "2026-11-22T15:36:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "RANSAC, Explained: Consensus Fitting for Image Feature Matching",
@@ -1521,14 +1529,6 @@
       "date": "2026-11-19T17:00:00+00:00",
       "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "date": "2026-11-19T16:59:23+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Dutch watchdog tells people not to buy AI smart glasses",
