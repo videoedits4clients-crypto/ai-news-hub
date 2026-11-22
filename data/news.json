@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:36:20.960752+00:00",
+  "updated": "2026-11-22T01:51:04.509959+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,30 @@
   ],
   "items": [
     {
+      "title": "The AI cyber threat is here",
+      "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b",
+      "summary": "Article URL: https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b Comments URL: https://news.ycombinator.com/item?id=50595391 Points: 1 # Comments: 0",
+      "date": "2026-11-22T01:39:20+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Apple's iPhone camera chief, an opponent of AI-altered photos, has retired",
+      "link": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
+      "summary": "Article URL: https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/ Comments URL: https://news.ycombinator.com/item?id=50595334 Points: 1 # Comments: 0",
+      "date": "2026-11-22T01:29:23+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The No AI Slop Manifesto",
+      "link": "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
+      "summary": "Article URL: https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948 Comments URL: https://news.ycombinator.com/item?id=50595283 Points: 4 # Comments: 0",
+      "date": "2026-11-22T01:18:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Muru",
       "link": "https://simonwillison.net/2026/Nov/21/muru/",
       "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps bo",
@@ -318,7 +342,7 @@
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
       "link": "https://www.pandex.io",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 26 # Comments: 4",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 31 # Comments: 6",
       "date": "2026-11-21T20:47:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -380,36 +404,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Data Minimization for AI Agents (Brett Frischmann and Bruce Schneier)",
-      "link": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
-      "summary": "Article URL: https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50592451 Points: 2 # Comments: 0",
-      "date": "2026-11-21T19:02:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
       "summary": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark? Sovereignty has become the buzzword of political rhetoric at precisely the moment it has become harder than ever to define, let alone control, and most Australian",
       "date": "2026-11-21T19:00:06+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day",
-      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "summary": "Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 Comments URL: https://news.ycombinator.com/item?id=50592379 Points: 3 # Comments: 0",
-      "date": "2026-11-21T18:56:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Amazon closes in on $7.5B deal to buy AI startup Decart",
-      "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
-      "summary": "Article URL: https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616 Comments URL: https://news.ycombinator.com/item?id=50592314 Points: 2 # Comments: 0",
-      "date": "2026-11-21T18:50:27+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -860,6 +860,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+      "date": "2026-11-20T17:30:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311400&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
@@ -1060,17 +1068,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -3352,14 +3360,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
       "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
       "date": "2026-10-13T09:47:22+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left-",
-      "date": "2026-10-13T04:19:32+00:00",
       "image": "",
       "source": "ScienceDaily AI"
     }
