@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:51:16.711268+00:00",
+  "updated": "2026-11-22T06:05:57.188989+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,6 +164,22 @@
   ],
   "items": [
     {
+      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputat",
+      "date": "2026-11-22T06:00:21+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "AWS local emulator created by AI agents",
+      "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50596706 Points: 1 # Comments: 0",
+      "date": "2026-11-22T05:57:03+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI as a Lifestyle Choice",
       "link": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
       "summary": "Article URL: https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/ Comments URL: https://news.ycombinator.com/item?id=50596598 Points: 1 # Comments: 0",
@@ -174,7 +190,7 @@
     {
       "title": "Ask HN: What made you pivot your interest to the field of AI?",
       "link": "https://news.ycombinator.com/item?id=50596564",
-      "summary": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way? Comments URL: https://news.ycombinator.com/item?id=50596564 Points: 4 # Comments: 1",
+      "summary": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way? Comments URL: https://news.ycombinator.com/item?id=50596564 Points: 4 # Comments: 2",
       "date": "2026-11-22T05:20:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -246,7 +262,7 @@
     {
       "title": "Together.ai: Prompt Leakage for Requests",
       "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 11 # Comments: 4",
+      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 15 # Comments: 5",
       "date": "2026-11-22T03:07:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -254,7 +270,7 @@
     {
       "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
       "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 24 # Comments: 5",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 24 # Comments: 7",
       "date": "2026-11-22T03:06:35+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -270,7 +286,7 @@
     {
       "title": "The Mythology of Conscious AI",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 18 # Comments: 47",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 22 # Comments: 48",
       "date": "2026-11-22T02:10:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -376,14 +392,6 @@
       "link": "https://github.com/CAPPZ-ai/cappz-sdk",
       "summary": "Article URL: https://github.com/CAPPZ-ai/cappz-sdk Comments URL: https://news.ycombinator.com/item?id=50594426 Points: 1 # Comments: 0",
       "date": "2026-11-21T22:49:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Cursor may stop using Chinese open-weights AI models",
-      "link": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
-      "summary": "Article URL: https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026 Comments URL: https://news.ycombinator.com/item?id=50594171 Points: 3 # Comments: 1",
-      "date": "2026-11-21T22:14:48+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1234,14 +1242,6 @@
       "date": "2026-11-20T02:49:57+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
-      "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
-      "summary": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email , free app or daily news podcast Right now, the prime minister faces a choice. Does he stand with Jimmy",
-      "date": "2026-11-20T02:00:18+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
