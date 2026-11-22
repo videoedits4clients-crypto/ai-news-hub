@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T08:51:02.294815+00:00",
+  "updated": "2026-11-22T09:06:23.922778+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -163,6 +163,14 @@
     }
   ],
   "items": [
+    {
+      "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+      "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+      "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross (ICRC) and rights groups warned that soon it will be too late to put the “genie back in the bottle” as the development of a",
+      "date": "2026-11-22T09:00:22+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
     {
       "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
       "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
@@ -900,17 +908,17 @@
       "source": "The Register"
     },
     {
-      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
+      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
     {
-      "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-      "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it mos",
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed",
       "date": "2026-11-20T11:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1026,14 +1034,6 @@
       "date": "2026-11-20T03:56:17+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-      "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s m",
-      "date": "2026-11-20T03:33:45+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "llm-gemini 0.38.1",
@@ -1250,14 +1250,6 @@
       "date": "2026-11-19T19:10:45+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Nvidia adds possible hack to list of very bad things under investigation",
-      "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
-      "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
-      "date": "2026-11-19T18:52:53+00:00",
-      "image": "https://image.theregister.com/?imageId=5311157&width=800",
-      "source": "The Register"
     },
     {
       "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
@@ -3362,6 +3354,14 @@
       "date": "2026-09-23T15:25:14+00:00",
       "image": "",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
     }
   ]
 }
