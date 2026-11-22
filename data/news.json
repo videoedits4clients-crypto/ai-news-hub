@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:20:36.474107+00:00",
+  "updated": "2026-11-22T23:36:50.260367+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,14 @@
   ],
   "items": [
     {
+      "title": "The deadliest poison known to AI",
+      "link": "https://iocaine.madhouse-project.org/",
+      "summary": "Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=50605160 Points: 1 # Comments: 0",
+      "date": "2026-11-22T23:22:17+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
       "link": "https://github.com/xyTom/snippai",
       "summary": "Article URL: https://github.com/xyTom/snippai Comments URL: https://news.ycombinator.com/item?id=50604985 Points: 1 # Comments: 0",
@@ -149,7 +157,7 @@
     {
       "title": "Art, AI and the Problem That Never Was",
       "link": "https://escandescenze.github.io/2026/11/22/proof-of-human-art.html",
-      "summary": "Article URL: https://escandescenze.github.io/2026/11/22/proof-of-human-art.html Comments URL: https://news.ycombinator.com/item?id=50604753 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://escandescenze.github.io/2026/11/22/proof-of-human-art.html Comments URL: https://news.ycombinator.com/item?id=50604753 Points: 4 # Comments: 2",
       "date": "2026-11-22T22:42:29+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -205,7 +213,7 @@
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 100 # Comments: 29",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 113 # Comments: 36",
       "date": "2026-11-22T21:01:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -261,7 +269,7 @@
     {
       "title": "What Happened in Fall 2026: AI and P vs. NP",
       "link": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np Comments URL: https://news.ycombinator.com/item?id=50603219 Points: 12 # Comments: 0",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np Comments URL: https://news.ycombinator.com/item?id=50603219 Points: 12 # Comments: 1",
       "date": "2026-11-22T19:50:36+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -365,16 +373,8 @@
     {
       "title": "Harvard CS 2881R AI Safety",
       "link": "https://boazbk.github.io/mltheoryseminar/",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 24 # Comments: 1",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 25 # Comments: 1",
       "date": "2026-11-22T18:01:54+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Will Solving a legendary math problem with AI be a candidate for a Fields Medal?",
-      "link": "https://news.ycombinator.com/item?id=50602128",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50602128 Points: 6 # Comments: 5",
-      "date": "2026-11-22T17:59:16+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1948,7 +1948,7 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
       "date": "2026-11-17T20:30:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnhxll.jpg",
