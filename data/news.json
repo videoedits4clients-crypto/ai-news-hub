@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:05:57.568907+00:00",
+  "updated": "2026-11-22T23:20:36.474107+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,9 +123,17 @@
   ],
   "items": [
     {
+      "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
+      "link": "https://github.com/xyTom/snippai",
+      "summary": "Article URL: https://github.com/xyTom/snippai Comments URL: https://news.ycombinator.com/item?id=50604985 Points: 1 # Comments: 0",
+      "date": "2026-11-22T23:06:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Etsy sellers are closing their stores because of its the new AI training policy",
       "link": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
-      "summary": "Article URL: https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/ Comments URL: https://news.ycombinator.com/item?id=50604979 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/ Comments URL: https://news.ycombinator.com/item?id=50604979 Points: 3 # Comments: 0",
       "date": "2026-11-22T23:04:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -197,7 +205,7 @@
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 88 # Comments: 23",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 100 # Comments: 29",
       "date": "2026-11-22T21:01:16+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -253,7 +261,7 @@
     {
       "title": "What Happened in Fall 2026: AI and P vs. NP",
       "link": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np Comments URL: https://news.ycombinator.com/item?id=50603219 Points: 9 # Comments: 0",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np Comments URL: https://news.ycombinator.com/item?id=50603219 Points: 12 # Comments: 0",
       "date": "2026-11-22T19:50:36+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -357,7 +365,7 @@
     {
       "title": "Harvard CS 2881R AI Safety",
       "link": "https://boazbk.github.io/mltheoryseminar/",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 22 # Comments: 1",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 24 # Comments: 1",
       "date": "2026-11-22T18:01:54+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -377,14 +385,6 @@
       "date": "2026-11-22T17:55:27+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Domesticity and Danger: Harvard Law's \"Canine Framework\" for AI Liability",
-      "link": "https://news.harvard.edu/gazette/story/2026/07/is-that-bot-a-pomeranian-or-a-wolf-and-who-to-sue-when-it-bites/",
-      "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/07/is-that-bot-a-pomeranian-or-a-wolf-and-who-to-sue-when-it-bites/ Comments URL: https://news.ycombinator.com/item?id=50602068 Points: 2 # Comments: 0",
-      "date": "2026-11-22T17:54:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
