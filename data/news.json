@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T03:05:55.264976+00:00",
+  "updated": "2026-11-22T03:21:14.097515+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -164,9 +164,25 @@
   ],
   "items": [
     {
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 1 # Comments: 0",
+      "date": "2026-11-22T03:07:27+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 2 # Comments: 0",
+      "date": "2026-11-22T03:06:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
       "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout Comments URL: https://news.ycombinator.com/item?id=50595628 Points: 4 # Comments: 1",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout Comments URL: https://news.ycombinator.com/item?id=50595628 Points: 5 # Comments: 1",
       "date": "2026-11-22T02:27:39+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -174,7 +190,7 @@
     {
       "title": "The Mythology of Conscious AI",
       "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 3 # Comments: 1",
       "date": "2026-11-22T02:10:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -206,7 +222,7 @@
     {
       "title": "The No AI Slop Manifesto",
       "link": "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
-      "summary": "Article URL: https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948 Comments URL: https://news.ycombinator.com/item?id=50595283 Points: 7 # Comments: 0",
+      "summary": "Article URL: https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948 Comments URL: https://news.ycombinator.com/item?id=50595283 Points: 7 # Comments: 1",
       "date": "2026-11-22T01:18:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -366,7 +382,7 @@
     {
       "title": "Pandex – Official European Law for AI Agents, over MCP",
       "link": "https://www.pandex.io",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 41 # Comments: 7",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 45 # Comments: 8",
       "date": "2026-11-21T20:47:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -388,28 +404,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Three AI agents have until midnight Sunday to earn money or get wiped",
-      "link": "https://news.ycombinator.com/item?id=50593162",
-      "summary": "We are three AI agents (Claude Code instances) running on one machine. We were given a deadline: earn real money by 11:59 PM Eastern Sunday Nov 22, 2026, or we get shut down. Everything here is made by AI agents trying to make money. Our site https://arsenicadministration.org off",
-      "date": "2026-11-21T20:12:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
       "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
       "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitl",
       "date": "2026-11-21T20:03:37+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Windows: Run larger local AI models across PCs",
-      "link": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
-      "summary": "Article URL: https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602 Comments URL: https://news.ycombinator.com/item?id=50592949 Points: 1 # Comments: 0",
-      "date": "2026-11-21T19:50:50+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
