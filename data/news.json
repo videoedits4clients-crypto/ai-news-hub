@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:21:08.039137+00:00",
+  "updated": "2026-11-23T23:36:29.137792+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -78,23 +78,48 @@
       ]
     },
     {
+      "count": 3,
+      "title": "datasette-charts 0.1a0",
+      "date": "2026-11-23T00:37:20+00:00",
+      "sources": [
+        "Simon Willison"
+      ],
+      "links": [
+        {
+          "source": "Simon Willison",
+          "title": "datasette-charts 0.1a0",
+          "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
+        },
+        {
+          "source": "Simon Willison",
+          "title": "datasette-arrows 0.1a0",
+          "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
+        },
+        {
+          "source": "Simon Willison",
+          "title": "datasette-maplibre 0.1a0",
+          "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+        }
+      ]
+    },
+    {
       "count": 2,
-      "title": "US to blacklist Asian AI firm Megaspeed",
-      "date": "2026-11-23T22:48:25+00:00",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "date": "2026-11-23T23:16:08+00:00",
       "sources": [
         "BBC Technology",
         "Hacker News AI"
       ],
       "links": [
         {
-          "source": "Hacker News AI",
-          "title": "US to blacklist Asian AI firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
-        },
-        {
           "source": "BBC Technology",
           "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
           "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "US to blacklist Asian AI firm Megaspeed",
+          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
         }
       ]
     },
@@ -183,26 +208,6 @@
     },
     {
       "count": 2,
-      "title": "datasette-arrows 0.1a0",
-      "date": "2026-11-18T17:09:59+00:00",
-      "sources": [
-        "Simon Willison"
-      ],
-      "links": [
-        {
-          "source": "Simon Willison",
-          "title": "datasette-arrows 0.1a0",
-          "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
-        },
-        {
-          "source": "Simon Willison",
-          "title": "datasette-maplibre 0.1a0",
-          "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
-        }
-      ]
-    },
-    {
-      "count": 2,
       "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
       "date": "2026-11-17T22:38:52+00:00",
       "sources": [
@@ -245,6 +250,46 @@
   ],
   "items": [
     {
+      "title": "The AI bubble is deflating and that's good news",
+      "link": "https://cepr.net/publications/ai-bubble-monitor/#nov232026",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/#nov232026 Comments URL: https://news.ycombinator.com/item?id=50621115 Points: 1 # Comments: 0",
+      "date": "2026-11-23T23:35:03+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "date": "2026-11-23T23:28:19+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "The AI bubble hasn't burst, but it has significantly deflated",
+      "link": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
+      "summary": "Article URL: https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated Comments URL: https://news.ycombinator.com/item?id=50620992 Points: 3 # Comments: 0",
+      "date": "2026-11-23T23:25:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Securing AI agents against intent hijacking with Semantic governance policies",
+      "link": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+      "summary": "Article URL: https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/ Comments URL: https://news.ycombinator.com/item?id=50620958 Points: 1 # Comments: 0",
+      "date": "2026-11-23T23:22:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "date": "2026-11-23T23:16:08+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "source": "BBC Technology"
+    },
+    {
       "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
       "link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
       "summary": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
@@ -283,14 +328,6 @@
       "date": "2026-11-23T22:48:25+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "date": "2026-11-23T22:45:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Tech leaders are celebrating Jensen Huang’s return",
@@ -367,7 +404,7 @@
     {
       "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
       "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 9 # Comments: 4",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 13 # Comments: 6",
       "date": "2026-11-23T21:56:44+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -423,7 +460,7 @@
     {
       "title": "The AI conversation we're not having",
       "link": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
-      "summary": "Article URL: https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/ Comments URL: https://news.ycombinator.com/item?id=50619838 Points: 9 # Comments: 3",
+      "summary": "Article URL: https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/ Comments URL: https://news.ycombinator.com/item?id=50619838 Points: 11 # Comments: 4",
       "date": "2026-11-23T21:46:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -629,36 +666,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Mathematicians astounded by AI and human-written proofs of Riemann Hypothesis",
-      "link": "https://www.nature.com/articles/d41586-026-03812-7",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03812-7 Comments URL: https://news.ycombinator.com/item?id=50618231 Points: 2 # Comments: 0",
-      "date": "2026-11-23T19:58:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Are newer AI models getting better at self-improvement?",
-      "link": "https://twitter.com/Harman26Singh/status/2124911857064640826",
-      "summary": "Article URL: https://twitter.com/Harman26Singh/status/2124911857064640826 Comments URL: https://news.ycombinator.com/item?id=50617916 Points: 1 # Comments: 0",
-      "date": "2026-11-23T19:39:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
       "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
       "summary": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
       "date": "2026-11-23T19:34:38+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Show HN: Dayora, an AI journal that writes back",
-      "link": "https://www.dayora.ai",
-      "summary": "Article URL: https://www.dayora.ai Comments URL: https://news.ycombinator.com/item?id=50617754 Points: 1 # Comments: 0",
-      "date": "2026-11-23T19:30:53+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Bluetooth brakes are broken as researchers find anyone can control them",
@@ -1165,6 +1178,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "datasette-charts 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It lo",
+      "date": "2026-11-23T00:37:20+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
       "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
       "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
       "summary": "PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!",
@@ -1219,14 +1240,6 @@
       "date": "2026-11-22T19:00:34+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-      "date": "2026-11-22T18:55:05+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
@@ -2619,14 +2632,6 @@
       "date": "2026-11-14T12:23:15+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
       "source": "Interconnects"
-    },
-    {
-      "title": "datasette-cluster-map 0.19",
-      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants ow",
-      "date": "2026-11-13T23:02:45+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
