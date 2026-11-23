@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T10:20:57.264472+00:00",
+  "updated": "2026-11-23T10:36:46.228152+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,22 @@
   ],
   "items": [
     {
+      "title": "Has AI Made a Solution For Quantum Gravity",
+      "link": "https://news.ycombinator.com/item?id=50609879",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50609879 Points: 1 # Comments: 0",
+      "date": "2026-11-23T10:31:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "date": "2026-11-23T10:24:25+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Z2RAM Layers Promise Denser SRAM Memory for AI",
       "link": "https://spectrum.ieee.org/sram-memory-z2ram",
       "summary": "Article URL: https://spectrum.ieee.org/sram-memory-z2ram Comments URL: https://news.ycombinator.com/item?id=50609788 Points: 1 # Comments: 0",
@@ -137,6 +153,14 @@
       "date": "2026-11-23T10:18:15+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Old-school Linux desktops find fresh routes to Wayland",
+      "link": "https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349",
+      "summary": "Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own",
+      "date": "2026-11-23T10:17:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311355&width=800",
+      "source": "The Register"
     },
     {
       "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
@@ -177,14 +201,6 @@
       "date": "2026-11-23T09:48:10+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
-      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-      "date": "2026-11-23T09:40:28+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "AI Resolved All Null Pointer Dereferences in C",
@@ -385,14 +401,6 @@
       "date": "2026-11-23T05:08:03+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Blocked for AI Reply",
-      "link": "https://blockedforaireply.levels.io",
-      "summary": "Article URL: https://blockedforaireply.levels.io Comments URL: https://news.ycombinator.com/item?id=50607697 Points: 1 # Comments: 0",
-      "date": "2026-11-23T05:06:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Google claims last week’s critical VMware bug was under attack in September",
@@ -1272,14 +1280,6 @@
       "summary": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
       "date": "2026-11-20T12:47:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311243&width=800",
-      "source": "The Register"
-    },
-    {
-      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
-      "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
-      "summary": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
-      "date": "2026-11-20T12:18:19+00:00",
-      "image": "https://image.theregister.com/?imageId=5220278&width=800",
       "source": "The Register"
     },
     {
