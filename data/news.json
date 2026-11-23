@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T14:06:23.831040+00:00",
+  "updated": "2026-11-23T14:20:30.678019+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,38 @@
   ],
   "items": [
     {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
+      "date": "2026-11-23T14:10:18+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "date": "2026-11-23T14:08:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+      "date": "2026-11-23T14:07:16+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier",
+      "link": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
+      "summary": "Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare",
+      "date": "2026-11-23T14:04:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5309241&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Show HN: CodeOtter – Self-hosted AI code review with scores and merge gates",
       "link": "https://github.com/dharmeshgurnani/CodeOtter",
       "summary": "Article URL: https://github.com/dharmeshgurnani/CodeOtter Comments URL: https://news.ycombinator.com/item?id=50611577 Points: 1 # Comments: 0",
@@ -147,14 +179,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
-      "date": "2026-11-23T13:38:31+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Dylan Moran goes looking for trouble and disappears off the beaten track in this baffling comedy show",
       "link": "https://www.theguardian.com/stage/2026/nov/23/dylan-moran-looking-for-trouble-review",
       "summary": "Royal & Derngate, Northampton The Black Books star gets off to a promising start as he contemplates ‘the burning ball of what you don’t understand’ but his search for levity leads to half-baked ditties Is Dylan Moran joking when he opens his show by telling Northampton’s audience",
@@ -173,7 +197,7 @@
     {
       "title": "How to Run AI Coding Agents on Kubernetes: Sandbox vs. Environment",
       "link": "https://www.okteto.com/blog/how-to-run-ai-coding-agents-on-kubernetes/",
-      "summary": "Article URL: https://www.okteto.com/blog/how-to-run-ai-coding-agents-on-kubernetes/ Comments URL: https://news.ycombinator.com/item?id=50611280 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.okteto.com/blog/how-to-run-ai-coding-agents-on-kubernetes/ Comments URL: https://news.ycombinator.com/item?id=50611280 Points: 2 # Comments: 0",
       "date": "2026-11-23T13:30:39+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -205,7 +229,7 @@
     {
       "title": "Sandboxing AI Coding Agents: Nono vs. Docker Sbx vs. Microsandbox vs. OpenShell",
       "link": "https://kudelskisecurity.com/research/sandboxing-coding-agents",
-      "summary": "Article URL: https://kudelskisecurity.com/research/sandboxing-coding-agents Comments URL: https://news.ycombinator.com/item?id=50611099 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://kudelskisecurity.com/research/sandboxing-coding-agents Comments URL: https://news.ycombinator.com/item?id=50611099 Points: 4 # Comments: 0",
       "date": "2026-11-23T13:11:15+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -261,7 +285,7 @@
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 46 # Comments: 53",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 46 # Comments: 54",
       "date": "2026-11-23T12:41:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1259,14 +1283,6 @@
       "source": "The Register"
     },
     {
-      "title": "Dutch data watchdog highlights safety issues with AI glasses",
-      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
-      "summary": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
-      "date": "2026-11-20T16:44:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5308699&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Quoting Levent Alpöge",
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
@@ -1281,14 +1297,6 @@
       "date": "2026-11-20T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
-      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
-      "summary": "Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028",
-      "date": "2026-11-20T16:01:00+00:00",
-      "image": "https://image.theregister.com/?imageId=247172&width=800",
-      "source": "The Register"
     },
     {
       "title": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
@@ -1641,14 +1649,6 @@
       "date": "2026-11-19T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-      "date": "2026-11-19T12:26:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c9/live/8b711120-e422-11f1-99b6-a35a62fa4264.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
@@ -2571,14 +2571,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "date": "2026-11-12T14:50:17+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
       "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhil",
@@ -3321,6 +3313,14 @@
       "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
+      "date": "2026-10-13T09:47:22+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
