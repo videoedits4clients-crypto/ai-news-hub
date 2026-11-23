@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T14:36:42.308236+00:00",
+  "updated": "2026-11-23T14:50:34.277498+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -39,6 +39,39 @@
     "Towards Data Science"
   ],
   "trending": [
+    {
+      "count": 4,
+      "title": "Nvidia board puts Jensen Huang back as boss",
+      "date": "2026-11-23T14:35:50+00:00",
+      "sources": [
+        "Ars Technica AI",
+        "TechCrunch AI",
+        "The Register",
+        "Wired AI"
+      ],
+      "links": [
+        {
+          "source": "The Register",
+          "title": "Nvidia board puts Jensen Huang back as boss",
+          "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674"
+        },
+        {
+          "source": "Wired AI",
+          "title": "Jensen Huang Is Back as Nvidia CEO",
+          "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+          "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        }
+      ]
+    },
     {
       "count": 2,
       "title": "Introducing Gemini 4 Neon",
@@ -123,12 +156,76 @@
   ],
   "items": [
     {
+      "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "date": "2026-11-23T14:45:10+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "date": "2026-11-23T14:43:03+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Zone: Free unlimited local AI dictation with swipe for iOS",
+      "link": "https://github.com/zaydiscold/zone-voice",
+      "summary": "Article URL: https://github.com/zaydiscold/zone-voice Comments URL: https://news.ycombinator.com/item?id=50612493 Points: 1 # Comments: 1",
+      "date": "2026-11-23T14:40:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+      "date": "2026-11-23T14:40:11+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "date": "2026-11-23T14:39:52+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "date": "2026-11-23T14:38:45+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia board puts Jensen Huang back as boss",
+      "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
+      "summary": "On the 11th day, Jensen Huang rose from the ranks of CEOs past and, with the full confidence of the board, returned to helm Nvidia",
+      "date": "2026-11-23T14:35:50+00:00",
+      "image": "https://image.theregister.com/?imageId=5311670&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Newer AI models are swearing more, and it usually means they're failing",
       "link": "https://www.techspot.com/news/114656-newer-ai-models-swearing-more-usually-means-theyre.html",
       "summary": "Article URL: https://www.techspot.com/news/114656-newer-ai-models-swearing-more-usually-means-theyre.html Comments URL: https://news.ycombinator.com/item?id=50612232 Points: 2 # Comments: 0",
       "date": "2026-11-23T14:30:27+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang Is Back as Nvidia CEO",
+      "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+      "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+      "date": "2026-11-23T14:27:35+00:00",
+      "image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
+      "source": "Wired AI"
     },
     {
       "title": "Show HN: Tilen – Scheduling API and MCP Server for AI Agents",
@@ -145,22 +242,6 @@
       "date": "2026-11-23T14:25:58+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 31%",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "date": "2026-11-23T14:25:31+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-      "date": "2026-11-23T14:24:03+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
@@ -317,7 +398,7 @@
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 50 # Comments: 55",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 52 # Comments: 56",
       "date": "2026-11-23T12:41:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -429,7 +510,7 @@
     {
       "title": "South Korean minister says he is too old to tackle AI exam cheating",
       "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4",
-      "summary": "Article URL: https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4 Comments URL: https://news.ycombinator.com/item?id=50610406 Points: 2 # Comments: 3",
+      "summary": "Article URL: https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4 Comments URL: https://news.ycombinator.com/item?id=50610406 Points: 2 # Comments: 4",
       "date": "2026-11-23T11:45:15+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -463,14 +544,6 @@
       "link": "https://www.superlogical.com/updates/public-testing-beginning",
       "summary": "Article URL: https://www.superlogical.com/updates/public-testing-beginning Comments URL: https://news.ycombinator.com/item?id=50610138 Points: 2 # Comments: 0",
       "date": "2026-11-23T11:07:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
-      "link": "https://github.com/ameesme/shoebox",
-      "summary": "I was sick and tired of the bloated mess that Hermes Agent has become, often dealing with hard-to-triage bugs that made managing agents a part-time job. I don't need a self-improving magical agent, I need; - A primary agent to chat to, with sub-agent delegation - Isolated sub-age",
-      "date": "2026-11-23T11:07:29+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -569,14 +642,6 @@
       "date": "2026-11-23T06:35:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311218&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
-      "date": "2026-11-23T05:08:03+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Google claims last week’s critical VMware bug was under attack in September",
@@ -1147,14 +1212,6 @@
       "source": "The Register"
     },
     {
-      "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "date": "2026-11-20T21:06:45+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
@@ -1275,14 +1332,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
-      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
-      "date": "2026-11-20T17:30:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5311400&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Quoting Levent Alpöge",
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
@@ -1393,14 +1442,6 @@
       "date": "2026-11-20T11:26:37+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Regular Tech Bros Are Worried About Honeypots",
-      "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-      "date": "2026-11-20T11:00:00+00:00",
-      "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Combatting adversarial distillation",
@@ -1567,14 +1608,6 @@
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "date": "2026-11-19T19:10:45+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "date": "2026-11-19T18:09:11+00:00",
       "image": "",
       "source": "TechCrunch AI"
     },
