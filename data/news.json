@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:20:30.298755+00:00",
+  "updated": "2026-11-23T11:36:41.219819+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,30 @@
   ],
   "items": [
     {
+      "title": "AI may have solved math's greatest mystery. Can humans understand the answer?",
+      "link": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "summary": "Article URL: https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer Comments URL: https://news.ycombinator.com/item?id=50610152 Points: 4 # Comments: 0",
+      "date": "2026-11-23T11:10:13+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents",
+      "link": "https://www.superlogical.com/updates/public-testing-beginning",
+      "summary": "Article URL: https://www.superlogical.com/updates/public-testing-beginning Comments URL: https://news.ycombinator.com/item?id=50610138 Points: 2 # Comments: 0",
+      "date": "2026-11-23T11:07:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
+      "link": "https://github.com/ameesme/shoebox",
+      "summary": "I was sick and tired of the bloated mess that Hermes Agent has become, often dealing with hard-to-triage bugs that made managing agents a part-time job. I don't need a self-improving magical agent, I need; - A primary agent to chat to, with sub-agent delegation - Isolated sub-age",
+      "date": "2026-11-23T11:07:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
       "summary": "The company’s co-founders are now wildly rich, while countless Americans face AI-driven threats to their jobs and fears of a stock bubble The sultans of Silicon Valley and the wizards of Wall Street rejoiced this week when Anthropic raised an eye-popping $81bn in the largest init",
@@ -195,9 +219,17 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Did AI help solve Quantum Gravity?",
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for",
+      "date": "2026-11-23T10:36:06+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Did AI help solve Quantum Gravity too?",
       "link": "https://news.ycombinator.com/item?id=50609879",
-      "summary": "- [Explorer](https://atuf-explorer.toughlute16.chatgpt.site/) - [Lean Formalization](https://atuf-explorer.toughlute16.chatgpt.site/lean.html) - [Equations](https://atuf-explorer.toughlute16.chatgpt.site/equations.html) - [Key Concepts](https://atuf-explorer.toughlute16.chatgpt.s",
+      "summary": "ATUF Explorer — Reciprocal Arithmetic Geometry and Quantum Gravity An interactive exploration of a proposed mathematical framework connecting reciprocal arithmetic geometry, the Riemann zeta function, quantum information, and candidate models of quantum gravity. The project inclu",
       "date": "2026-11-23T10:31:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -403,36 +435,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
-      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
-      "summary": "Article URL: https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340 Comments URL: https://news.ycombinator.com/item?id=50608427 Points: 2 # Comments: 1",
-      "date": "2026-11-23T07:06:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Techie turned his too-easy job interview into a trap",
       "link": "https://www.theregister.com/personal-tech/2026/11/23/techie-turned-his-too-easy-job-interview-into-a-trap/5311213",
       "summary": "With the flick of a switch, he smoked out competent PC maintenance skills",
       "date": "2026-11-23T06:35:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311218&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Ask HN: How much did an 8 TB SSD hard cost before the AI race?",
-      "link": "https://news.ycombinator.com/item?id=50608154",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50608154 Points: 1 # Comments: 5",
-      "date": "2026-11-23T06:24:42+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
-      "link": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
-      "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model Comments URL: https://news.ycombinator.com/item?id=50608149 Points: 1 # Comments: 0",
-      "date": "2026-11-23T06:24:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
@@ -1249,14 +1257,6 @@
       "date": "2026-11-20T14:55:44+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user",
-      "date": "2026-11-20T14:36:42+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
