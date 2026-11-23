@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:50:27.889492+00:00",
+  "updated": "2026-11-23T19:06:13.645379+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -63,14 +63,14 @@
           "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
         },
         {
-          "source": "The Verge AI",
-          "title": "Jensen Huang is back as Nvidia’s CEO",
-          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
-        },
-        {
           "source": "Ars Technica AI",
           "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
           "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        },
+        {
+          "source": "The Verge AI",
+          "title": "Jensen Huang is back as Nvidia’s CEO",
+          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
         },
         {
           "source": "The Register",
@@ -202,6 +202,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+      "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "summary": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+      "date": "2026-11-23T18:23:55+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
       "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
       "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
@@ -250,14 +258,6 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-      "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communicatio",
-      "date": "2026-11-23T17:24:56+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
@@ -296,14 +296,6 @@
       "date": "2026-11-23T17:14:23+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
-      "date": "2026-11-23T17:03:40+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
@@ -440,6 +432,14 @@
       "date": "2026-11-23T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
+      "date": "2026-11-23T14:51:14+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
@@ -1298,6 +1298,14 @@
       "source": "BBC Technology"
     },
     {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers",
+      "date": "2026-11-20T18:50:19+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
@@ -1390,14 +1398,6 @@
       "link": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
       "summary": "Public funds should absorb early risks in major technology projects, the European Central Bank chief said Friday.",
       "date": "2026-11-20T12:52:15+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
-      "link": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
-      "summary": "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
-      "date": "2026-11-20T12:00:02+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
