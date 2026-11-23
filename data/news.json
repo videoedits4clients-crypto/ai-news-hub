@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:06:26.835453+00:00",
+  "updated": "2026-11-23T17:20:28.935681+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,8 +41,8 @@
   "trending": [
     {
       "count": 6,
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-      "date": "2026-11-23T16:49:27+00:00",
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "date": "2026-11-23T17:03:40+00:00",
       "sources": [
         "Ars Technica AI",
         "CNBC Technology",
@@ -53,6 +53,11 @@
       ],
       "links": [
         {
+          "source": "The Verge AI",
+          "title": "Jensen Huang is back as Nvidia’s CEO",
+          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+        },
+        {
           "source": "CNBC Technology",
           "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
           "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
@@ -61,11 +66,6 @@
           "source": "Ars Technica AI",
           "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
           "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
-        },
-        {
-          "source": "The Verge AI",
-          "title": "Jensen Huang is back as Nvidia’s CEO",
-          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
         },
         {
           "source": "The Register",
@@ -188,6 +188,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "date": "2026-11-23T17:14:23+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
+      "date": "2026-11-23T17:03:40+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "date": "2026-11-23T17:00:08+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1.jpg",
+      "source": "NVIDIA Blog"
+    },
     {
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
@@ -351,7 +375,7 @@
     {
       "title": "Buckle Up the AI Bubble Is Popping",
       "link": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
-      "summary": "Article URL: https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/ Comments URL: https://news.ycombinator.com/item?id=50614037 Points: 20 # Comments: 47",
+      "summary": "Article URL: https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/ Comments URL: https://news.ycombinator.com/item?id=50614037 Points: 22 # Comments: 48",
       "date": "2026-11-23T16:01:20+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -483,14 +507,6 @@
       "date": "2026-11-23T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
-      "date": "2026-11-23T14:51:14+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "AI may have helped solve one of mathematics' biggest mysteries",
@@ -1645,14 +1661,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "date": "2026-11-19T21:58:06+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "PostgreSQL 19 Released",
       "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
       "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release ",
@@ -2779,14 +2787,6 @@
       "date": "2026-11-10T16:03:47+00:00",
       "image": "",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the f",
-      "date": "2026-11-10T16:00:03+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
-      "source": "NVIDIA Blog"
     },
     {
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
