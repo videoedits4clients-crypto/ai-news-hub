@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:06:24.336800+00:00",
+  "updated": "2026-11-23T11:11:57.445350+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -131,6 +131,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+      "date": "2026-11-23T11:00:00+00:00",
+      "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
+      "source": "Wired AI"
+    },
+    {
       "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
       "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
       "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
@@ -185,6 +193,14 @@
       "date": "2026-11-23T10:36:32+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for",
+      "date": "2026-11-23T10:36:06+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Did AI help solve Quantum Gravity?",
@@ -1243,14 +1259,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user",
-      "date": "2026-11-20T14:36:42+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
       "link": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
       "summary": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
@@ -1505,14 +1513,6 @@
       "date": "2026-11-19T20:43:57+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-      "date": "2026-11-19T20:34:17+00:00",
-      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
