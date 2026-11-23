@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:20:28.965042+00:00",
+  "updated": "2026-11-23T12:36:28.446638+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,10 +123,18 @@
   ],
   "items": [
     {
-      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech sell-off",
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-      "date": "2026-11-23T12:02:21+00:00",
+      "date": "2026-11-23T12:19:59+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+      "date": "2026-11-23T12:05:06+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -153,6 +161,22 @@
       "date": "2026-11-23T12:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
+      "date": "2026-11-23T11:50:04+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI ag",
+      "date": "2026-11-23T11:49:21+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Futures rally after Wall Street's nightmare week",
@@ -193,14 +217,6 @@
       "date": "2026-11-23T10:40:16+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for",
-      "date": "2026-11-23T10:36:06+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Old-school Linux desktops find fresh routes to Wayland",
@@ -1019,14 +1035,6 @@
       "source": "The Register"
     },
     {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
-      "date": "2026-11-20T16:57:47+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Dutch data watchdog highlights safety issues with AI glasses",
       "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
       "summary": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
@@ -1209,14 +1217,6 @@
       "date": "2026-11-20T07:00:00+00:00",
       "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "AI is changing software engineering — and some developers miss the struggle",
-      "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
-      "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
-      "date": "2026-11-20T06:00:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "llm-gemini 0.38.1",
