@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T05:06:22.804356+00:00",
+  "updated": "2026-11-23T05:21:04.972114+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -122,6 +122,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Blocked for AI Reply",
+      "link": "https://blockedforaireply.levels.io",
+      "summary": "Article URL: https://blockedforaireply.levels.io Comments URL: https://news.ycombinator.com/item?id=50607697 Points: 1 # Comments: 0",
+      "date": "2026-11-23T05:06:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqe9k09j9jv4o Comments URL: https://news.ycombinator.com/item?id=50607695 Points: 2 # Comments: 0",
+      "date": "2026-11-23T05:06:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "Two missing pieces in the AI safety discussion",
       "link": "https://www.noahpinion.blog/p/two-missing-pieces-in-the-ai-safety",
@@ -251,14 +267,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "date": "2026-11-23T00:08:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
-      "source": "BBC Technology"
-    },
-    {
       "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
       "link": "https://github.com/salespeak-ai/inbox-envoy",
       "summary": "Article URL: https://github.com/salespeak-ai/inbox-envoy Comments URL: https://news.ycombinator.com/item?id=50605502 Points: 2 # Comments: 0",
@@ -269,7 +277,7 @@
     {
       "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
       "link": "https://0rwx.com/",
-      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 33 # Comments: 6",
+      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 34 # Comments: 6",
       "date": "2026-11-22T23:53:00+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -347,28 +355,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "The MIT Processor Database brings decades of chip history into the AI era",
-      "link": "https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era",
-      "summary": "Article URL: https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era Comments URL: https://news.ycombinator.com/item?id=50603970 Points: 3 # Comments: 0",
-      "date": "2026-11-22T21:14:27+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
       "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "date": "2026-11-22T21:14:07+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 348 # Comments: 143",
-      "date": "2026-11-22T21:01:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
@@ -3319,6 +3311,14 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "summary": "",
       "date": "2026-10-13T16:01:58+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
