@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T20:36:48.483591+00:00",
+  "updated": "2026-11-23T20:51:06.798382+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,12 +40,11 @@
   ],
   "trending": [
     {
-      "count": 7,
-      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-      "date": "2026-11-23T17:52:56+00:00",
+      "count": 6,
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "date": "2026-11-23T20:38:44+00:00",
       "sources": [
         "Ars Technica AI",
-        "CNBC Technology",
         "TechCrunch AI",
         "The Register",
         "The Verge AI",
@@ -53,14 +52,9 @@
       ],
       "links": [
         {
-          "source": "Wired AI",
-          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-          "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
-        },
-        {
-          "source": "CNBC Technology",
-          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+          "source": "The Verge AI",
+          "title": "How Jensen Huang ended up as Nvidia CEO again",
+          "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
         },
         {
           "source": "The Verge AI",
@@ -128,6 +122,27 @@
           "source": "Wired AI",
           "title": "States Sue SpaceX Over Grok Deepfakes",
           "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "date": "2026-11-23T17:52:56+00:00",
+      "sources": [
+        "CNBC Technology",
+        "Wired AI"
+      ],
+      "links": [
+        {
+          "source": "Wired AI",
+          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+          "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+        },
+        {
+          "source": "CNBC Technology",
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
         }
       ]
     },
@@ -215,6 +230,22 @@
   ],
   "items": [
     {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "date": "2026-11-23T20:38:53+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitte",
+      "date": "2026-11-23T20:38:44+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
       "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
@@ -223,12 +254,28 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
+      "date": "2026-11-23T20:16:17+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
       "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
       "summary": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
       "date": "2026-11-23T19:34:38+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Bluetooth brakes are broken as researchers find anyone can control them",
+      "link": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+      "summary": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+      "date": "2026-11-23T19:29:59+00:00",
+      "image": "https://image.theregister.com/?imageId=229180&width=800",
+      "source": "The Register"
     },
     {
       "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
@@ -375,6 +422,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review c",
+      "date": "2026-11-23T17:10:02+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Jensen Huang is back as Nvidia’s CEO",
       "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
       "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
@@ -429,14 +484,6 @@
       "date": "2026-11-23T16:39:10+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
-      "date": "2026-11-23T16:28:15+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
@@ -1063,14 +1110,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitl",
-      "date": "2026-11-21T20:03:37+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
       "summary": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark? Sovereignty has become the buzzword of political rhetoric at precisely the moment it has become harder than ever to define, let alone control, and most Australian",
@@ -1191,14 +1230,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
-      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
-      "date": "2026-11-20T23:41:14+00:00",
-      "image": "https://image.theregister.com/?imageId=5311499&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
       "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
       "summary": "Generative AI",
@@ -1277,14 +1308,6 @@
       "date": "2026-11-20T21:35:24+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik",
-      "date": "2026-11-20T21:30:59+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -1429,14 +1452,6 @@
       "date": "2026-11-20T14:34:14+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "date": "2026-11-20T14:00:00+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
