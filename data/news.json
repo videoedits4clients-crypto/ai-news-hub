@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:20:29.273348+00:00",
+  "updated": "2026-11-23T15:36:16.623054+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,17 +40,23 @@
   ],
   "trending": [
     {
-      "count": 5,
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "date": "2026-11-23T14:51:14+00:00",
+      "count": 6,
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+      "date": "2026-11-23T15:24:42+00:00",
       "sources": [
         "Ars Technica AI",
+        "CNBC Technology",
         "TechCrunch AI",
         "The Register",
         "The Verge AI",
         "Wired AI"
       ],
       "links": [
+        {
+          "source": "CNBC Technology",
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
         {
           "source": "The Verge AI",
           "title": "Jensen Huang is back as Nvidia’s CEO",
@@ -162,12 +168,28 @@
   ],
   "items": [
     {
-      "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "date": "2026-11-23T15:15:45+00:00",
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+      "date": "2026-11-23T15:30:27+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "date": "2026-11-23T15:24:42+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "date": "2026-11-23T15:15:48+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+      "source": "BBC Technology"
     },
     {
       "title": "Meta Muse can do your Black Friday shopping at Walmart",
@@ -280,14 +302,6 @@
       "date": "2026-11-23T14:08:50+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
-      "date": "2026-11-23T14:07:16+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier",
@@ -1464,14 +1478,6 @@
       "date": "2026-11-19T16:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "date": "2026-11-19T15:58:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
