@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:50:27.887533+00:00",
+  "updated": "2026-11-23T08:06:24.961048+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,54 @@
   ],
   "items": [
     {
+      "title": "Why I think using AI to prove the Riemann Hypothesis is important",
+      "link": "https://news.ycombinator.com/item?id=50608700",
+      "summary": "Math is becoming increasingly difficult, and we can see that proofs are getting so complex they will probably take more than a human lifetime to solve. Don’t worry about AI stealing the joy of discovery, we still have the joy of understanding something that exists outside the hum",
+      "date": "2026-11-23T07:52:56+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "link": "https://www.kradle.ai?1",
+      "summary": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench",
+      "date": "2026-11-23T07:39:04+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Building Data Products with AI",
+      "link": "https://www.dataproduct.com/",
+      "summary": "Article URL: https://www.dataproduct.com/ Comments URL: https://news.ycombinator.com/item?id=50608582 Points: 1 # Comments: 1",
+      "date": "2026-11-23T07:35:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Surviving the AI Squeeze",
+      "link": "https://justin.searls.co/links/2026-11-20-surviving-the-ai-squeeze/",
+      "summary": "Article URL: https://justin.searls.co/links/2026-11-20-surviving-the-ai-squeeze/ Comments URL: https://news.ycombinator.com/item?id=50608460 Points: 1 # Comments: 0",
+      "date": "2026-11-23T07:11:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "HAproxy lead: On the use of AI-based tools to find bugs in open source software",
+      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50608448 Points: 3 # Comments: 0",
+      "date": "2026-11-23T07:10:09+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
+      "summary": "Article URL: https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340 Comments URL: https://news.ycombinator.com/item?id=50608427 Points: 2 # Comments: 1",
+      "date": "2026-11-23T07:06:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Techie turned his too-easy job interview into a trap",
       "link": "https://www.theregister.com/personal-tech/2026/11/23/techie-turned-his-too-easy-job-interview-into-a-trap/5311213",
       "summary": "With the flick of a switch, he smoked out competent PC maintenance skills",
@@ -133,7 +181,7 @@
     {
       "title": "Ask HN: How much did an 8 TB SSD hard cost before the AI race?",
       "link": "https://news.ycombinator.com/item?id=50608154",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50608154 Points: 1 # Comments: 4",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50608154 Points: 1 # Comments: 5",
       "date": "2026-11-23T06:24:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -317,7 +365,7 @@
     {
       "title": "What 47,000 Companies' Disclosures Reveal About the AI Stack",
       "link": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000",
-      "summary": "Article URL: https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000 Comments URL: https://news.ycombinator.com/item?id=50605987 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000 Comments URL: https://news.ycombinator.com/item?id=50605987 Points: 2 # Comments: 2",
       "date": "2026-11-23T00:52:46+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -329,54 +377,6 @@
       "date": "2026-11-23T00:23:31+00:00",
       "image": "https://image.theregister.com/?imageId=246780&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
-      "link": "https://github.com/ericwang915/agent-hive",
-      "summary": "Article URL: https://github.com/ericwang915/agent-hive Comments URL: https://news.ycombinator.com/item?id=50605688 Points: 1 # Comments: 0",
-      "date": "2026-11-23T00:22:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "I Rebuilt Eleventy in Rust with AI in One Week",
-      "link": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
-      "summary": "Article URL: https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/ Comments URL: https://news.ycombinator.com/item?id=50605647 Points: 1 # Comments: 0",
-      "date": "2026-11-23T00:16:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
-      "link": "https://github.com/salespeak-ai/inbox-envoy",
-      "summary": "Article URL: https://github.com/salespeak-ai/inbox-envoy Comments URL: https://news.ycombinator.com/item?id=50605502 Points: 2 # Comments: 0",
-      "date": "2026-11-23T00:00:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "link": "https://0rwx.com/",
-      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 38 # Comments: 10",
-      "date": "2026-11-22T23:53:00+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "How to Implement AI with .NET",
-      "link": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
-      "summary": "Article URL: https://belitsoft.com/net-development-services/pdf-to-video-ai-converter Comments URL: https://news.ycombinator.com/item?id=50605323 Points: 3 # Comments: 1",
-      "date": "2026-11-22T23:39:10+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The deadliest poison known to AI",
-      "link": "https://iocaine.madhouse-project.org/",
-      "summary": "Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=50605160 Points: 3 # Comments: 0",
-      "date": "2026-11-22T23:22:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
