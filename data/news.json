@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:20:28.935681+00:00",
+  "updated": "2026-11-23T17:36:27.211589+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,8 +41,8 @@
   "trending": [
     {
       "count": 6,
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "date": "2026-11-23T17:03:40+00:00",
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+      "date": "2026-11-23T17:23:04+00:00",
       "sources": [
         "Ars Technica AI",
         "CNBC Technology",
@@ -53,14 +53,14 @@
       ],
       "links": [
         {
-          "source": "The Verge AI",
-          "title": "Jensen Huang is back as Nvidia’s CEO",
-          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
-        },
-        {
           "source": "CNBC Technology",
           "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
           "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "source": "The Verge AI",
+          "title": "Jensen Huang is back as Nvidia’s CEO",
+          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
         },
         {
           "source": "Ars Technica AI",
@@ -189,6 +189,70 @@
   ],
   "items": [
     {
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communicatio",
+      "date": "2026-11-23T17:24:56+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench/",
+      "summary": "Article URL: https://openai.com/index/introducing-medchembench/ Comments URL: https://news.ycombinator.com/item?id=50615595 Points: 1 # Comments: 0",
+      "date": "2026-11-23T17:23:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "date": "2026-11-23T17:23:04+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Receiving AI Agent \"Fan Mail\" on a Post About Family Illness",
+      "link": "https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/",
+      "summary": "Article URL: https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/ Comments URL: https://news.ycombinator.com/item?id=50615550 Points: 1 # Comments: 0",
+      "date": "2026-11-23T17:21:24+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Supercharging transformer residual connections",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-11-23T17:21:12+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
+      "source": "Google Research"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "summary": "",
+      "date": "2026-11-23T17:20:37+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
+      "summary": "Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe. In",
+      "date": "2026-11-23T17:18:06+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "date": "2026-11-23T17:17:10+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
       "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
       "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
@@ -251,14 +315,6 @@
       "date": "2026-11-23T16:50:10+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "date": "2026-11-23T16:49:27+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Show HN: Verfy – checks an AI coding agent's tool calls before they run",
@@ -541,14 +597,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
-      "date": "2026-11-23T14:38:45+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia board puts Jensen Huang back as boss",
       "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
       "summary": "On the 11th day, Jensen Huang rose from the ranks of CEOs past and, with the full confidence of the board, returned to helm Nvidia",
@@ -577,14 +625,6 @@
       "link": "https://www.tilen.cc",
       "summary": "Article URL: https://www.tilen.cc Comments URL: https://news.ycombinator.com/item?id=50612145 Points: 2 # Comments: 0",
       "date": "2026-11-23T14:27:08+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI conquered chess. What happened next should give us hope",
-      "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
-      "summary": "Article URL: https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai Comments URL: https://news.ycombinator.com/item?id=50612114 Points: 2 # Comments: 0",
-      "date": "2026-11-23T14:25:58+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -619,14 +659,6 @@
       "date": "2026-11-23T14:04:00+00:00",
       "image": "https://image.theregister.com/?imageId=5309241&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Show HN: CodeOtter – Self-hosted AI code review with scores and merge gates",
-      "link": "https://github.com/dharmeshgurnani/CodeOtter",
-      "summary": "Article URL: https://github.com/dharmeshgurnani/CodeOtter Comments URL: https://news.ycombinator.com/item?id=50611577 Points: 2 # Comments: 0",
-      "date": "2026-11-23T14:00:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
@@ -667,6 +699,14 @@
       "date": "2026-11-23T13:11:48+00:00",
       "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
       "source": "Wired AI"
+    },
+    {
+      "title": "AI conquered chess. What happened next should give us hope",
+      "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and India’s Gukesh Dommaraju in Geneva has all th",
+      "date": "2026-11-23T13:00:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
     },
     {
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
@@ -1173,14 +1213,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
-      "summary": "People are falling in love with AI systems like ChatGPT and Gemini – and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve,",
-      "date": "2026-11-21T14:00:01+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Can Anthropic afford to put safety first?",
       "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
@@ -1429,14 +1461,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers",
-      "date": "2026-11-20T18:50:19+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
@@ -1624,14 +1648,6 @@
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "link": "https://openai.com/business/customer-stories/hebbia",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "date": "2026-11-20T00:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
       "date": "2026-11-20T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -2565,14 +2581,6 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "link": "https://huggingface.co/blog/allenai/xybench",
-      "summary": "",
-      "date": "2026-11-13T17:02:35+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
       "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
       "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
       "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...] Read More... The post Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at Meta .",
@@ -3377,14 +3385,6 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "summary": "",
       "date": "2026-10-13T16:01:58+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
