@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:50:22.787238+00:00",
+  "updated": "2026-11-23T23:06:23.538328+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -224,6 +224,14 @@
   ],
   "items": [
     {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "date": "2026-11-23T22:45:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "source": "BBC Technology"
+    },
+    {
       "title": "Tech leaders are celebrating Jensen Huang’s return",
       "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
       "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
@@ -262,14 +270,6 @@
       "date": "2026-11-23T22:18:13+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "date": "2026-11-23T22:15:26+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -1856,9 +1856,9 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Startup Makes Headway Towards Formalizing All of Math With AI",
+      "title": "Startup Makes Headway Toward Formalizing All of Math With AI",
       "link": "https://spectrum.ieee.org/enormous-theorem-ai",
-      "summary": "As Axiom Math ’s AI swarm was putting the final touches on the automatic verification of 15,000-page proof of the Classification of Finite Simple Groups (CFSG) , colloquially referred to as the ‘enormous theorem’, on Sunday 25 October, the company’s Founding Mathematician Ken Ono",
+      "summary": "As Axiom Math ’s AI swarm was putting the final touches on the automatic verification of a 15,000-page proof of the classification of finite simple groups (CFSG) , colloquially referred to as the “enormous theorem,” on Sunday, 25 October, the company’s Founding Mathematician Ken ",
       "date": "2026-11-18T13:00:03+00:00",
       "image": "https://spectrum.ieee.org/media-library/a-dot-with-thousands-of-plotted-points-radiating-from-its-center.jpg?id=68692858&width=980",
       "source": "IEEE Spectrum AI"
