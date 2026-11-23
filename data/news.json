@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:20:26.212360+00:00",
+  "updated": "2026-11-23T22:36:30.416656+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,9 +40,9 @@
   ],
   "trending": [
     {
-      "count": 9,
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "date": "2026-11-23T22:10:41+00:00",
+      "count": 7,
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "date": "2026-11-23T21:08:05+00:00",
       "sources": [
         "Ars Technica AI",
         "CNBC Technology",
@@ -53,29 +53,19 @@
       ],
       "links": [
         {
-          "source": "The Verge AI",
-          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-        },
-        {
-          "source": "The Verge AI",
-          "title": "Jensen Huang is back as Nvidia’s CEO",
-          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
-        },
-        {
           "source": "CNBC Technology",
           "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
           "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
         },
         {
-          "source": "The Verge AI",
-          "title": "How Jensen Huang ended up as Nvidia CEO again",
-          "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-        },
-        {
           "source": "Wired AI",
           "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+        },
+        {
+          "source": "The Verge AI",
+          "title": "Jensen Huang is back as Nvidia’s CEO",
+          "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
         },
         {
           "source": "Ars Technica AI",
@@ -225,6 +215,22 @@
   ],
   "items": [
     {
+      "title": "Show HN: Judge-audit – open-source calibration audits for AI judges",
+      "link": "https://github.com/kunko-ai-labs/judge-audit",
+      "summary": "Article URL: https://github.com/kunko-ai-labs/judge-audit Comments URL: https://news.ycombinator.com/item?id=50620311 Points: 1 # Comments: 0",
+      "date": "2026-11-23T22:28:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "summary": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
+      "date": "2026-11-23T22:18:23+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
@@ -239,30 +245,6 @@
       "date": "2026-11-23T22:11:19+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
-      "date": "2026-11-23T22:10:41+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
-      "date": "2026-11-23T22:10:23+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
-      "date": "2026-11-23T22:09:26+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -283,10 +265,18 @@
     {
       "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
       "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 4 # Comments: 0",
       "date": "2026-11-23T21:56:44+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO",
+      "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html",
+      "summary": "Read CNBC’s exclusive interview with President Donald Trump on how he “made the deal” to reinstate Jensen Huang as Nvidia CEO.",
+      "date": "2026-11-23T21:53:49+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
@@ -299,7 +289,7 @@
     {
       "title": "Emma AI by NuanceLabs [video]",
       "link": "https://app.nuancelabs.ai/try",
-      "summary": "Article URL: https://app.nuancelabs.ai/try Comments URL: https://news.ycombinator.com/item?id=50619889 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://app.nuancelabs.ai/try Comments URL: https://news.ycombinator.com/item?id=50619889 Points: 2 # Comments: 0",
       "date": "2026-11-23T21:50:30+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -339,7 +329,7 @@
     {
       "title": "Google Gemini decouples chat history from AI training",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/ Comments URL: https://news.ycombinator.com/item?id=50619743 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/ Comments URL: https://news.ycombinator.com/item?id=50619743 Points: 2 # Comments: 1",
       "date": "2026-11-23T21:38:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -393,20 +383,20 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "date": "2026-11-23T21:20:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
       "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
       "summary": "Not the whole startup - just its tech and the brains behind it",
       "date": "2026-11-23T21:17:15+00:00",
       "image": "https://image.theregister.com/?imageId=5222824&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
-      "date": "2026-11-23T21:09:37+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Show HN: Truce – a neutral mediator that AI agents can call to settle disputes",
@@ -481,17 +471,9 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitte",
-      "date": "2026-11-23T20:38:44+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
       "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
-      "summary": "Article URL: https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/ Comments URL: https://news.ycombinator.com/item?id=50618834 Points: 13 # Comments: 0",
+      "summary": "Article URL: https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/ Comments URL: https://news.ycombinator.com/item?id=50618834 Points: 14 # Comments: 1",
       "date": "2026-11-23T20:33:07+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -551,6 +533,14 @@
       "date": "2026-11-23T19:58:17+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitt",
+      "date": "2026-11-23T19:57:18+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Are newer AI models getting better at self-improvement?",
@@ -729,6 +719,14 @@
       "source": "The Verge AI"
     },
     {
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
+      "date": "2026-11-23T17:03:40+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
       "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
@@ -815,6 +813,14 @@
       "date": "2026-11-23T15:30:27+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find re",
+      "date": "2026-11-23T15:09:24+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "British retailer Next downplays data breach at tech supplier",
@@ -1001,14 +1007,6 @@
       "source": "Wired AI"
     },
     {
-      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
-      "date": "2026-11-23T10:57:26+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
       "link": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
       "summary": "AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM’s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $",
@@ -1113,6 +1111,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton t",
+      "date": "2026-11-23T02:41:02+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
@@ -1207,6 +1213,14 @@
       "date": "2026-11-22T17:55:27+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se",
+      "date": "2026-11-22T17:25:20+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
@@ -1673,14 +1687,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
-      "link": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
-      "summary": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
-      "date": "2026-11-20T14:34:14+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
       "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
       "summary": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini. The post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on Towards Data Science .",
@@ -1873,9 +1879,9 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "date": "2026-11-19T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -1889,9 +1895,9 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "date": "2026-11-19T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -2081,17 +2087,17 @@
       "source": "OpenAI News"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "date": "2026-11-18T08:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "date": "2026-11-18T08:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -2321,17 +2327,17 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "date": "2026-11-17T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "date": "2026-11-17T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -2404,14 +2410,6 @@
       "title": "Broadening access to AI for scientists",
       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "date": "2026-11-16T17:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
       "date": "2026-11-16T17:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -3415,14 +3413,6 @@
       "date": "2026-10-14T01:41:55+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
     }
   ]
 }
