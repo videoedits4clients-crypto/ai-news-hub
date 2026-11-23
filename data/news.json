@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:50:28.872375+00:00",
+  "updated": "2026-11-23T22:05:52.250452+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -215,6 +215,14 @@
   ],
   "items": [
     {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "date": "2026-11-23T21:47:41+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "Ladybird's first alpha release",
       "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
       "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Ski",
@@ -229,6 +237,14 @@
       "date": "2026-11-23T21:46:33+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "date": "2026-11-23T21:46:28+00:00",
+      "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "source": "Wired AI"
     },
     {
       "title": "Google Gemini decouples chat history from AI training",
@@ -263,7 +279,7 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
       "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
       "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "date": "2026-11-23T21:25:42+00:00",
@@ -285,6 +301,14 @@
       "date": "2026-11-23T21:22:13+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
+      "date": "2026-11-23T21:09:37+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Show HN: Truce – a neutral mediator that AI agents can call to settle disputes",
@@ -359,6 +383,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitte",
+      "date": "2026-11-23T20:38:44+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
       "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
       "summary": "Article URL: https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/ Comments URL: https://news.ycombinator.com/item?id=50618834 Points: 12 # Comments: 0",
@@ -399,6 +431,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
+      "date": "2026-11-23T20:16:17+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Math in the Age of AI",
       "link": "https://mathematics.jhu.edu/2026/11/20/math-in-the-age-of-ai/",
       "summary": "Article URL: https://mathematics.jhu.edu/2026/11/20/math-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50618291 Points: 1 # Comments: 0",
@@ -413,14 +453,6 @@
       "date": "2026-11-23T19:58:17+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitt",
-      "date": "2026-11-23T19:57:18+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Are newer AI models getting better at self-improvement?",
@@ -687,14 +719,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
-      "date": "2026-11-23T16:28:15+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
       "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
       "summary": "July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery",
@@ -861,14 +885,6 @@
       "date": "2026-11-23T13:16:38+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "date": "2026-11-23T13:11:48+00:00",
-      "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "AI conquered chess. What happened next should give us hope",
@@ -1141,14 +1157,6 @@
       "date": "2026-11-22T17:55:27+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se",
-      "date": "2026-11-22T17:25:20+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
@@ -1613,14 +1621,6 @@
       "date": "2026-11-20T18:07:18+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Chips can survive the space environment — can their financing?",
-      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "date": "2026-11-20T17:40:01+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Quoting Levent Alpöge",
