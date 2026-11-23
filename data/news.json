@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T13:50:53.593061+00:00",
+  "updated": "2026-11-23T14:06:23.831040+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -123,6 +123,30 @@
   ],
   "items": [
     {
+      "title": "Show HN: CodeOtter – Self-hosted AI code review with scores and merge gates",
+      "link": "https://github.com/dharmeshgurnani/CodeOtter",
+      "summary": "Article URL: https://github.com/dharmeshgurnani/CodeOtter Comments URL: https://news.ycombinator.com/item?id=50611577 Points: 1 # Comments: 0",
+      "date": "2026-11-23T14:00:20+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: MOPy Fish (1997) reverse engineered with AI agents to run in a browser",
+      "link": "https://mopyfish.com/",
+      "summary": "Article URL: https://mopyfish.com/ Comments URL: https://news.ycombinator.com/item?id=50611545 Points: 1 # Comments: 1",
+      "date": "2026-11-23T13:57:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
+      "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
+      "summary": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glasses” has been swift and severe. Smartglasses such as Meta’s R",
+      "date": "2026-11-23T13:55:40+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
       "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
       "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
@@ -205,7 +229,7 @@
     {
       "title": "The Bank's AI Agent Rejected a Loan, Customer Going to Court. Who Can Prove Why?",
       "link": "https://medium.com/@MirArshadTalpur/the-banks-ai-agent-rejected-a-loan-and-the-customer-is-going-to-court-who-can-prove-why-728607ae72f1",
-      "summary": "Article URL: https://medium.com/@MirArshadTalpur/the-banks-ai-agent-rejected-a-loan-and-the-customer-is-going-to-court-who-can-prove-why-728607ae72f1 Comments URL: https://news.ycombinator.com/item?id=50611029 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://medium.com/@MirArshadTalpur/the-banks-ai-agent-rejected-a-loan-and-the-customer-is-going-to-court-who-can-prove-why-728607ae72f1 Comments URL: https://news.ycombinator.com/item?id=50611029 Points: 3 # Comments: 1",
       "date": "2026-11-23T13:03:27+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -237,7 +261,7 @@
     {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 44 # Comments: 44",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 46 # Comments: 53",
       "date": "2026-11-23T12:41:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -451,22 +475,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Guided tours for AI agents via WebMCP",
-      "link": "https://github.com/fboldo/webmcp-tour",
-      "summary": "Article URL: https://github.com/fboldo/webmcp-tour Comments URL: https://news.ycombinator.com/item?id=50609916 Points: 1 # Comments: 0",
-      "date": "2026-11-23T10:36:41+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "How much should you spend on AI per engineer?",
-      "link": "https://quesma.com/blog/how-much-to-spend-on-ai-per-engineer/",
-      "summary": "Article URL: https://quesma.com/blog/how-much-to-spend-on-ai-per-engineer/ Comments URL: https://news.ycombinator.com/item?id=50609913 Points: 1 # Comments: 0",
-      "date": "2026-11-23T10:36:32+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Old-school Linux desktops find fresh routes to Wayland",
       "link": "https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349",
       "summary": "Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own",
@@ -585,6 +593,14 @@
       "date": "2026-11-23T00:08:00+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "summary": "",
+      "date": "2026-11-23T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
     },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -945,14 +961,6 @@
       "date": "2026-11-21T12:13:50+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
-      "summary": "Humans experience beauty and sit with mysteries. Unlike AI, we do not exist merely for utility Last month, religious leaders from across San Francisco gathered behind closed doors to discuss what it means to be human in the age of artificial intelligence. Anthropic, the AI compan",
-      "date": "2026-11-21T12:00:58+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
@@ -3017,14 +3025,6 @@
       "date": "2026-10-29T16:00:12+00:00",
       "image": "",
       "source": "Meta AI Engineering"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "summary": "",
-      "date": "2026-10-29T13:37:07+00:00",
-      "image": "",
-      "source": "Hugging Face"
     },
     {
       "title": "Systems Thinking Is Vital in the Age of AI",
