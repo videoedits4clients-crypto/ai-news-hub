@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T09:36:48.006766+00:00",
+  "updated": "2026-11-23T09:50:30.775879+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -122,6 +122,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Show HN: Slipmark – make AI agents prove what they checked",
+      "link": "https://github.com/founder-ship-it/Slipmark",
+      "summary": "Article URL: https://github.com/founder-ship-it/Slipmark Comments URL: https://news.ycombinator.com/item?id=50609511 Points: 1 # Comments: 0",
+      "date": "2026-11-23T09:48:31+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Video Generator – Nano-Video",
+      "link": "https://nano-video.io/",
+      "summary": "Article URL: https://nano-video.io/ Comments URL: https://news.ycombinator.com/item?id=50609504 Points: 1 # Comments: 0",
+      "date": "2026-11-23T09:48:10+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Resolved All Null Pointer Dereferences in C",
+      "link": "https://kapteko.com/ai-resolved-all-null-pointer-dereferences/",
+      "summary": "Article URL: https://kapteko.com/ai-resolved-all-null-pointer-dereferences/ Comments URL: https://news.ycombinator.com/item?id=50609413 Points: 1 # Comments: 0",
+      "date": "2026-11-23T09:37:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them",
+      "link": "https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325",
+      "summary": "Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud",
+      "date": "2026-11-23T09:32:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5273664&width=800",
+      "source": "The Register"
+    },
     {
       "title": "Meta AI Chief Warns of AI Risks;Obama's Ex-Speechwriter Calls It F***Ing Madness",
       "link": "https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538",
@@ -347,14 +379,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "CRS; Taxing AI: Alternative Approaches [pdf]",
-      "link": "https://www.everycrsreport.com/files/2026-11-18_R49520_89f5bd00177f068d1c0bfa42cffcb1cfe4d0f36c.pdf",
-      "summary": "Article URL: https://www.everycrsreport.com/files/2026-11-18_R49520_89f5bd00177f068d1c0bfa42cffcb1cfe4d0f36c.pdf Comments URL: https://news.ycombinator.com/item?id=50607188 Points: 1 # Comments: 0",
-      "date": "2026-11-23T03:33:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
       "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
       "summary": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edited’ before approval, party says Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in ",
@@ -369,22 +393,6 @@
       "date": "2026-11-23T02:41:02+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "VistaPrint applies generative AI edits to prints without consent or warning",
-      "link": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
-      "summary": "Article URL: https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q Comments URL: https://news.ycombinator.com/item?id=50606811 Points: 5 # Comments: 1",
-      "date": "2026-11-23T02:30:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "It Will Never: confident predictions and verdicts about AI [video]",
-      "link": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
-      "summary": "Article URL: https://www.youtube.com/watch?v=_Zzv15cwG1A Comments URL: https://news.ycombinator.com/item?id=50606723 Points: 2 # Comments: 0",
-      "date": "2026-11-23T02:19:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -1139,6 +1147,14 @@
       "source": "The Register"
     },
     {
+      "title": "'Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years",
+      "link": "https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322",
+      "summary": "Home Office needs more time with the PNC, which began life more than 50 years ago",
+      "date": "2026-11-20T15:12:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311357&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
       "link": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/",
       "summary": "With a 0.9 confidence cutoff, Cloudflare's System One model handles the easy cases and routes the rest to a bigger, slower LLM like Luna. The post Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores appeared first on Towards Data Science .",
@@ -1273,14 +1289,6 @@
       "date": "2026-11-20T11:26:37+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Windows 11 passkey bug cries failure after successful sign-in",
-      "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
-      "summary": "Optional update fixes misleading Android error for versions 25H2 and 26H2",
-      "date": "2026-11-20T11:09:44+00:00",
-      "image": "https://image.theregister.com/?imageId=5289791&width=800",
-      "source": "The Register"
     },
     {
       "title": "Regular Tech Bros Are Worried About Honeypots",
@@ -3311,14 +3319,6 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "summary": "",
       "date": "2026-10-13T16:01:58+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
