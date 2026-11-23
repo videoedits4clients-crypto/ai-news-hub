@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:36:32.826649+00:00",
+  "updated": "2026-11-23T16:50:41.272529+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -42,7 +42,7 @@
     {
       "count": 6,
       "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-      "date": "2026-11-23T16:17:26+00:00",
+      "date": "2026-11-23T16:42:06+00:00",
       "sources": [
         "Ars Technica AI",
         "CNBC Technology",
@@ -189,20 +189,28 @@
   ],
   "items": [
     {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
-      "date": "2026-11-23T16:28:15+00:00",
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "date": "2026-11-23T16:45:31+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "CNBC Technology"
     },
     {
       "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "date": "2026-11-23T16:17:26+00:00",
+      "date": "2026-11-23T16:42:06+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+      "date": "2026-11-23T16:39:10+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
@@ -211,6 +219,14 @@
       "date": "2026-11-23T16:16:00+00:00",
       "image": "https://image.theregister.com/?imageId=5295388&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
+      "date": "2026-11-23T16:14:04+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -279,7 +295,7 @@
     {
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
       "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
       "date": "2026-11-23T15:04:01+00:00",
       "image": "",
       "source": "TechCrunch AI"
@@ -419,14 +435,6 @@
       "date": "2026-11-23T13:00:31+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-      "date": "2026-11-23T12:40:37+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
@@ -1467,14 +1475,6 @@
       "date": "2026-11-19T20:19:28+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-19T20:18:49+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "A game you cannot win unless you have a quantum computer",
