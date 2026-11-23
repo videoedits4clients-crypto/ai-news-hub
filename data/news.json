@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:20:28.770542+00:00",
+  "updated": "2026-11-23T18:36:33.395170+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,7 +41,7 @@
   "trending": [
     {
       "count": 7,
-      "title": "Jensen Huang Is Back and So Is Nvidia’s Stock",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
       "date": "2026-11-23T17:52:56+00:00",
       "sources": [
         "Ars Technica AI",
@@ -54,7 +54,7 @@
       "links": [
         {
           "source": "Wired AI",
-          "title": "Jensen Huang Is Back and So Is Nvidia’s Stock",
+          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
         },
         {
@@ -86,6 +86,27 @@
           "source": "TechCrunch AI",
           "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
           "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "date": "2026-11-23T18:26:47+00:00",
+      "sources": [
+        "The Verge AI",
+        "Wired AI"
+      ],
+      "links": [
+        {
+          "source": "The Verge AI",
+          "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        },
+        {
+          "source": "Wired AI",
+          "title": "States Sue SpaceX Over Grok Deepfakes",
+          "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
         }
       ]
     },
@@ -194,12 +215,28 @@
   ],
   "items": [
     {
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social medi",
+      "date": "2026-11-23T18:26:47+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
       "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
       "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
       "date": "2026-11-23T18:12:22+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+      "date": "2026-11-23T18:07:32+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Open-source local AI shop for small businesses across Telegram, WhatsApp and web",
@@ -242,7 +279,7 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Jensen Huang Is Back and So Is Nvidia’s Stock",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
       "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
       "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
       "date": "2026-11-23T17:52:56+00:00",
@@ -940,7 +977,7 @@
     {
       "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
       "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese",
+      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chi",
       "date": "2026-11-22T20:23:36+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1602,14 +1639,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Tech wreck drags Anthropic into the red on its second day of trading",
-      "link": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
-      "summary": "Nasdaq futures trade lower after steep declines extend across global tech stocks",
-      "date": "2026-11-20T11:26:37+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Combatting adversarial distillation",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
@@ -1680,14 +1709,6 @@
       "date": "2026-11-20T00:00:00+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
-      "date": "2026-11-19T23:04:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "PostgreSQL 19 Released",
