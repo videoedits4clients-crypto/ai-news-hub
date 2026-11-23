@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T20:18:06.537172+00:00",
+  "updated": "2026-11-23T20:23:45.871806+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -230,14 +230,6 @@
   ],
   "items": [
     {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
-      "date": "2026-11-23T20:08:21+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Math in the Age of AI",
       "link": "https://mathematics.jhu.edu/2026/11/20/math-in-the-age-of-ai/",
       "summary": "Article URL: https://mathematics.jhu.edu/2026/11/20/math-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50618291 Points: 1 # Comments: 0",
@@ -252,14 +244,6 @@
       "date": "2026-11-23T19:58:17+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitt",
-      "date": "2026-11-23T19:57:18+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Are newer AI models getting better at self-improvement?",
@@ -334,12 +318,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
-      "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
-      "summary": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared",
-      "date": "2026-11-23T19:11:40+00:00",
+      "title": "CrowdStrike to buy Zscaler in $44B deal as AI supercharges cyberattacks",
+      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html Comments URL: https://news.ycombinator.com/item?id=50617294 Points: 2 # Comments: 0",
+      "date": "2026-11-23T19:05:58+00:00",
       "image": "",
-      "source": "MarkTechPost"
+      "source": "Hacker News AI"
     },
     {
       "title": "CrowdStrike to buy Zscaler in $44B deal as AI supercharges cyberattacks",
@@ -1388,6 +1372,14 @@
       "date": "2026-11-21T08:41:43+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!RcOW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe937cf00-17ca-41fb-866c-fd971727d6c6_3366x1906.png",
       "source": "Last Week in AI"
+    },
+    {
+      "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+      "link": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+      "summary": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared ",
+      "date": "2026-11-21T04:01:04+00:00",
+      "image": "",
+      "source": "MarkTechPost"
     },
     {
       "title": "Tech Now",
