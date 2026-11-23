@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:05:52.250452+00:00",
+  "updated": "2026-11-23T22:20:26.212360+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,9 +40,9 @@
   ],
   "trending": [
     {
-      "count": 7,
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-      "date": "2026-11-23T21:08:05+00:00",
+      "count": 9,
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "date": "2026-11-23T22:10:41+00:00",
       "sources": [
         "Ars Technica AI",
         "CNBC Technology",
@@ -53,19 +53,29 @@
       ],
       "links": [
         {
-          "source": "CNBC Technology",
-          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-        },
-        {
-          "source": "Wired AI",
-          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-          "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+          "source": "The Verge AI",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
         },
         {
           "source": "The Verge AI",
           "title": "Jensen Huang is back as Nvidia’s CEO",
           "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+        },
+        {
+          "source": "CNBC Technology",
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "source": "The Verge AI",
+          "title": "How Jensen Huang ended up as Nvidia CEO again",
+          "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+        },
+        {
+          "source": "Wired AI",
+          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+          "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
         },
         {
           "source": "Ars Technica AI",
@@ -215,6 +225,94 @@
   ],
   "items": [
     {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "date": "2026-11-23T22:15:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "News site where AI picks, writes, and publishes every story",
+      "link": "https://aitoday.it/",
+      "summary": "Article URL: https://aitoday.it/ Comments URL: https://news.ycombinator.com/item?id=50620125 Points: 1 # Comments: 0",
+      "date": "2026-11-23T22:11:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
+      "date": "2026-11-23T22:10:41+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
+      "date": "2026-11-23T22:10:23+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
+      "date": "2026-11-23T22:09:26+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "date": "2026-11-23T22:05:50+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "date": "2026-11-23T22:02:05+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 2 # Comments: 0",
+      "date": "2026-11-23T21:56:44+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "link": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts",
+      "date": "2026-11-23T21:52:23+00:00",
+      "image": "https://image.theregister.com/?imageId=5311772&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Emma AI by NuanceLabs [video]",
+      "link": "https://app.nuancelabs.ai/try",
+      "summary": "Article URL: https://app.nuancelabs.ai/try Comments URL: https://news.ycombinator.com/item?id=50619889 Points: 1 # Comments: 0",
+      "date": "2026-11-23T21:50:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Steven Pinker responds to Scott Alexender contra AI doomerism",
+      "link": "https://quillette.com/2026/11/23/will-we-all-go-together-when-we-go-ai-alignment-scott-alexander-doomerism/",
+      "summary": "Article URL: https://quillette.com/2026/11/23/will-we-all-go-together-when-we-go-ai-alignment-scott-alexander-doomerism/ Comments URL: https://news.ycombinator.com/item?id=50619886 Points: 1 # Comments: 0",
+      "date": "2026-11-23T21:50:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
       "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
       "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
@@ -233,18 +331,10 @@
     {
       "title": "The AI conversation we're not having",
       "link": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
-      "summary": "Article URL: https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/ Comments URL: https://news.ycombinator.com/item?id=50619838 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/ Comments URL: https://news.ycombinator.com/item?id=50619838 Points: 2 # Comments: 0",
       "date": "2026-11-23T21:46:33+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "date": "2026-11-23T21:46:28+00:00",
-      "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Google Gemini decouples chat history from AI training",
@@ -303,6 +393,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+      "summary": "Not the whole startup - just its tech and the brains behind it",
+      "date": "2026-11-23T21:17:15+00:00",
+      "image": "https://image.theregister.com/?imageId=5222824&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "AI data centers throw another wrench into chaotic UN climate talks",
       "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
@@ -329,7 +427,7 @@
     {
       "title": "Sovereign skills: Porting an AI code audit to Inkling 2 Mini and Qwen3.8",
       "link": "https://getstream.io/blog/local-video-audit-skill/",
-      "summary": "Article URL: https://getstream.io/blog/local-video-audit-skill/ Comments URL: https://news.ycombinator.com/item?id=50619263 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://getstream.io/blog/local-video-audit-skill/ Comments URL: https://news.ycombinator.com/item?id=50619263 Points: 4 # Comments: 0",
       "date": "2026-11-23T21:05:15+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -353,7 +451,7 @@
     {
       "title": "Frontier models need only one text to unmask its human or AI author",
       "link": "https://arxiv.org/abs/2611.26216",
-      "summary": "Article URL: https://arxiv.org/abs/2611.26216 Comments URL: https://news.ycombinator.com/item?id=50619121 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://arxiv.org/abs/2611.26216 Comments URL: https://news.ycombinator.com/item?id=50619121 Points: 2 # Comments: 0",
       "date": "2026-11-23T20:54:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -393,7 +491,7 @@
     {
       "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
       "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
-      "summary": "Article URL: https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/ Comments URL: https://news.ycombinator.com/item?id=50618834 Points: 12 # Comments: 0",
+      "summary": "Article URL: https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/ Comments URL: https://news.ycombinator.com/item?id=50618834 Points: 13 # Comments: 0",
       "date": "2026-11-23T20:33:07+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -543,44 +641,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
-      "link": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-      "summary": "Article URL: https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/ Comments URL: https://news.ycombinator.com/item?id=50617085 Points: 2 # Comments: 0",
-      "date": "2026-11-23T18:55:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
-      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review Comments URL: https://news.ycombinator.com/item?id=50616997 Points: 2 # Comments: 0",
-      "date": "2026-11-23T18:51:01+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
       "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
       "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communicatio",
       "date": "2026-11-23T18:48:59+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50616880 Points: 3 # Comments: 0",
-      "date": "2026-11-23T18:44:47+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "RL Infrastructure at Microsoft AI",
-      "link": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
-      "summary": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50616689 Points: 3 # Comments: 0",
-      "date": "2026-11-23T18:32:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
@@ -659,14 +725,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
       "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review c",
       "date": "2026-11-23T17:10:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Jensen Huang is back as Nvidia’s CEO",
-      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
-      "date": "2026-11-23T17:03:40+00:00",
       "image": "",
       "source": "The Verge AI"
     },
@@ -757,14 +815,6 @@
       "date": "2026-11-23T15:30:27+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Meta Muse can do your Black Friday shopping at Walmart",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find re",
-      "date": "2026-11-23T15:09:24+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "British retailer Next downplays data breach at tech supplier",
@@ -885,6 +935,14 @@
       "date": "2026-11-23T13:16:38+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "date": "2026-11-23T13:11:00+00:00",
+      "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "source": "Wired AI"
     },
     {
       "title": "AI conquered chess. What happened next should give us hope",
@@ -1053,14 +1111,6 @@
       "date": "2026-11-23T03:23:44+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "We haven’t seen the last of the major tech outages",
-      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton t",
-      "date": "2026-11-23T02:41:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -1423,14 +1473,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "ChatGPT shrunk down to run on a Super Nintendo",
-      "link": "https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418",
-      "summary": "Just don't expect complex, coherent, or always correct answers",
-      "date": "2026-11-21T11:46:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5311423&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
       "link": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
       "summary": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
@@ -1559,14 +1601,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "date": "2026-11-20T19:53:41+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
       "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
       "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
@@ -1581,14 +1615,6 @@
       "date": "2026-11-20T19:42:53+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "date": "2026-11-20T19:32:08+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Quoting Ravi Vakil",
@@ -1701,14 +1727,6 @@
       "date": "2026-11-20T02:49:57+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "date": "2026-11-20T00:02:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -3403,14 +3421,6 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
