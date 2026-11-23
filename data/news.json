@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:21:06.767482+00:00",
+  "updated": "2026-11-23T21:36:34.405133+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -91,22 +91,22 @@
     },
     {
       "count": 2,
-      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-      "date": "2026-11-23T19:19:08+00:00",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "date": "2026-11-23T21:23:42+00:00",
       "sources": [
         "BBC Technology",
         "CNBC Technology"
       ],
       "links": [
         {
-          "source": "CNBC Technology",
-          "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-          "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+          "source": "BBC Technology",
+          "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC Technology",
-          "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+          "source": "CNBC Technology",
+          "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+          "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
         }
       ]
     },
@@ -215,12 +215,28 @@
   ],
   "items": [
     {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
-      "date": "2026-11-23T21:09:37+00:00",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "date": "2026-11-23T21:25:42+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "date": "2026-11-23T21:23:42+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "date": "2026-11-23T21:22:13+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
@@ -235,6 +251,14 @@
       "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
       "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
       "date": "2026-11-23T21:04:03+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "summary": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
+      "date": "2026-11-23T20:57:41+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -285,14 +309,6 @@
       "date": "2026-11-23T19:29:59+00:00",
       "image": "https://image.theregister.com/?imageId=229180&width=800",
       "source": "The Register"
-    },
-    {
-      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-      "date": "2026-11-23T19:19:08+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
@@ -365,14 +381,6 @@
       "date": "2026-11-23T17:52:56+00:00",
       "image": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-      "date": "2026-11-23T17:42:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -783,6 +791,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "date": "2026-11-23T08:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
       "title": "Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state",
       "link": "https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554",
       "summary": "Spacecraft enters orbit after epic journey but something shortened a burn",
@@ -917,6 +933,14 @@
       "date": "2026-11-22T17:55:27+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se",
+      "date": "2026-11-22T17:25:20+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
@@ -1415,22 +1439,6 @@
       "source": "Towards Data Science"
     },
     {
-      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-      "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
-      "date": "2026-11-20T14:59:38+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in Chi",
-      "date": "2026-11-20T14:55:44+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
       "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
       "link": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
       "summary": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
@@ -1631,14 +1639,6 @@
       "source": "OpenAI News"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "date": "2026-11-19T00:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
-    },
-    {
       "title": "See PR scans in action",
       "link": "https://openai.com/business/learn/pr-scans-demo",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
@@ -1650,6 +1650,14 @@
       "title": "Deploying Daybreak Red",
       "link": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "date": "2026-11-19T00:00:00+00:00",
+      "image": "",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "date": "2026-11-19T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -1887,17 +1895,17 @@
       "source": "Ars Technica AI"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
@@ -2261,14 +2269,6 @@
       "date": "2026-11-16T13:00:00+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "date": "2026-11-16T12:00:00+00:00",
-      "image": "",
-      "source": "OpenAI News"
     },
     {
       "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
