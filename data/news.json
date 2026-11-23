@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:06:23.905044+00:00",
+  "updated": "2026-11-23T15:20:29.273348+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -162,20 +162,44 @@
   ],
   "items": [
     {
+      "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "date": "2026-11-23T15:15:45+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find re",
+      "date": "2026-11-23T15:09:24+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "British retailer Next downplays data breach at tech supplier",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
+      "summary": "Retailer insists customer details are safe and the data accessed is 'benign,' but won't say exactly what hackers got their hands on",
+      "date": "2026-11-23T15:09:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311688&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "date": "2026-11-23T15:04:01+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
       "link": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/",
       "summary": "From the Four Color Theorem to OpenAI's October 2026 claims, why computer-checked proofs still need people to explain, test, and extend them. The post AI Math Proofs Aren't Knowledge Until Someone Explains Them appeared first on Towards Data Science .",
       "date": "2026-11-23T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "date": "2026-11-23T14:54:18+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Jensen Huang is back as Nvidia’s CEO",
@@ -358,14 +382,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark ",
       "date": "2026-11-23T11:50:04+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Meta Muse can do your Black Friday shopping at Walmart",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI ag",
-      "date": "2026-11-23T11:49:21+00:00",
       "image": "",
       "source": "The Verge AI"
     },
@@ -1138,14 +1154,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
-      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
-      "summary": "A deeper look at Vera",
-      "date": "2026-11-20T18:45:50+00:00",
-      "image": "https://image.theregister.com/?imageId=5228929&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the",
@@ -1432,14 +1440,6 @@
       "date": "2026-11-19T20:00:15+00:00",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
       "source": "NVIDIA Blog"
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "date": "2026-11-19T19:10:45+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
