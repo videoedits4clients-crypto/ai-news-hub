@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:20:29.337905+00:00",
+  "updated": "2026-11-23T19:36:30.563656+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -91,6 +91,27 @@
     },
     {
       "count": 2,
+      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+      "date": "2026-11-23T19:19:08+00:00",
+      "sources": [
+        "BBC Technology",
+        "CNBC Technology"
+      ],
+      "links": [
+        {
+          "source": "CNBC Technology",
+          "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+          "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+        },
+        {
+          "source": "BBC Technology",
+          "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "count": 2,
       "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
       "date": "2026-11-23T18:26:47+00:00",
       "sources": [
@@ -107,27 +128,6 @@
           "source": "Wired AI",
           "title": "States Sue SpaceX Over Grok Deepfakes",
           "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-      "date": "2026-11-23T17:42:37+00:00",
-      "sources": [
-        "BBC Technology",
-        "CNBC Technology"
-      ],
-      "links": [
-        {
-          "source": "BBC Technology",
-          "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC Technology",
-          "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-          "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
         }
       ]
     },
@@ -215,9 +215,33 @@
   ],
   "items": [
     {
+      "title": "Show HN: Dayora, an AI journal that writes back",
+      "link": "https://www.dayora.ai",
+      "summary": "Article URL: https://www.dayora.ai Comments URL: https://news.ycombinator.com/item?id=50617754 Points: 1 # Comments: 0",
+      "date": "2026-11-23T19:30:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The Cognitive Debt of the AI Generation",
+      "link": "https://inklum.com/christiansafka/the-cognitive-debt-of-the-ai-generation-4q6y",
+      "summary": "Article URL: https://inklum.com/christiansafka/the-cognitive-debt-of-the-ai-generation-4q6y Comments URL: https://news.ycombinator.com/item?id=50617566 Points: 1 # Comments: 0",
+      "date": "2026-11-23T19:21:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "date": "2026-11-23T19:19:08+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "AI model capabilities are improving rapidly and getting harder to measure",
       "link": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
-      "summary": "Article URL: https://metr.org/blog/2026-11-20-q4-2026-capability-update/ Comments URL: https://news.ycombinator.com/item?id=50617490 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://metr.org/blog/2026-11-20-q4-2026-capability-update/ Comments URL: https://news.ycombinator.com/item?id=50617490 Points: 2 # Comments: 0",
       "date": "2026-11-23T19:17:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -521,7 +545,7 @@
     {
       "title": "Jensen Huang isn’t out of the woods yet",
       "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-      "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI indu",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
       "date": "2026-11-23T16:57:40+00:00",
       "image": "",
       "source": "TechCrunch AI"
@@ -569,7 +593,7 @@
     {
       "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
       "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
       "date": "2026-11-23T16:39:10+00:00",
       "image": "",
       "source": "TechCrunch AI"
@@ -607,28 +631,12 @@
       "source": "The Register"
     },
     {
-      "title": "My AI coding agents spend most of their time waiting",
-      "link": "https://jurajb.dev/coding-agents-mostly-waiting/",
-      "summary": "Article URL: https://jurajb.dev/coding-agents-mostly-waiting/ Comments URL: https://news.ycombinator.com/item?id=50614258 Points: 4 # Comments: 0",
-      "date": "2026-11-23T16:13:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
       "date": "2026-11-23T16:12:35+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "Show HN: Clai – AI multitool for terminal powerusers",
-      "link": "https://www.clai.chat/",
-      "summary": "Article URL: https://www.clai.chat/ Comments URL: https://news.ycombinator.com/item?id=50614201 Points: 2 # Comments: 0",
-      "date": "2026-11-23T16:10:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "The rise and fall and rise again of Jensen Huang",
@@ -645,14 +653,6 @@
       "date": "2026-11-23T15:46:18+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-      "date": "2026-11-23T15:36:12+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
