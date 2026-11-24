@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:51:10.535917+00:00",
+  "updated": "2026-11-24T00:05:55.443169+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,19 +41,19 @@
   "trending": [
     {
       "count": 5,
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "date": "2026-11-23T22:18:13+00:00",
+      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "date": "2026-11-23T23:14:34+00:00",
       "sources": [
+        "CNBC Technology",
         "TechCrunch AI",
         "The Register",
-        "The Verge AI",
         "Wired AI"
       ],
       "links": [
         {
-          "source": "The Verge AI",
-          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+          "source": "CNBC Technology",
+          "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+          "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html"
         },
         {
           "source": "Wired AI",
@@ -250,9 +250,25 @@
   ],
   "items": [
     {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "summary": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
+      "date": "2026-11-23T23:50:00+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. ",
+      "date": "2026-11-23T23:40:49+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
       "title": "The AI bubble is deflating and that's good news",
       "link": "https://cepr.net/publications/ai-bubble-monitor/#nov232026",
-      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/#nov232026 Comments URL: https://news.ycombinator.com/item?id=50621115 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/#nov232026 Comments URL: https://news.ycombinator.com/item?id=50621115 Points: 3 # Comments: 0",
       "date": "2026-11-23T23:35:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -268,7 +284,7 @@
     {
       "title": "The AI bubble hasn't burst, but it has significantly deflated",
       "link": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
-      "summary": "Article URL: https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated Comments URL: https://news.ycombinator.com/item?id=50620992 Points: 4 # Comments: 1",
+      "summary": "Article URL: https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated Comments URL: https://news.ycombinator.com/item?id=50620992 Points: 5 # Comments: 2",
       "date": "2026-11-23T23:25:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -288,6 +304,14 @@
       "date": "2026-11-23T23:16:08+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+      "summary": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+      "date": "2026-11-23T23:14:34+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
@@ -324,7 +348,7 @@
     {
       "title": "US to blacklist Asian AI firm Megaspeed",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 6 # Comments: 0",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 7 # Comments: 0",
       "date": "2026-11-23T22:48:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -362,14 +386,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-      "summary": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
-      "date": "2026-11-23T22:18:23+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia CEO Jensen Huang is back. What happens next?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
@@ -404,7 +420,7 @@
     {
       "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
       "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 15 # Comments: 5",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 15 # Comments: 6",
       "date": "2026-11-23T21:56:44+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1698,14 +1714,6 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-      "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
-      "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
-      "date": "2026-11-20T18:07:18+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Quoting Levent Alpöge",
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
@@ -2614,14 +2622,6 @@
       "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
       "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that t",
       "date": "2026-11-14T23:59:28+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "datasette-vega 0.7",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some",
-      "date": "2026-11-14T17:09:09+00:00",
       "image": "",
       "source": "Simon Willison"
     },
