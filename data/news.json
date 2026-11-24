@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:50:44.015455+00:00",
+  "updated": "2026-11-24T22:05:57.303769+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -72,7 +72,7 @@
     {
       "count": 3,
       "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "date": "2026-11-24T21:41:37+00:00",
+      "date": "2026-11-24T20:52:20+00:00",
       "sources": [
         "The Verge AI",
         "Wired AI"
@@ -134,27 +134,6 @@
           "source": "The Verge AI",
           "title": "Claude AI can review pull requests and ship fixes on its own now",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-      "date": "2026-11-23T21:08:05+00:00",
-      "sources": [
-        "Ars Technica AI",
-        "CNBC Technology"
-      ],
-      "links": [
-        {
-          "source": "CNBC Technology",
-          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
         }
       ]
     },
@@ -222,12 +201,20 @@
   ],
   "items": [
     {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
-      "date": "2026-11-24T21:41:37+00:00",
+      "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+      "summary": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
+      "date": "2026-11-24T21:52:05+00:00",
       "image": "",
-      "source": "The Verge AI"
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "date": "2026-11-24T21:48:27+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Even the best AI agents struggle with everyday life",
@@ -252,6 +239,14 @@
       "date": "2026-11-24T21:32:34+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "date": "2026-11-24T21:29:03+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
@@ -295,11 +290,19 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
       "summary": "Experts from around the world plot the progress of AI development every five years.",
       "date": "2026-11-24T21:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
+      "date": "2026-11-24T20:52:20+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -1086,22 +1089,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "date": "2026-11-23T21:08:05+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
-      "date": "2026-11-23T21:04:03+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
       "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
       "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
@@ -1250,14 +1237,6 @@
       "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
       "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
       "date": "2026-11-23T16:57:40+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-      "date": "2026-11-23T16:39:10+00:00",
       "image": "",
       "source": "TechCrunch AI"
     },
