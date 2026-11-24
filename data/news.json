@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:50:23.778359+00:00",
+  "updated": "2026-11-24T21:06:23.557126+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -42,7 +42,7 @@
     {
       "count": 4,
       "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "date": "2026-11-24T20:14:49+00:00",
+      "date": "2026-11-24T20:52:20+00:00",
       "sources": [
         "TechCrunch AI",
         "The Verge AI",
@@ -228,6 +228,30 @@
   ],
   "items": [
     {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "date": "2026-11-24T20:59:21+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
+      "date": "2026-11-24T20:52:20+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time",
+      "date": "2026-11-24T20:52:19+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
       "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
@@ -236,12 +260,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "date": "2026-11-24T20:41:54+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "source": "BBC Technology"
+      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+      "date": "2026-11-24T20:37:40+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "What's going on with the Riemann hypothesis?",
@@ -250,22 +274,6 @@
       "date": "2026-11-24T20:34:53+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
-      "date": "2026-11-24T20:14:49+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time",
-      "date": "2026-11-24T20:02:03+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
@@ -1210,14 +1218,6 @@
       "date": "2026-11-23T16:57:40+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-      "date": "2026-11-23T16:45:31+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
