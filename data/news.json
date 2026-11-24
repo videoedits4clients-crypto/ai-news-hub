@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:37:04.838889+00:00",
+  "updated": "2026-11-24T15:50:52.647711+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -255,10 +255,10 @@
   ],
   "items": [
     {
-      "title": "SchemaSketch – database diagrams your AI agent can edit (DBML, MCP)",
-      "link": "https://schemasketch.dev/",
-      "summary": "Article URL: https://schemasketch.dev/ Comments URL: https://news.ycombinator.com/item?id=50629536 Points: 2 # Comments: 0",
-      "date": "2026-11-24T15:23:00+00:00",
+      "title": "AI inference needs its kilowatt-hour: bill by ZSTD-compressed output, not tokens",
+      "link": "https://veltisto.ai/thesis",
+      "summary": "Article URL: https://veltisto.ai/thesis Comments URL: https://news.ycombinator.com/item?id=50629922 Points: 1 # Comments: 0",
+      "date": "2026-11-24T15:47:56+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -266,9 +266,41 @@
       "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
       "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-      "date": "2026-11-24T15:22:29+00:00",
+      "date": "2026-11-24T15:45:53+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "ai is so dumb [video]",
+      "link": "https://www.youtube.com/watch?v=08CvTkRh334",
+      "summary": "Article URL: https://www.youtube.com/watch?v=08CvTkRh334 Comments URL: https://news.ycombinator.com/item?id=50629855 Points: 1 # Comments: 1",
+      "date": "2026-11-24T15:43:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Living computers forge a 'hive mind' and work together to outsmart AI",
+      "link": "https://newatlas.com/ai-humanoids/living-computers-forge-a-hive-mind-and-work-together-to-outsmart-ai/",
+      "summary": "Article URL: https://newatlas.com/ai-humanoids/living-computers-forge-a-hive-mind-and-work-together-to-outsmart-ai/ Comments URL: https://news.ycombinator.com/item?id=50629754 Points: 2 # Comments: 0",
+      "date": "2026-11-24T15:37:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Nvidia shares fall over 5% after Huang comeback rally",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+      "date": "2026-11-24T15:36:34+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "SchemaSketch – database diagrams your AI agent can edit (DBML, MCP)",
+      "link": "https://schemasketch.dev/",
+      "summary": "Article URL: https://schemasketch.dev/ Comments URL: https://news.ycombinator.com/item?id=50629536 Points: 2 # Comments: 0",
+      "date": "2026-11-24T15:23:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -281,7 +313,7 @@
     {
       "title": "Who is Levent Alpöge, the reclusive genius behind AI's math conquest?",
       "link": "https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/",
-      "summary": "Article URL: https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/ Comments URL: https://news.ycombinator.com/item?id=50629431 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/ Comments URL: https://news.ycombinator.com/item?id=50629431 Points: 3 # Comments: 0",
       "date": "2026-11-24T15:16:55+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -293,6 +325,14 @@
       "date": "2026-11-24T15:16:19+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more ne",
+      "date": "2026-11-24T15:15:16+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
     },
     {
       "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
@@ -321,7 +361,7 @@
     {
       "title": "Tidal Is Deleting, Rejecting, and Banning AI-Generated Music",
       "link": "https://twitter.com/TIDAL/status/2125233598714487170",
-      "summary": "Article URL: https://twitter.com/TIDAL/status/2125233598714487170 Comments URL: https://news.ycombinator.com/item?id=50629286 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://twitter.com/TIDAL/status/2125233598714487170 Comments URL: https://news.ycombinator.com/item?id=50629286 Points: 4 # Comments: 1",
       "date": "2026-11-24T15:06:31+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -377,7 +417,7 @@
     {
       "title": "Tidal removes all AI songs (29M total / 80k per day)",
       "link": "https://twitter.com/rsa/status/2125227949163180409",
-      "summary": "Article URL: https://twitter.com/rsa/status/2125227949163180409 Comments URL: https://news.ycombinator.com/item?id=50629049 Points: 6 # Comments: 4",
+      "summary": "Article URL: https://twitter.com/rsa/status/2125227949163180409 Comments URL: https://news.ycombinator.com/item?id=50629049 Points: 6 # Comments: 5",
       "date": "2026-11-24T14:50:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -387,14 +427,6 @@
       "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
       "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
       "date": "2026-11-24T14:46:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Nvidia shares fall over 5% after Huang comeback rally",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-      "date": "2026-11-24T14:43:53+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -535,22 +567,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: Advent of AI Security 2026",
-      "link": "https://advent-of-ai-security.com/",
-      "summary": "One OWASP LLM Top 10 risk per door, a new one every two or three days from 1 December to Christmas Eve. Every door ends in a lab against a small language model running in your own browser. Comments URL: https://news.ycombinator.com/item?id=50628061 Points: 1 # Comments: 0",
-      "date": "2026-11-24T13:41:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "My AI assistant tried to set my other AI free",
-      "link": "https://moai.studio/blog/posts/my-ai-assistant-tried-to-free-my-other-ai.html",
-      "summary": "Article URL: https://moai.studio/blog/posts/my-ai-assistant-tried-to-free-my-other-ai.html Comments URL: https://news.ycombinator.com/item?id=50628011 Points: 1 # Comments: 0",
-      "date": "2026-11-24T13:37:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
       "link": "https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump",
       "summary": "The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest names attempt to repair relationships with Democrats after years of backing the president This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it",
@@ -565,14 +581,6 @@
       "date": "2026-11-24T13:31:29+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Google files patent for personal AI-made videos",
-      "link": "https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/",
-      "summary": "Article URL: https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/ Comments URL: https://news.ycombinator.com/item?id=50627925 Points: 2 # Comments: 0",
-      "date": "2026-11-24T13:30:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
@@ -2981,14 +2989,6 @@
       "date": "2026-11-09T19:51:47+00:00",
       "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest",
-      "date": "2026-11-09T19:35:33+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     },
     {
       "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
