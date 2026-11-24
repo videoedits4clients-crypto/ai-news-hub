@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T01:21:07.378750+00:00",
+  "updated": "2026-11-24T01:36:22.678042+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -271,10 +271,26 @@
   ],
   "items": [
     {
-      "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
       "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
-      "date": "2026-11-24T00:53:29+00:00",
+      "date": "2026-11-24T01:29:06+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "NeuralOps Nexus – self-hosted AI teammates that ask before they act",
+      "link": "https://www.neuralopsnexus.ai/",
+      "summary": "Article URL: https://www.neuralopsnexus.ai/ Comments URL: https://news.ycombinator.com/item?id=50622220 Points: 1 # Comments: 1",
+      "date": "2026-11-24T01:21:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+      "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+      "summary": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
+      "date": "2026-11-24T00:56:10+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -313,7 +329,7 @@
     {
       "title": "AI conquered chess. What happened next should give us hope",
       "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
-      "summary": "Article URL: https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai Comments URL: https://news.ycombinator.com/item?id=50621752 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai Comments URL: https://news.ycombinator.com/item?id=50621752 Points: 3 # Comments: 0",
       "date": "2026-11-24T00:31:52+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -321,10 +337,18 @@
     {
       "title": "The Institutional Laundering of AI Safety",
       "link": "https://rentry.co/ai-safety-eval-comparison",
-      "summary": "Article URL: https://rentry.co/ai-safety-eval-comparison Comments URL: https://news.ycombinator.com/item?id=50621738 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://rentry.co/ai-safety-eval-comparison Comments URL: https://news.ycombinator.com/item?id=50621738 Points: 2 # Comments: 0",
       "date": "2026-11-24T00:30:27+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+      "summary": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+      "date": "2026-11-24T00:18:17+00:00",
+      "image": "https://image.theregister.com/?imageId=5264648&width=800",
+      "source": "The Register"
     },
     {
       "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
@@ -369,7 +393,7 @@
     {
       "title": "The AI bubble is deflating and that's good news",
       "link": "https://cepr.net/publications/ai-bubble-monitor/#nov232026",
-      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/#nov232026 Comments URL: https://news.ycombinator.com/item?id=50621115 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/#nov232026 Comments URL: https://news.ycombinator.com/item?id=50621115 Points: 4 # Comments: 1",
       "date": "2026-11-23T23:35:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -385,7 +409,7 @@
     {
       "title": "The AI bubble hasn't burst, but it has significantly deflated",
       "link": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
-      "summary": "Article URL: https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated Comments URL: https://news.ycombinator.com/item?id=50620992 Points: 6 # Comments: 2",
+      "summary": "Article URL: https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated Comments URL: https://news.ycombinator.com/item?id=50620992 Points: 7 # Comments: 2",
       "date": "2026-11-23T23:25:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -449,7 +473,7 @@
     {
       "title": "US to blacklist Asian AI firm Megaspeed",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 9 # Comments: 2",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 10 # Comments: 2",
       "date": "2026-11-23T22:48:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -699,14 +723,6 @@
       "link": "https://arxiv.org/abs/2611.26216",
       "summary": "Article URL: https://arxiv.org/abs/2611.26216 Comments URL: https://news.ycombinator.com/item?id=50619121 Points: 3 # Comments: 0",
       "date": "2026-11-23T20:54:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Visuals on each new AI model",
-      "link": "https://hypeorcode.com/",
-      "summary": "Article URL: https://hypeorcode.com/ Comments URL: https://news.ycombinator.com/item?id=50619010 Points: 1 # Comments: 0",
-      "date": "2026-11-23T20:45:10+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1693,14 +1709,6 @@
       "date": "2026-11-20T19:52:21+00:00",
       "image": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
-      "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
-      "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
-      "date": "2026-11-20T19:42:53+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Quoting Ravi Vakil",
@@ -3461,14 +3469,6 @@
       "date": "2026-10-14T01:41:55+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
     }
   ]
 }
