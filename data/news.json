@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T01:06:22.327802+00:00",
+  "updated": "2026-11-24T01:21:07.378750+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,12 +40,13 @@
   ],
   "trending": [
     {
-      "count": 4,
+      "count": 5,
       "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
       "date": "2026-11-23T23:14:34+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI",
+        "The Register",
         "Wired AI"
       ],
       "links": [
@@ -58,6 +59,11 @@
           "source": "Wired AI",
           "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+        },
+        {
+          "source": "The Register",
+          "title": "Nvidia board puts Jensen Huang back as boss",
+          "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674"
         },
         {
           "source": "Wired AI",
@@ -275,7 +281,7 @@
     {
       "title": "What AI Is Bad At?",
       "link": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
-      "summary": "Article URL: https://laike9m.com/blog/what-ai-is-bad-at,174/ Comments URL: https://news.ycombinator.com/item?id=50621962 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://laike9m.com/blog/what-ai-is-bad-at,174/ Comments URL: https://news.ycombinator.com/item?id=50621962 Points: 1 # Comments: 2",
       "date": "2026-11-24T00:52:36+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -443,7 +449,7 @@
     {
       "title": "US to blacklist Asian AI firm Megaspeed",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 9 # Comments: 1",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 9 # Comments: 2",
       "date": "2026-11-23T22:48:25+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -515,7 +521,7 @@
     {
       "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
       "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 19 # Comments: 12",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 19 # Comments: 13",
       "date": "2026-11-23T21:56:44+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -529,6 +535,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "link": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts",
+      "date": "2026-11-23T21:52:23+00:00",
+      "image": "https://image.theregister.com/?imageId=5311772&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Emma AI by NuanceLabs [video]",
       "link": "https://app.nuancelabs.ai/try",
       "summary": "Article URL: https://app.nuancelabs.ai/try Comments URL: https://news.ycombinator.com/item?id=50619889 Points: 2 # Comments: 0",
@@ -539,7 +553,7 @@
     {
       "title": "Steven Pinker responds to Scott Alexender contra AI doomerism",
       "link": "https://quillette.com/2026/11/23/will-we-all-go-together-when-we-go-ai-alignment-scott-alexander-doomerism/",
-      "summary": "Article URL: https://quillette.com/2026/11/23/will-we-all-go-together-when-we-go-ai-alignment-scott-alexander-doomerism/ Comments URL: https://news.ycombinator.com/item?id=50619886 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://quillette.com/2026/11/23/will-we-all-go-together-when-we-go-ai-alignment-scott-alexander-doomerism/ Comments URL: https://news.ycombinator.com/item?id=50619886 Points: 2 # Comments: 0",
       "date": "2026-11-23T21:50:26+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -571,7 +585,7 @@
     {
       "title": "Google Gemini decouples chat history from AI training",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/ Comments URL: https://news.ycombinator.com/item?id=50619743 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/ Comments URL: https://news.ycombinator.com/item?id=50619743 Points: 3 # Comments: 1",
       "date": "2026-11-23T21:38:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -633,6 +647,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+      "summary": "Not the whole startup - just its tech and the brains behind it",
+      "date": "2026-11-23T21:17:15+00:00",
+      "image": "https://image.theregister.com/?imageId=5222824&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "AI data centers throw another wrench into chaotic UN climate talks",
       "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
@@ -675,7 +697,7 @@
     {
       "title": "Frontier models need only one text to unmask its human or AI author",
       "link": "https://arxiv.org/abs/2611.26216",
-      "summary": "Article URL: https://arxiv.org/abs/2611.26216 Comments URL: https://news.ycombinator.com/item?id=50619121 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://arxiv.org/abs/2611.26216 Comments URL: https://news.ycombinator.com/item?id=50619121 Points: 3 # Comments: 0",
       "date": "2026-11-23T20:54:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -719,6 +741,14 @@
       "date": "2026-11-23T19:34:38+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Bluetooth brakes are broken as researchers find anyone can control them",
+      "link": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+      "summary": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+      "date": "2026-11-23T19:29:59+00:00",
+      "image": "https://image.theregister.com/?imageId=229180&width=800",
+      "source": "The Register"
     },
     {
       "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
@@ -881,6 +911,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
+      "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
+      "summary": "July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery",
+      "date": "2026-11-23T16:16:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5295388&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
@@ -911,6 +949,14 @@
       "date": "2026-11-23T15:30:27+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "British retailer Next downplays data breach at tech supplier",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
+      "summary": "Retailer insists customer details are safe and the data accessed is 'benign,' but won't say exactly what hackers got their hands on",
+      "date": "2026-11-23T15:09:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311688&width=800",
+      "source": "The Register"
     },
     {
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
@@ -945,6 +991,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Nvidia board puts Jensen Huang back as boss",
+      "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
+      "summary": "BoomerHuang CEO returns",
+      "date": "2026-11-23T14:35:50+00:00",
+      "image": "https://image.theregister.com/?imageId=5311670&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Jensen Huang Is Back as Nvidia CEO",
       "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
       "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
@@ -975,6 +1029,14 @@
       "date": "2026-11-23T14:08:50+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier",
+      "link": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
+      "summary": "Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare",
+      "date": "2026-11-23T14:04:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5309241&width=800",
+      "source": "The Register"
     },
     {
       "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
@@ -1073,6 +1135,14 @@
       "source": "MarkTechPost"
     },
     {
+      "title": "Old-school Linux desktops find fresh routes to Wayland",
+      "link": "https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349",
+      "summary": "Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own",
+      "date": "2026-11-23T10:17:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311355&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
       "link": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
       "summary": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core. The post Architect Labs Unveils Frostbite, an Interaction Net CPU D",
@@ -1087,6 +1157,14 @@
       "date": "2026-11-23T10:00:00+00:00",
       "image": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
       "source": "Wired AI"
+    },
+    {
+      "title": "Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them",
+      "link": "https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325",
+      "summary": "Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud",
+      "date": "2026-11-23T09:32:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5273664&width=800",
+      "source": "The Register"
     },
     {
       "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
@@ -1121,6 +1199,30 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state",
+      "link": "https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554",
+      "summary": "Spacecraft enters orbit after epic journey but something shortened a burn",
+      "date": "2026-11-23T07:24:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311561&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Techie turned his too-easy job interview into a trap",
+      "link": "https://www.theregister.com/personal-tech/2026/11/23/techie-turned-his-too-easy-job-interview-into-a-trap/5311213",
+      "summary": "With the flick of a switch, he smoked out competent PC maintenance skills",
+      "date": "2026-11-23T06:35:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311218&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Google claims last week’s critical VMware bug was under attack in September",
+      "link": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547",
+      "summary": "China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter",
+      "date": "2026-11-23T04:39:19+00:00",
+      "image": "https://image.theregister.com/?imageId=261387&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
       "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
       "summary": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edited’ before approval, party says Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in ",
@@ -1143,6 +1245,14 @@
       "date": "2026-11-23T00:37:20+00:00",
       "image": "",
       "source": "Simon Willison"
+    },
+    {
+      "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+      "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "summary": "PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!",
+      "date": "2026-11-23T00:23:31+00:00",
+      "image": "https://image.theregister.com/?imageId=246780&width=800",
+      "source": "The Register"
     },
     {
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -1225,6 +1335,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "As cars go digital, US consumers pay an extra $12 billion a year for repairs",
+      "link": "https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412",
+      "summary": "Today's vehicles need software tools to make repairs, and the subscriptions inflate insurance fees",
+      "date": "2026-11-22T16:08:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311508&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
       "summary": "What have I learned from my experiment with outsourcing? That I’m easily replaced – and awful I’ve just ventured deeper into my phone’s settings than anybody has ever been before. A software update is always discombobulating, but the latest one brought a lot of unwanted AI nonsen",
@@ -1303,6 +1421,14 @@
       "date": "2026-11-22T10:03:54+00:00",
       "image": "",
       "source": "MarkTechPost"
+    },
+    {
+      "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+      "link": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+      "summary": "Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV",
+      "date": "2026-11-22T09:15:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311030&width=800",
+      "source": "The Register"
     },
     {
       "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
@@ -3343,126 +3469,6 @@
       "date": "2026-10-13T19:43:07+00:00",
       "image": "",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
-      "date": "2026-10-13T09:47:22+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left-",
-      "date": "2026-10-13T04:19:32+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
-      "date": "2026-10-12T12:30:39+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "I expect rapid progress but not towards general superintelligence",
-      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "date": "2026-10-09T21:33:47+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
-      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
-      "date": "2026-10-09T05:06:58+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Does better work always mean better workers?",
-      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "summary": "",
-      "date": "2026-10-07T20:19:57+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "summary": "Earth AI",
-      "date": "2026-10-06T15:05:11+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "The Cyber Risk Discourse is Broken",
-      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
-      "date": "2026-10-06T14:22:41+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "summary": "Generative AI",
-      "date": "2026-10-05T21:08:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
-      "date": "2026-10-05T12:32:30+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "date": "2026-10-03T07:32:03+00:00",
-      "image": "",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Toward provably private learning from federated data",
-      "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "summary": "Mobile Systems",
-      "date": "2026-10-02T14:57:41+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
-      "source": "Google Research"
     }
   ]
 }
