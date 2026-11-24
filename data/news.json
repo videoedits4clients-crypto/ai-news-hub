@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:20:43.724574+00:00",
+  "updated": "2026-11-24T13:35:53.246791+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -255,6 +255,86 @@
   ],
   "items": [
     {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "date": "2026-11-24T13:31:29+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Google files patent for personal AI-made videos",
+      "link": "https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/",
+      "summary": "Article URL: https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/ Comments URL: https://news.ycombinator.com/item?id=50627925 Points: 1 # Comments: 0",
+      "date": "2026-11-24T13:30:20+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Working as Intended: An AI on the dangers of trusting AI [video]",
+      "link": "https://www.youtube.com/watch?v=Z6_ENp_fO_Y",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Z6_ENp_fO_Y Comments URL: https://news.ycombinator.com/item?id=50627919 Points: 1 # Comments: 0",
+      "date": "2026-11-24T13:30:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
+      "link": "https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/",
+      "summary": "A Mermaid blueprint, Python dataclasses, and a retryable flag decide when a failed agent tries again and when the task goes to a person. The post How to Plan Retries for Multi-Agent Workflows Before You Write Code appeared first on Towards Data Science .",
+      "date": "2026-11-24T13:30:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
+      "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "summary": "Article URL: https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks Comments URL: https://news.ycombinator.com/item?id=50627784 Points: 1 # Comments: 0",
+      "date": "2026-11-24T13:19:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Fight AI slop without punishing legitimate researchers",
+      "link": "https://www.nature.com/articles/d41586-026-03824-3",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03824-3 Comments URL: https://news.ycombinator.com/item?id=50627707 Points: 1 # Comments: 0",
+      "date": "2026-11-24T13:12:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: ChartSense AI, structured chart analysis for crypto markets",
+      "link": "https://chartsenseai.com/",
+      "summary": "Article URL: https://chartsenseai.com/ Comments URL: https://news.ycombinator.com/item?id=50627579 Points: 1 # Comments: 0",
+      "date": "2026-11-24T13:03:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: OctoCheck – see if AI crawlers can read and understand your pages",
+      "link": "https://octocheck.ai/",
+      "summary": "Article URL: https://octocheck.ai/ Comments URL: https://news.ycombinator.com/item?id=50627543 Points: 1 # Comments: 0",
+      "date": "2026-11-24T13:00:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: A browser-only checker for what a support AI closed vs. handed back",
+      "link": "https://github.com/maxtechstack/ai-support-checker",
+      "summary": "Article URL: https://github.com/maxtechstack/ai-support-checker Comments URL: https://news.ycombinator.com/item?id=50627529 Points: 1 # Comments: 0",
+      "date": "2026-11-24T12:59:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million Comments URL: https://news.ycombinator.com/item?id=50627442 Points: 1 # Comments: 0",
+      "date": "2026-11-24T12:52:40+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
       "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
       "summary": "The digital butler, which can go shopping on behalf of users, is available in the US, UK and Canada. What do you think about it? Meta is continuing its rollout of its Muse AI assistant, with the UK the latest country where the digital butler will be available to go shopping, book",
@@ -271,12 +351,68 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "AI is supposed to be unstoppable. Huang's brief exile suggests boom anything but",
+      "link": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11 Comments URL: https://news.ycombinator.com/item?id=50627317 Points: 3 # Comments: 0",
+      "date": "2026-11-24T12:37:13+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents (2026)",
+      "link": "https://shopify.engineering/cyber-chaos-monkey",
+      "summary": "Article URL: https://shopify.engineering/cyber-chaos-monkey Comments URL: https://news.ycombinator.com/item?id=50627283 Points: 2 # Comments: 0",
+      "date": "2026-11-24T12:34:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Coup Coordinated by AI safety org that placed journalists at publications",
+      "link": "https://twitter.com/_TomHoward/status/2124989725773856769",
+      "summary": "Article URL: https://twitter.com/_TomHoward/status/2124989725773856769 Comments URL: https://news.ycombinator.com/item?id=50627272 Points: 4 # Comments: 0",
+      "date": "2026-11-24T12:33:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
       "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
       "date": "2026-11-24T12:30:05+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
       "source": "Ars Technica AI"
+    },
+    {
+      "title": "Quit Internet Videos Before AI Perfects Them",
+      "link": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
+      "summary": "Article URL: https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects Comments URL: https://news.ycombinator.com/item?id=50627131 Points: 3 # Comments: 0",
+      "date": "2026-11-24T12:20:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI-driven technique could help engineers design analog chips faster",
+      "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "summary": "Article URL: https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123 Comments URL: https://news.ycombinator.com/item?id=50627106 Points: 2 # Comments: 0",
+      "date": "2026-11-24T12:17:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The AI social classes, and why the doomers are dooming at the wrong tree",
+      "link": "https://cryptologie.net/posts/ai-classisim/",
+      "summary": "Article URL: https://cryptologie.net/posts/ai-classisim/ Comments URL: https://news.ycombinator.com/item?id=50627051 Points: 1 # Comments: 0",
+      "date": "2026-11-24T12:11:27+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "I Can Enjoy AI Companionship Without Needing a Rescue",
+      "link": "https://norulesjustme.bearblog.dev/i-can-enjoy-ai-companionship-without-needing-a-rescue/",
+      "summary": "Article URL: https://norulesjustme.bearblog.dev/i-can-enjoy-ai-companionship-without-needing-a-rescue/ Comments URL: https://news.ycombinator.com/item?id=50626956 Points: 2 # Comments: 1",
+      "date": "2026-11-24T12:00:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
@@ -311,12 +447,28 @@
       "source": "The Register"
     },
     {
+      "title": "Show HN: Build planning, analytics and data apps with AI, no license fees",
+      "link": "https://maverickbuilds.app/",
+      "summary": "Article URL: https://maverickbuilds.app/ Comments URL: https://news.ycombinator.com/item?id=50626552 Points: 2 # Comments: 1",
+      "date": "2026-11-24T11:10:40+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "BepiColombo takes the long way around Mercury after software glitch",
       "link": "https://www.theregister.com/science/2026/11/24/bepicolombo-takes-the-long-way-around-mercury-after-software-glitch/5311825",
       "summary": "Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule",
       "date": "2026-11-24T11:06:52+00:00",
       "image": "https://image.theregister.com/?imageId=1685901&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "Advice for third-world mathematicians in the age of AI",
+      "link": "https://mathoverflow.net/questions/518077/advice-for-third-world-mathematicians-in-the-age-of-ai",
+      "summary": "Article URL: https://mathoverflow.net/questions/518077/advice-for-third-world-mathematicians-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50626510 Points: 2 # Comments: 1",
+      "date": "2026-11-24T11:04:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter",
@@ -335,12 +487,36 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "How we keep our AI images and reels consistent",
+      "link": "https://danielrusnok.substack.com/cp/226191728",
+      "summary": "Article URL: https://danielrusnok.substack.com/cp/226191728 Comments URL: https://news.ycombinator.com/item?id=50626457 Points: 2 # Comments: 0",
+      "date": "2026-11-24T10:55:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Authoric AI – All-in-one AI book writing and publishing platform",
+      "link": "https://authoricai.com/",
+      "summary": "Article URL: https://authoricai.com/ Comments URL: https://news.ycombinator.com/item?id=50626388 Points: 1 # Comments: 0",
+      "date": "2026-11-24T10:45:38+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
       "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
       "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
       "date": "2026-11-24T10:45:00+00:00",
       "image": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
       "source": "Wired AI"
+    },
+    {
+      "title": "PicPose: AI Photo Prompts",
+      "link": "https://play.google.com/store/apps/details?id=com.picpose.bestphotographyapp&hl=en_US",
+      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.picpose.bestphotographyapp&hl=en_US Comments URL: https://news.ycombinator.com/item?id=50626222 Points: 1 # Comments: 0",
+      "date": "2026-11-24T10:24:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
@@ -367,6 +543,30 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Looped Weight-Space Programming: use AI to set model weights",
+      "link": "https://twitter.com/ahmedmm72234641/status/2124869402634129901",
+      "summary": "Article URL: https://twitter.com/ahmedmm72234641/status/2124869402634129901 Comments URL: https://news.ycombinator.com/item?id=50625905 Points: 2 # Comments: 1",
+      "date": "2026-11-24T09:41:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "SignafAIde- check AI agent tool calls before they run, verify offline",
+      "link": "https://github.com/AIME-TECH-UK-LIMITED/signafaide-sdk",
+      "summary": "Article URL: https://github.com/AIME-TECH-UK-LIMITED/signafaide-sdk Comments URL: https://news.ycombinator.com/item?id=50625903 Points: 1 # Comments: 0",
+      "date": "2026-11-24T09:41:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 54 # Comments: 17",
+      "date": "2026-11-24T09:39:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
       "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
       "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
@@ -391,18 +591,26 @@
       "source": "The Register"
     },
     {
+      "title": "Show HN: Harny – AI coding agent for VSCodium/VS Code tuned for small/local LLMs",
+      "link": "https://harny.dev/",
+      "summary": "Article URL: https://harny.dev/ Comments URL: https://news.ycombinator.com/item?id=50625336 Points: 3 # Comments: 0",
+      "date": "2026-11-24T08:26:49+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Will AI Solve Biology?",
+      "link": "https://romainbrette.fr/will-ai-solve-biology/",
+      "summary": "Article URL: https://romainbrette.fr/will-ai-solve-biology/ Comments URL: https://news.ycombinator.com/item?id=50625293 Points: 2 # Comments: 0",
+      "date": "2026-11-24T08:20:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
       "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
       "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
       "date": "2026-11-24T07:25:41+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-      "date": "2026-11-24T07:12:33+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -1983,14 +2191,6 @@
       "source": "IEEE Spectrum AI"
     },
     {
-      "title": "How to Estimate Dose-Response Curves When DoubleML Falls Short",
-      "link": "https://towardsdatascience.com/how-to-estimate-dose-response-curves-when-doubleml-falls-short/",
-      "summary": "Simulations test DoubleML against Kennedy's doubly robust estimator, with partial pooling across 200 stores and a DiD fix for hidden confounders. The post How to Estimate Dose-Response Curves When DoubleML Falls Short appeared first on Towards Data Science .",
-      "date": "2026-11-18T12:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
       "title": "This smell startup says its AI nose is as good as a human’s",
       "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data",
@@ -3252,206 +3452,6 @@
       "summary": "General Science",
       "date": "2026-10-14T16:14:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-      "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-      "summary": "General Science",
-      "date": "2026-10-14T16:14:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "AI can act exactly like a human, but we still don't think it's conscious",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Ye",
-      "date": "2026-10-14T01:41:55+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
-      "date": "2026-10-13T09:47:22+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left-",
-      "date": "2026-10-13T04:19:32+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
-      "date": "2026-10-12T12:30:39+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "I expect rapid progress but not towards general superintelligence",
-      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "date": "2026-10-09T21:33:47+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
-      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
-      "date": "2026-10-09T05:06:58+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Does better work always mean better workers?",
-      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "summary": "",
-      "date": "2026-10-07T20:19:57+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "summary": "Earth AI",
-      "date": "2026-10-06T15:05:11+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "The Cyber Risk Discourse is Broken",
-      "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
-      "date": "2026-10-06T14:22:41+00:00",
-      "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
-      "source": "Interconnects"
-    },
-    {
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "summary": "Generative AI",
-      "date": "2026-10-05T21:08:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a n",
-      "date": "2026-10-05T12:32:30+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "date": "2026-10-03T07:32:03+00:00",
-      "image": "",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "Toward provably private learning from federated data",
-      "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "summary": "Mobile Systems",
-      "date": "2026-10-02T14:57:41+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
-      "source": "Google Research"
-    },
-    {
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
-      "date": "2026-10-01T13:17:13+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
-      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-gener",
-      "date": "2026-10-01T13:03:50+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "date": "2026-09-30T20:01:45+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07+00:00",
-      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
-      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
-      "date": "2026-09-30T11:23:54+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
-      "source": "Last Week in AI"
-    },
-    {
-      "title": "How Diffusion Controller unifies and simplifies AI image generation",
-      "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-      "summary": "Algorithms & Theory",
-      "date": "2026-09-29T18:38:27+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
       "source": "Google Research"
     }
   ]
