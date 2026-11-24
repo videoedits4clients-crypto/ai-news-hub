@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:06:21.985907+00:00",
+  "updated": "2026-11-24T05:20:44.407056+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -78,13 +78,18 @@
       ]
     },
     {
-      "count": 3,
-      "title": "datasette-charts 0.1a0",
-      "date": "2026-11-23T00:37:20+00:00",
+      "count": 4,
+      "title": "datasette-charts 0.2a0",
+      "date": "2026-11-24T04:24:29+00:00",
       "sources": [
         "Simon Willison"
       ],
       "links": [
+        {
+          "source": "Simon Willison",
+          "title": "datasette-charts 0.2a0",
+          "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
+        },
         {
           "source": "Simon Willison",
           "title": "datasette-charts 0.1a0",
@@ -99,26 +104,6 @@
           "source": "Simon Willison",
           "title": "datasette-maplibre 0.1a0",
           "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "datasette-agent 0.7a1",
-      "date": "2026-11-24T03:45:57+00:00",
-      "sources": [
-        "Simon Willison"
-      ],
-      "links": [
-        {
-          "source": "Simon Willison",
-          "title": "datasette-agent 0.7a1",
-          "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/"
-        },
-        {
-          "source": "Simon Willison",
-          "title": "datasette-agent 0.6a0",
-          "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
         }
       ]
     },
@@ -270,12 +255,28 @@
   ],
   "items": [
     {
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+      "date": "2026-11-24T05:07:16+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "‘Produce a good result by any means’: how AI is testing South Korea’s exam obsession",
       "link": "https://www.theguardian.com/world/2026/nov/24/produce-a-good-result-by-any-means-how-ai-is-testing-south-koreas-exam-obsession",
       "summary": "South Korea has made exams a career-defining way to level the playing field, but AI has plunged the system into chaos “I have never worn glasses in my life,” Yun Jeong-hu says to the camera, holding up a tax law textbook, and flipping through pages plastered with notes and dotted",
       "date": "2026-11-24T04:47:11+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "datasette-charts 0.2a0",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools.",
+      "date": "2026-11-24T04:24:29+00:00",
+      "image": "",
+      "source": "Simon Willison"
     },
     {
       "title": "datasette-agent 0.7a1",
@@ -370,14 +371,6 @@
       "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
       "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
       "date": "2026-11-23T23:53:20+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
-      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-      "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-      "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
-      "date": "2026-11-23T23:42:27+00:00",
       "image": "",
       "source": "CNBC Technology"
     },
@@ -2442,14 +2435,6 @@
       "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
       "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL",
       "date": "2026-11-15T04:02:45+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "datasette-agent 0.6a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and querie",
-      "date": "2026-11-15T03:49:47+00:00",
       "image": "",
       "source": "Simon Willison"
     },
