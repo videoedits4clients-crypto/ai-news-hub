@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:06:23.372025+00:00",
+  "updated": "2026-11-24T02:20:21.427164+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -270,6 +270,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Incognide, the AI-native IDE for research and development, reaches 500 gh stars",
+      "link": "https://github.com/NPC-Worldwide/incognide",
+      "summary": "Article URL: https://github.com/NPC-Worldwide/incognide Comments URL: https://news.ycombinator.com/item?id=50622588 Points: 1 # Comments: 1",
+      "date": "2026-11-24T02:02:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Fewer Rungs, New Bridges: How AI is realigning the career ladder",
+      "link": "https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges",
+      "summary": "Article URL: https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges Comments URL: https://news.ycombinator.com/item?id=50622567 Points: 1 # Comments: 0",
+      "date": "2026-11-24T02:01:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
+      "date": "2026-11-24T01:56:28+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
     {
       "title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
       "link": "https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack/",
@@ -703,28 +727,12 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Show HN: Truce – a neutral mediator that AI agents can call to settle disputes",
-      "link": "https://trucehq.com/agents",
-      "summary": "Hi HN, I'm Frank, founder of Truce. Truce is a neutral AI mediator. Each side tells it their side in private, Truce proposes one specific outcome, and nothing happens unless both people sign. The part that may interest you is the agent side. Truce is a remote MCP server ( https:/",
-      "date": "2026-11-23T21:08:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
       "date": "2026-11-23T21:08:05+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Sovereign skills: Porting an AI code audit to Inkling 2 Mini and Qwen3.8",
-      "link": "https://getstream.io/blog/local-video-audit-skill/",
-      "summary": "Article URL: https://getstream.io/blog/local-video-audit-skill/ Comments URL: https://news.ycombinator.com/item?id=50619263 Points: 4 # Comments: 0",
-      "date": "2026-11-23T21:05:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
@@ -1677,14 +1685,6 @@
       "date": "2026-11-20T21:47:10+00:00",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
       "source": "Ars Technica AI"
-    },
-    {
-      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-      "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-      "date": "2026-11-20T21:35:24+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
