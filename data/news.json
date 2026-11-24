@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:21:25.598658+00:00",
+  "updated": "2026-11-24T22:36:24.795860+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -222,20 +222,44 @@
   ],
   "items": [
     {
+      "title": "AI is moving way too fast (Nate Silver)",
+      "link": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
+      "summary": "Article URL: https://www.natesilver.net/p/ai-is-moving-way-too-fast Comments URL: https://news.ycombinator.com/item?id=50635748 Points: 1 # Comments: 0",
+      "date": "2026-11-24T22:31:37+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "date": "2026-11-24T22:27:52+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "date": "2026-11-24T22:24:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Dell's AI server backlog hits $132.3B as AI orders reach $60.2B",
+      "link": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results",
+      "summary": "Article URL: https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results Comments URL: https://news.ycombinator.com/item?id=50635639 Points: 1 # Comments: 0",
+      "date": "2026-11-24T22:21:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: Zarvie AI OS. Guess built in which language?",
       "link": "https://www.youtube.com/watch?v=bw2OfNMevII",
       "summary": "Article URL: https://www.youtube.com/watch?v=bw2OfNMevII Comments URL: https://news.ycombinator.com/item?id=50635557 Points: 1 # Comments: 0",
       "date": "2026-11-24T22:14:35+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "date": "2026-11-24T22:12:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Dimensional – Load testing for AI features that measures answer quality",
@@ -248,7 +272,7 @@
     {
       "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
       "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-      "summary": "Article URL: https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834 Comments URL: https://news.ycombinator.com/item?id=50635475 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834 Comments URL: https://news.ycombinator.com/item?id=50635475 Points: 3 # Comments: 1",
       "date": "2026-11-24T22:07:52+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -296,7 +320,7 @@
     {
       "title": "New York Ban AI Toys for 5 Years",
       "link": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-      "summary": "Article URL: https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot Comments URL: https://news.ycombinator.com/item?id=50635246 Points: 10 # Comments: 0",
+      "summary": "Article URL: https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot Comments URL: https://news.ycombinator.com/item?id=50635246 Points: 13 # Comments: 1",
       "date": "2026-11-24T21:49:50+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -392,7 +416,7 @@
     {
       "title": "Working with AI",
       "link": "https://www.anthropic.com/research/working-with-ai",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 48 # Comments: 41",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 56 # Comments: 49",
       "date": "2026-11-24T21:07:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -558,22 +582,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Article URL: https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes Comments URL: https://news.ycombinator.com/item?id=50633069 Points: 3 # Comments: 0",
-      "date": "2026-11-24T19:17:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Compiling web applications into verified operations for AI agents",
-      "link": "https://protocolis.co/paper/",
-      "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998 Points: 31 # Comments: 9",
-      "date": "2026-11-24T19:12:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
       "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
       "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
@@ -724,6 +732,14 @@
       "date": "2026-11-24T16:25:57+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
+      "date": "2026-11-24T16:18:12+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
@@ -1436,14 +1452,6 @@
       "date": "2026-11-23T16:58:17+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Jensen Huang isn’t out of the woods yet",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-      "date": "2026-11-23T16:57:40+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
@@ -3411,14 +3419,6 @@
       "summary": "General Science",
       "date": "2026-10-14T16:14:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
-      "source": "Google Research"
-    },
-    {
-      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-      "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-      "summary": "General Science",
-      "date": "2026-10-14T16:14:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
       "source": "Google Research"
     }
   ]
