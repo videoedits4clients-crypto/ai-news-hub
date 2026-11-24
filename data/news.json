@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:36:34.048058+00:00",
+  "updated": "2026-11-24T17:51:09.084002+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -109,21 +109,22 @@
     },
     {
       "count": 2,
-      "title": "Tidal bans AI-generated music",
-      "date": "2026-11-24T16:12:38+00:00",
+      "title": "Tidal will ban fully AI-generated music on December 9",
+      "date": "2026-11-24T17:34:34+00:00",
       "sources": [
+        "Ars Technica AI",
         "Hacker News AI"
       ],
       "links": [
         {
-          "source": "Hacker News AI",
-          "title": "Tidal bans AI-generated music",
-          "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+          "source": "Ars Technica AI",
+          "title": "Tidal will ban fully AI-generated music on December 9",
+          "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
         },
         {
           "source": "Hacker News AI",
-          "title": "Tidal Is Deleting, Rejecting, and Banning AI-Generated Music",
-          "link": "https://twitter.com/TIDAL/status/2125233598714487170"
+          "title": "Tidal bans AI-generated music",
+          "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
         }
       ]
     },
@@ -192,27 +193,6 @@
     },
     {
       "count": 2,
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "date": "2026-11-23T18:26:47+00:00",
-      "sources": [
-        "The Verge AI",
-        "Wired AI"
-      ],
-      "links": [
-        {
-          "source": "The Verge AI",
-          "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
-        },
-        {
-          "source": "Wired AI",
-          "title": "States Sue SpaceX Over Grok Deepfakes",
-          "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
-        }
-      ]
-    },
-    {
-      "count": 2,
       "title": "Introducing Gemini 4 Neon",
       "date": "2026-11-18T21:35:43+00:00",
       "sources": [
@@ -275,6 +255,38 @@
   ],
   "items": [
     {
+      "title": "Unreleased AI models are too powerful to release fear many employees",
+      "link": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+      "summary": "Article URL: https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html Comments URL: https://news.ycombinator.com/item?id=50631691 Points: 2 # Comments: 0",
+      "date": "2026-11-24T17:46:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
+      "link": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
+      "summary": "Article URL: https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/ Comments URL: https://news.ycombinator.com/item?id=50631576 Points: 1 # Comments: 0",
+      "date": "2026-11-24T17:37:24+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Air Is Easing Out of the AI Bubble",
+      "link": "https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/ Comments URL: https://news.ycombinator.com/item?id=50631574 Points: 3 # Comments: 0",
+      "date": "2026-11-24T17:37:09+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Tidal will ban fully AI-generated music on December 9",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "date": "2026-11-24T17:34:34+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
       "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
       "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
@@ -297,6 +309,14 @@
       "date": "2026-11-24T17:21:40+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months af",
+      "date": "2026-11-24T17:17:09+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Show HN: AI Usage Menu, Claude Code and Codex limits in your Mac menu bar",
@@ -461,7 +481,7 @@
     {
       "title": "Tidal bans AI-generated music",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 201 # Comments: 164",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 219 # Comments: 182",
       "date": "2026-11-24T16:12:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -635,22 +655,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Tidal Is Deleting, Rejecting, and Banning AI-Generated Music",
-      "link": "https://twitter.com/TIDAL/status/2125233598714487170",
-      "summary": "Article URL: https://twitter.com/TIDAL/status/2125233598714487170 Comments URL: https://news.ycombinator.com/item?id=50629286 Points: 5 # Comments: 1",
-      "date": "2026-11-24T15:06:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Receipts for what an AI agent was stopped from doing",
-      "link": "https://github.com/dominicrume/cantor8_kya_rails",
-      "summary": "Article URL: https://github.com/dominicrume/cantor8_kya_rails Comments URL: https://news.ycombinator.com/item?id=50629271 Points: 1 # Comments: 0",
-      "date": "2026-11-24T15:05:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
       "summary": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
@@ -665,14 +669,6 @@
       "date": "2026-11-24T15:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "The cost: AI coding tools without company context – 000s of hours to fix",
-      "link": "https://designverse.ai/resources/ai-coding-drift-report",
-      "summary": "Article URL: https://designverse.ai/resources/ai-coding-drift-report Comments URL: https://news.ycombinator.com/item?id=50629187 Points: 1 # Comments: 0",
-      "date": "2026-11-24T14:59:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -1231,14 +1227,6 @@
       "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
       "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and d",
       "date": "2026-11-23T19:04:52+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social medi",
-      "date": "2026-11-23T18:26:47+00:00",
       "image": "",
       "source": "The Verge AI"
     },
@@ -2753,14 +2741,6 @@
       "date": "2026-11-14T12:23:15+00:00",
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
       "source": "Interconnects"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "date": "2026-11-13T21:20:47+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "source": "Ars Technica AI"
     },
     {
       "title": "Advancing science & engineering with Antigravity’s /teamwork",
