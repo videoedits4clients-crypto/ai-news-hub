@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:56:37.931226+00:00",
+  "updated": "2026-11-24T05:06:21.985907+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -99,6 +99,26 @@
           "source": "Simon Willison",
           "title": "datasette-maplibre 0.1a0",
           "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "datasette-agent 0.7a1",
+      "date": "2026-11-24T03:45:57+00:00",
+      "sources": [
+        "Simon Willison"
+      ],
+      "links": [
+        {
+          "source": "Simon Willison",
+          "title": "datasette-agent 0.7a1",
+          "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/"
+        },
+        {
+          "source": "Simon Willison",
+          "title": "datasette-agent 0.6a0",
+          "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
         }
       ]
     },
@@ -256,6 +276,14 @@
       "date": "2026-11-24T04:47:11+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "datasette-agent 0.7a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that ",
+      "date": "2026-11-24T03:45:57+00:00",
+      "image": "",
+      "source": "Simon Willison"
     },
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -2432,14 +2460,6 @@
       "date": "2026-11-15T01:05:10+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "datasette-llm 0.1a11",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that t",
-      "date": "2026-11-14T23:59:28+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "Open-source AI without Jensen",
