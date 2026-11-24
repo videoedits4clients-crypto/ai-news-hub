@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:20:44.407056+00:00",
+  "updated": "2026-11-24T05:36:29.148839+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -254,6 +254,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt",
+      "link": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
+      "summary": "Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain",
+      "date": "2026-11-24T05:13:51+00:00",
+      "image": "https://image.theregister.com/?imageId=259203&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+      "date": "2026-11-24T05:09:34+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
     {
       "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
       "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
@@ -1287,14 +1303,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
-      "link": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
-      "summary": "Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV",
-      "date": "2026-11-22T09:15:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5311030&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
       "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
       "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of aut",
@@ -1365,14 +1373,6 @@
       "date": "2026-11-21T17:00:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-      "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-      "summary": "This would make the second recent intrusion into the FBI system.",
-      "date": "2026-11-21T16:57:34+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
