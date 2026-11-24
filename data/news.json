@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:31:24.027672+00:00",
+  "updated": "2026-11-24T15:37:04.838889+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -255,6 +255,14 @@
   ],
   "items": [
     {
+      "title": "SchemaSketch – database diagrams your AI agent can edit (DBML, MCP)",
+      "link": "https://schemasketch.dev/",
+      "summary": "Article URL: https://schemasketch.dev/ Comments URL: https://news.ycombinator.com/item?id=50629536 Points: 2 # Comments: 0",
+      "date": "2026-11-24T15:23:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
       "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
@@ -271,12 +279,60 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Who is Levent Alpöge, the reclusive genius behind AI's math conquest?",
+      "link": "https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/",
+      "summary": "Article URL: https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/ Comments URL: https://news.ycombinator.com/item?id=50629431 Points: 2 # Comments: 0",
+      "date": "2026-11-24T15:16:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Flagline – fraud triage desk built by an AI agent, verified with Kane CLI",
+      "link": "https://dannytungadi5.github.io/fraud-triage-desk/",
+      "summary": "Article URL: https://dannytungadi5.github.io/fraud-triage-desk/ Comments URL: https://news.ycombinator.com/item?id=50629423 Points: 1 # Comments: 0",
+      "date": "2026-11-24T15:16:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
       "link": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
       "summary": "Chip boss gets his old job back, but Washington isn't done investigating one of his former flame's businesses",
       "date": "2026-11-24T15:15:00+00:00",
       "image": "https://image.theregister.com/?imageId=5305665&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "Show HN: Daydream – AI video editor for your agents",
+      "link": "https://www.daydreamvideo.com",
+      "summary": "Article URL: https://www.daydreamvideo.com Comments URL: https://news.ycombinator.com/item?id=50629366 Points: 1 # Comments: 0",
+      "date": "2026-11-24T15:12:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Private Tests, Public Code: Protecting Stalwart from AI Clones",
+      "link": "https://stalw.art/blog/protecting-stalwart/",
+      "summary": "Article URL: https://stalw.art/blog/protecting-stalwart/ Comments URL: https://news.ycombinator.com/item?id=50629305 Points: 2 # Comments: 0",
+      "date": "2026-11-24T15:07:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Tidal Is Deleting, Rejecting, and Banning AI-Generated Music",
+      "link": "https://twitter.com/TIDAL/status/2125233598714487170",
+      "summary": "Article URL: https://twitter.com/TIDAL/status/2125233598714487170 Comments URL: https://news.ycombinator.com/item?id=50629286 Points: 3 # Comments: 1",
+      "date": "2026-11-24T15:06:31+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Receipts for what an AI agent was stopped from doing",
+      "link": "https://github.com/dominicrume/cantor8_kya_rails",
+      "summary": "Article URL: https://github.com/dominicrume/cantor8_kya_rails Comments URL: https://news.ycombinator.com/item?id=50629271 Points: 1 # Comments: 0",
+      "date": "2026-11-24T15:05:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
@@ -321,7 +377,7 @@
     {
       "title": "Tidal removes all AI songs (29M total / 80k per day)",
       "link": "https://twitter.com/rsa/status/2125227949163180409",
-      "summary": "Article URL: https://twitter.com/rsa/status/2125227949163180409 Comments URL: https://news.ycombinator.com/item?id=50629049 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/rsa/status/2125227949163180409 Comments URL: https://news.ycombinator.com/item?id=50629049 Points: 6 # Comments: 4",
       "date": "2026-11-24T14:50:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -433,7 +489,7 @@
     {
       "title": "Has AI changed math forever?",
       "link": "https://news.stanford.edu/stories/2026/11/ai-math-ravi-vakil",
-      "summary": "Article URL: https://news.stanford.edu/stories/2026/11/ai-math-ravi-vakil Comments URL: https://news.ycombinator.com/item?id=50628182 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://news.stanford.edu/stories/2026/11/ai-math-ravi-vakil Comments URL: https://news.ycombinator.com/item?id=50628182 Points: 2 # Comments: 0",
       "date": "2026-11-24T13:52:15+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -519,68 +575,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Working as Intended: An AI on the dangers of trusting AI [video]",
-      "link": "https://www.youtube.com/watch?v=Z6_ENp_fO_Y",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Z6_ENp_fO_Y Comments URL: https://news.ycombinator.com/item?id=50627919 Points: 2 # Comments: 0",
-      "date": "2026-11-24T13:30:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
       "link": "https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/",
       "summary": "A Mermaid blueprint, Python dataclasses, and a retryable flag decide when a failed agent tries again and when the task goes to a person. The post How to Plan Retries for Multi-Agent Workflows Before You Write Code appeared first on Towards Data Science .",
       "date": "2026-11-24T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
-      "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-      "summary": "Article URL: https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks Comments URL: https://news.ycombinator.com/item?id=50627784 Points: 2 # Comments: 0",
-      "date": "2026-11-24T13:19:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Fight AI slop without punishing legitimate researchers",
-      "link": "https://www.nature.com/articles/d41586-026-03824-3",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03824-3 Comments URL: https://news.ycombinator.com/item?id=50627707 Points: 1 # Comments: 0",
-      "date": "2026-11-24T13:12:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: ChartSense AI, structured chart analysis for crypto markets",
-      "link": "https://chartsenseai.com/",
-      "summary": "Article URL: https://chartsenseai.com/ Comments URL: https://news.ycombinator.com/item?id=50627579 Points: 1 # Comments: 0",
-      "date": "2026-11-24T13:03:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: OctoCheck – see if AI crawlers can read and understand your pages",
-      "link": "https://octocheck.ai/",
-      "summary": "Article URL: https://octocheck.ai/ Comments URL: https://news.ycombinator.com/item?id=50627543 Points: 1 # Comments: 0",
-      "date": "2026-11-24T13:00:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: A browser-only checker for what a support AI closed vs. handed back",
-      "link": "https://github.com/maxtechstack/ai-support-checker",
-      "summary": "Article URL: https://github.com/maxtechstack/ai-support-checker Comments URL: https://news.ycombinator.com/item?id=50627529 Points: 1 # Comments: 0",
-      "date": "2026-11-24T12:59:53+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million Comments URL: https://news.ycombinator.com/item?id=50627442 Points: 1 # Comments: 0",
-      "date": "2026-11-24T12:52:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
