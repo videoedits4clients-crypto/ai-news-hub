@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:21:04.452054+00:00",
+  "updated": "2026-11-24T04:36:29.443181+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,12 +40,13 @@
   ],
   "trending": [
     {
-      "count": 4,
+      "count": 5,
       "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
       "date": "2026-11-23T23:14:34+00:00",
       "sources": [
         "CNBC Technology",
         "TechCrunch AI",
+        "The Register",
         "Wired AI"
       ],
       "links": [
@@ -58,6 +59,11 @@
           "source": "Wired AI",
           "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+        },
+        {
+          "source": "The Register",
+          "title": "Nvidia board puts Jensen Huang back as boss",
+          "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674"
         },
         {
           "source": "Wired AI",
@@ -114,27 +120,6 @@
           "source": "The Verge AI",
           "title": "Claude AI can review pull requests and ship fixes on its own now",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "date": "2026-11-23T23:16:08+00:00",
-      "sources": [
-        "BBC Technology",
-        "Hacker News AI"
-      ],
-      "links": [
-        {
-          "source": "BBC Technology",
-          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "US to blacklist Asian AI firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
         }
       ]
     },
@@ -273,44 +258,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "r/RedditEngin: We Let AI Approve PRs at Reddit. Here's What Happened",
-      "link": "https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/",
-      "summary": "Article URL: https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/ Comments URL: https://news.ycombinator.com/item?id=50623015 Points: 4 # Comments: 0",
-      "date": "2026-11-24T02:56:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Apple Releases New AI Health App",
-      "link": "https://www.macrumors.com/2026/11/16/apple-just-released-a-new-app/",
-      "summary": "Article URL: https://www.macrumors.com/2026/11/16/apple-just-released-a-new-app/ Comments URL: https://news.ycombinator.com/item?id=50622950 Points: 1 # Comments: 0",
-      "date": "2026-11-24T02:48:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
       "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
       "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
       "date": "2026-11-24T02:37:39+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Declare is a UI language for you and your AI",
-      "link": "https://davidtemkin.github.io/declarelang/",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 1 # Comments: 0",
-      "date": "2026-11-24T02:36:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Trump Posts AI Meme of Jensen Huang Holding Up a Bra",
-      "link": "https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/",
-      "summary": "Article URL: https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004/ Comments URL: https://news.ycombinator.com/item?id=50622766 Points: 2 # Comments: 0",
-      "date": "2026-11-24T02:26:07+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -337,36 +290,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "AI is massively speeding up AI research",
-      "link": "https://linch.substack.com/p/ai-is-already-massively-speeding",
-      "summary": "Article URL: https://linch.substack.com/p/ai-is-already-massively-speeding Comments URL: https://news.ycombinator.com/item?id=50622726 Points: 4 # Comments: 0",
-      "date": "2026-11-24T02:19:54+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Incognide, the AI-native IDE for research and development, reaches 500 gh stars",
-      "link": "https://github.com/NPC-Worldwide/incognide",
-      "summary": "Article URL: https://github.com/NPC-Worldwide/incognide Comments URL: https://news.ycombinator.com/item?id=50622588 Points: 1 # Comments: 1",
-      "date": "2026-11-24T02:02:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Fewer Rungs, New Bridges: How AI is realigning the career ladder",
-      "link": "https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges",
-      "summary": "Article URL: https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges Comments URL: https://news.ycombinator.com/item?id=50622567 Points: 2 # Comments: 0",
-      "date": "2026-11-24T02:01:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
-      "link": "https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack/",
-      "summary": "Article URL: https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack/ Comments URL: https://news.ycombinator.com/item?id=50622479 Points: 1 # Comments: 0",
-      "date": "2026-11-24T01:50:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+      "link": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "summary": "‘Shirudo’ project promises to whip up compensating controls in a hurry",
+      "date": "2026-11-24T01:46:56+00:00",
+      "image": "https://image.theregister.com/?imageId=1682068&width=800",
+      "source": "The Register"
     },
     {
       "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
@@ -377,14 +306,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "NeuralOps Nexus – self-hosted AI teammates that ask before they act",
-      "link": "https://www.neuralopsnexus.ai/",
-      "summary": "Article URL: https://www.neuralopsnexus.ai/ Comments URL: https://news.ycombinator.com/item?id=50622220 Points: 2 # Comments: 1",
-      "date": "2026-11-24T01:21:57+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
       "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
       "summary": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
@@ -393,52 +314,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "What AI Is Bad At?",
-      "link": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
-      "summary": "Article URL: https://laike9m.com/blog/what-ai-is-bad-at,174/ Comments URL: https://news.ycombinator.com/item?id=50621962 Points: 1 # Comments: 2",
-      "date": "2026-11-24T00:52:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Invisible Puzzle Box: What a Verified AI System Proves",
-      "link": "https://founderarcstoneos.substack.com/p/the-invisible-puzzle-box-what-a-verified",
-      "summary": "Article URL: https://founderarcstoneos.substack.com/p/the-invisible-puzzle-box-what-a-verified Comments URL: https://news.ycombinator.com/item?id=50621912 Points: 1 # Comments: 0",
-      "date": "2026-11-24T00:47:20+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "What Google's Classroom AI Sees",
-      "link": "https://www.bloomberg.com/features/2026-google-classroom-ai-safety/",
-      "summary": "Article URL: https://www.bloomberg.com/features/2026-google-classroom-ai-safety/ Comments URL: https://news.ycombinator.com/item?id=50621872 Points: 2 # Comments: 0",
-      "date": "2026-11-24T00:43:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Last Week in AI Topic Deep Dive: The Geopolitics of AI (I.e. The China Episode)",
-      "link": "https://podcasts.apple.com/us/podcast/topic-deep-dive-the-geopolitics-of-ai-i-e-the-china-episode/id1502782720?i=1000803686828",
-      "summary": "Article URL: https://podcasts.apple.com/us/podcast/topic-deep-dive-the-geopolitics-of-ai-i-e-the-china-episode/id1502782720?i=1000803686828 Comments URL: https://news.ycombinator.com/item?id=50621815 Points: 3 # Comments: 0",
-      "date": "2026-11-24T00:38:25+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI conquered chess. What happened next should give us hope",
-      "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
-      "summary": "Article URL: https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai Comments URL: https://news.ycombinator.com/item?id=50621752 Points: 3 # Comments: 0",
-      "date": "2026-11-24T00:31:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Institutional Laundering of AI Safety",
-      "link": "https://rentry.co/ai-safety-eval-comparison",
-      "summary": "Article URL: https://rentry.co/ai-safety-eval-comparison Comments URL: https://news.ycombinator.com/item?id=50621738 Points: 2 # Comments: 0",
-      "date": "2026-11-24T00:30:27+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+      "summary": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+      "date": "2026-11-24T00:18:17+00:00",
+      "image": "https://image.theregister.com/?imageId=5264648&width=800",
+      "source": "The Register"
     },
     {
       "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
@@ -473,36 +354,12 @@
       "source": "Simon Willison"
     },
     {
-      "title": "The AI bubble is deflating and that's good news",
-      "link": "https://cepr.net/publications/ai-bubble-monitor/#nov232026",
-      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/#nov232026 Comments URL: https://news.ycombinator.com/item?id=50621115 Points: 4 # Comments: 1",
-      "date": "2026-11-23T23:35:03+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
       "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
       "date": "2026-11-23T23:28:19+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "The AI bubble hasn't burst, but it has significantly deflated",
-      "link": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
-      "summary": "Article URL: https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated Comments URL: https://news.ycombinator.com/item?id=50620992 Points: 9 # Comments: 2",
-      "date": "2026-11-23T23:25:26+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Securing AI agents against intent hijacking with Semantic governance policies",
-      "link": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
-      "summary": "Article URL: https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/ Comments URL: https://news.ycombinator.com/item?id=50620958 Points: 2 # Comments: 0",
-      "date": "2026-11-23T23:22:48+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
@@ -521,36 +378,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "What Is NotiBuddy? Approve AI Agents from Your iPhone with Face ID",
-      "link": "https://notibuddy.app/blog/what-is-notibuddy",
-      "summary": "Article URL: https://notibuddy.app/blog/what-is-notibuddy Comments URL: https://news.ycombinator.com/item?id=50620802 Points: 1 # Comments: 0",
-      "date": "2026-11-23T23:09:43+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Voyager OS – AI Made",
-      "link": "https://github.com/LetMePlaySong/VOYAGER-OS-AI-MADE-",
-      "summary": "Article URL: https://github.com/LetMePlaySong/VOYAGER-OS-AI-MADE- Comments URL: https://news.ycombinator.com/item?id=50620710 Points: 1 # Comments: 0",
-      "date": "2026-11-23T23:02:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "DNI Jay Clayton tapped as acting national cyber director",
       "link": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
       "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
       "date": "2026-11-23T23:02:18+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo Comments URL: https://news.ycombinator.com/item?id=50620528 Points: 13 # Comments: 2",
-      "date": "2026-11-23T22:48:25+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Tech leaders are celebrating Jensen Huang’s return",
@@ -569,14 +402,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Show HN: Judge-audit – open-source calibration audits for AI judges",
-      "link": "https://github.com/kunko-ai-labs/judge-audit",
-      "summary": "Article URL: https://github.com/kunko-ai-labs/judge-audit Comments URL: https://news.ycombinator.com/item?id=50620311 Points: 2 # Comments: 0",
-      "date": "2026-11-23T22:28:32+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Welcome to elite impunity, Jensen Huang",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
       "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
@@ -591,14 +416,6 @@
       "date": "2026-11-23T22:18:13+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "News site where AI picks, writes, and publishes every story",
-      "link": "https://aitoday.it/",
-      "summary": "Article URL: https://aitoday.it/ Comments URL: https://news.ycombinator.com/item?id=50620125 Points: 1 # Comments: 0",
-      "date": "2026-11-23T22:11:19+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -617,14 +434,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 22 # Comments: 16",
-      "date": "2026-11-23T21:56:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO",
       "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html",
       "summary": "Read CNBC’s exclusive interview with President Donald Trump on how he “made the deal” to reinstate Jensen Huang as Nvidia CEO.",
@@ -633,12 +442,12 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Emma AI by NuanceLabs [video]",
-      "link": "https://app.nuancelabs.ai/try",
-      "summary": "Article URL: https://app.nuancelabs.ai/try Comments URL: https://news.ycombinator.com/item?id=50619889 Points: 2 # Comments: 0",
-      "date": "2026-11-23T21:50:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "link": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts",
+      "date": "2026-11-23T21:52:23+00:00",
+      "image": "https://image.theregister.com/?imageId=5311772&width=800",
+      "source": "The Register"
     },
     {
       "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
@@ -697,6 +506,14 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+      "summary": "Not the whole startup - just its tech and the brains behind it",
+      "date": "2026-11-23T21:17:15+00:00",
+      "image": "https://image.theregister.com/?imageId=5222824&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "AI data centers throw another wrench into chaotic UN climate talks",
       "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
@@ -751,6 +568,14 @@
       "date": "2026-11-23T19:34:38+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Bluetooth brakes are broken as researchers find anyone can control them",
+      "link": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+      "summary": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+      "date": "2026-11-23T19:29:59+00:00",
+      "image": "https://image.theregister.com/?imageId=229180&width=800",
+      "source": "The Register"
     },
     {
       "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
@@ -913,6 +738,14 @@
       "source": "TechCrunch AI"
     },
     {
+      "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
+      "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
+      "summary": "July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery",
+      "date": "2026-11-23T16:16:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5295388&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
@@ -943,6 +776,14 @@
       "date": "2026-11-23T15:30:27+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "British retailer Next downplays data breach at tech supplier",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
+      "summary": "Retailer insists customer details are safe and the data accessed is 'benign,' but won't say exactly what hackers got their hands on",
+      "date": "2026-11-23T15:09:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311688&width=800",
+      "source": "The Register"
     },
     {
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
@@ -977,6 +818,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "Nvidia board puts Jensen Huang back as boss",
+      "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
+      "summary": "BoomerHuang CEO returns",
+      "date": "2026-11-23T14:35:50+00:00",
+      "image": "https://image.theregister.com/?imageId=5311670&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Jensen Huang Is Back as Nvidia CEO",
       "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
       "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
@@ -1007,6 +856,14 @@
       "date": "2026-11-23T14:08:50+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
       "source": "BBC Technology"
+    },
+    {
+      "title": "Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier",
+      "link": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
+      "summary": "Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare",
+      "date": "2026-11-23T14:04:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5309241&width=800",
+      "source": "The Register"
     },
     {
       "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
@@ -1047,6 +904,14 @@
       "date": "2026-11-23T13:11:00+00:00",
       "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
       "source": "Wired AI"
+    },
+    {
+      "title": "AI conquered chess. What happened next should give us hope",
+      "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and India’s Gukesh Dommaraju in Geneva has all th",
+      "date": "2026-11-23T13:00:31+00:00",
+      "image": "",
+      "source": "The Guardian AI"
     },
     {
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
@@ -1105,6 +970,14 @@
       "source": "MarkTechPost"
     },
     {
+      "title": "Old-school Linux desktops find fresh routes to Wayland",
+      "link": "https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349",
+      "summary": "Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own",
+      "date": "2026-11-23T10:17:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311355&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
       "link": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
       "summary": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core. The post Architect Labs Unveils Frostbite, an Interaction Net CPU D",
@@ -1119,6 +992,14 @@
       "date": "2026-11-23T10:00:00+00:00",
       "image": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
       "source": "Wired AI"
+    },
+    {
+      "title": "Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them",
+      "link": "https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325",
+      "summary": "Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud",
+      "date": "2026-11-23T09:32:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5273664&width=800",
+      "source": "The Register"
     },
     {
       "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
@@ -1153,6 +1034,30 @@
       "source": "OpenAI News"
     },
     {
+      "title": "Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state",
+      "link": "https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554",
+      "summary": "Spacecraft enters orbit after epic journey but something shortened a burn",
+      "date": "2026-11-23T07:24:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311561&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Techie turned his too-easy job interview into a trap",
+      "link": "https://www.theregister.com/personal-tech/2026/11/23/techie-turned-his-too-easy-job-interview-into-a-trap/5311213",
+      "summary": "With the flick of a switch, he smoked out competent PC maintenance skills",
+      "date": "2026-11-23T06:35:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311218&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Google claims last week’s critical VMware bug was under attack in September",
+      "link": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547",
+      "summary": "China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter",
+      "date": "2026-11-23T04:39:19+00:00",
+      "image": "https://image.theregister.com/?imageId=261387&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
       "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
       "summary": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edited’ before approval, party says Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in ",
@@ -1175,6 +1080,14 @@
       "date": "2026-11-23T00:37:20+00:00",
       "image": "",
       "source": "Simon Willison"
+    },
+    {
+      "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+      "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "summary": "PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!",
+      "date": "2026-11-23T00:23:31+00:00",
+      "image": "https://image.theregister.com/?imageId=246780&width=800",
+      "source": "The Register"
     },
     {
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -1257,6 +1170,14 @@
       "source": "CNBC Technology"
     },
     {
+      "title": "As cars go digital, US consumers pay an extra $12 billion a year for repairs",
+      "link": "https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412",
+      "summary": "Today's vehicles need software tools to make repairs, and the subscriptions inflate insurance fees",
+      "date": "2026-11-22T16:08:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311508&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
       "summary": "What have I learned from my experiment with outsourcing? That I’m easily replaced – and awful I’ve just ventured deeper into my phone’s settings than anybody has ever been before. A software update is always discombobulating, but the latest one brought a lot of unwanted AI nonsen",
@@ -1335,6 +1256,14 @@
       "date": "2026-11-22T10:03:54+00:00",
       "image": "",
       "source": "MarkTechPost"
+    },
+    {
+      "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+      "link": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+      "summary": "Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV",
+      "date": "2026-11-22T09:15:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311030&width=800",
+      "source": "The Register"
     },
     {
       "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
@@ -3463,6 +3392,62 @@
       "date": "2026-10-02T14:57:41+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
       "source": "Google Research"
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s sup",
+      "date": "2026-10-01T13:17:13+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-gener",
+      "date": "2026-10-01T13:03:50+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
+      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
+      "date": "2026-09-30T11:23:54+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "How Diffusion Controller unifies and simplifies AI image generation",
+      "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+      "summary": "Algorithms & Theory",
+      "date": "2026-09-29T18:38:27+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
+      "source": "Google Research"
+    },
+    {
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
+      "date": "2026-09-28T12:32:03+00:00",
+      "image": "",
+      "source": "Import AI"
     }
   ]
 }
