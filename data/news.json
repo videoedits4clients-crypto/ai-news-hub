@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:51:10.369579+00:00",
+  "updated": "2026-11-24T17:05:52.702389+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,19 +41,19 @@
   "trending": [
     {
       "count": 5,
-      "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-      "date": "2026-11-24T15:03:36+00:00",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "date": "2026-11-24T16:21:52+00:00",
       "sources": [
-        "CNBC Technology",
         "TechCrunch AI",
         "The Register",
+        "The Verge AI",
         "Wired AI"
       ],
       "links": [
         {
-          "source": "CNBC Technology",
-          "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html"
+          "source": "The Verge AI",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
         },
         {
           "source": "Wired AI",
@@ -255,6 +255,46 @@
   ],
   "items": [
     {
+      "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+      "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
+      "summary": "No sophisticated malware or attack framework required",
+      "date": "2026-11-24T17:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5311939&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
+      "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
+      "summary": "Meanwhile, Google's homepage demo leaves a familiar button out of the picture",
+      "date": "2026-11-24T17:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=255047&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders",
+      "date": "2026-11-24T16:52:41+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+      "date": "2026-11-24T16:48:49+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "date": "2026-11-24T16:46:00+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
       "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
       "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
@@ -303,12 +343,20 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
-      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-      "date": "2026-11-24T16:11:58+00:00",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
+      "date": "2026-11-24T16:21:52+00:00",
       "image": "",
-      "source": "CNBC Technology"
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
+      "date": "2026-11-24T16:18:12+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
@@ -673,7 +721,7 @@
     {
       "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
       "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
-      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Jensen Huang made his return to Nvidia’s headquarters with a hero’s wel",
+      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Nvidia staff: what do you think of Jensen Huang’s return as chief executive? Jensen Huang made his ret",
       "date": "2026-11-24T01:34:39+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -751,14 +799,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
-      "date": "2026-11-23T22:35:30+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Trump engineered a risky comeback for Jensen Huang",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
       "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out,",
@@ -771,14 +811,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
       "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
       "date": "2026-11-23T22:21:36+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time ",
-      "date": "2026-11-23T22:18:13+00:00",
       "image": "",
       "source": "The Verge AI"
     },
@@ -955,14 +987,6 @@
       "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
       "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and d",
       "date": "2026-11-23T19:04:52+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
-      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-      "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communicatio",
-      "date": "2026-11-23T18:48:59+00:00",
       "image": "",
       "source": "The Verge AI"
     },
@@ -1501,14 +1525,6 @@
       "date": "2026-11-21T23:56:28+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "date": "2026-11-21T21:37:10+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "AI may not work like the human brain after all, scientists discover",
@@ -3437,22 +3453,6 @@
       "date": "2026-10-01T13:03:50+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "date": "2026-09-30T20:01:45+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07+00:00",
-      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
-      "source": "Google DeepMind"
     }
   ]
 }
