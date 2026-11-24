@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:05:55.443169+00:00",
+  "updated": "2026-11-24T00:21:06.230232+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -99,6 +99,27 @@
           "source": "Simon Willison",
           "title": "datasette-maplibre 0.1a0",
           "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "date": "2026-11-24T00:02:39+00:00",
+      "sources": [
+        "MarkTechPost",
+        "The Verge AI"
+      ],
+      "links": [
+        {
+          "source": "MarkTechPost",
+          "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+          "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
+        },
+        {
+          "source": "The Verge AI",
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
         }
       ]
     },
@@ -249,6 +270,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+      "summary": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review a",
+      "date": "2026-11-24T00:02:39+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
@@ -1534,14 +1563,6 @@
       "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
       "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appear",
       "date": "2026-11-21T12:13:50+00:00",
-      "image": "",
-      "source": "MarkTechPost"
-    },
-    {
-      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
-      "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
-      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.",
-      "date": "2026-11-21T11:46:17+00:00",
       "image": "",
       "source": "MarkTechPost"
     },
