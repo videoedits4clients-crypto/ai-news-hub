@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:36:32.460414+00:00",
+  "updated": "2026-11-24T12:50:26.136204+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -255,9 +255,65 @@
   ],
   "items": [
     {
+      "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
+      "summary": "The digital butler, which can go shopping on behalf of users, is available in the US, UK and Canada. What do you think about it? Meta is continuing its rollout of its Muse AI assistant, with the UK the latest country where the digital butler will be available to go shopping, book",
+      "date": "2026-11-24T12:44:40+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Nvidia shares fall over 5% in premarket after Huang comeback rally",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+      "date": "2026-11-24T12:42:55+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "AI is supposed to be unstoppable. Huang's brief exile suggests boom anything but",
+      "link": "https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11 Comments URL: https://news.ycombinator.com/item?id=50627317 Points: 3 # Comments: 0",
+      "date": "2026-11-24T12:37:13+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents (2026)",
+      "link": "https://shopify.engineering/cyber-chaos-monkey",
+      "summary": "Article URL: https://shopify.engineering/cyber-chaos-monkey Comments URL: https://news.ycombinator.com/item?id=50627283 Points: 2 # Comments: 0",
+      "date": "2026-11-24T12:34:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Coup Coordinated by AI safety org that placed journalists at publications",
+      "link": "https://twitter.com/_TomHoward/status/2124989725773856769",
+      "summary": "Article URL: https://twitter.com/_TomHoward/status/2124989725773856769 Comments URL: https://news.ycombinator.com/item?id=50627272 Points: 3 # Comments: 0",
+      "date": "2026-11-24T12:33:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "date": "2026-11-24T12:30:05+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "source": "Ars Technica AI"
+    },
+    {
+      "title": "Quit Internet Videos Before AI Perfects Them",
+      "link": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
+      "summary": "Article URL: https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects Comments URL: https://news.ycombinator.com/item?id=50627131 Points: 3 # Comments: 0",
+      "date": "2026-11-24T12:20:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI-driven technique could help engineers design analog chips faster",
       "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-      "summary": "Article URL: https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123 Comments URL: https://news.ycombinator.com/item?id=50627106 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123 Comments URL: https://news.ycombinator.com/item?id=50627106 Points: 2 # Comments: 0",
       "date": "2026-11-24T12:17:55+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -343,14 +399,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Nvidia shares fall over 5% in premarket after Huang comeback rally",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-      "date": "2026-11-24T10:45:52+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Show HN: Authoric AI – All-in-one AI book writing and publishing platform",
       "link": "https://authoricai.com/",
       "summary": "Article URL: https://authoricai.com/ Comments URL: https://news.ycombinator.com/item?id=50626388 Points: 1 # Comments: 0",
@@ -417,7 +465,7 @@
     {
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
       "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 32 # Comments: 4",
+      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 44 # Comments: 7",
       "date": "2026-11-24T09:39:50+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -599,14 +647,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "An on-device AI agent for Android",
-      "link": "https://github.com/wangzan101/mika",
-      "summary": "Article URL: https://github.com/wangzan101/mika Comments URL: https://news.ycombinator.com/item?id=50623449 Points: 1 # Comments: 0",
-      "date": "2026-11-24T03:53:08+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "datasette-agent 0.7a1",
       "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that ",
@@ -615,36 +655,12 @@
       "source": "Simon Willison"
     },
     {
-      "title": "r/RedditEngin: We Let AI Approve PRs at Reddit. Here's What Happened",
-      "link": "https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/",
-      "summary": "Article URL: https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/ Comments URL: https://news.ycombinator.com/item?id=50623015 Points: 9 # Comments: 0",
-      "date": "2026-11-24T02:56:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Apple Releases New AI Health App",
-      "link": "https://www.macrumors.com/2026/11/16/apple-just-released-a-new-app/",
-      "summary": "Article URL: https://www.macrumors.com/2026/11/16/apple-just-released-a-new-app/ Comments URL: https://news.ycombinator.com/item?id=50622950 Points: 2 # Comments: 1",
-      "date": "2026-11-24T02:48:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
       "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
       "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
       "date": "2026-11-24T02:37:39+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Declare is a UI language for you and your AI",
-      "link": "https://davidtemkin.github.io/declarelang/",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 52 # Comments: 43",
-      "date": "2026-11-24T02:36:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -1541,14 +1557,6 @@
       "date": "2026-11-22T13:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-      "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-      "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. Th",
-      "date": "2026-11-22T12:12:07+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "Banks Have Had It Up to Here With Your AI Agent",
@@ -2765,14 +2773,6 @@
       "date": "2026-11-12T20:16:24+00:00",
       "image": "",
       "source": "MIT Tech Review"
-    },
-    {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "date": "2026-11-12T19:23:03+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "source": "Ars Technica AI"
     },
     {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
