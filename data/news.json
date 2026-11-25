@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:50:43.505978+00:00",
+  "updated": "2026-11-25T12:05:58.044719+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -92,27 +92,6 @@
           "source": "Wired AI",
           "title": "Jensen Huang Is Back as Nvidia CEO",
           "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "Tidal Bans AI-Generated Music",
-      "date": "2026-11-25T08:23:07+00:00",
-      "sources": [
-        "Hacker News AI",
-        "The Guardian AI"
-      ],
-      "links": [
-        {
-          "source": "Hacker News AI",
-          "title": "Tidal Bans AI-Generated Music",
-          "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/"
-        },
-        {
-          "source": "The Guardian AI",
-          "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
-          "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music"
         }
       ]
     },
@@ -222,6 +201,38 @@
   ],
   "items": [
     {
+      "title": "xAI Founders Unveil New AI Startup to Predict Future Events",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events Comments URL: https://news.ycombinator.com/item?id=50641332 Points: 1 # Comments: 0",
+      "date": "2026-11-25T12:01:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans",
+      "link": "https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/",
+      "summary": "Using Han and Kim's Chatbot Arena data, GPT-6 Luna and Claude Haiku 4.5 were tested as a panel, and Haiku alone matched users on 22 of 23 clear matchups. The post A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans appeared first on Towards Data Science .",
+      "date": "2026-11-25T12:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
+    {
+      "title": "Using AI+Lean to optimize and improve existing code",
+      "link": "https://share.thomas.md/leanldgr",
+      "summary": "Article URL: https://share.thomas.md/leanldgr Comments URL: https://news.ycombinator.com/item?id=50641312 Points: 1 # Comments: 0",
+      "date": "2026-11-25T11:59:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Do inconsistent docs hurt AI coding agents?",
+      "link": "https://developer.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/",
+      "summary": "Article URL: https://developer.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=50641298 Points: 1 # Comments: 0",
+      "date": "2026-11-25T11:57:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Claude Code vs. Gato AI Translations: Translating a WordPress Site to 100%",
       "link": "https://gatoaitranslations.com/blog/claude-code-vs-gato-ai-translations",
       "summary": "Article URL: https://gatoaitranslations.com/blog/claude-code-vs-gato-ai-translations Comments URL: https://news.ycombinator.com/item?id=50641258 Points: 1 # Comments: 0",
@@ -232,7 +243,7 @@
     {
       "title": "Bosses loved AI at work – until they drowned in slop",
       "link": "https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11",
-      "summary": "Article URL: https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11 Comments URL: https://news.ycombinator.com/item?id=50641251 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11 Comments URL: https://news.ycombinator.com/item?id=50641251 Points: 4 # Comments: 0",
       "date": "2026-11-25T11:48:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -474,30 +485,6 @@
       "link": "https://www.nature.com/articles/s43588-026-01112-8.pdf",
       "summary": "Article URL: https://www.nature.com/articles/s43588-026-01112-8.pdf Comments URL: https://news.ycombinator.com/item?id=50639945 Points: 4 # Comments: 0",
       "date": "2026-11-25T08:25:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Tidal Bans AI-Generated Music",
-      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50639928 Points: 3 # Comments: 0",
-      "date": "2026-11-25T08:23:07+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Lightscale AI – A language for LLMs to write business software",
-      "link": "https://lightscale.ai/",
-      "summary": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is now written by LLMs and few people have time to review the generated code, we came up with the idea to re",
-      "date": "2026-11-25T07:36:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Confessions of an AI Fraud Kingpin",
-      "link": "https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/",
-      "summary": "Article URL: https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/ Comments URL: https://news.ycombinator.com/item?id=50639583 Points: 3 # Comments: 1",
-      "date": "2026-11-25T07:32:01+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -2236,14 +2223,6 @@
       "date": "2026-11-18T15:58:27+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Neurosymbolic Agents Explained, With a Z3 Example in Python",
-      "link": "https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/",
-      "summary": "Starting from Air Canada's chatbot case, a tour of Logic-LM, Agent-C, and Amazon's checks shows the solver is sound but the English-to-logic step is not. The post Neurosymbolic Agents Explained, With a Z3 Example in Python appeared first on Towards Data Science .",
-      "date": "2026-11-18T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
     },
     {
       "title": "The PSF end-of-year fundraiser",
