@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:06:41.887083+00:00",
+  "updated": "2026-11-25T17:21:23.957510+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,14 @@
   ],
   "items": [
     {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "summary": "Generative AI",
+      "date": "2026-11-25T17:10:27+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+      "source": "Google Research"
+    },
+    {
       "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
       "link": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
       "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up",
@@ -318,7 +326,7 @@
     {
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
       "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "date": "2026-11-25T13:00:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
@@ -546,6 +554,14 @@
       "date": "2026-11-25T00:12:02+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "summary": "",
+      "date": "2026-11-25T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
     },
     {
       "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
@@ -1026,6 +1042,14 @@
       "date": "2026-11-24T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "date": "2026-11-24T13:07:53+00:00",
+      "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -2852,14 +2876,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "summary": "",
-      "date": "2026-11-03T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
-    },
-    {
       "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
       "link": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can p",
@@ -3362,22 +3378,6 @@
       "date": "2026-09-29T18:38:27+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
       "source": "Google Research"
-    },
-    {
-      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
-      "date": "2026-09-28T12:32:03+00:00",
-      "image": "",
-      "source": "Import AI"
-    },
-    {
-      "title": "Quantum computing’s “dark horse” just proved it can go universal",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alo",
-      "date": "2026-09-25T12:45:04+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
     }
   ]
 }
