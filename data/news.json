@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:36:35.339388+00:00",
+  "updated": "2026-11-25T11:43:53.008705+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,14 @@
   ],
   "items": [
     {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "date": "2026-11-25T11:30:00+00:00",
+      "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
+      "source": "Wired AI"
+    },
+    {
       "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
       "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times. When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% ",
@@ -263,6 +271,14 @@
       "date": "2026-11-25T10:00:00+00:00",
       "image": "",
       "source": "MIT Tech Review"
+    },
+    {
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory,",
+      "date": "2026-11-25T09:30:54+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     },
     {
       "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
@@ -1455,14 +1471,6 @@
       "date": "2026-11-23T12:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "States Sue SpaceX Over Grok Deepfakes",
-      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-      "date": "2026-11-23T11:00:00+00:00",
-      "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
@@ -3391,14 +3399,6 @@
       "date": "2026-09-30T15:03:07+00:00",
       "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
-      "summary": "Anthropic and OpenAI race to release smarter and cheaper models, OpenAI discloses nine misalignment incidents, and more!",
-      "date": "2026-09-30T11:23:54+00:00",
-      "image": "https://substackcdn.com/image/fetch/$s_!DNBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4469ba-7850-43e0-a582-d155f7d08ae0_2048x1270.jpeg",
-      "source": "Last Week in AI"
     }
   ]
 }
