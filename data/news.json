@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:51:22.014395+00:00",
+  "updated": "2026-11-25T19:06:26.374925+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,14 @@
   ],
   "items": [
     {
+      "title": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "summary": "",
+      "date": "2026-11-25T18:52:55+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
       "title": "AI vs. AI Pickleball: One Model Scored 0 Points",
       "link": "https://pixelpickleball.com/blog/",
       "summary": "Article URL: https://pixelpickleball.com/blog/ Comments URL: https://news.ycombinator.com/item?id=50645884 Points: 1 # Comments: 0",
@@ -234,6 +242,22 @@
       "date": "2026-11-25T18:25:43+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "summary": "Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
+      "date": "2026-11-25T18:23:12+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "date": "2026-11-25T18:22:59+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "Who are harvested or affected by AI",
@@ -318,7 +342,7 @@
     {
       "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
       "link": "https://gameautoresearch.github.io/",
-      "summary": "Article URL: https://gameautoresearch.github.io/ Comments URL: https://news.ycombinator.com/item?id=50644988 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://gameautoresearch.github.io/ Comments URL: https://news.ycombinator.com/item?id=50644988 Points: 3 # Comments: 0",
       "date": "2026-11-25T17:35:21+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -334,7 +358,7 @@
     {
       "title": "New York bans AI toys, including those using internet to talk to children",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 11 # Comments: 2",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 13 # Comments: 2",
       "date": "2026-11-25T17:27:05+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -406,7 +430,7 @@
     {
       "title": "An AI economy won't need humans to provide demand",
       "link": "https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand",
-      "summary": "Article URL: https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand Comments URL: https://news.ycombinator.com/item?id=50644128 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand Comments URL: https://news.ycombinator.com/item?id=50644128 Points: 3 # Comments: 0",
       "date": "2026-11-25T16:25:30+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1228,14 +1252,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-      "date": "2026-11-24T13:31:29+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
       "link": "https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/",
       "summary": "A Mermaid blueprint, Python dataclasses, and a retryable flag decide when a failed agent tries again and when the task goes to a person. The post How to Plan Retries for Multi-Agent Workflows Before You Write Code appeared first on Towards Data Science .",
@@ -1370,14 +1386,6 @@
       "date": "2026-11-24T03:45:57+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-      "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-      "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
-      "date": "2026-11-24T02:37:39+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Strange new materials can crawl, walk, and dig like living creatures",
@@ -1522,14 +1530,6 @@
       "date": "2026-11-23T17:21:12+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
       "source": "Google Research"
-    },
-    {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "link": "https://huggingface.co/blog/allenai/robotrack",
-      "summary": "",
-      "date": "2026-11-23T17:20:37+00:00",
-      "image": "",
-      "source": "Hugging Face"
     },
     {
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
