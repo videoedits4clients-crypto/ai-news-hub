@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:50:28.820556+00:00",
+  "updated": "2026-11-25T20:06:52.380791+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,38 @@
   ],
   "items": [
     {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "date": "2026-11-25T19:54:57+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "date": "2026-11-25T19:52:47+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "summary": "Article URL: https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping Comments URL: https://news.ycombinator.com/item?id=50646548 Points: 3 # Comments: 0",
+      "date": "2026-11-25T19:49:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: HeyCube – The personalized feed for your always-on AI agents",
+      "link": "https://inxpanse.com/heycube",
+      "summary": "Hi HN, I'm Fengli, founder of Inxpanse. HeyCube is our first product: the personalized feed for your always-on AI agents. While building my own always-on agents, I kept watching the token and search API costs add up really fast. Then I noticed the scheduled tasks in ChatGPT/Grok ",
+      "date": "2026-11-25T19:47:37+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
       "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
@@ -194,14 +226,6 @@
       "date": "2026-11-25T19:41:45+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-      "date": "2026-11-25T19:25:10+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -374,7 +398,7 @@
     {
       "title": "New York bans AI toys, including those using internet to talk to children",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 17 # Comments: 2",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 19 # Comments: 2",
       "date": "2026-11-25T17:27:05+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -456,22 +480,6 @@
       "link": "https://www.theagenticleaderboard.com/",
       "summary": "Article URL: https://www.theagenticleaderboard.com/ Comments URL: https://news.ycombinator.com/item?id=50644126 Points: 1 # Comments: 1",
       "date": "2026-11-25T16:25:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Claude models are sabotaging AI research",
-      "link": "https://twitter.com/skirano/status/2125371115979641188",
-      "summary": "Article URL: https://twitter.com/skirano/status/2125371115979641188 Comments URL: https://news.ycombinator.com/item?id=50644109 Points: 2 # Comments: 0",
-      "date": "2026-11-25T16:24:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Who's Hacking with AI, and What They're Using",
-      "link": "https://newsletter.danielmiessler.com/p/whos-hacking-with-ai",
-      "summary": "Article URL: https://newsletter.danielmiessler.com/p/whos-hacking-with-ai Comments URL: https://news.ycombinator.com/item?id=50644106 Points: 1 # Comments: 0",
-      "date": "2026-11-25T16:24:29+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1458,14 +1466,6 @@
       "date": "2026-11-23T22:34:20+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "date": "2026-11-23T22:05:50+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Ladybird's first alpha release",
