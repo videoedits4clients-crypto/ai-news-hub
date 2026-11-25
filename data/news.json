@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:36:30.037317+00:00",
+  "updated": "2026-11-25T03:51:11.437313+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,22 @@
   ],
   "items": [
     {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 2 # Comments: 0",
+      "date": "2026-11-25T03:47:42+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "date": "2026-11-25T03:44:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "source": "BBC Technology"
+    },
+    {
       "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
       "link": "https://carry.md/",
       "summary": "Carry let's you automatically save your chats from Gemini, ChatGPT, Claude and Grok as Markdown in a local folder on you computer. You can easily search across all apps and handoff to other if needed with one click. Comments URL: https://news.ycombinator.com/item?id=50637995 Poin",
@@ -211,7 +227,7 @@
     {
       "title": "Open detection rules for AI agent attack frameworks",
       "link": "https://github.com/ThreatDefence/agentic-attack-detections",
-      "summary": "Article URL: https://github.com/ThreatDefence/agentic-attack-detections Comments URL: https://news.ycombinator.com/item?id=50637987 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/ThreatDefence/agentic-attack-detections Comments URL: https://news.ycombinator.com/item?id=50637987 Points: 2 # Comments: 0",
       "date": "2026-11-25T03:18:00+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -275,7 +291,7 @@
     {
       "title": "Bosses who pushed AI at work are now drowning in \"workslop\"",
       "link": "https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11",
-      "summary": "Article URL: https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11 Comments URL: https://news.ycombinator.com/item?id=50637507 Points: 12 # Comments: 1",
+      "summary": "Article URL: https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11 Comments URL: https://news.ycombinator.com/item?id=50637507 Points: 13 # Comments: 1",
       "date": "2026-11-25T02:08:48+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -475,7 +491,7 @@
     {
       "title": "AI is moving way too fast (Nate Silver)",
       "link": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
-      "summary": "Article URL: https://www.natesilver.net/p/ai-is-moving-way-too-fast Comments URL: https://news.ycombinator.com/item?id=50635748 Points: 9 # Comments: 3",
+      "summary": "Article URL: https://www.natesilver.net/p/ai-is-moving-way-too-fast Comments URL: https://news.ycombinator.com/item?id=50635748 Points: 10 # Comments: 3",
       "date": "2026-11-24T22:31:37+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -545,14 +561,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "summary": "Article URL: https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/ Comments URL: https://news.ycombinator.com/item?id=50635357 Points: 2 # Comments: 0",
-      "date": "2026-11-24T21:58:04+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
       "summary": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
@@ -599,14 +607,6 @@
       "date": "2026-11-24T21:19:52+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "date": "2026-11-24T21:19:42+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-      "source": "BBC Technology"
     },
     {
       "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
@@ -1599,6 +1599,14 @@
       "date": "2026-11-23T13:11:00+00:00",
       "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
       "source": "Wired AI"
+    },
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "date": "2026-11-23T12:00:00+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
@@ -3390,14 +3398,6 @@
       "summary": "Earth AI",
       "date": "2026-10-14T16:14:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
-      "source": "Google Research"
-    },
-    {
-      "title": "Analyzing technical documents with Deep Review",
-      "link": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
-      "summary": "General Science",
-      "date": "2026-10-14T16:14:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
       "source": "Google Research"
     }
   ]
