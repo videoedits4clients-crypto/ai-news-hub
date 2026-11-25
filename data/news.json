@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:36:34.818902+00:00",
+  "updated": "2026-11-25T16:36:35.616889+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,9 +180,33 @@
   ],
   "items": [
     {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-",
+      "date": "2026-11-25T16:00:59+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "date": "2026-11-25T15:55:40+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch deck",
+      "date": "2026-11-25T15:41:43+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
+    {
       "title": "New York bans AI toys, including those using internet to talk to children",
       "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-      "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five year ban on the manufacture and sale of toys powered by AI chatbots, incl",
+      "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, incl",
       "date": "2026-11-25T15:29:21+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -570,14 +594,6 @@
       "date": "2026-11-24T22:05:21+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
-      "date": "2026-11-24T22:03:01+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
@@ -1212,14 +1228,6 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
-      "date": "2026-11-23T22:21:36+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
@@ -1282,14 +1290,6 @@
       "date": "2026-11-23T21:20:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-      "date": "2026-11-23T20:38:53+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
     },
     {
       "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
