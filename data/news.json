@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:06:23.896873+00:00",
+  "updated": "2026-11-25T18:12:22.612498+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -1010,14 +1010,6 @@
       "date": "2026-11-24T14:36:32+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Claude Ship puts AI at the helm of pull request approvals",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
-      "summary": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that",
-      "date": "2026-11-24T14:29:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5254628&width=800",
-      "source": "The Register"
     },
     {
       "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
@@ -3378,6 +3370,14 @@
       "date": "2026-09-28T12:32:03+00:00",
       "image": "",
       "source": "Import AI"
+    },
+    {
+      "title": "Quantum computing’s “dark horse” just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alo",
+      "date": "2026-09-25T12:45:04+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
