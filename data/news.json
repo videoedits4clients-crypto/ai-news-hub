@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:51:09.515783+00:00",
+  "updated": "2026-11-25T13:06:23.421390+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -118,27 +118,6 @@
     },
     {
       "count": 2,
-      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-      "date": "2026-11-24T00:02:39+00:00",
-      "sources": [
-        "MarkTechPost",
-        "The Verge AI"
-      ],
-      "links": [
-        {
-          "source": "MarkTechPost",
-          "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-          "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
-        },
-        {
-          "source": "The Verge AI",
-          "title": "Claude AI can review pull requests and ship fixes on its own now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-        }
-      ]
-    },
-    {
-      "count": 2,
       "title": "Introducing Gemini 4 Neon",
       "date": "2026-11-18T21:35:43+00:00",
       "sources": [
@@ -200,6 +179,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
+      "summary": "Voters are demanding action on the issue. We need to make AI work for the American public, not the tech oligarchs This month’s elections demonstrated the American public’s urgent demand for change. But they also revealed a glaring problem for the Democrats’ policy agenda: they ha",
+      "date": "2026-11-25T13:00:26+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "date": "2026-11-25T13:00:00+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
+    },
     {
       "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
       "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
@@ -699,7 +694,7 @@
     {
       "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
       "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-      "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investo",
+      "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat on Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with inve",
       "date": "2026-11-24T22:05:21+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1015,6 +1010,14 @@
       "date": "2026-11-24T15:51:07+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding commu",
+      "date": "2026-11-24T15:35:01+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
@@ -1521,22 +1524,6 @@
       "source": "MarkTechPost"
     },
     {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-      "date": "2026-11-23T18:12:22+00:00",
-      "image": "",
-      "source": "TechCrunch AI"
-    },
-    {
-      "title": "Sweden’s datacentre politics are more complicated than they appear | Letter",
-      "link": "https://www.theguardian.com/world/2026/nov/23/swedens-datacentre-politics-are-more-complicated-than-they-appear",
-      "summary": "There are distinct tensions over who controls, benefits from and gains access to natural and public resources, write James White and Nora Söderberg Steve Rose’s account of Sweden’s datacentre sector ( ‘Datacentres are deeply unpopular. Has Sweden made one we can all love?’, 12 No",
-      "date": "2026-11-23T18:04:25+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
       "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
       "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
@@ -1567,14 +1554,6 @@
       "date": "2026-11-23T17:20:37+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review c",
-      "date": "2026-11-23T17:10:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
