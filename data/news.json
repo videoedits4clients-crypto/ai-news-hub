@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:21:05.382604+00:00",
+  "updated": "2026-11-25T23:36:31.603348+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,9 +180,33 @@
   ],
   "items": [
     {
+      "title": "Ask HN: Are you polite to AI? Why or why not?",
+      "link": "https://news.ycombinator.com/item?id=50649186",
+      "summary": "I'm often polite to AI, I find myself saying \"please\" and so on. I don't know if that affects its results significantly, but that's not why I do it. I think it's more that it's ingrained in me to be polite in conversation, especially when my interlocutor is as unhesitatingly poli",
+      "date": "2026-11-25T23:28:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Quoting Scott Aaronson",
+      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo fir",
+      "date": "2026-11-25T23:26:32+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Cloudflare AI Search for Agents",
+      "link": "https://blog.cloudflare.com/search-for-agents/",
+      "summary": "Article URL: https://blog.cloudflare.com/search-for-agents/ Comments URL: https://news.ycombinator.com/item?id=50649149 Points: 2 # Comments: 0",
+      "date": "2026-11-25T23:25:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "RL Infrastructure at Microsoft AI",
       "link": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
-      "summary": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50649024 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50649024 Points: 2 # Comments: 0",
       "date": "2026-11-25T23:14:36+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -198,7 +222,7 @@
     {
       "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
       "link": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
-      "summary": "Article URL: https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/ Comments URL: https://news.ycombinator.com/item?id=50648668 Points: 9 # Comments: 0",
+      "summary": "Article URL: https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/ Comments URL: https://news.ycombinator.com/item?id=50648668 Points: 10 # Comments: 1",
       "date": "2026-11-25T22:41:09+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -452,28 +476,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Local AI setups tested across 80 tasks on a 512GB Mac Studio M5 Ultra",
-      "link": "https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison",
-      "summary": "Article URL: https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison Comments URL: https://news.ycombinator.com/item?id=50645458 Points: 2 # Comments: 0",
-      "date": "2026-11-25T18:14:23+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "date": "2026-11-25T18:11:46+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Ask HN: Indie founders making > 1k MRR, has your revenue been affected by AI?",
-      "link": "https://news.ycombinator.com/item?id=50645393",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50645393 Points: 4 # Comments: 0",
-      "date": "2026-11-25T18:09:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -506,14 +514,6 @@
       "date": "2026-11-25T17:10:27+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
       "source": "Google Research"
-    },
-    {
-      "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
-      "link": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
-      "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up",
-      "date": "2026-11-25T17:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=228369&width=800",
-      "source": "The Register"
     },
     {
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -604,14 +604,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "JetBrains finds agents may cheat with open source",
-      "link": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
-      "summary": "AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet",
-      "date": "2026-11-25T14:07:00+00:00",
-      "image": "https://image.theregister.com/?imageId=1683207&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Aidan didn’t expect a spoken-word component in his thesis - but universities hope it will help tackle AI",
       "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
       "summary": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all Get our breaking news email , free app or daily news podcast When Aidan Elwig Pollock signed up for an honours program at the University of Sy",
@@ -652,14 +644,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Amazon to flog motors in Britain, but Prime won't deliver",
-      "link": "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
-      "summary": "Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork",
-      "date": "2026-11-25T12:19:20+00:00",
-      "image": "https://image.theregister.com/?imageId=258277&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "AI may soon change what it means to be a theoretical physicist",
       "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
       "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
@@ -690,14 +674,6 @@
       "date": "2026-11-25T11:30:00+00:00",
       "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
-      "link": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
-      "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails",
-      "date": "2026-11-25T11:16:18+00:00",
-      "image": "https://image.theregister.com/?imageId=227789&width=800",
-      "source": "The Register"
     },
     {
       "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
@@ -780,14 +756,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
-      "link": "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024",
-      "summary": "Criminal masterminds claimed to work for ‘Weihua’ or to have source code from ‘oscic’ instead of Cisco",
-      "date": "2026-11-25T06:16:02+00:00",
-      "image": "https://image.theregister.com/?imageId=5312029&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
       "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
       "summary": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
@@ -820,14 +788,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Nutanix CEO announces gradual departure, intent to complete set of storage links",
-      "link": "https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010",
-      "summary": "Rajiv Ramaswami will stay in the chair until new hire lands, then stick around as advisor",
-      "date": "2026-11-25T03:13:13+00:00",
-      "image": "https://image.theregister.com/?imageId=226792&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
       "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
       "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
@@ -842,14 +802,6 @@
       "date": "2026-11-25T02:12:22+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Dell and HPE both say they’ve become ‘different companies’",
-      "link": "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
-      "summary": "Still slinging hardware – now with added AI and attendant risks or opportunities",
-      "date": "2026-11-25T01:17:30+00:00",
-      "image": "https://image.theregister.com/?imageId=262697&width=800",
-      "source": "The Register"
     },
     {
       "title": "I asked AI if it was OK to use AI to write an obituary. The answer surprised me | Anna Spargo-Ryan",
@@ -1020,14 +972,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
-      "summary": "‘It’s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma,’ he says",
-      "date": "2026-11-24T20:57:08+00:00",
-      "image": "https://image.theregister.com/?imageId=5310808&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
       "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time",
@@ -1130,22 +1074,6 @@
       "date": "2026-11-24T17:00:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
-      "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
-      "summary": "No sophisticated malware or attack framework required",
-      "date": "2026-11-24T17:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=5311939&width=800",
-      "source": "The Register"
-    },
-    {
-      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
-      "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
-      "summary": "Meanwhile, Google's homepage demo leaves a familiar button out of the picture",
-      "date": "2026-11-24T17:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=255047&width=800",
-      "source": "The Register"
     },
     {
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
@@ -2588,14 +2516,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "datasette 1.0a43",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this ",
-      "date": "2026-11-15T23:20:27+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
       "title": "AI discovers a hidden heart signal that could predict sudden death",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
       "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction t",
@@ -3378,6 +3298,86 @@
       "date": "2026-10-13T19:43:07+00:00",
       "image": "",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "date": "2026-10-13T16:01:58+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "date": "2026-10-13T16:01:52+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
+      "date": "2026-10-13T09:47:22+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Physicists discover “astonishing” property of light that defies expectations",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left-",
+      "date": "2026-10-13T04:19:32+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
+      "date": "2026-10-12T12:30:39+00:00",
+      "image": "",
+      "source": "Import AI"
+    },
+    {
+      "title": "I expect rapid progress but not towards general superintelligence",
+      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
+      "date": "2026-10-09T21:33:47+00:00",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
+      "source": "Interconnects"
+    },
+    {
+      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
+      "link": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
+      "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
+      "date": "2026-10-09T05:06:58+00:00",
+      "image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Does better work always mean better workers?",
+      "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "summary": "",
+      "date": "2026-10-07T20:19:57+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
+      "source": "Google Research"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "date": "2026-10-06T19:57:04+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "summary": "Earth AI",
+      "date": "2026-10-06T15:05:11+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
+      "source": "Google Research"
     }
   ]
 }
