@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:50:28.559955+00:00",
+  "updated": "2026-11-25T17:06:41.887083+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -179,6 +179,22 @@
     }
   ],
   "items": [
+    {
+      "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
+      "link": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+      "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up",
+      "date": "2026-11-25T17:00:00+00:00",
+      "image": "https://image.theregister.com/?imageId=228369&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "date": "2026-11-25T16:47:14+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "source": "Ars Technica AI"
+    },
     {
       "title": "Nothing offers a full look at its AI earbuds and charging case",
       "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
@@ -2180,14 +2196,6 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "date": "2026-11-17T14:00:29+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
       "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
       "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
       "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC G",
@@ -3370,14 +3378,6 @@
       "date": "2026-09-25T12:45:04+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "Automating coherent long-form video generation",
-      "link": "https://research.google/blog/coherent-long-form-video-generation/",
-      "summary": "Generative AI",
-      "date": "2026-09-24T19:40:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
-      "source": "Google Research"
     }
   ]
 }
