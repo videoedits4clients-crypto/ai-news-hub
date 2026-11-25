@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:36:35.616889+00:00",
+  "updated": "2026-11-25T16:50:28.559955+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -198,7 +198,7 @@
     {
       "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
       "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch deck",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch dec",
       "date": "2026-11-25T15:41:43+00:00",
       "image": "",
       "source": "TechCrunch AI"
@@ -1022,7 +1022,7 @@
     {
       "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
       "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
-      "summary": "The digital butler, which can go shopping on behalf of users, is available in the US, UK and Canada. What do you think about it? Meta is continuing its rollout of its Muse AI assistant, with the UK the latest country where the digital butler will be available to go shopping, book",
+      "summary": "The digital butler, which can go shopping on behalf of users, is available in the US, UK, Canada and Australia. What do you think about it? Meta is continuing its rollout of its Muse AI assistant, with the UK the latest country where the digital butler will be available to go sho",
       "date": "2026-11-24T12:44:40+00:00",
       "image": "",
       "source": "The Guardian AI"
@@ -1058,14 +1058,6 @@
       "date": "2026-11-24T11:58:45+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-      "summary": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
-      "date": "2026-11-24T11:32:41+00:00",
-      "image": "https://image.theregister.com/?imageId=5311112&width=800",
-      "source": "The Register"
     },
     {
       "title": "Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter",
@@ -3378,6 +3370,14 @@
       "date": "2026-09-25T12:45:04+00:00",
       "image": "",
       "source": "ScienceDaily AI"
+    },
+    {
+      "title": "Automating coherent long-form video generation",
+      "link": "https://research.google/blog/coherent-long-form-video-generation/",
+      "summary": "Generative AI",
+      "date": "2026-09-24T19:40:00+00:00",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+      "source": "Google Research"
     }
   ]
 }
