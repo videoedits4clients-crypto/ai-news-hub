@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T09:21:30.065042+00:00",
+  "updated": "2026-11-25T09:36:34.598085+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -1215,14 +1215,6 @@
       "date": "2026-11-23T21:20:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
-      "summary": "Not the whole startup - just its tech and the brains behind it",
-      "date": "2026-11-23T21:17:15+00:00",
-      "image": "https://image.theregister.com/?imageId=5222824&width=800",
-      "source": "The Register"
     },
     {
       "title": "AI data centers throw another wrench into chaotic UN climate talks",
@@ -3398,6 +3390,14 @@
       "summary": "",
       "date": "2026-09-30T20:01:45+00:00",
       "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
     }
   ]
