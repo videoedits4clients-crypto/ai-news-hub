@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:50:40.938346+00:00",
+  "updated": "2026-11-25T14:06:21.423604+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -118,27 +118,6 @@
     },
     {
       "count": 2,
-      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-      "date": "2026-11-24T00:02:39+00:00",
-      "sources": [
-        "MarkTechPost",
-        "The Verge AI"
-      ],
-      "links": [
-        {
-          "source": "MarkTechPost",
-          "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-          "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
-        },
-        {
-          "source": "The Verge AI",
-          "title": "Claude AI can review pull requests and ship fixes on its own now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-        }
-      ]
-    },
-    {
-      "count": 2,
       "title": "Introducing Gemini 4 Neon",
       "date": "2026-11-18T21:35:43+00:00",
       "sources": [
@@ -200,6 +179,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
+      "summary": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all Get our breaking news email , free app or daily news podcast When Aidan Elwig Pollock signed up for an honours program at the University of Sy",
+      "date": "2026-11-25T14:00:29+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
     {
       "title": "DuckDB 2.0 vs Polars 2.0 in Five Real-World Tests and One 14x Gap",
       "link": "https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/",
@@ -626,7 +613,7 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
       "summary": "Experts from around the world plot the progress of AI development every five years.",
       "date": "2026-11-24T21:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
@@ -855,6 +842,14 @@
       "date": "2026-11-24T15:51:07+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding commu",
+      "date": "2026-11-24T15:35:01+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
@@ -1145,14 +1140,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
-      "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
-      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Nvidia staff: what do you think of Jensen Huang’s return as chief executive? Jensen Huang made his ret",
-      "date": "2026-11-24T01:34:39+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
       "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
       "summary": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
@@ -1359,14 +1346,6 @@
       "date": "2026-11-23T17:20:37+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review c",
-      "date": "2026-11-23T17:10:02+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
