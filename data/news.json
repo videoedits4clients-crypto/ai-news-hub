@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:51:11.437313+00:00",
+  "updated": "2026-11-25T04:06:24.626729+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,9 +201,17 @@
   ],
   "items": [
     {
+      "title": "Journal proofing AI alters researcher's accepted paper without tracking",
+      "link": "https://bsky.app/profile/yungenchee.bsky.social/post/3n325cjuhxk2g",
+      "summary": "Article URL: https://bsky.app/profile/yungenchee.bsky.social/post/3n325cjuhxk2g Comments URL: https://news.ycombinator.com/item?id=50638242 Points: 1 # Comments: 1",
+      "date": "2026-11-25T03:51:08+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
       "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 7 # Comments: 1",
       "date": "2026-11-25T03:47:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -525,14 +533,6 @@
       "link": "https://www.usedimensional.com",
       "summary": "Article URL: https://www.usedimensional.com Comments URL: https://news.ycombinator.com/item?id=50635483 Points: 2 # Comments: 0",
       "date": "2026-11-24T22:08:24+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-      "summary": "Article URL: https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834 Comments URL: https://news.ycombinator.com/item?id=50635475 Points: 4 # Comments: 1",
-      "date": "2026-11-24T22:07:52+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1031,6 +1031,14 @@
       "date": "2026-11-24T11:58:45+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+      "summary": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
+      "date": "2026-11-24T11:32:41+00:00",
+      "image": "https://image.theregister.com/?imageId=5311112&width=800",
+      "source": "The Register"
     },
     {
       "title": "BepiColombo takes the long way around Mercury after software glitch",
@@ -3391,14 +3399,6 @@
       "date": "2026-10-15T16:08:03+00:00",
       "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "link": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
-      "summary": "Earth AI",
-      "date": "2026-10-14T16:14:00+00:00",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
-      "source": "Google Research"
     }
   ]
 }
