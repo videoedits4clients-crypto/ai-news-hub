@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:20:23.846191+00:00",
+  "updated": "2026-11-25T08:36:26.062043+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -711,14 +711,6 @@
       "date": "2026-11-24T15:51:07+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more ne",
-      "date": "2026-11-24T15:15:16+00:00",
-      "image": "",
-      "source": "MIT Tech Review"
     },
     {
       "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
@@ -2743,6 +2735,14 @@
       "date": "2026-11-09T19:51:47+00:00",
       "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest",
+      "date": "2026-11-09T19:35:33+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
     },
     {
       "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
