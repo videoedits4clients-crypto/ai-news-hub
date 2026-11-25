@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:36:25.871926+00:00",
+  "updated": "2026-11-25T02:41:55.261432+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,30 @@
   ],
   "items": [
     {
+      "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+      "link": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+      "summary": "Article URL: https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html Comments URL: https://news.ycombinator.com/item?id=50637725 Points: 1 # Comments: 0",
+      "date": "2026-11-25T02:40:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Overhyped AI Gateway Features Part 1: Semantic Caching",
+      "link": "https://blog.howardjohn.info/posts/overhyped-ai-gateway-1-semantic-caching/",
+      "summary": "Article URL: https://blog.howardjohn.info/posts/overhyped-ai-gateway-1-semantic-caching/ Comments URL: https://news.ycombinator.com/item?id=50637722 Points: 1 # Comments: 0",
+      "date": "2026-11-25T02:40:23+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Analytics. Team Approved. Agent Ready",
+      "link": "https://www.decube.io/ai-analytics",
+      "summary": "Article URL: https://www.decube.io/ai-analytics Comments URL: https://news.ycombinator.com/item?id=50637706 Points: 1 # Comments: 0",
+      "date": "2026-11-25T02:37:52+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
       "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
       "summary": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence The music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams",
@@ -265,7 +289,7 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: Social network with open moderation funded by 1-cent votes. AI filter",
+      "title": "Show HN: Reddit Alt with open moderation funded by 1-cent votes. AI filter",
       "link": "https://chakra.social",
       "summary": "Article URL: https://chakra.social Comments URL: https://news.ycombinator.com/item?id=50637291 Points: 1 # Comments: 0",
       "date": "2026-11-25T01:33:53+00:00",
