@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:06:23.421390+00:00",
+  "updated": "2026-11-25T13:20:27.273512+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,30 @@
   ],
   "items": [
     {
+      "title": "Alice Huang-linked firms helped fund China AI sector, probe shows",
+      "link": "https://www.reuters.com/video/watch/idRW107225112026RP1/",
+      "summary": "Article URL: https://www.reuters.com/video/watch/idRW107225112026RP1/ Comments URL: https://news.ycombinator.com/item?id=50641822 Points: 3 # Comments: 0",
+      "date": "2026-11-25T13:07:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+      "summary": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
+      "date": "2026-11-25T13:05:38+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Ramp CEO: AI's Jevons Paradox Broke, Corporate Spend Data Shows",
+      "link": "https://www.tftc.io/ramp-ceo-ai-jevons-paradox-broke-corporate-spend",
+      "summary": "Article URL: https://www.tftc.io/ramp-ceo-ai-jevons-paradox-broke-corporate-spend Comments URL: https://news.ycombinator.com/item?id=50641785 Points: 1 # Comments: 0",
+      "date": "2026-11-25T13:02:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
       "summary": "Voters are demanding action on the issue. We need to make AI work for the American public, not the tech oligarchs This month’s elections demonstrated the American public’s urgent demand for change. But they also revealed a glaring problem for the Democrats’ policy agenda: they ha",
@@ -188,20 +212,44 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
-      "date": "2026-11-25T13:00:00+00:00",
+      "title": "Show HN: Avva – Compress your expertise available to AI agent via MCP",
+      "link": "https://avva.chat/",
+      "summary": "Hi HN! After we launched our public beta, some of our ex-colleagues tested the approach of creating decision models based on their work artefacts and noticed that it led to fewer back-and-forth cycles to clarify details and greater productivity in their daily routine. The market ",
+      "date": "2026-11-25T12:53:18+00:00",
       "image": "",
-      "source": "TechCrunch AI"
+      "source": "Hacker News AI"
     },
     {
-      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-      "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "summary": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
-      "date": "2026-11-25T12:44:45+00:00",
+      "title": "Lazy, useless people are hiding behind AI",
+      "link": "https://www.nicharalambous.com/blog/lazy-useless-people-hiding-behind-ai",
+      "summary": "Article URL: https://www.nicharalambous.com/blog/lazy-useless-people-hiding-behind-ai Comments URL: https://news.ycombinator.com/item?id=50641699 Points: 1 # Comments: 0",
+      "date": "2026-11-25T12:52:18+00:00",
       "image": "",
-      "source": "CNBC Technology"
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Mathematics in the Age of AI",
+      "link": "https://royalsociety.org/news-resources/publications/2026/mathematics-in-the-age-of-ai/",
+      "summary": "Article URL: https://royalsociety.org/news-resources/publications/2026/mathematics-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50641678 Points: 2 # Comments: 0",
+      "date": "2026-11-25T12:50:23+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Notes from the Belly of the Whale: AI's Need for Humanism",
+      "link": "https://browsercompany.substack.com/p/notes-from-the-belly-of-the-whale",
+      "summary": "Article URL: https://browsercompany.substack.com/p/notes-from-the-belly-of-the-whale Comments URL: https://news.ycombinator.com/item?id=50641596 Points: 1 # Comments: 0",
+      "date": "2026-11-25T12:40:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "What Is WSP MCP? A Free WordPress Plugin to Manage Websites with AI",
+      "link": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
+      "summary": "Article URL: https://github.com/bilalnaseer/wsp-wordpress-mcp Comments URL: https://news.ycombinator.com/item?id=50641578 Points: 1 # Comments: 0",
+      "date": "2026-11-25T12:37:14+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Show HN: DuckDB client side AI spreadsheet",
@@ -214,15 +262,15 @@
     {
       "title": "Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
       "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "summary": "Article URL: https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50641522 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50641522 Points: 2 # Comments: 0",
       "date": "2026-11-25T12:28:44+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
     {
-      "title": "Calif. AG: Character.ai to auction off users' IP addresses and chat histories",
+      "title": "Character.ai to auction off users' IP addresses and chat histories",
       "link": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns",
-      "summary": "Article URL: https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns Comments URL: https://news.ycombinator.com/item?id=50641464 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns Comments URL: https://news.ycombinator.com/item?id=50641464 Points: 5 # Comments: 0",
       "date": "2026-11-25T12:20:51+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -230,7 +278,7 @@
     {
       "title": "xAI Founders Unveil New AI Startup to Predict Future Events",
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events Comments URL: https://news.ycombinator.com/item?id=50641332 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events Comments URL: https://news.ycombinator.com/item?id=50641332 Points: 4 # Comments: 3",
       "date": "2026-11-25T12:01:15+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -428,14 +476,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Show HN: Agent Debugger – local-first failure debugger for AI agents",
-      "link": "https://github.com/woxlo1/agent-debugger",
-      "summary": "Article URL: https://github.com/woxlo1/agent-debugger Comments URL: https://news.ycombinator.com/item?id=50640536 Points: 2 # Comments: 0",
-      "date": "2026-11-25T10:00:11+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "AI is straining America’s open records systems",
       "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
       "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure bu",
@@ -444,60 +484,12 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "Google Files Patent for a TV Channel of AI-Made Videos Built Around You",
-      "link": "https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/",
-      "summary": "Article URL: https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/ Comments URL: https://news.ycombinator.com/item?id=50640490 Points: 3 # Comments: 0",
-      "date": "2026-11-25T09:54:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "link": "https://www.bbc.com/news/articles/cv702rw7dzx5o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cv702rw7dzx5o Comments URL: https://news.ycombinator.com/item?id=50640408 Points: 1 # Comments: 1",
-      "date": "2026-11-25T09:43:22+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "PicPose: AI Photo Prompts",
-      "link": "https://play.google.com/store/apps/details?id=com.picpose.bestphotographyapp&hl=en_US",
-      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.picpose.bestphotographyapp&hl=en_US Comments URL: https://news.ycombinator.com/item?id=50640338 Points: 1 # Comments: 0",
-      "date": "2026-11-25T09:32:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
       "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
       "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory,",
       "date": "2026-11-25T09:30:54+00:00",
       "image": "",
       "source": "ScienceDaily AI"
-    },
-    {
-      "title": "SoftBank market value halves from peak as AI fears grow",
-      "link": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
-      "summary": "Article URL: https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/ Comments URL: https://news.ycombinator.com/item?id=50640314 Points: 4 # Comments: 0",
-      "date": "2026-11-25T09:29:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
-      "link": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
-      "summary": "Article URL: https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/ Comments URL: https://news.ycombinator.com/item?id=50640178 Points: 1 # Comments: 0",
-      "date": "2026-11-25T09:09:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
-      "link": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
-      "summary": "Article URL: https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big Comments URL: https://news.ycombinator.com/item?id=50640173 Points: 7 # Comments: 1",
-      "date": "2026-11-25T09:07:21+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
@@ -1522,6 +1514,14 @@
       "date": "2026-11-23T19:11:40+00:00",
       "image": "",
       "source": "MarkTechPost"
+    },
+    {
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "date": "2026-11-23T18:12:22+00:00",
+      "image": "",
+      "source": "TechCrunch AI"
     },
     {
       "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
