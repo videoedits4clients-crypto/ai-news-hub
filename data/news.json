@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:51:05.737163+00:00",
+  "updated": "2026-11-25T02:05:52.117810+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -92,27 +92,6 @@
           "source": "Wired AI",
           "title": "Jensen Huang Is Back as Nvidia CEO",
           "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
-      "date": "2026-11-24T21:02:27+00:00",
-      "sources": [
-        "Hacker News AI",
-        "Wired AI"
-      ],
-      "links": [
-        {
-          "source": "Hacker News AI",
-          "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
-          "link": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb"
-        },
-        {
-          "source": "Wired AI",
-          "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-          "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
         }
       ]
     },
@@ -222,6 +201,30 @@
   ],
   "items": [
     {
+      "title": "AI Engineer Code Summit 2026",
+      "link": "https://ai.engineer/code/2026",
+      "summary": "Article URL: https://ai.engineer/code/2026 Comments URL: https://news.ycombinator.com/item?id=50637465 Points: 1 # Comments: 0",
+      "date": "2026-11-25T02:01:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
+      "link": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596",
+      "summary": "Article URL: https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596 Comments URL: https://news.ycombinator.com/item?id=50637437 Points: 3 # Comments: 0",
+      "date": "2026-11-25T01:58:54+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "I have not seen my patients improve with AI [video]",
+      "link": "https://www.youtube.com/shorts/pIKXjg6ak4U",
+      "summary": "Article URL: https://www.youtube.com/shorts/pIKXjg6ak4U Comments URL: https://news.ycombinator.com/item?id=50637397 Points: 1 # Comments: 0",
+      "date": "2026-11-25T01:51:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "RL Infrastructure at Microsoft AI",
       "link": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
       "summary": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50637350 Points: 1 # Comments: 0",
@@ -232,7 +235,7 @@
     {
       "title": "AI employees sound alarm: models too powerful to ever release",
       "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-      "summary": "Article URL: https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks Comments URL: https://news.ycombinator.com/item?id=50637321 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks Comments URL: https://news.ycombinator.com/item?id=50637321 Points: 5 # Comments: 2",
       "date": "2026-11-25T01:37:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -598,22 +601,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Analyzing Generative AI Use Cases in YouTube Content Creation",
-      "link": "https://arxiv.org/abs/2503.03134",
-      "summary": "Article URL: https://arxiv.org/abs/2503.03134 Comments URL: https://news.ycombinator.com/item?id=50634678 Points: 1 # Comments: 0",
-      "date": "2026-11-24T21:03:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
-      "link": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb Comments URL: https://news.ycombinator.com/item?id=50634660 Points: 2 # Comments: 0",
-      "date": "2026-11-24T21:02:27+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
       "summary": "Experts from around the world plot the progress of AI development every five years.",
@@ -636,14 +623,6 @@
       "date": "2026-11-24T20:52:19+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Show HN: ModelXare – Decentralized AI Models",
-      "link": "https://www.modelxare.com/",
-      "summary": "I have been exploring a different future for AI where we can finally take control of our models and keep our data 100% private. I built modelXare with the goal of creating the DNS-equivalent for AI capabilities. It uses a combination of system one and system two models to dynamic",
-      "date": "2026-11-24T20:49:44+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
@@ -1815,7 +1794,7 @@
     },
     {
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
       "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
       "date": "2026-11-21T01:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
