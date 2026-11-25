@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T14:50:39.694507+00:00",
+  "updated": "2026-11-25T15:07:03.489182+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,14 @@
   ],
   "items": [
     {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/ Comments URL: https://news.ycombinator.com/item?id=50642880 Points: 1 # Comments: 1",
+      "date": "2026-11-25T14:50:17+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "New site showing all open AI training gigs in one place",
       "link": "https://alphindex.com",
       "summary": "Article URL: https://alphindex.com Comments URL: https://news.ycombinator.com/item?id=50642812 Points: 1 # Comments: 1",
@@ -252,6 +260,14 @@
       "source": "Hacker News AI"
     },
     {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the",
+      "date": "2026-11-25T14:12:33+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "AI Interns for lawyers is a better term that AI employees",
       "link": "https://news.ycombinator.com/item?id=50642485",
       "summary": "Comments URL: https://news.ycombinator.com/item?id=50642485 Points: 1 # Comments: 1",
@@ -286,7 +302,7 @@
     {
       "title": "EA uses AI and archival audio to revive John Motson in EA Sports FC 27",
       "link": "https://www.bbc.com/news/articles/c65y10j841jpo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c65y10j841jpo Comments URL: https://news.ycombinator.com/item?id=50642379 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c65y10j841jpo Comments URL: https://news.ycombinator.com/item?id=50642379 Points: 4 # Comments: 0",
       "date": "2026-11-25T13:59:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -448,14 +464,6 @@
       "link": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
       "summary": "Article URL: https://github.com/bilalnaseer/wsp-wordpress-mcp Comments URL: https://news.ycombinator.com/item?id=50641578 Points: 1 # Comments: 0",
       "date": "2026-11-25T12:37:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: DuckDB client side AI spreadsheet",
-      "link": "https://plexisai.vercel.app/",
-      "summary": "hey everyone really want a feedback hey guys i built an ai powered data intelligence called plexis here you can upload your dataset , analyze it with plain english and view the charts , spreadsheet try it now really want a feedback Comments URL: https://news.ycombinator.com/item?",
-      "date": "2026-11-25T12:29:29+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1180,14 +1188,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "date": "2026-11-24T12:30:05+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
       "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
       "link": "https://spectrum.ieee.org/swahili-speech-recognition",
       "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher reports a 3.24 percent word-error rate on recordings from Mo",
@@ -1482,14 +1482,6 @@
       "date": "2026-11-23T21:20:00+00:00",
       "image": "",
       "source": "OpenAI News"
-    },
-    {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
-      "date": "2026-11-23T21:09:37+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
@@ -3378,6 +3370,14 @@
       "date": "2026-10-14T16:14:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
       "source": "Google Research"
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "date": "2026-10-14T02:00:14+00:00",
+      "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind"
     }
   ]
 }
