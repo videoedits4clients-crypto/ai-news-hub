@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:06:36.590006+00:00",
+  "updated": "2026-11-26T03:21:10.406594+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -72,7 +72,7 @@
     {
       "count": 2,
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-      "date": "2026-11-26T02:15:51+00:00",
+      "date": "2026-11-26T03:13:43+00:00",
       "sources": [
         "CNBC Technology",
         "Wired AI"
@@ -175,6 +175,22 @@
   ],
   "items": [
     {
+      "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in Comments URL: https://news.ycombinator.com/item?id=50650979 Points: 3 # Comments: 0",
+      "date": "2026-11-26T03:13:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "date": "2026-11-26T03:13:43+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
       "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
       "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
@@ -205,14 +221,6 @@
       "date": "2026-11-26T02:25:23+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-      "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
-      "date": "2026-11-26T02:15:51+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
@@ -401,7 +409,7 @@
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 229 # Comments: 186",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 236 # Comments: 190",
       "date": "2026-11-25T21:18:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -445,14 +453,6 @@
       "date": "2026-11-25T21:00:08+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "CLI for AI agents to access health data natively",
-      "link": "https://news.ycombinator.com/item?id=50647009",
-      "summary": "I wrote a tool that makes it easy for your agent to pull sleep data from Oura and Eight Sleep: https://github.com/adityapidaparti/somno-cli And one for agents to write to cronometer: https://github.com/adityapidaparti/crono Comments URL: https://news.ycombinator.com/item?id=50647",
-      "date": "2026-11-25T20:22:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
