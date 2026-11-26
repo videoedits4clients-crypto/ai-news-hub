@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:05:51.182347+00:00",
+  "updated": "2026-11-26T11:21:04.792711+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -71,6 +71,27 @@
           "source": "Simon Willison",
           "title": "datasette-arrows 0.1a0",
           "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "date": "2026-11-26T09:54:40+00:00",
+      "sources": [
+        "TechCrunch AI",
+        "The Verge AI"
+      ],
+      "links": [
+        {
+          "source": "The Verge AI",
+          "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
         }
       ]
     },
@@ -201,6 +222,14 @@
   ],
   "items": [
     {
+      "title": "Show HN: Workbench for making CAD parts with Claude/AI coding agent",
+      "link": "https://github.com/luisg0nc/torno",
+      "summary": "Article URL: https://github.com/luisg0nc/torno Comments URL: https://news.ycombinator.com/item?id=50654014 Points: 1 # Comments: 0",
+      "date": "2026-11-26T11:10:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
       "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
       "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
@@ -233,6 +262,14 @@
       "source": "The Guardian AI"
     },
     {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private cha",
+      "date": "2026-11-26T09:54:40+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
       "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
       "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
@@ -243,7 +280,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 6 # Comments: 0",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 24 # Comments: 5",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -275,7 +312,7 @@
     {
       "title": "On trusting AI decisions without understanding them",
       "link": "https://michelenasti.com/2026/confusion-and-rejection-about-ai/",
-      "summary": "Article URL: https://michelenasti.com/2026/confusion-and-rejection-about-ai/ Comments URL: https://news.ycombinator.com/item?id=50653038 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://michelenasti.com/2026/confusion-and-rejection-about-ai/ Comments URL: https://news.ycombinator.com/item?id=50653038 Points: 4 # Comments: 0",
       "date": "2026-11-26T08:41:38+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -525,14 +562,6 @@
       "link": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
       "summary": "Article URL: https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write Comments URL: https://news.ycombinator.com/item?id=50650653 Points: 1 # Comments: 0",
       "date": "2026-11-26T02:25:23+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The State of Agentic AI: Shit with Good Formatting",
-      "link": "https://github.com/kbr-/shit-with-good-formatting",
-      "summary": "Article URL: https://github.com/kbr-/shit-with-good-formatting Comments URL: https://news.ycombinator.com/item?id=50650338 Points: 1 # Comments: 2",
-      "date": "2026-11-26T01:44:39+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1255,14 +1284,6 @@
       "date": "2026-11-24T16:53:59+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders",
-      "date": "2026-11-24T16:52:41+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
