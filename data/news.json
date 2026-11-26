@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:36:25.921677+00:00",
+  "updated": "2026-11-26T17:51:05.356851+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,22 @@
   ],
   "items": [
     {
+      "title": "Physicist Uses AI to Tackle Quantum Gravity",
+      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50657658 Points: 1 # Comments: 0",
+      "date": "2026-11-26T17:50:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "What a rule-based checker found in 561 public projects, mostly AI-built",
+      "link": "https://lintsure.com/research/561-projects",
+      "summary": "Article URL: https://lintsure.com/research/561-projects Comments URL: https://news.ycombinator.com/item?id=50657555 Points: 1 # Comments: 0",
+      "date": "2026-11-26T17:38:58+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "The Trap of Understanding: Why AI Cannot Be Regulated Like Oil",
       "link": "https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2",
       "summary": "Article URL: https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2 Comments URL: https://news.ycombinator.com/item?id=50657491 Points: 1 # Comments: 0",
@@ -198,7 +214,7 @@
     {
       "title": "'AI' might be the end of our careers",
       "link": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50657452 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50657452 Points: 5 # Comments: 2",
       "date": "2026-11-26T17:29:28+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -214,7 +230,7 @@
     {
       "title": "Tracking Diseases Cured by AI",
       "link": "https://diseasescuredbyai.com/",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 5 # Comments: 1",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 7 # Comments: 2",
       "date": "2026-11-26T17:16:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -396,20 +412,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI leader at a tech giant: Our industry has stopped taking safety seriously",
+      "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
-      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit Comments URL: https://news.ycombinator.com/item?id=50655766 Points: 6 # Comments: 0",
-      "date": "2026-11-26T14:35:39+00:00",
+      "summary": "We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit I’m a senior AI leader at one of the world’s biggest tech companies, and the products we put out into the world are increasingly being recklessly ",
+      "date": "2026-11-26T14:06:10+00:00",
       "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Python scripts for 59-shot AI video face-lock, iris-lock, and lip-sync",
-      "link": "https://github.com/andrewfallan-alt/ai-music-video-continuity",
-      "summary": "Article URL: https://github.com/andrewfallan-alt/ai-music-video-continuity Comments URL: https://news.ycombinator.com/item?id=50655725 Points: 2 # Comments: 0",
-      "date": "2026-11-26T14:33:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
+      "source": "The Guardian AI"
     },
     {
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
@@ -3370,14 +3378,6 @@
       "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement t",
-      "date": "2026-10-13T09:47:22+00:00",
-      "image": "",
-      "source": "ScienceDaily AI"
     }
   ]
 }
