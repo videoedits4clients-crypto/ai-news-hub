@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:50:27.150019+00:00",
+  "updated": "2026-11-26T03:06:36.590006+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -70,9 +70,9 @@
       ]
     },
     {
-      "count": 3,
-      "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-      "date": "2026-11-24T15:03:36+00:00",
+      "count": 2,
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "date": "2026-11-26T02:15:51+00:00",
       "sources": [
         "CNBC Technology",
         "Wired AI"
@@ -80,13 +80,8 @@
       "links": [
         {
           "source": "CNBC Technology",
-          "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html"
-        },
-        {
-          "source": "Wired AI",
-          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-          "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
+          "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+          "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
         },
         {
           "source": "Wired AI",
@@ -198,7 +193,7 @@
     {
       "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
       "link": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
-      "summary": "Article URL: https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars Comments URL: https://news.ycombinator.com/item?id=50650667 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars Comments URL: https://news.ycombinator.com/item?id=50650667 Points: 2 # Comments: 1",
       "date": "2026-11-26T02:28:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -210,6 +205,14 @@
       "date": "2026-11-26T02:25:23+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "date": "2026-11-26T02:15:51+00:00",
+      "image": "",
+      "source": "CNBC Technology"
     },
     {
       "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
@@ -398,7 +401,7 @@
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 214 # Comments: 174",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 229 # Comments: 186",
       "date": "2026-11-25T21:18:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1242,14 +1245,6 @@
       "date": "2026-11-24T15:35:01+00:00",
       "image": "",
       "source": "The Verge AI"
-    },
-    {
-      "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-      "summary": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
-      "date": "2026-11-24T15:03:36+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "I Built a Bayesian Neural Network From One Neuron and Football Shots",
