@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:05:54.512686+00:00",
+  "updated": "2026-11-26T14:20:24.494865+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -200,6 +200,22 @@
     }
   ],
   "items": [
+    {
+      "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+      "summary": "We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit I’m a senior AI leader at one of the world’s biggest tech companies, and the products we put out into the world are increasingly being recklessly ",
+      "date": "2026-11-26T14:06:10+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Am",
+      "date": "2026-11-26T14:00:22+00:00",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg",
+      "source": "NVIDIA Blog"
+    },
     {
       "title": "Shuffle the Questions to Catch an LLM That Memorized Its Benchmark",
       "link": "https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/",
@@ -809,14 +825,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
-      "link": "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024",
-      "summary": "Criminal masterminds claimed to work for ‘Weihua’ or to have source code from ‘oscic’ instead of Cisco",
-      "date": "2026-11-25T06:16:02+00:00",
-      "image": "https://image.theregister.com/?imageId=5312029&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
       "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
       "summary": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
@@ -1189,14 +1197,6 @@
       "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
       "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Me",
       "date": "2026-11-24T14:36:32+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
-      "link": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
-      "summary": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEO Zohran Mamdani , New York City ’s mayor, on Monday weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang , sa",
-      "date": "2026-11-24T14:22:17+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
@@ -2617,14 +2617,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-      "date": "2026-11-11T03:00:20+00:00",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
-      "source": "NVIDIA Blog"
-    },
-    {
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "link": "https://huggingface.co/blog/token-pooling",
       "summary": "",
@@ -3399,6 +3391,14 @@
       "date": "2026-09-24T19:40:00+00:00",
       "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
       "source": "Google Research"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "image": "",
+      "source": "Google DeepMind"
     }
   ]
 }
