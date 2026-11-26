@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:50:53.373468+00:00",
+  "updated": "2026-11-26T13:06:26.437998+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,30 @@
   ],
   "items": [
     {
+      "title": "What broke in 27 days of running a team of AI agents on real work",
+      "link": "https://ethanflow.com/writing/what-broke-ai-agent-team/",
+      "summary": "Article URL: https://ethanflow.com/writing/what-broke-ai-agent-team/ Comments URL: https://news.ycombinator.com/item?id=50654863 Points: 1 # Comments: 0",
+      "date": "2026-11-26T13:01:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Writing software with AI made me love my wife even more",
+      "link": "https://blog.greg.technology/2026/11/25/writing-software-with-AI-made-me-love-my-wife-even-more.html",
+      "summary": "Article URL: https://blog.greg.technology/2026/11/25/writing-software-with-AI-made-me-love-my-wife-even-more.html Comments URL: https://news.ycombinator.com/item?id=50654814 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:57:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+      "link": "https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/",
+      "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=50654805 Points: 2 # Comments: 0",
+      "date": "2026-11-26T12:56:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "The \"Godfather of AI\" on the Risks That Worry Him Most [video]",
       "link": "https://www.youtube.com/watch?v=L8HdlknRkA4",
       "summary": "Article URL: https://www.youtube.com/watch?v=L8HdlknRkA4 Comments URL: https://news.ycombinator.com/item?id=50654743 Points: 1 # Comments: 0",
@@ -211,7 +235,7 @@
     {
       "title": "AI-Driven Shortages in Basic PCB Components Could Be Worse Than 2021 Chip Crisis",
       "link": "https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677",
-      "summary": "Article URL: https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677 Comments URL: https://news.ycombinator.com/item?id=50654678 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677 Comments URL: https://news.ycombinator.com/item?id=50654678 Points: 2 # Comments: 0",
       "date": "2026-11-26T12:41:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -371,7 +395,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 74 # Comments: 62",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 75 # Comments: 70",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -513,36 +537,12 @@
       "source": "Simon Willison"
     },
     {
-      "title": "AI Is Supercharging Your Top Students and Probably Harming the Rest",
-      "link": "https://www.edutopia.org/article/does-ai-help-students-learn/",
-      "summary": "Article URL: https://www.edutopia.org/article/does-ai-help-students-learn/ Comments URL: https://news.ycombinator.com/item?id=50651977 Points: 3 # Comments: 1",
-      "date": "2026-11-26T05:58:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "How can people make money as AI replaces intellectual jobs?",
-      "link": "https://news.ycombinator.com/item?id=50651911",
-      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 14 # Comments: 6",
-      "date": "2026-11-26T05:46:33+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
       "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
       "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
       "date": "2026-11-26T05:36:01+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Precisely.ai Catalog – AI Studio Catalog of App, Agent, Skill and Server",
-      "link": "https://precisely.ai/explore",
-      "summary": "Article URL: https://precisely.ai/explore Comments URL: https://news.ycombinator.com/item?id=50651693 Points: 1 # Comments: 0",
-      "date": "2026-11-26T05:09:51+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -583,6 +583,14 @@
       "date": "2026-11-26T02:35:39+00:00",
       "image": "",
       "source": "CNBC Technology"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "summary": "",
+      "date": "2026-11-26T00:00:00+00:00",
+      "image": "",
+      "source": "Hugging Face"
     },
     {
       "title": "Quoting Scott Aaronson",
@@ -3047,14 +3055,6 @@
       "date": "2026-11-03T14:30:02+00:00",
       "image": "https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=980",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "link": "https://huggingface.co/blog/cwe-bench",
-      "summary": "",
-      "date": "2026-11-03T00:00:00+00:00",
-      "image": "",
-      "source": "Hugging Face"
     },
     {
       "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
