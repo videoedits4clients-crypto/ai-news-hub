@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:36:28.235297+00:00",
+  "updated": "2026-11-26T04:51:04.648498+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -41,12 +41,17 @@
   "trending": [
     {
       "count": 4,
-      "title": "datasette-charts 0.2a0",
-      "date": "2026-11-24T04:24:29+00:00",
+      "title": "datasette-charts 0.2a1",
+      "date": "2026-11-24T06:07:19+00:00",
       "sources": [
         "Simon Willison"
       ],
       "links": [
+        {
+          "source": "Simon Willison",
+          "title": "datasette-charts 0.2a1",
+          "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/"
+        },
         {
           "source": "Simon Willison",
           "title": "datasette-charts 0.2a0",
@@ -61,11 +66,6 @@
           "source": "Simon Willison",
           "title": "datasette-arrows 0.1a0",
           "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
-        },
-        {
-          "source": "Simon Willison",
-          "title": "datasette-maplibre 0.1a0",
-          "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
         }
       ]
     },
@@ -174,6 +174,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/ Comments URL: https://news.ycombinator.com/item?id=50651535 Points: 1 # Comments: 0",
+      "date": "2026-11-26T04:46:50+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Hush, computer use for AI agents that runs in the background",
+      "link": "https://github.com/OgnjenAdzic28/hush",
+      "summary": "Article URL: https://github.com/OgnjenAdzic28/hush Comments URL: https://news.ycombinator.com/item?id=50651523 Points: 1 # Comments: 0",
+      "date": "2026-11-26T04:45:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+      "link": "https://gameautoresearch.github.io/",
+      "summary": "Article URL: https://gameautoresearch.github.io/ Comments URL: https://news.ycombinator.com/item?id=50651501 Points: 1 # Comments: 0",
+      "date": "2026-11-26T04:42:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Talira – Search engine for software, built for AI agents",
+      "link": "https://talira.ai/",
+      "summary": "Hi HN, I'm Nathan. I wanted to share a project that I've been working on this month. A few weeks ago, my Rust target folders had grown to about 70 GB across many git worktrees, and I asked Claude to figure out how to stop that from happening. It couldn't find much online, so we s",
+      "date": "2026-11-26T04:37:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -415,44 +447,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 261 # Comments: 220",
-      "date": "2026-11-25T21:18:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI is 'the end of mathematics as we know it' – where does the field go next?",
-      "link": "https://www.nature.com/articles/d41586-026-03719-3",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03719-3 Comments URL: https://news.ycombinator.com/item?id=50647659 Points: 3 # Comments: 3",
-      "date": "2026-11-25T21:16:52+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Threat Modeling Azure MCP: Securing AI-Assisted Infrastructure Operations",
-      "link": "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/threat-modeling-azure-mcp-securing-ai-assisted-infrastructure-operations/4564892",
-      "summary": "Article URL: https://techcommunity.microsoft.com/blog/azureinfrastructureblog/threat-modeling-azure-mcp-securing-ai-assisted-infrastructure-operations/4564892 Comments URL: https://news.ycombinator.com/item?id=50647599 Points: 1 # Comments: 0",
-      "date": "2026-11-25T21:11:13+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
       "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
       "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
       "date": "2026-11-25T21:04:57+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "AI Chief of Staff",
-      "link": "https://airbots.ai/",
-      "summary": "Article URL: https://airbots.ai/ Comments URL: https://news.ycombinator.com/item?id=50647456 Points: 5 # Comments: 1",
-      "date": "2026-11-25T21:00:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
@@ -1175,6 +1175,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders",
+      "date": "2026-11-24T16:52:41+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
       "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
       "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
@@ -1327,14 +1335,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "date": "2026-11-24T12:30:05+00:00",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
-      "source": "Ars Technica AI"
-    },
-    {
       "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
       "link": "https://spectrum.ieee.org/swahili-speech-recognition",
       "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher reports a 3.24 percent word-error rate on recordings from Mo",
@@ -1389,6 +1389,14 @@
       "date": "2026-11-24T09:33:00+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/7721db50-e819-11f1-a094-5fdc692f3e33.jpg",
       "source": "BBC Technology"
+    },
+    {
+      "title": "datasette-charts 0.2a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "summary": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country =",
+      "date": "2026-11-24T06:07:19+00:00",
+      "image": "",
+      "source": "Simon Willison"
     },
     {
       "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
@@ -2581,14 +2589,6 @@
       "date": "2026-11-16T00:00:00+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "datasette-maplibre 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a",
-      "date": "2026-11-15T23:58:36+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "AI discovers a hidden heart signal that could predict sudden death",
