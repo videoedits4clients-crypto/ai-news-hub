@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:36:27.350538+00:00",
+  "updated": "2026-11-26T11:51:12.097458+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,22 @@
   ],
   "items": [
     {
+      "title": "UK government working 'around the clock' on Capita contingency plans",
+      "link": "https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298",
+      "summary": "Minister says outsourcer should be 'absolutely ashamed' of pensions failures after CEO exits and shares plunge",
+      "date": "2026-11-26T11:45:00+00:00",
+      "image": "https://image.theregister.com/?imageId=230531&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "summary": "",
+      "date": "2026-11-26T11:37:17+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
+    {
       "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
       "link": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
       "summary": "Are you worried about staff connecting their digital assistants to work emails and databases? What steps are you taking to address this? Meta has rolled out its Muse AI assistant, which can be tasked with shopping, booking tickets and carrying out negotiations on a user’s behalf,",
@@ -267,7 +283,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 30 # Comments: 20",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 45 # Comments: 30",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1159,14 +1175,6 @@
       "date": "2026-11-24T21:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
-      "summary": "‘It’s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma,’ he says",
-      "date": "2026-11-24T20:57:08+00:00",
-      "image": "https://image.theregister.com/?imageId=5310808&width=800",
-      "source": "The Register"
     },
     {
       "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -2647,14 +2655,6 @@
       "date": "2026-11-13T17:00:39+00:00",
       "image": "",
       "source": "Meta AI Engineering"
-    },
-    {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "summary": "",
-      "date": "2026-11-13T14:05:22+00:00",
-      "image": "",
-      "source": "Hugging Face"
     },
     {
       "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
