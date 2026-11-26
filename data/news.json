@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T01:36:44.371179+00:00",
+  "updated": "2026-11-26T01:50:55.859138+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,20 +180,36 @@
   ],
   "items": [
     {
+      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "summary": "Japan's Nikkei 225 rose 1.21% in early trade, while the Topix edged 0.71% higher. Australia's S&P/ASX 200 was up 0.15%.",
+      "date": "2026-11-26T01:45:52+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "The State of Agentic AI: Shit with Good Formatting",
+      "link": "https://github.com/kbr-/shit-with-good-formatting",
+      "summary": "Article URL: https://github.com/kbr-/shit-with-good-formatting Comments URL: https://news.ycombinator.com/item?id=50650338 Points: 1 # Comments: 1",
+      "date": "2026-11-26T01:44:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
+      "link": "https://wordspies.com/daily",
+      "summary": "Each day an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards you see its reasoning, and where it overestimated what a human would get. Free, no sign-up to play. Comments URL: https://news.ycombinator.com/item?id=50650316 Points: 1 ",
+      "date": "2026-11-26T01:42:07+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "M Science – AI-Ready Market Intelligence",
       "link": "https://mscience.com/",
       "summary": "Article URL: https://mscience.com/ Comments URL: https://news.ycombinator.com/item?id=50650180 Points: 1 # Comments: 0",
       "date": "2026-11-26T01:22:28+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "South Korea's Kospi leads as Asia markets track Wall Street gains",
-      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "summary": "Japan's Nikkei 225 rose 1.21% in early trade, while the Topix edged 0.71% higher. Australia's S&P/ASX 200 was up 0.15%.",
-      "date": "2026-11-26T01:14:25+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Can AI break public key cryptography before Quantum Computers?",
@@ -262,7 +278,7 @@
     {
       "title": "RL Infrastructure at Microsoft AI",
       "link": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
-      "summary": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50649024 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50649024 Points: 3 # Comments: 0",
       "date": "2026-11-25T23:14:36+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -286,7 +302,7 @@
     {
       "title": "Etsy clarifies AI terms after seller backlash",
       "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/ Comments URL: https://news.ycombinator.com/item?id=50648587 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/ Comments URL: https://news.ycombinator.com/item?id=50648587 Points: 3 # Comments: 0",
       "date": "2026-11-25T22:33:06+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -310,7 +326,7 @@
     {
       "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
       "link": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
-      "summary": "Article URL: https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50648309 Points: 3 # Comments: 0",
+      "summary": "Article URL: https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50648309 Points: 4 # Comments: 0",
       "date": "2026-11-25T22:10:53+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -342,7 +358,7 @@
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 197 # Comments: 139",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 198 # Comments: 149",
       "date": "2026-11-25T21:18:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -466,22 +482,6 @@
       "date": "2026-11-25T18:52:55+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "AI vs. AI Pickleball: One Model Scored 0 Points",
-      "link": "https://pixelpickleball.com/blog/",
-      "summary": "Article URL: https://pixelpickleball.com/blog/ Comments URL: https://news.ycombinator.com/item?id=50645884 Points: 1 # Comments: 0",
-      "date": "2026-11-25T18:48:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
-      "link": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3",
-      "summary": "Article URL: https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3 Comments URL: https://news.ycombinator.com/item?id=50645782 Points: 2 # Comments: 0",
-      "date": "2026-11-25T18:39:02+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
