@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:36:26.309526+00:00",
+  "updated": "2026-11-26T12:50:53.373468+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,9 +201,41 @@
   ],
   "items": [
     {
+      "title": "The \"Godfather of AI\" on the Risks That Worry Him Most [video]",
+      "link": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=L8HdlknRkA4 Comments URL: https://news.ycombinator.com/item?id=50654743 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:48:43+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI-Driven Shortages in Basic PCB Components Could Be Worse Than 2021 Chip Crisis",
+      "link": "https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677",
+      "summary": "Article URL: https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677 Comments URL: https://news.ycombinator.com/item?id=50654678 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:41:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Ask HN: What's your minimum criteria for a project to be low-AI or not vibecoded",
+      "link": "https://news.ycombinator.com/item?id=50654648",
+      "summary": "Let's assume we want to have a monthly thread for projects that are not vibe-coded or no/low-AI. Of course this filter cannot be actually enforced, and maybe very few projects are totally without any use of AI (even research could count as AI use). But if devs want to give a hone",
+      "date": "2026-11-26T12:39:15+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Capita CEO goodbye message talks up tech transformation, but AI failure is his",
+      "link": "https://www.computerweekly.com/news/366655349/Capita-CEO-goodbye-message-talks-up-tech-transformation-but-AI-failure-is-his-legacy",
+      "summary": "Article URL: https://www.computerweekly.com/news/366655349/Capita-CEO-goodbye-message-talks-up-tech-transformation-but-AI-failure-is-his-legacy Comments URL: https://news.ycombinator.com/item?id=50654607 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:33:12+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI Isn't Overhyped",
       "link": "https://thehundredtheye.com/ai-isnt-overhyped/",
-      "summary": "Article URL: https://thehundredtheye.com/ai-isnt-overhyped/ Comments URL: https://news.ycombinator.com/item?id=50654585 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://thehundredtheye.com/ai-isnt-overhyped/ Comments URL: https://news.ycombinator.com/item?id=50654585 Points: 2 # Comments: 0",
       "date": "2026-11-26T12:30:02+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -243,7 +275,7 @@
     {
       "title": "Putting Sixta to the Test: AI-Assisted MySQL Troubleshooting with PMM",
       "link": "https://www.percona.com/blog/putting-sixta-to-the-test-ai-assisted-mysql-troubleshooting-with-pmm/",
-      "summary": "Article URL: https://www.percona.com/blog/putting-sixta-to-the-test-ai-assisted-mysql-troubleshooting-with-pmm/ Comments URL: https://news.ycombinator.com/item?id=50654488 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.percona.com/blog/putting-sixta-to-the-test-ai-assisted-mysql-troubleshooting-with-pmm/ Comments URL: https://news.ycombinator.com/item?id=50654488 Points: 4 # Comments: 0",
       "date": "2026-11-26T12:18:35+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -339,7 +371,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 70 # Comments: 58",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 74 # Comments: 62",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -519,38 +551,6 @@
       "date": "2026-11-26T05:05:36+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "I Learned to Stop Worrying and Love the AI",
-      "link": "https://news.ycombinator.com/item?id=50651635",
-      "summary": "A few years ago talking heads and AM radio personalities went cookoo over AI. The warnings were replete with assertations of total destruction. I blew them off as doomsdayesque viewer/listener headline/listener bastards that saw dollar signs in words. Assuredly, they completely m",
-      "date": "2026-11-26T05:01:25+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/ Comments URL: https://news.ycombinator.com/item?id=50651535 Points: 2 # Comments: 0",
-      "date": "2026-11-26T04:46:50+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Hush, the fastest computer use for AI agents",
-      "link": "https://github.com/OgnjenAdzic28/hush",
-      "summary": "Article URL: https://github.com/OgnjenAdzic28/hush Comments URL: https://news.ycombinator.com/item?id=50651523 Points: 3 # Comments: 0",
-      "date": "2026-11-26T04:45:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
-      "link": "https://gameautoresearch.github.io/",
-      "summary": "Article URL: https://gameautoresearch.github.io/ Comments URL: https://news.ycombinator.com/item?id=50651501 Points: 2 # Comments: 0",
-      "date": "2026-11-26T04:42:59+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "India’s government ponders cradle to grave AI oversight",
@@ -1399,6 +1399,14 @@
       "date": "2026-11-24T13:00:00+00:00",
       "image": "",
       "source": "OpenAI News"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "date": "2026-11-24T12:30:05+00:00",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "source": "Ars Technica AI"
     },
     {
       "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
@@ -3389,14 +3397,6 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "summary": "",
       "date": "2026-10-13T16:01:58+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
