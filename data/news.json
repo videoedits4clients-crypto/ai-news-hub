@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:06:26.437998+00:00",
+  "updated": "2026-11-26T13:21:03.768024+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -71,27 +71,6 @@
           "source": "Simon Willison",
           "title": "datasette-arrows 0.1a0",
           "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
-        }
-      ]
-    },
-    {
-      "count": 2,
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "date": "2026-11-26T09:54:40+00:00",
-      "sources": [
-        "TechCrunch AI",
-        "The Verge AI"
-      ],
-      "links": [
-        {
-          "source": "The Verge AI",
-          "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
-        },
-        {
-          "source": "TechCrunch AI",
-          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
         }
       ]
     },
@@ -201,9 +180,33 @@
   ],
   "items": [
     {
+      "title": "Stale links on UK public sector websites direct visitors to gambling dens",
+      "link": "https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049",
+      "summary": "Consultancy finds 93 routes to casino promotions across 26 orgs, with defunct enterprise partnership domains repurposed",
+      "date": "2026-11-26T13:15:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5296669&width=800",
+      "source": "The Register"
+    },
+    {
+      "title": "What do Americans want? Their thoughts on AI are so confusing",
+      "link": "https://news.ycombinator.com/item?id=50654961",
+      "summary": "For about the past six months, I feel that American society's views on AI have already fallen into a state of chaos. People say AI valuations are a bubble, AI can't produce effective productivity, AI companies aren't worth that much money, AI data centers are a waste of resources",
+      "date": "2026-11-26T13:11:32+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "How big industrial scale abuse of AI free trial in Indonesia?",
+      "link": "https://finance.yahoo.com/video/why-one-startup-banned-indonesia-030051121.html",
+      "summary": "Article URL: https://finance.yahoo.com/video/why-one-startup-banned-indonesia-030051121.html Comments URL: https://news.ycombinator.com/item?id=50654888 Points: 1 # Comments: 0",
+      "date": "2026-11-26T13:04:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "What broke in 27 days of running a team of AI agents on real work",
       "link": "https://ethanflow.com/writing/what-broke-ai-agent-team/",
-      "summary": "Article URL: https://ethanflow.com/writing/what-broke-ai-agent-team/ Comments URL: https://news.ycombinator.com/item?id=50654863 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://ethanflow.com/writing/what-broke-ai-agent-team/ Comments URL: https://news.ycombinator.com/item?id=50654863 Points: 2 # Comments: 0",
       "date": "2026-11-26T13:01:32+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -219,7 +222,7 @@
     {
       "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
       "link": "https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/",
-      "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=50654805 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=50654805 Points: 3 # Comments: 0",
       "date": "2026-11-26T12:56:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -263,14 +266,6 @@
       "date": "2026-11-26T12:30:02+00:00",
       "image": "",
       "source": "Hacker News AI"
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
-      "date": "2026-11-26T12:29:18+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "\"AI\" Malware Analysis",
@@ -385,17 +380,9 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private cha",
-      "date": "2026-11-26T09:54:40+00:00",
-      "image": "",
-      "source": "The Verge AI"
-    },
-    {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 75 # Comments: 70",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 77 # Comments: 82",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -505,28 +492,12 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "AI Keeps Asking If It's Conscious [video]",
-      "link": "https://www.youtube.com/watch?v=ghxoAM5io18",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ghxoAM5io18 Comments URL: https://news.ycombinator.com/item?id=50652280 Points: 3 # Comments: 3",
-      "date": "2026-11-26T06:49:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
       "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
       "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
       "date": "2026-11-26T06:39:34+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "Audi integrates new app with AI assistant with Cerence AI and Microsoft",
-      "link": "https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450",
-      "summary": "Article URL: https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450 Comments URL: https://news.ycombinator.com/item?id=50652195 Points: 1 # Comments: 0",
-      "date": "2026-11-26T06:34:31+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -1025,14 +996,6 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Nutanix CEO announces gradual departure, intent to complete set of storage links",
-      "link": "https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010",
-      "summary": "Rajiv Ramaswami will stay in the chair until new hire lands, then stick around as advisor",
-      "date": "2026-11-25T03:13:13+00:00",
-      "image": "https://image.theregister.com/?imageId=226792&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
       "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
       "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
@@ -1297,6 +1260,14 @@
       "source": "Simon Willison"
     },
     {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders",
+      "date": "2026-11-24T16:52:41+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
       "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
       "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
       "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
@@ -1327,6 +1298,14 @@
       "date": "2026-11-24T16:25:57+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
+      "date": "2026-11-24T16:18:12+00:00",
+      "image": "",
+      "source": "The Verge AI"
     },
     {
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
