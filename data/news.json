@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T10:36:28.545061+00:00",
+  "updated": "2026-11-26T10:51:20.227437+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -222,6 +222,14 @@
   ],
   "items": [
     {
+      "title": "Show HN: Memora – self-hosted, file-first personal AI assistant",
+      "link": "https://github.com/lian84/memora",
+      "summary": "Article URL: https://github.com/lian84/memora Comments URL: https://news.ycombinator.com/item?id=50653773 Points: 1 # Comments: 0",
+      "date": "2026-11-26T10:31:06+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI Has Changed VulnCheck's Exploit Delivery",
       "link": "https://www.vulncheck.com/blog/ai-has-changed-vulncheck",
       "summary": "Article URL: https://www.vulncheck.com/blog/ai-has-changed-vulncheck Comments URL: https://news.ycombinator.com/item?id=50653604 Points: 1 # Comments: 0",
@@ -256,7 +264,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 6 # Comments: 0",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -408,7 +416,7 @@
     {
       "title": "How can people make money as AI replaces intellectual jobs?",
       "link": "https://news.ycombinator.com/item?id=50651911",
-      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 12 # Comments: 6",
+      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 13 # Comments: 6",
       "date": "2026-11-26T05:46:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -546,14 +554,6 @@
       "link": "https://github.com/kbr-/shit-with-good-formatting",
       "summary": "Article URL: https://github.com/kbr-/shit-with-good-formatting Comments URL: https://news.ycombinator.com/item?id=50650338 Points: 1 # Comments: 2",
       "date": "2026-11-26T01:44:39+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
-      "link": "https://wordspies.com/daily",
-      "summary": "Each day, an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards, you see how Claude Haiku and GPT Luna would've done on the same board. Free, no sign-up to play. Comments URL: https://news.ycombinator.com/item?id=50650316 Points: 1 #",
-      "date": "2026-11-26T01:42:07+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
