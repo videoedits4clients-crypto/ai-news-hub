@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:05:55.674783+00:00",
+  "updated": "2026-11-26T16:20:25.542017+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -716,14 +716,6 @@
       "source": "TechCrunch AI"
     },
     {
-      "title": "Amazon to flog motors in Britain, but Prime won't deliver",
-      "link": "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
-      "summary": "Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork",
-      "date": "2026-11-25T12:19:20+00:00",
-      "image": "https://image.theregister.com/?imageId=258277&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "AI may soon change what it means to be a theoretical physicist",
       "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
       "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
@@ -754,14 +746,6 @@
       "date": "2026-11-25T11:30:00+00:00",
       "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
-      "link": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
-      "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails",
-      "date": "2026-11-25T11:16:18+00:00",
-      "image": "https://image.theregister.com/?imageId=227789&width=800",
-      "source": "The Register"
     },
     {
       "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
@@ -3378,6 +3362,22 @@
       "date": "2026-09-24T16:20:39+00:00",
       "image": "",
       "source": "Google DeepMind"
+    },
+    {
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "link": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "image": "",
+      "source": "Last Week in AI"
+    },
+    {
+      "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+      "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+      "summary": "Podcast #19",
+      "date": "2026-09-22T13:37:45+00:00",
+      "image": "",
+      "source": "Interconnects"
     }
   ]
 }
