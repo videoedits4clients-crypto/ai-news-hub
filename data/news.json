@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T05:06:35.181813+00:00",
+  "updated": "2026-11-26T05:21:06.715777+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -179,6 +179,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "summary": "",
+      "date": "2026-11-26T05:05:36+00:00",
+      "image": "",
+      "source": "Hugging Face"
+    },
     {
       "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
       "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
@@ -1002,14 +1010,6 @@
       "date": "2026-11-24T16:46:00+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "summary": "",
-      "date": "2026-11-24T16:34:13+00:00",
-      "image": "",
-      "source": "Hugging Face"
     },
     {
       "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
