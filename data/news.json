@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:36:35.739791+00:00",
+  "updated": "2026-11-26T20:51:16.203494+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,14 @@
   ],
   "items": [
     {
+      "title": "Banks look to dump AI debt",
+      "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50659634 Points: 1 # Comments: 0",
+      "date": "2026-11-26T20:49:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Signs of AI Writing, Backed by Data",
       "link": "https://www.pangram.com/fr/signs-of-ai-writing",
       "summary": "Article URL: https://www.pangram.com/fr/signs-of-ai-writing Comments URL: https://news.ycombinator.com/item?id=50659381 Points: 1 # Comments: 0",
@@ -214,7 +222,7 @@
     {
       "title": "A Warning About AI to My Loved Ones",
       "link": "https://twitter.com/nikolaj2030/status/2125996744718565514",
-      "summary": "Article URL: https://twitter.com/nikolaj2030/status/2125996744718565514 Comments URL: https://news.ycombinator.com/item?id=50659016 Points: 6 # Comments: 1",
+      "summary": "Article URL: https://twitter.com/nikolaj2030/status/2125996744718565514 Comments URL: https://news.ycombinator.com/item?id=50659016 Points: 6 # Comments: 2",
       "date": "2026-11-26T19:54:56+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -310,7 +318,7 @@
     {
       "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
       "link": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
-      "summary": "Article URL: https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/ Comments URL: https://news.ycombinator.com/item?id=50657724 Points: 15 # Comments: 1",
+      "summary": "Article URL: https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/ Comments URL: https://news.ycombinator.com/item?id=50657724 Points: 16 # Comments: 1",
       "date": "2026-11-26T17:55:10+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -350,7 +358,7 @@
     {
       "title": "'AI' might be the end of our careers",
       "link": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50657452 Points: 22 # Comments: 27",
+      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50657452 Points: 22 # Comments: 28",
       "date": "2026-11-26T17:29:28+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -366,7 +374,7 @@
     {
       "title": "Tracking Diseases Cured by AI",
       "link": "https://diseasescuredbyai.com/",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 281 # Comments: 169",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 282 # Comments: 171",
       "date": "2026-11-26T17:16:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -3368,14 +3376,6 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
