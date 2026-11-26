@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:05:53.391879+00:00",
+  "updated": "2026-11-26T06:21:09.022889+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,30 @@
   ],
   "items": [
     {
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attrac",
+      "date": "2026-11-26T06:08:25+00:00",
+      "image": "",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "AI Is Supercharging Your Top Students and Probably Harming the Rest",
+      "link": "https://www.edutopia.org/article/does-ai-help-students-learn/",
+      "summary": "Article URL: https://www.edutopia.org/article/does-ai-help-students-learn/ Comments URL: https://news.ycombinator.com/item?id=50651977 Points: 2 # Comments: 1",
+      "date": "2026-11-26T05:58:37+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "How can people make money as AI replaces intellectual jobs?",
+      "link": "https://news.ycombinator.com/item?id=50651911",
+      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 10 # Comments: 4",
+      "date": "2026-11-26T05:46:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
       "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
       "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
@@ -230,7 +254,7 @@
     {
       "title": "Show HN: Hush, the fastest computer use for AI agents",
       "link": "https://github.com/OgnjenAdzic28/hush",
-      "summary": "Article URL: https://github.com/OgnjenAdzic28/hush Comments URL: https://news.ycombinator.com/item?id=50651523 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://github.com/OgnjenAdzic28/hush Comments URL: https://news.ycombinator.com/item?id=50651523 Points: 3 # Comments: 0",
       "date": "2026-11-26T04:45:29+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -250,6 +274,14 @@
       "date": "2026-11-26T04:37:30+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "India’s government ponders cradle to grave AI oversight",
+      "link": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
+      "summary": "Machines of loving grace to turn social media grumps into services, finger painting into career advice",
+      "date": "2026-11-26T03:42:56+00:00",
+      "image": "https://image.theregister.com/?imageId=5312280&width=800",
+      "source": "The Register"
     },
     {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
@@ -432,22 +464,6 @@
       "link": "https://www.youtube.com/watch?v=11EoBiBh5QY",
       "summary": "Article URL: https://www.youtube.com/watch?v=11EoBiBh5QY Comments URL: https://news.ycombinator.com/item?id=50648381 Points: 1 # Comments: 0",
       "date": "2026-11-25T22:16:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Load balancing across AI subscriptions",
-      "link": "https://news.ycombinator.com/item?id=50648330",
-      "summary": "Manually swapping among agents is a headache so I built this project to connect claude/antigravity/codex/grok agents together. Hope it helps! https://github.com/kevin1chun/schmear Comments URL: https://news.ycombinator.com/item?id=50648330 Points: 2 # Comments: 0",
-      "date": "2026-11-25T22:12:37+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
-      "link": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
-      "summary": "Article URL: https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50648309 Points: 4 # Comments: 0",
-      "date": "2026-11-25T22:10:53+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1177,14 +1193,6 @@
       "summary": "No sophisticated malware or attack framework required",
       "date": "2026-11-24T17:00:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311939&width=800",
-      "source": "The Register"
-    },
-    {
-      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
-      "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
-      "summary": "Meanwhile, Google's homepage demo leaves a familiar button out of the picture",
-      "date": "2026-11-24T17:00:00+00:00",
-      "image": "https://image.theregister.com/?imageId=255047&width=800",
       "source": "The Register"
     },
     {
@@ -2442,14 +2450,6 @@
       "date": "2026-11-17T11:00:04+00:00",
       "image": "https://assets.rbl.ms/68666627/origin.png",
       "source": "IEEE Spectrum AI"
-    },
-    {
-      "title": "Quoting Go Proverbs",
-      "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-      "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
-      "date": "2026-11-17T06:16:26+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
