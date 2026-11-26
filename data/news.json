@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:36:29.802302+00:00",
+  "updated": "2026-11-26T22:50:52.394999+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -179,6 +179,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on M",
+      "date": "2026-11-26T22:06:40+00:00",
+      "image": "",
+      "source": "MarkTechPost"
+    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -1634,14 +1642,6 @@
       "date": "2026-11-22T13:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
-      "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
-      "summary": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared",
-      "date": "2026-11-22T10:36:17+00:00",
-      "image": "",
-      "source": "MarkTechPost"
     },
     {
       "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
