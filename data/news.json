@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:05:30.124718+00:00",
+  "updated": "2026-11-26T12:20:26.363507+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,12 +201,28 @@
   ],
   "items": [
     {
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+      "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+      "summary": "Article URL: https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/ Comments URL: https://news.ycombinator.com/item?id=50654425 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:09:29+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "How to Map USGS Earthquake Data from 2015 to 2025 in Python",
       "link": "https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/",
       "summary": "A project that pulls M2.5+ events from the USGS API, cleans them in Pandas, and maps, clusters, and flags anomalies with Cartopy, Folium, and DBSCAN. The post How to Map USGS Earthquake Data from 2015 to 2025 in Python appeared first on Towards Data Science .",
       "date": "2026-11-26T12:00:00+00:00",
       "image": "",
       "source": "Towards Data Science"
+    },
+    {
+      "title": "Dr. Israel Alguindigue joins olmapp.ai advisory board",
+      "link": "https://olmapp.ai/team.html",
+      "summary": "Article URL: https://olmapp.ai/team.html Comments URL: https://news.ycombinator.com/item?id=50654298 Points: 1 # Comments: 1",
+      "date": "2026-11-26T11:53:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "UK government working 'around the clock' on Capita contingency plans",
@@ -291,7 +307,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 45 # Comments: 30",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 63 # Comments: 52",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -557,22 +573,6 @@
       "link": "https://heyorbo.com",
       "summary": "Article URL: https://heyorbo.com Comments URL: https://news.ycombinator.com/item?id=50650673 Points: 1 # Comments: 0",
       "date": "2026-11-26T02:28:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
-      "link": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
-      "summary": "Article URL: https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars Comments URL: https://news.ycombinator.com/item?id=50650667 Points: 3 # Comments: 1",
-      "date": "2026-11-26T02:28:06+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
-      "link": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
-      "summary": "Article URL: https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write Comments URL: https://news.ycombinator.com/item?id=50650653 Points: 1 # Comments: 0",
-      "date": "2026-11-26T02:25:23+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
