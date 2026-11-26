@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:20:26.363507+00:00",
+  "updated": "2026-11-26T12:36:26.309526+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,54 @@
   ],
   "items": [
     {
+      "title": "AI Isn't Overhyped",
+      "link": "https://thehundredtheye.com/ai-isnt-overhyped/",
+      "summary": "Article URL: https://thehundredtheye.com/ai-isnt-overhyped/ Comments URL: https://news.ycombinator.com/item?id=50654585 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:30:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
+      "date": "2026-11-26T12:29:18+00:00",
+      "image": "",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "\"AI\" Malware Analysis",
+      "link": "https://nuxx.net/blog/2026/11/25/ai-malware-analysis/",
+      "summary": "Article URL: https://nuxx.net/blog/2026/11/25/ai-malware-analysis/ Comments URL: https://news.ycombinator.com/item?id=50654558 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:27:08+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "date": "2026-11-26T12:22:25+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
+      "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+      "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+      "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements",
+      "date": "2026-11-26T12:19:37+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
+      "title": "Putting Sixta to the Test: AI-Assisted MySQL Troubleshooting with PMM",
+      "link": "https://www.percona.com/blog/putting-sixta-to-the-test-ai-assisted-mysql-troubleshooting-with-pmm/",
+      "summary": "Article URL: https://www.percona.com/blog/putting-sixta-to-the-test-ai-assisted-mysql-troubleshooting-with-pmm/ Comments URL: https://news.ycombinator.com/item?id=50654488 Points: 1 # Comments: 0",
+      "date": "2026-11-26T12:18:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
       "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
       "summary": "Article URL: https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/ Comments URL: https://news.ycombinator.com/item?id=50654425 Points: 1 # Comments: 0",
@@ -281,14 +329,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
-      "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-      "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements",
-      "date": "2026-11-26T10:00:51+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
       "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private cha",
@@ -297,17 +337,9 @@
       "source": "The Verge AI"
     },
     {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "date": "2026-11-26T09:51:40+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 63 # Comments: 52",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 70 # Comments: 58",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -459,7 +491,7 @@
     {
       "title": "How can people make money as AI replaces intellectual jobs?",
       "link": "https://news.ycombinator.com/item?id=50651911",
-      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 13 # Comments: 6",
+      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 14 # Comments: 6",
       "date": "2026-11-26T05:46:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -521,14 +553,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Show HN: Talira – Search engine for software, built for AI agents",
-      "link": "https://talira.ai/",
-      "summary": "Hi HN, I'm Nathan. I wanted to share a project that I've been working on this month. A few weeks ago, my Rust target folders had grown to about 70 GB across many git worktrees, and I asked Claude to figure out how to stop that from happening. It couldn't find much online, so we s",
-      "date": "2026-11-26T04:37:30+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "India’s government ponders cradle to grave AI oversight",
       "link": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
       "summary": "Machines of loving grace to turn social media grumps into services, finger painting into career advice",
@@ -545,14 +569,6 @@
       "source": "CNBC Technology"
     },
     {
-      "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in Comments URL: https://news.ycombinator.com/item?id=50650979 Points: 6 # Comments: 0",
-      "date": "2026-11-26T03:13:51+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
       "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
@@ -567,14 +583,6 @@
       "date": "2026-11-26T02:35:39+00:00",
       "image": "",
       "source": "CNBC Technology"
-    },
-    {
-      "title": "HeyOrbo – AI Powered Notch on Desktop",
-      "link": "https://heyorbo.com",
-      "summary": "Article URL: https://heyorbo.com Comments URL: https://news.ycombinator.com/item?id=50650673 Points: 1 # Comments: 0",
-      "date": "2026-11-26T02:28:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Quoting Scott Aaronson",
@@ -1033,14 +1041,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "Dell and HPE both say they’ve become ‘different companies’",
-      "link": "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
-      "summary": "Still slinging hardware – now with added AI and attendant risks or opportunities",
-      "date": "2026-11-25T01:17:30+00:00",
-      "image": "https://image.theregister.com/?imageId=262697&width=800",
-      "source": "The Register"
-    },
-    {
       "title": "I asked AI if it was OK to use AI to write an obituary. The answer surprised me | Anna Spargo-Ryan",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/25/jess-wilson-molly-meldrum-tribute-ai-ethics-obituary",
       "summary": "Victorian Liberal leader Jess Wilson’s tribute to Molly Meldrum contained heaps of the right words. But they were written by something that can’t feel I know how this will sound but when my nanna died the second thought I had, after utter devastation, was: “This is a writer’s dre",
@@ -1319,14 +1319,6 @@
       "date": "2026-11-24T16:25:57+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
-      "date": "2026-11-24T16:18:12+00:00",
-      "image": "",
-      "source": "The Verge AI"
     },
     {
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
@@ -3397,6 +3389,14 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "summary": "",
       "date": "2026-10-13T16:01:58+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "date": "2026-10-13T16:01:52+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
