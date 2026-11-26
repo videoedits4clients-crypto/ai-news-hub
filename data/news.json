@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:21:04.792711+00:00",
+  "updated": "2026-11-26T11:28:53.428919+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -139,27 +139,6 @@
     },
     {
       "count": 2,
-      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "date": "2026-11-24T14:56:50+00:00",
-      "sources": [
-        "Ars Technica AI",
-        "The Guardian AI"
-      ],
-      "links": [
-        {
-          "source": "Ars Technica AI",
-          "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-          "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
-        },
-        {
-          "source": "The Guardian AI",
-          "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
-          "link": "https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump"
-        }
-      ]
-    },
-    {
-      "count": 2,
       "title": "Introducing Gemini 4 Neon",
       "date": "2026-11-18T21:35:43+00:00",
       "sources": [
@@ -222,6 +201,14 @@
   ],
   "items": [
     {
+      "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
+      "link": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
+      "summary": "Are you worried about staff connecting their digital assistants to work emails and databases? What steps are you taking to address this? Meta has rolled out its Muse AI assistant, which can be tasked with shopping, booking tickets and carrying out negotiations on a user’s behalf,",
+      "date": "2026-11-26T11:23:41+00:00",
+      "image": "",
+      "source": "The Guardian AI"
+    },
+    {
       "title": "Show HN: Workbench for making CAD parts with Claude/AI coding agent",
       "link": "https://github.com/luisg0nc/torno",
       "summary": "Article URL: https://github.com/luisg0nc/torno Comments URL: https://news.ycombinator.com/item?id=50654014 Points: 1 # Comments: 0",
@@ -280,7 +267,7 @@
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 24 # Comments: 5",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 30 # Comments: 20",
       "date": "2026-11-26T09:44:23+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1380,14 +1367,6 @@
       "date": "2026-11-24T14:16:53+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
-      "link": "https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump",
-      "summary": "The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest names attempt to repair relationships with Democrats after years of backing the president This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it",
-      "date": "2026-11-24T13:33:44+00:00",
-      "image": "",
-      "source": "The Guardian AI"
     },
     {
       "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
