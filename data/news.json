@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:05:52.576816+00:00",
+  "updated": "2026-11-27T06:20:33.470521+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,9 +201,25 @@
   ],
   "items": [
     {
+      "title": "We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s",
+      "link": "https://twitter.com/martinmaritsch/status/2126195898795573437",
+      "summary": "Article URL: https://twitter.com/martinmaritsch/status/2126195898795573437 Comments URL: https://news.ycombinator.com/item?id=50663399 Points: 1 # Comments: 0",
+      "date": "2026-11-27T06:15:08+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The AI labs are rumored to have results relevant to crypto",
+      "link": "https://twitter.com/secparam/status/2126079107817787693",
+      "summary": "Article URL: https://twitter.com/secparam/status/2126079107817787693 Comments URL: https://news.ycombinator.com/item?id=50663304 Points: 1 # Comments: 1",
+      "date": "2026-11-27T05:59:26+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10",
       "link": "https://alexchen-imgbot-sales.containers.snapdeploy.app/",
-      "summary": "Article URL: https://alexchen-imgbot-sales.containers.snapdeploy.app/ Comments URL: https://news.ycombinator.com/item?id=50663124 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://alexchen-imgbot-sales.containers.snapdeploy.app/ Comments URL: https://news.ycombinator.com/item?id=50663124 Points: 3 # Comments: 0",
       "date": "2026-11-27T05:27:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -211,7 +227,7 @@
     {
       "title": "The simplest way to let your users bring their own AI sub to power your AI app",
       "link": "https://byoa.rippling.computer/",
-      "summary": "Article URL: https://byoa.rippling.computer/ Comments URL: https://news.ycombinator.com/item?id=50663034 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://byoa.rippling.computer/ Comments URL: https://news.ycombinator.com/item?id=50663034 Points: 2 # Comments: 0",
       "date": "2026-11-27T05:14:46+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -283,7 +299,7 @@
     {
       "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
       "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 28 # Comments: 14",
+      "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 30 # Comments: 15",
       "date": "2026-11-27T02:44:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -339,7 +355,7 @@
     {
       "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
       "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 47 # Comments: 23",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 48 # Comments: 23",
       "date": "2026-11-27T00:03:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -435,24 +451,8 @@
     {
       "title": "AI made self-hosting fun again",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 481 # Comments: 250",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 516 # Comments: 256",
       "date": "2026-11-26T21:47:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The US Government Is Under AI Cyberattack",
-      "link": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
-      "summary": "Article URL: https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack Comments URL: https://news.ycombinator.com/item?id=50660004 Points: 22 # Comments: 3",
-      "date": "2026-11-26T21:26:33+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI slop is a tax you make other people pay",
-      "link": "https://www.youtube.com/watch?v=aZwQ8NW596Q",
-      "summary": "Article URL: https://www.youtube.com/watch?v=aZwQ8NW596Q Comments URL: https://news.ycombinator.com/item?id=50659923 Points: 5 # Comments: 0",
-      "date": "2026-11-26T21:17:22+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
