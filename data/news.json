@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:50:53.957727+00:00",
+  "updated": "2026-11-27T07:06:36.253843+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,54 @@
   ],
   "items": [
     {
+      "title": "$140k in debt to Google cloud due to AI token usage. any ideas?",
+      "link": "https://news.ycombinator.com/item?id=50663736",
+      "summary": "I've racked up a bill of roughly $140k credits during the development of my startup over the past year. about 3% of that is from product usage, the rest all came from software development. don't know what to do. any ideas? Comments URL: https://news.ycombinator.com/item?id=506637",
+      "date": "2026-11-27T07:04:28+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Who gets to decide if something is written by AI?",
+      "link": "https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
+      "summary": "Article URL: https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=50663720 Points: 1 # Comments: 0",
+      "date": "2026-11-27T07:02:54+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "date": "2026-11-27T07:00:00+00:00",
+      "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+      "source": "Wired AI"
+    },
+    {
+      "title": "Mark to Swap: How the Market Is Mispricing the AI Boom",
+      "link": "https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing",
+      "summary": "Article URL: https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing Comments URL: https://news.ycombinator.com/item?id=50663669 Points: 1 # Comments: 0",
+      "date": "2026-11-27T06:54:16+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 13 # Comments: 3",
+      "date": "2026-11-27T06:44:34+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
+      "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "summary": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+      "date": "2026-11-27T06:36:30+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Beattape.ai – Lofi Psychedelic Nostalgia",
       "link": "https://beattape.ai/",
       "summary": "Article URL: https://beattape.ai/ Comments URL: https://news.ycombinator.com/item?id=50663447 Points: 3 # Comments: 1",
@@ -307,7 +355,7 @@
     {
       "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
       "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 31 # Comments: 15",
+      "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 32 # Comments: 16",
       "date": "2026-11-27T02:44:12+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -363,7 +411,7 @@
     {
       "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
       "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 50 # Comments: 23",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 52 # Comments: 26",
       "date": "2026-11-27T00:03:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -409,30 +457,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
-      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970 Comments URL: https://news.ycombinator.com/item?id=50660963 Points: 2 # Comments: 1",
-      "date": "2026-11-26T23:21:15+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The Local AI Opportunity",
-      "link": "https://thesis.truffle.net/introduction",
-      "summary": "Article URL: https://thesis.truffle.net/introduction Comments URL: https://news.ycombinator.com/item?id=50660962 Points: 1 # Comments: 0",
-      "date": "2026-11-26T23:21:14+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
-      "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
-      "summary": "Article URL: https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/ Comments URL: https://news.ycombinator.com/item?id=50660915 Points: 3 # Comments: 0",
-      "date": "2026-11-26T23:13:50+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Asia made a big AI bet on Nvidia. What happens now?",
       "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
       "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
@@ -447,14 +471,6 @@
       "date": "2026-11-26T22:06:40+00:00",
       "image": "",
       "source": "MarkTechPost"
-    },
-    {
-      "title": "You are mad at AI for the wrong reasons",
-      "link": "https://benedictide.com/posts/ai/",
-      "summary": "Article URL: https://benedictide.com/posts/ai/ Comments URL: https://news.ycombinator.com/item?id=50660301 Points: 7 # Comments: 0",
-      "date": "2026-11-26T22:02:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -1265,14 +1281,6 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
-      "summary": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
-      "date": "2026-11-24T21:52:05+00:00",
-      "image": "",
-      "source": "CNBC Technology"
-    },
-    {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
       "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
@@ -1767,14 +1775,6 @@
       "date": "2026-11-23T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
-    },
-    {
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "date": "2026-11-23T13:11:00+00:00",
-      "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-      "source": "Wired AI"
     },
     {
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
