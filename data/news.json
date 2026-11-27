@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:06:26.013147+00:00",
+  "updated": "2026-11-27T08:20:56.957792+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,9 +201,17 @@
   ],
   "items": [
     {
+      "title": "Why Stripe is not what you need to charge for your AI product (kind of)",
+      "link": "https://news.ycombinator.com/item?id=50664246",
+      "summary": "Like everyone else, you build a product and need to charge your customers. Your first instinct is to go to Stripe. Stripe is the GOAT, so of course you'll use it. This is true and untrue, let's say you're building an AI product. You probably won't charge your customers a flat mon",
+      "date": "2026-11-27T08:18:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Show HN: Benchmark of AI decision models on systematic-review screening",
       "link": "https://github.com/SmartMobileHouse/clinical-trial-decision-lab",
-      "summary": "Article URL: https://github.com/SmartMobileHouse/clinical-trial-decision-lab Comments URL: https://news.ycombinator.com/item?id=50664036 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://github.com/SmartMobileHouse/clinical-trial-decision-lab Comments URL: https://news.ycombinator.com/item?id=50664036 Points: 2 # Comments: 0",
       "date": "2026-11-27T07:51:35+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -211,7 +219,7 @@
     {
       "title": "AI's New Memory – Beyond HBM and SRAM, Without EUV",
       "link": "https://keplercompute.com/act-one",
-      "summary": "Article URL: https://keplercompute.com/act-one Comments URL: https://news.ycombinator.com/item?id=50664031 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://keplercompute.com/act-one Comments URL: https://news.ycombinator.com/item?id=50664031 Points: 2 # Comments: 1",
       "date": "2026-11-27T07:51:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -227,7 +235,7 @@
     {
       "title": "AI Coding Agents Shape Software Architecture",
       "link": "https://arxiv.org/abs/2604.04990",
-      "summary": "Article URL: https://arxiv.org/abs/2604.04990 Comments URL: https://news.ycombinator.com/item?id=50663987 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://arxiv.org/abs/2604.04990 Comments URL: https://news.ycombinator.com/item?id=50663987 Points: 3 # Comments: 0",
       "date": "2026-11-27T07:44:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -307,7 +315,7 @@
     {
       "title": "The group chat where your AI talks behind your back",
       "link": "https://construct22.com/",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 86 # Comments: 23",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 105 # Comments: 31",
       "date": "2026-11-27T06:44:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -453,14 +461,6 @@
       "link": "https://scolast.com",
       "summary": "I was using Claude to learn physics and I was getting a bit frustrated with the interface (I kept interrupting the conversation to get a quick explainer on something, and there was no good interface for Claude to ask me questions) so I built Scolast! It's an AI tutor that follows",
       "date": "2026-11-27T00:43:12+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Left to Solve: 57,410 open math problems, attacked by AI agents",
-      "link": "https://lefttosolve.com/",
-      "summary": "Article URL: https://lefttosolve.com/ Comments URL: https://news.ycombinator.com/item?id=50661242 Points: 3 # Comments: 0",
-      "date": "2026-11-27T00:07:25+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
