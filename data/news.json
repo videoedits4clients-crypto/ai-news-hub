@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:06:00.154078+00:00",
+  "updated": "2026-11-27T14:21:10.275179+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -642,14 +642,6 @@
       "date": "2026-11-26T05:05:36+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "India’s government ponders cradle to grave AI oversight",
-      "link": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
-      "summary": "Machines of loving grace to turn social media grumps into services, finger painting into career advice",
-      "date": "2026-11-26T03:42:56+00:00",
-      "image": "https://image.theregister.com/?imageId=5312280&width=800",
-      "source": "The Register"
     },
     {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
@@ -3378,6 +3370,14 @@
       "date": "2026-09-28T12:32:03+00:00",
       "image": "",
       "source": "Import AI"
+    },
+    {
+      "title": "Quantum computing’s “dark horse” just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alo",
+      "date": "2026-09-25T12:45:04+00:00",
+      "image": "",
+      "source": "ScienceDaily AI"
     }
   ]
 }
