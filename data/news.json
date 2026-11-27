@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:50:53.162398+00:00",
+  "updated": "2026-11-27T11:05:54.857085+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -179,6 +179,14 @@
     }
   ],
   "items": [
+    {
+      "title": "AI used to make Intel Gaudi2 chips outperform Nvidia H100",
+      "link": "https://standardkernel.com/blog/intel-gaudi2-outperforms-h100/",
+      "summary": "Article URL: https://standardkernel.com/blog/intel-gaudi2-outperforms-h100/ Comments URL: https://news.ycombinator.com/item?id=50665420 Points: 1 # Comments: 0",
+      "date": "2026-11-27T10:58:56+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
     {
       "title": "DocScanner: PDF Scanner and OCR – AI Document Scanner and PDF Editor",
       "link": "https://play.google.com/store/apps/details?id=com.jakaria.docscanner&hl=en_US",
@@ -438,7 +446,7 @@
     {
       "title": "The group chat where your AI talks behind your back",
       "link": "https://construct22.com/",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 273 # Comments: 111",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 281 # Comments: 113",
       "date": "2026-11-27T06:44:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -448,14 +456,6 @@
       "link": "https://beattape.ai/",
       "summary": "Article URL: https://beattape.ai/ Comments URL: https://news.ycombinator.com/item?id=50663447 Points: 3 # Comments: 1",
       "date": "2026-11-27T06:22:40+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s",
-      "link": "https://twitter.com/martinmaritsch/status/2126195898795573437",
-      "summary": "Article URL: https://twitter.com/martinmaritsch/status/2126195898795573437 Comments URL: https://news.ycombinator.com/item?id=50663399 Points: 1 # Comments: 0",
-      "date": "2026-11-27T06:15:08+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
