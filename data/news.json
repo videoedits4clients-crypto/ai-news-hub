@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:36:25.458829+00:00",
+  "updated": "2026-11-27T11:51:12.363808+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,9 +180,41 @@
   ],
   "items": [
     {
+      "title": "AI Finds 28 Zero-Day Flaws in Physical Robotics Software",
+      "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "summary": "Article URL: https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security Comments URL: https://news.ycombinator.com/item?id=50665776 Points: 1 # Comments: 0",
+      "date": "2026-11-27T11:47:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "To adapt an AI model to a small device, keep its training notes concise",
+      "link": "https://www.csail.mit.edu/news/adapt-ai-model-small-device-keep-its-training-notes-concise",
+      "summary": "Article URL: https://www.csail.mit.edu/news/adapt-ai-model-small-device-keep-its-training-notes-concise Comments URL: https://news.ycombinator.com/item?id=50665738 Points: 1 # Comments: 0",
+      "date": "2026-11-27T11:42:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 1 # Comments: 0",
+      "date": "2026-11-27T11:41:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Europe's AI sovereignty push: Lots of cloud, not much silver lining",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120",
+      "summary": "Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia",
+      "date": "2026-11-27T11:32:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5240668&width=800",
+      "source": "The Register"
+    },
+    {
       "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
       "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "summary": "Article URL: https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 24 # Comments: 7",
+      "summary": "Article URL: https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 38 # Comments: 23",
       "date": "2026-11-27T11:09:04+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -276,18 +308,10 @@
       "source": "The Guardian AI"
     },
     {
-      "title": "“I am scared”: Careless People author Sarah Wynn-Williams on living under a gag order - and why it’s time to speak out against big tech",
+      "title": "‘I am scared’: Careless People author Sarah Wynn-Williams on living under a gag order - and why it’s time to speak out against big tech",
       "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
       "summary": "Since writing her bestselling exposé, the former employee has been forbidden from speaking publicly about Meta. In an exclusive extract from her Orwell lecture, she talks about corporate lawfare, and the growing backlash against NDAs George Orwell understood that what is missing ",
       "date": "2026-11-27T10:00:01+00:00",
-      "image": "",
-      "source": "The Guardian AI"
-    },
-    {
-      "title": "Pizza history: AI agent’s cardless purchase is a first for UK",
-      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "summary": "Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping Retailers enter the unknown with AI shopping assistants on Black Friday An order of Papa John’s margherita pizzas has become the first purchase in the UK to be made using an ",
-      "date": "2026-11-27T09:53:11+00:00",
       "image": "",
       "source": "The Guardian AI"
     },
@@ -412,14 +436,6 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "Who gets to decide if something is written by AI?",
-      "link": "https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
-      "summary": "Article URL: https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=50663720 Points: 3 # Comments: 1",
-      "date": "2026-11-27T07:02:54+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
       "link": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
       "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent environmental adviser. The nat",
@@ -442,22 +458,6 @@
       "date": "2026-11-27T07:00:00+00:00",
       "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
       "source": "Wired AI"
-    },
-    {
-      "title": "Mark to Swap: How the Market Is Mispricing the AI Boom",
-      "link": "https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing",
-      "summary": "Article URL: https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing Comments URL: https://news.ycombinator.com/item?id=50663669 Points: 2 # Comments: 0",
-      "date": "2026-11-27T06:54:16+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "The group chat where your AI talks behind your back",
-      "link": "https://construct22.com/",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 313 # Comments: 137",
-      "date": "2026-11-27T06:44:34+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
@@ -2596,14 +2596,6 @@
       "source": "MIT Tech Review"
     },
     {
-      "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-      "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
-      "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, a",
-      "date": "2026-11-16T10:00:01+00:00",
-      "image": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=980",
-      "source": "IEEE Spectrum AI"
-    },
-    {
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
       "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
       "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA,",
@@ -3376,6 +3368,14 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "date": "2026-10-13T19:43:07+00:00",
+      "image": "",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "date": "2026-10-13T16:01:58+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
