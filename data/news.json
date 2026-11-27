@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:51:07.064091+00:00",
+  "updated": "2026-11-27T04:05:54.326199+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,14 @@
   ],
   "items": [
     {
+      "title": "Beating Stockfish 18 in Zero- Dependency Rust with AI [pdf]",
+      "link": "https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf",
+      "summary": "Article URL: https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50662601 Points: 1 # Comments: 0",
+      "date": "2026-11-27T03:54:49+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
       "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
       "summary": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost .",
@@ -227,7 +235,7 @@
     {
       "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
       "link": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
-      "summary": "Article URL: https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big Comments URL: https://news.ycombinator.com/item?id=50662164 Points: 12 # Comments: 0",
+      "summary": "Article URL: https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big Comments URL: https://news.ycombinator.com/item?id=50662164 Points: 13 # Comments: 0",
       "date": "2026-11-27T02:46:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -251,7 +259,7 @@
     {
       "title": "Omarchy 4.6 Released with More Local AI Integration, Its Own File Manager",
       "link": "https://www.phoronix.com/news/Omarchy-4.6-Released",
-      "summary": "Article URL: https://www.phoronix.com/news/Omarchy-4.6-Released Comments URL: https://news.ycombinator.com/item?id=50661805 Points: 7 # Comments: 0",
+      "summary": "Article URL: https://www.phoronix.com/news/Omarchy-4.6-Released Comments URL: https://news.ycombinator.com/item?id=50661805 Points: 8 # Comments: 0",
       "date": "2026-11-27T01:37:30+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -291,7 +299,7 @@
     {
       "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
       "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 40 # Comments: 19",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 41 # Comments: 19",
       "date": "2026-11-27T00:03:18+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -387,7 +395,7 @@
     {
       "title": "AI made self-hosting fun again",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 402 # Comments: 222",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 409 # Comments: 223",
       "date": "2026-11-26T21:47:45+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -395,7 +403,7 @@
     {
       "title": "The US Government Is Under AI Cyberattack",
       "link": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
-      "summary": "Article URL: https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack Comments URL: https://news.ycombinator.com/item?id=50660004 Points: 19 # Comments: 2",
+      "summary": "Article URL: https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack Comments URL: https://news.ycombinator.com/item?id=50660004 Points: 20 # Comments: 2",
       "date": "2026-11-26T21:26:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -447,14 +455,6 @@
       "date": "2026-11-26T20:03:54+00:00",
       "image": "",
       "source": "TechCrunch AI"
-    },
-    {
-      "title": "A Warning About AI to My Loved Ones",
-      "link": "https://twitter.com/nikolaj2030/status/2125996744718565514",
-      "summary": "Article URL: https://twitter.com/nikolaj2030/status/2125996744718565514 Comments URL: https://news.ycombinator.com/item?id=50659016 Points: 7 # Comments: 6",
-      "date": "2026-11-26T19:54:56+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
