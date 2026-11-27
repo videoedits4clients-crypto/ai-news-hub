@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T19:05:52.539161+00:00",
+  "updated": "2026-11-27T19:21:05.568895+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -180,6 +180,54 @@
   ],
   "items": [
     {
+      "title": "AI Guardrail Demo No Successes Yet",
+      "link": "https://guardrail-api-core-production.up.railway.app/",
+      "summary": "Article URL: https://guardrail-api-core-production.up.railway.app/ Comments URL: https://news.ycombinator.com/item?id=50670639 Points: 1 # Comments: 0",
+      "date": "2026-11-27T19:18:59+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "REE: A Scientific Research Entrance Exam for AI Agents",
+      "link": "https://arxiv.org/abs/2611.34646",
+      "summary": "Article URL: https://arxiv.org/abs/2611.34646 Comments URL: https://news.ycombinator.com/item?id=50670584 Points: 1 # Comments: 1",
+      "date": "2026-11-27T19:13:20+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "link": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "summary": "Article URL: https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil Comments URL: https://news.ycombinator.com/item?id=50670531 Points: 2 # Comments: 0",
+      "date": "2026-11-27T19:07:22+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "US Stocks rise in abbreviated Black Friday trading as AI concerns ease",
+      "link": "https://www.upi.com/Top_News/US/2026/11/27/stocks-AI-thanksgiving/3631795799509/",
+      "summary": "Article URL: https://www.upi.com/Top_News/US/2026/11/27/stocks-AI-thanksgiving/3631795799509/ Comments URL: https://news.ycombinator.com/item?id=50670486 Points: 1 # Comments: 0",
+      "date": "2026-11-27T19:03:46+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: A local-first AI memory for your video footage",
+      "link": "https://news.ycombinator.com/item?id=50670468",
+      "summary": "I'm Ilias, the creator behind Orcah Studio (a local-first knowledge system that will transcribe, perform speaker diarization, analyse frames, and create multi-modal embeddings) using open-weight models Demo video: https://youtu.be/9uUZrayDEgs I built a Docker-first solution, full",
+      "date": "2026-11-27T19:02:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "date": "2026-11-27T18:46:20+00:00",
+      "image": "",
+      "source": "CNBC Technology"
+    },
+    {
       "title": "Sandboxed AI models talk via GPU rounding errors on shared vLLM servers",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
       "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through Comments URL: https://news.ycombina",
@@ -198,7 +246,7 @@
     {
       "title": "Mozilla is now an AI company (2025)",
       "link": "https://alextheward.com/blog/mozilla_is_now_an_ai_company",
-      "summary": "Article URL: https://alextheward.com/blog/mozilla_is_now_an_ai_company Comments URL: https://news.ycombinator.com/item?id=50670101 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://alextheward.com/blog/mozilla_is_now_an_ai_company Comments URL: https://news.ycombinator.com/item?id=50670101 Points: 5 # Comments: 0",
       "date": "2026-11-27T18:29:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -238,7 +286,7 @@
     {
       "title": "I'm Scared of AI",
       "link": "https://thesoapbox.email/archive/3",
-      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 132 # Comments: 133",
+      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 153 # Comments: 156",
       "date": "2026-11-27T17:45:31+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -278,7 +326,7 @@
     {
       "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
       "link": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
-      "summary": "Article URL: https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/ Comments URL: https://news.ycombinator.com/item?id=50669073 Points: 8 # Comments: 1",
+      "summary": "Article URL: https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/ Comments URL: https://news.ycombinator.com/item?id=50669073 Points: 11 # Comments: 1",
       "date": "2026-11-27T17:05:45+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -376,46 +424,6 @@
       "link": "https://folio-eta-bay-59.vercel.app",
       "summary": "Article URL: https://folio-eta-bay-59.vercel.app Comments URL: https://news.ycombinator.com/item?id=50667549 Points: 1 # Comments: 0",
       "date": "2026-11-27T14:45:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "OpenAI offering up to $8k a month to teach small businesses AI",
-      "link": "https://openai.com/openworks/",
-      "summary": "Article URL: https://openai.com/openworks/ Comments URL: https://news.ycombinator.com/item?id=50667516 Points: 1 # Comments: 1",
-      "date": "2026-11-27T14:42:35+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Our AI QA agent on Momentic's open QA Bench, with every run and verdict",
-      "link": "https://github.com/pluswithai/qa-bench-results",
-      "summary": "Article URL: https://github.com/pluswithai/qa-bench-results Comments URL: https://news.ycombinator.com/item?id=50667382 Points: 1 # Comments: 0",
-      "date": "2026-11-27T14:31:17+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI is straining America's open records systems",
-      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "summary": "Article URL: https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/ Comments URL: https://news.ycombinator.com/item?id=50667375 Points: 3 # Comments: 0",
-      "date": "2026-11-27T14:30:36+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Success Factors – Food for Agile Thought 572",
-      "link": "https://age-of-product.com/food-agile-thought-572-ai-success-factors/",
-      "summary": "Article URL: https://age-of-product.com/food-agile-thought-572-ai-success-factors/ Comments URL: https://news.ycombinator.com/item?id=50667358 Points: 1 # Comments: 0",
-      "date": "2026-11-27T14:28:28+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Place AI and math breakthroughs on a timeline vs. Scott Aaronson",
-      "link": "https://youraitimelines.com/",
-      "summary": "Saw the Polylog × Scott Aaronson video https://www.youtube.com/watch?v=0xa_JFSUEDg and thought it would be cool to see other people's ideas and timelines. Would be good to get thoughts and comments. Comments URL: https://news.ycombinator.com/item?id=50667356 Points: 1 # Comments:",
-      "date": "2026-11-27T14:28:08+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -1204,6 +1212,14 @@
       "source": "BBC Technology"
     },
     {
+      "title": "AI is straining America’s open records systems",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure bu",
+      "date": "2026-11-25T10:00:00+00:00",
+      "image": "",
+      "source": "MIT Tech Review"
+    },
+    {
       "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
       "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
       "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory,",
@@ -1242,14 +1258,6 @@
       "date": "2026-11-25T03:44:07+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
       "source": "BBC Technology"
-    },
-    {
-      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-      "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
-      "date": "2026-11-25T02:43:33+00:00",
-      "image": "",
-      "source": "CNBC Technology"
     },
     {
       "title": "Why tiny cars are taking off across Europe",
@@ -3368,14 +3376,6 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
