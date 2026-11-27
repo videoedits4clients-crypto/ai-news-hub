@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T07:51:06.733387+00:00",
+  "updated": "2026-11-27T08:06:26.013147+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -201,6 +201,38 @@
   ],
   "items": [
     {
+      "title": "Show HN: Benchmark of AI decision models on systematic-review screening",
+      "link": "https://github.com/SmartMobileHouse/clinical-trial-decision-lab",
+      "summary": "Article URL: https://github.com/SmartMobileHouse/clinical-trial-decision-lab Comments URL: https://news.ycombinator.com/item?id=50664036 Points: 1 # Comments: 0",
+      "date": "2026-11-27T07:51:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI's New Memory – Beyond HBM and SRAM, Without EUV",
+      "link": "https://keplercompute.com/act-one",
+      "summary": "Article URL: https://keplercompute.com/act-one Comments URL: https://news.ycombinator.com/item?id=50664031 Points: 1 # Comments: 1",
+      "date": "2026-11-27T07:51:03+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "South Africa Launches $5.9M AI Startup Fund",
+      "link": "https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements",
+      "summary": "Article URL: https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements Comments URL: https://news.ycombinator.com/item?id=50663999 Points: 1 # Comments: 0",
+      "date": "2026-11-27T07:46:45+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Coding Agents Shape Software Architecture",
+      "link": "https://arxiv.org/abs/2604.04990",
+      "summary": "Article URL: https://arxiv.org/abs/2604.04990 Comments URL: https://news.ycombinator.com/item?id=50663987 Points: 1 # Comments: 0",
+      "date": "2026-11-27T07:44:13+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI-Driven Terraform: Move Fast Without Losing Control",
       "link": "https://newbmiao.github.io/what-matters-in-aiops.html",
       "summary": "Article URL: https://newbmiao.github.io/what-matters-in-aiops.html Comments URL: https://news.ycombinator.com/item?id=50663958 Points: 1 # Comments: 0",
@@ -235,7 +267,7 @@
     {
       "title": "Who gets to decide if something is written by AI?",
       "link": "https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
-      "summary": "Article URL: https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=50663720 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=50663720 Points: 2 # Comments: 0",
       "date": "2026-11-27T07:02:54+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -275,7 +307,7 @@
     {
       "title": "The group chat where your AI talks behind your back",
       "link": "https://construct22.com/",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 45 # Comments: 12",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 86 # Comments: 23",
       "date": "2026-11-27T06:44:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -433,44 +465,12 @@
       "source": "Hacker News AI"
     },
     {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 52 # Comments: 26",
-      "date": "2026-11-27T00:03:18+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
       "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
       "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
       "date": "2026-11-27T00:02:19+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
       "source": "BBC Technology"
-    },
-    {
-      "title": "The transformer, the one in the electric grid – is it holding up AI?",
-      "link": "https://neutrinodetect.one/app-carbon/p/9329f86fe52c",
-      "summary": "Article URL: https://neutrinodetect.one/app-carbon/p/9329f86fe52c Comments URL: https://news.ycombinator.com/item?id=50661206 Points: 1 # Comments: 0",
-      "date": "2026-11-27T00:01:50+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Has AI come for quantum gravity?",
-      "link": "https://superposer.substack.com/p/has-ai-come-for-quantum-gravity",
-      "summary": "Article URL: https://superposer.substack.com/p/has-ai-come-for-quantum-gravity Comments URL: https://news.ycombinator.com/item?id=50661116 Points: 5 # Comments: 0",
-      "date": "2026-11-26T23:46:45+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Linux of AI, score and prove how locked-in your AI stack is",
-      "link": "https://github.com/sekacorn/Linux-of-Ai",
-      "summary": "Article URL: https://github.com/sekacorn/Linux-of-Ai Comments URL: https://news.ycombinator.com/item?id=50661086 Points: 1 # Comments: 0",
-      "date": "2026-11-26T23:40:29+00:00",
-      "image": "",
-      "source": "Hacker News AI"
     },
     {
       "title": "Asia made a big AI bet on Nvidia. What happens now?",
