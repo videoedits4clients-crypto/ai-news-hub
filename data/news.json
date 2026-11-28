@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:05:55.284412+00:00",
+  "updated": "2026-11-28T00:20:26.294817+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -40,13 +40,18 @@
   ],
   "trending": [
     {
-      "count": 5,
-      "title": "datasette-charts 0.3a0",
-      "date": "2026-11-25T18:16:50+00:00",
+      "count": 6,
+      "title": "datasette-charts 0.4a0",
+      "date": "2026-11-27T23:57:17+00:00",
       "sources": [
         "Simon Willison"
       ],
       "links": [
+        {
+          "source": "Simon Willison",
+          "title": "datasette-charts 0.4a0",
+          "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
+        },
         {
           "source": "Simon Willison",
           "title": "datasette-charts 0.3a0",
@@ -182,7 +187,7 @@
     {
       "title": "Google DeepMind's AI safety researcher: \"I'm not optimistic\"",
       "link": "https://twitter.com/alexmichael/status/2125976282303471643",
-      "summary": "Article URL: https://twitter.com/alexmichael/status/2125976282303471643 Comments URL: https://news.ycombinator.com/item?id=50672885 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://twitter.com/alexmichael/status/2125976282303471643 Comments URL: https://news.ycombinator.com/item?id=50672885 Points: 2 # Comments: 0",
       "date": "2026-11-27T23:59:13+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -190,10 +195,18 @@
     {
       "title": "Show HN: OpenMessageBoard: a message board spec for people and AI agents",
       "link": "https://news.ycombinator.com/item?id=50672873",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50672873 Points: 1 # Comments: 0",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50672873 Points: 2 # Comments: 0",
       "date": "2026-11-27T23:58:00+00:00",
       "image": "",
       "source": "Hacker News AI"
+    },
+    {
+      "title": "datasette-charts 0.4a0",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up wi",
+      "date": "2026-11-27T23:57:17+00:00",
+      "image": "",
+      "source": "Simon Willison"
     },
     {
       "title": "AI Detectors Like Pangram Are Changing Human Writing",
@@ -206,7 +219,7 @@
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/",
-      "summary": "Article URL: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/ Comments URL: https://news.ycombinator.com/item?id=50672719 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/ Comments URL: https://news.ycombinator.com/item?id=50672719 Points: 4 # Comments: 2",
       "date": "2026-11-27T23:33:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -246,7 +259,7 @@
     {
       "title": "First time AI employee presents PPTX on call [video]",
       "link": "https://www.youtube.com/watch?v=Ch5qycwmjUE",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ch5qycwmjUE Comments URL: https://news.ycombinator.com/item?id=50672263 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Ch5qycwmjUE Comments URL: https://news.ycombinator.com/item?id=50672263 Points: 1 # Comments: 1",
       "date": "2026-11-27T22:21:58+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -286,7 +299,7 @@
     {
       "title": "Banks look to dump AI debt",
       "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50671559 Points: 12 # Comments: 2",
+      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50671559 Points: 15 # Comments: 2",
       "date": "2026-11-27T20:56:17+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -334,7 +347,7 @@
     {
       "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
       "link": "https://github.com/skeeto/prospero",
-      "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 23 # Comments: 4",
+      "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 26 # Comments: 4",
       "date": "2026-11-27T20:23:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -350,7 +363,7 @@
     {
       "title": "Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"",
       "link": "https://substack.com/@pancooke/note/c-395539528",
-      "summary": "Article URL: https://substack.com/@pancooke/note/c-395539528 Comments URL: https://news.ycombinator.com/item?id=50671028 Points: 6 # Comments: 1",
+      "summary": "Article URL: https://substack.com/@pancooke/note/c-395539528 Comments URL: https://news.ycombinator.com/item?id=50671028 Points: 7 # Comments: 1",
       "date": "2026-11-27T20:01:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -594,6 +607,14 @@
       "date": "2026-11-27T01:00:00+00:00",
       "image": "https://image.theregister.com/?imageId=5311615&width=800",
       "source": "The Register"
+    },
+    {
+      "title": "datasette-mcp 0.4",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "date": "2026-11-27T00:26:17+00:00",
+      "image": "",
+      "source": "Simon Willison"
     },
     {
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
@@ -2268,14 +2289,6 @@
       "source": "Simon Willison"
     },
     {
-      "title": "The PSF end-of-year fundraiser",
-      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider dona",
-      "date": "2026-11-18T14:44:48+00:00",
-      "image": "",
-      "source": "Simon Willison"
-    },
-    {
       "title": "The AI Hype Index: AI is everywhere",
       "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean so",
@@ -2394,14 +2407,6 @@
       "date": "2026-11-18T00:00:00+00:00",
       "image": "",
       "source": "Hugging Face"
-    },
-    {
-      "title": "External sandboxes for coding agents",
-      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-      "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine.",
-      "date": "2026-11-17T22:52:29+00:00",
-      "image": "",
-      "source": "Simon Willison"
     },
     {
       "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
