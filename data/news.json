@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T18:34:24.704105+00:00",
+  "updated": "2026-11-28T18:39:58.102011+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,38 @@
   ],
   "items": [
     {
+      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+      "link": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2 Comments URL: https://news.ycombinator.com/item?id=50680578 Points: 1 # Comments: 0",
+      "date": "2026-11-28T18:35:21+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Distinguishing AI training from inference via GPU auxiliary-cable current",
+      "link": "https://arxiv.org/abs/2611.29982",
+      "summary": "Article URL: https://arxiv.org/abs/2611.29982 Comments URL: https://news.ycombinator.com/item?id=50680510 Points: 1 # Comments: 0",
+      "date": "2026-11-28T18:29:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI agents are coming for big business",
+      "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2",
+      "summary": "Article URL: https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2 Comments URL: https://news.ycombinator.com/item?id=50680342 Points: 2 # Comments: 1",
+      "date": "2026-11-28T18:11:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "link": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "summary": "Article URL: https://cs.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50680168 Points: 111 # Comments: 7",
+      "date": "2026-11-28T17:53:02+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
       "link": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
       "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
@@ -195,8 +227,8 @@
     {
       "title": "Code-driven AI illustrations are more useful than images from dedicated image models",
       "link": "https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/",
-      "summary": "An interesting trend in frontier LLMs released in the second half of 2026 is that they tend to be much better at visual reasoning and creative \"design\" than their predecessors. If you ask these text-output models to create a 2D image (or a 3D model, as discussed here previously )",
-      "date": "2026-11-28T17:45:40+00:00",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/ Comments URL: https://news.ycombinator.com/item?id=50680097 Points: 6 # Comments: 1",
+      "date": "2026-11-28T17:46:08+00:00",
       "image": "",
       "source": "Simon Willison"
     },
@@ -207,6 +239,46 @@
       "date": "2026-11-28T17:09:41+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "AI Chat Exporter – Export ChatGPT, Claude and Gemini Chats to PDF, Word and MD",
+      "link": "https://chromewebstore.google.com/detail/ai-chat-exporter/ommhdalgmeblbobfapgeomipinhieifo",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/ai-chat-exporter/ommhdalgmeblbobfapgeomipinhieifo Comments URL: https://news.ycombinator.com/item?id=50679653 Points: 1 # Comments: 0",
+      "date": "2026-11-28T17:05:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI chatbots often notice when teens need help but don't always act on it",
+      "link": "https://www.vals.ai/blogs/teen-chatbot-reasoning-traces",
+      "summary": "Article URL: https://www.vals.ai/blogs/teen-chatbot-reasoning-traces Comments URL: https://news.ycombinator.com/item?id=50679554 Points: 2 # Comments: 0",
+      "date": "2026-11-28T16:54:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI bots wreak havoc with UK restaurant bookings",
+      "link": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse Comments URL: https://news.ycombinator.com/item?id=50679282 Points: 5 # Comments: 0",
+      "date": "2026-11-28T16:34:36+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Ask HN: How can humans prove to AI that we are conscious?",
+      "link": "https://news.ycombinator.com/item?id=50679123",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50679123 Points: 2 # Comments: 2",
+      "date": "2026-11-28T16:19:53+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "If AI takes every job who will buy things?",
+      "link": "https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things",
+      "summary": "Article URL: https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things Comments URL: https://news.ycombinator.com/item?id=50679023 Points: 38 # Comments: 125",
+      "date": "2026-11-28T16:09:11+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "Pensions and benefits services still down after 'cyber incident'",
@@ -223,6 +295,110 @@
       "date": "2026-11-28T16:00:43+00:00",
       "image": "",
       "source": "The Guardian AI"
+    },
+    {
+      "title": "Started writing book on how ai changes development.formals, docs, tests",
+      "link": "https://github.com/posix4e/growing-verified-systems",
+      "summary": "Article URL: https://github.com/posix4e/growing-verified-systems Comments URL: https://news.ycombinator.com/item?id=50678829 Points: 6 # Comments: 1",
+      "date": "2026-11-28T15:48:05+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Code Review and the Age of Autonomy with James Governor",
+      "link": "https://vpetersson.com/podcast/s03e07/",
+      "summary": "Article URL: https://vpetersson.com/podcast/s03e07/ Comments URL: https://news.ycombinator.com/item?id=50678713 Points: 1 # Comments: 0",
+      "date": "2026-11-28T15:36:35+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "I Build Engines Before I Build AI Agents",
+      "link": "https://www.reddit.com/r/claude/comments/1y7o2n8/why_i_build_engines_before_i_build_ai_agents/",
+      "summary": "Article URL: https://www.reddit.com/r/claude/comments/1y7o2n8/why_i_build_engines_before_i_build_ai_agents/ Comments URL: https://news.ycombinator.com/item?id=50678408 Points: 1 # Comments: 0",
+      "date": "2026-11-28T15:05:51+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "NYAG James Announces Creation of AI Enforecment Unit",
+      "link": "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and",
+      "summary": "Article URL: https://ag.ny.gov/press-release/2026/attorney-general-james-announces-creation-ai-safety-standards-enforcement-and Comments URL: https://news.ycombinator.com/item?id=50678392 Points: 1 # Comments: 0",
+      "date": "2026-11-28T15:04:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "LA schools block Google's AI features, consider dropping tech giant's products",
+      "link": "https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1",
+      "summary": "Article URL: https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1 Comments URL: https://news.ycombinator.com/item?id=50678311 Points: 8 # Comments: 0",
+      "date": "2026-11-28T14:56:01+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Ask HN: Who is still worried about copyright issues with AI generated code?",
+      "link": "https://news.ycombinator.com/item?id=50678283",
+      "summary": "At Thanksgiving, the topic of AI-generated code briefly came up. I was surprised to hear about corporate resistance to generated code being a significant legal risk. I almost heard someone say stochastic parrot. I was shocked because I hadn’t considered that argument in what felt",
+      "date": "2026-11-28T14:53:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Free check of whether AI assistants recommend your brand",
+      "link": "https://geo.modelfold.ai/",
+      "summary": "Article URL: https://geo.modelfold.ai/ Comments URL: https://news.ycombinator.com/item?id=50678281 Points: 1 # Comments: 0",
+      "date": "2026-11-28T14:53:33+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Russian Orthodox Church Patriarch Kirill Calls on Christians to Tame AI",
+      "link": "https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/",
+      "summary": "Article URL: https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/ Comments URL: https://news.ycombinator.com/item?id=50678277 Points: 1 # Comments: 1",
+      "date": "2026-11-28T14:53:00+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "AI Isn't That Dangerous",
+      "link": "https://www.verysane.ai/p/ai-isnt-that-dangerous",
+      "summary": "Article URL: https://www.verysane.ai/p/ai-isnt-that-dangerous Comments URL: https://news.ycombinator.com/item?id=50678186 Points: 53 # Comments: 65",
+      "date": "2026-11-28T14:42:41+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "GitHub – SeanFDZ/Agentbridge: Let AI Agents Control Classic Mac OS",
+      "link": "https://github.com/SeanFDZ/agentbridge",
+      "summary": "Article URL: https://github.com/SeanFDZ/agentbridge Comments URL: https://news.ycombinator.com/item?id=50678148 Points: 1 # Comments: 0",
+      "date": "2026-11-28T14:36:57+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Show HN: Sync MacroFactor CSV to Obsidian for a Local Food Base Usable with AI",
+      "link": "https://github.com/switchupcb/food",
+      "summary": "I synchronized my MacroFactor CSV exports into a local-first, spreadsheet-free nutrition and food-asset database inside Obsidian (works on Desktop/iOS/Android and uses zero external APIs). The open-sourced template scripts help you make food decisions with recursive ingredient ma",
+      "date": "2026-11-28T14:24:55+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "link": "https://github.com/RiccardoSottini/AffrescoUI",
+      "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50677861 Points: 55 # Comments: 50",
+      "date": "2026-11-28T14:09:39+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "link": "https://koppar.ai/blog/lte-modem-bring-up/",
+      "summary": "Article URL: https://koppar.ai/blog/lte-modem-bring-up/ Comments URL: https://news.ycombinator.com/item?id=50677822 Points: 45 # Comments: 31",
+      "date": "2026-11-28T14:06:19+00:00",
+      "image": "",
+      "source": "Hacker News AI"
     },
     {
       "title": "AI data center boom strains construction labor across the U.S.",
