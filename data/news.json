@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:05:52.199648+00:00",
+  "updated": "2026-11-28T01:20:31.613782+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -184,6 +184,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "date": "2026-11-28T01:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+      "source": "BBC Technology"
+    },
     {
       "title": "Game-Changing Move Just Gave America the Edge over China in AI",
       "link": "https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c",
@@ -371,7 +379,7 @@
     {
       "title": "Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"",
       "link": "https://substack.com/@pancooke/note/c-395539528",
-      "summary": "Article URL: https://substack.com/@pancooke/note/c-395539528 Comments URL: https://news.ycombinator.com/item?id=50671028 Points: 9 # Comments: 1",
+      "summary": "Article URL: https://substack.com/@pancooke/note/c-395539528 Comments URL: https://news.ycombinator.com/item?id=50671028 Points: 11 # Comments: 1",
       "date": "2026-11-27T20:01:33+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1951,14 +1959,6 @@
       "date": "2026-11-21T08:41:43+00:00",
       "image": "https://substackcdn.com/image/fetch/$s_!RcOW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe937cf00-17ca-41fb-866c-fd971727d6c6_3366x1906.png",
       "source": "Last Week in AI"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-      "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-      "date": "2026-11-21T01:00:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
