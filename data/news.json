@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:20:31.613782+00:00",
+  "updated": "2026-11-28T01:36:26.811630+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,14 @@
   ],
   "items": [
     {
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "date": "2026-11-28T01:30:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
+      "source": "BBC Technology"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
       "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
@@ -315,7 +323,7 @@
     {
       "title": "Banks look to dump AI debt",
       "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50671559 Points: 19 # Comments: 3",
+      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50671559 Points: 22 # Comments: 3",
       "date": "2026-11-27T20:56:17+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -363,7 +371,7 @@
     {
       "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
       "link": "https://github.com/skeeto/prospero",
-      "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 32 # Comments: 6",
+      "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 32 # Comments: 7",
       "date": "2026-11-27T20:23:14+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -1767,14 +1775,6 @@
       "date": "2026-11-23T16:59:40+00:00",
       "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "date": "2026-11-23T16:12:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
