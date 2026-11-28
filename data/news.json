@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T08:06:34.210955+00:00",
+  "updated": "2026-11-28T08:21:06.759106+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,22 @@
   ],
   "items": [
     {
+      "title": "Is WPML Worth It? I Tested It Against an AI Plugin on a WooCommerce Shop [video]",
+      "link": "https://www.youtube.com/watch?v=mwNzLRrlWnw",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mwNzLRrlWnw Comments URL: https://news.ycombinator.com/item?id=50675747 Points: 1 # Comments: 0",
+      "date": "2026-11-28T08:20:04+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Cowork – Self-hosted task queue and orchestration server for AI coding agents",
+      "link": "https://github.com/slashman413/cowork",
+      "summary": "Article URL: https://github.com/slashman413/cowork Comments URL: https://news.ycombinator.com/item?id=50675662 Points: 2 # Comments: 0",
+      "date": "2026-11-28T08:00:47+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
       "link": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
       "summary": "Meta claims its Muse assistant will make users’ lives easier, but business owners say AI is driving them to go analogue Restaurant owners are battling a horde of AI bots and returning to using the telephone instead of online booking as new virtual assistants launch in the UK – bu",
@@ -211,7 +227,7 @@
     {
       "title": "Zero-egress ~0.04ms 6-layer deterministic firewall for AI agent payouts",
       "link": "https://news.ycombinator.com/item?id=50675433",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50675433 Points: 1 # Comments: 0",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50675433 Points: 2 # Comments: 0",
       "date": "2026-11-28T07:08:42+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -251,7 +267,7 @@
     {
       "title": "AI labs sitting on 'bombshell' revelations, experts warn",
       "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos Comments URL: https://news.ycombinator.com/item?id=50675303 Points: 5 # Comments: 0",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos Comments URL: https://news.ycombinator.com/item?id=50675303 Points: 7 # Comments: 0",
       "date": "2026-11-28T06:43:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -291,7 +307,7 @@
     {
       "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI",
       "link": "https://thenewstack.io/openai-matrix-multiplication-exponent/",
-      "summary": "Article URL: https://thenewstack.io/openai-matrix-multiplication-exponent/ Comments URL: https://news.ycombinator.com/item?id=50675139 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://thenewstack.io/openai-matrix-multiplication-exponent/ Comments URL: https://news.ycombinator.com/item?id=50675139 Points: 3 # Comments: 0",
       "date": "2026-11-28T06:01:54+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -299,7 +315,7 @@
     {
       "title": "Google adding official Google AI plan support to Pi coding agent",
       "link": "https://github.com/earendil-works/pi/pull/12614",
-      "summary": "Article URL: https://github.com/earendil-works/pi/pull/12614 Comments URL: https://news.ycombinator.com/item?id=50675069 Points: 8 # Comments: 3",
+      "summary": "Article URL: https://github.com/earendil-works/pi/pull/12614 Comments URL: https://news.ycombinator.com/item?id=50675069 Points: 10 # Comments: 3",
       "date": "2026-11-28T05:42:49+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -387,7 +403,7 @@
     {
       "title": "No way to opt out of training currently on Claude.ai?",
       "link": "https://claude.ai/new#settings/data-privacy-controls",
-      "summary": "Article URL: https://claude.ai/new#settings/data-privacy-controls Comments URL: https://news.ycombinator.com/item?id=50673729 Points: 4 # Comments: 7",
+      "summary": "Article URL: https://claude.ai/new#settings/data-privacy-controls Comments URL: https://news.ycombinator.com/item?id=50673729 Points: 5 # Comments: 7",
       "date": "2026-11-28T02:10:58+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -397,22 +413,6 @@
       "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
       "summary": "Article URL: https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/ Comments URL: https://news.ycombinator.com/item?id=50673628 Points: 3 # Comments: 0",
       "date": "2026-11-28T01:51:46+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement [pdf]",
-      "link": "https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf",
-      "summary": "Article URL: https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf Commen",
-      "date": "2026-11-28T01:44:42+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Developers Accuse Claude Models of Hindering AI Projects, Shift to Gemini Neon",
-      "link": "https://x.com/i/trending/2126468075058811175",
-      "summary": "Article URL: https://x.com/i/trending/2126468075058811175 Comments URL: https://news.ycombinator.com/item?id=50673549 Points: 5 # Comments: 0",
-      "date": "2026-11-28T01:38:09+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
