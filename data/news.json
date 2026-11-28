@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T12:50:23.967458+00:00",
+  "updated": "2026-11-28T13:05:58.280313+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -184,6 +184,14 @@
     }
   ],
   "items": [
+    {
+      "title": "How to Test LLM State Tracking With a StateBench-Style Deployment Log",
+      "link": "https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/",
+      "summary": "Nine promotion histories, a Python replay, and a four-variant prompt with an UNKNOWN option show whether a release assistant tracks state or just reads the last line. The post How to Test LLM State Tracking With a StateBench-Style Deployment Log appeared first on Towards Data Sci",
+      "date": "2026-11-28T13:00:00+00:00",
+      "image": "",
+      "source": "Towards Data Science"
+    },
     {
       "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
       "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
@@ -1837,14 +1845,6 @@
       "link": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/",
       "summary": "With a 0.9 confidence cutoff, Cloudflare's System One model handles the easy cases and routes the rest to a bigger, slower LLM like Luna. The post Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores appeared first on Towards Data Science .",
       "date": "2026-11-20T15:00:00+00:00",
-      "image": "",
-      "source": "Towards Data Science"
-    },
-    {
-      "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
-      "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
-      "summary": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini. The post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on Towards Data Science .",
-      "date": "2026-11-20T13:30:00+00:00",
       "image": "",
       "source": "Towards Data Science"
     },
