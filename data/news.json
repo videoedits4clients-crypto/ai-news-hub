@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:36:32.113219+00:00",
+  "updated": "2026-11-28T11:51:26.269770+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -184,6 +184,14 @@
     }
   ],
   "items": [
+    {
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "date": "2026-11-28T11:35:34+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg",
+      "source": "BBC Technology"
+    },
     {
       "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
       "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
@@ -1511,14 +1519,6 @@
       "date": "2026-11-23T23:40:49+00:00",
       "image": "",
       "source": "Simon Willison"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "date": "2026-11-23T23:16:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Ladybird's first alpha release",
