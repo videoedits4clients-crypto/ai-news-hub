@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T08:36:27.295255+00:00",
+  "updated": "2026-11-28T08:50:59.596363+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,30 @@
   ],
   "items": [
     {
+      "title": "Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists",
+      "link": "https://www.nature.com/articles/d41586-026-03875-6",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03875-6 Comments URL: https://news.ycombinator.com/item?id=50675878 Points: 1 # Comments: 0",
+      "date": "2026-11-28T08:47:48+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "date": "2026-11-28T08:41:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "link": "https://fleetlayer.ai/",
+      "summary": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.) Running so many different accounts meant that I couldn't use claude.ai artifacts anymore",
+      "date": "2026-11-28T08:37:09+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Is WPML Worth It? I Tested It Against an AI Plugin on a WooCommerce Shop [video]",
       "link": "https://www.youtube.com/watch?v=mwNzLRrlWnw",
       "summary": "Article URL: https://www.youtube.com/watch?v=mwNzLRrlWnw Comments URL: https://news.ycombinator.com/item?id=50675747 Points: 1 # Comments: 0",
@@ -207,14 +231,6 @@
       "date": "2026-11-28T08:00:34+00:00",
       "image": "",
       "source": "The Guardian AI"
-    },
-    {
-      "title": "Pensions and benefits services still down after 'cyber incident'",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
-      "date": "2026-11-28T07:55:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
-      "source": "BBC Technology"
     },
     {
       "title": "Ask HN: Has AI started impacting hiring in your org?",
@@ -259,7 +275,7 @@
     {
       "title": "'The taste layer of the internet ': Reddit's COO on why AI needs humans",
       "link": "https://www.euronews.com/2026/11/26/the-taste-layer-of-the-internet-reddits-coo-on-why-ai-needs-humans",
-      "summary": "Article URL: https://www.euronews.com/2026/11/26/the-taste-layer-of-the-internet-reddits-coo-on-why-ai-needs-humans Comments URL: https://news.ycombinator.com/item?id=50675321 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.euronews.com/2026/11/26/the-taste-layer-of-the-internet-reddits-coo-on-why-ai-needs-humans Comments URL: https://news.ycombinator.com/item?id=50675321 Points: 2 # Comments: 0",
       "date": "2026-11-28T06:46:34+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -267,7 +283,7 @@
     {
       "title": "AI labs sitting on 'bombshell' revelations, experts warn",
       "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos Comments URL: https://news.ycombinator.com/item?id=50675303 Points: 10 # Comments: 0",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos Comments URL: https://news.ycombinator.com/item?id=50675303 Points: 11 # Comments: 0",
       "date": "2026-11-28T06:43:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -315,7 +331,7 @@
     {
       "title": "Google adding official Google AI plan support to Pi coding agent",
       "link": "https://github.com/earendil-works/pi/pull/12614",
-      "summary": "Article URL: https://github.com/earendil-works/pi/pull/12614 Comments URL: https://news.ycombinator.com/item?id=50675069 Points: 12 # Comments: 3",
+      "summary": "Article URL: https://github.com/earendil-works/pi/pull/12614 Comments URL: https://news.ycombinator.com/item?id=50675069 Points: 13 # Comments: 3",
       "date": "2026-11-28T05:42:49+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -339,7 +355,7 @@
     {
       "title": "What Happens When AI Aligns Itself?",
       "link": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
-      "summary": "Article URL: https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself Comments URL: https://news.ycombinator.com/item?id=50674692 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself Comments URL: https://news.ycombinator.com/item?id=50674692 Points: 3 # Comments: 1",
       "date": "2026-11-28T04:29:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -397,22 +413,6 @@
       "link": "https://beardstylesformen.org/beard-design/",
       "summary": "You can get your best beard styles which suits your face shape Comments URL: https://news.ycombinator.com/item?id=50673844 Points: 1 # Comments: 0",
       "date": "2026-11-28T02:29:55+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "No way to opt out of training currently on Claude.ai?",
-      "link": "https://claude.ai/new#settings/data-privacy-controls",
-      "summary": "Article URL: https://claude.ai/new#settings/data-privacy-controls Comments URL: https://news.ycombinator.com/item?id=50673729 Points: 5 # Comments: 7",
-      "date": "2026-11-28T02:10:58+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "AI Can Read the Code, but Can It Understand the Chip?",
-      "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-      "summary": "Article URL: https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/ Comments URL: https://news.ycombinator.com/item?id=50673628 Points: 3 # Comments: 0",
-      "date": "2026-11-28T01:51:46+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
