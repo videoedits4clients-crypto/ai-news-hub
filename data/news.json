@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T05:36:30.550647+00:00",
+  "updated": "2026-11-28T05:50:34.491865+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,14 @@
   ],
   "items": [
     {
+      "title": "Google adding official Google AI plan support to Pi coding agent",
+      "link": "https://github.com/earendil-works/pi/pull/12614",
+      "summary": "Article URL: https://github.com/earendil-works/pi/pull/12614 Comments URL: https://news.ycombinator.com/item?id=50675069 Points: 1 # Comments: 0",
+      "date": "2026-11-28T05:42:49+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
       "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
       "summary": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies AI companies are sitting on “bombshell” revelations that could disrupt a cornerstone of security for banks and governments in as soon as a few months, leading exper",
@@ -211,7 +219,7 @@
     {
       "title": "What Happens When AI Aligns Itself?",
       "link": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
-      "summary": "Article URL: https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself Comments URL: https://news.ycombinator.com/item?id=50674692 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself Comments URL: https://news.ycombinator.com/item?id=50674692 Points: 2 # Comments: 1",
       "date": "2026-11-28T04:29:03+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -235,7 +243,7 @@
     {
       "title": "Trending Open-Source Software · Opensourcesoftware.ai",
       "link": "https://opensourcesoftware.ai",
-      "summary": "Article URL: https://opensourcesoftware.ai Comments URL: https://news.ycombinator.com/item?id=50674421 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://opensourcesoftware.ai Comments URL: https://news.ycombinator.com/item?id=50674421 Points: 2 # Comments: 0",
       "date": "2026-11-28T03:44:22+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -307,7 +315,7 @@
     {
       "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
       "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 123 # Comments: 95",
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 134 # Comments: 105",
       "date": "2026-11-28T01:32:56+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -413,14 +421,6 @@
       "link": "https://www.youtube.com/watch?v=Ch5qycwmjUE",
       "summary": "Article URL: https://www.youtube.com/watch?v=Ch5qycwmjUE Comments URL: https://news.ycombinator.com/item?id=50672263 Points: 1 # Comments: 1",
       "date": "2026-11-27T22:21:58+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
-      "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
-      "summary": "Article URL: https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433 Comments URL: https://news.ycombinator.com/item?id=50671959 Points: 4 # Comments: 0",
-      "date": "2026-11-27T21:42:15+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
@@ -679,6 +679,14 @@
       "date": "2026-11-26T20:03:54+00:00",
       "image": "",
       "source": "TechCrunch AI"
+    },
+    {
+      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "summary": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+      "date": "2026-11-26T19:04:00+00:00",
+      "image": "https://image.theregister.com/?imageId=5310524&width=800",
+      "source": "The Register"
     },
     {
       "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
@@ -3373,14 +3381,6 @@
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "summary": "",
       "date": "2026-10-13T19:43:07+00:00",
-      "image": "",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
       "image": "",
       "source": "Google DeepMind"
     }
