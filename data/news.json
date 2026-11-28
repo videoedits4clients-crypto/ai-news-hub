@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T09:51:07.837667+00:00",
+  "updated": "2026-11-28T10:06:21.940330+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -184,6 +184,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+      "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "summary": "Ant Group's Afu team open-sourced LingSante-3.1-flash, a 560B-parameter MoE medical AI model with 25B active parameters, a 1M-token context and an MIT license. It ranks first among open models on InclusionMed. The post Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Mo",
+      "date": "2026-11-28T09:45:33+00:00",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-150x150.jpeg",
+      "source": "MarkTechPost"
+    },
     {
       "title": "Pensions and benefits services still down after 'cyber incident'",
       "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
@@ -1202,7 +1210,7 @@
     },
     {
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
       "summary": "Experts from around the world plot the progress of AI development every five years.",
       "date": "2026-11-24T21:00:00+00:00",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
@@ -1645,14 +1653,6 @@
       "link": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
       "summary": "AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM’s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $",
       "date": "2026-11-23T10:40:16+00:00",
-      "image": "",
-      "source": "MarkTechPost"
-    },
-    {
-      "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
-      "link": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
-      "summary": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core. The post Architect Labs Unveils Frostbite, an Interaction Net CPU D",
-      "date": "2026-11-23T10:05:47+00:00",
       "image": "",
       "source": "MarkTechPost"
     },
