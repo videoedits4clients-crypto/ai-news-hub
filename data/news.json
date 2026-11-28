@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T17:21:07.029767+00:00",
+  "updated": "2026-11-28T17:36:32.884319+00:00",
   "count": 400,
   "sources": [
     "TechCrunch AI",
@@ -185,6 +185,14 @@
   ],
   "items": [
     {
+      "title": "Quail: A fast engine for AI functions in SQL",
+      "link": "https://fsdatalab.github.io/quail/docs",
+      "summary": "Article URL: https://fsdatalab.github.io/quail/docs Comments URL: https://news.ycombinator.com/item?id=50679888 Points: 1 # Comments: 0",
+      "date": "2026-11-28T17:28:30+00:00",
+      "image": "",
+      "source": "Hacker News AI"
+    },
+    {
       "title": "Signs of AI Writing, Backed by Data",
       "link": "https://www.pangram.com/signs-of-ai-writing",
       "summary": "Article URL: https://www.pangram.com/signs-of-ai-writing Comments URL: https://news.ycombinator.com/item?id=50679780 Points: 1 # Comments: 0",
@@ -235,7 +243,7 @@
     {
       "title": "If AI takes every job who will buy things?",
       "link": "https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things",
-      "summary": "Article URL: https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things Comments URL: https://news.ycombinator.com/item?id=50679023 Points: 35 # Comments: 100",
+      "summary": "Article URL: https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things Comments URL: https://news.ycombinator.com/item?id=50679023 Points: 36 # Comments: 108",
       "date": "2026-11-28T16:09:11+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -259,7 +267,7 @@
     {
       "title": "Started writing book on how ai changes development.formals, docs, tests",
       "link": "https://github.com/posix4e/growing-verified-systems",
-      "summary": "Article URL: https://github.com/posix4e/growing-verified-systems Comments URL: https://news.ycombinator.com/item?id=50678829 Points: 4 # Comments: 1",
+      "summary": "Article URL: https://github.com/posix4e/growing-verified-systems Comments URL: https://news.ycombinator.com/item?id=50678829 Points: 5 # Comments: 1",
       "date": "2026-11-28T15:48:05+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -323,7 +331,7 @@
     {
       "title": "AI Isn't That Dangerous",
       "link": "https://www.verysane.ai/p/ai-isnt-that-dangerous",
-      "summary": "Article URL: https://www.verysane.ai/p/ai-isnt-that-dangerous Comments URL: https://news.ycombinator.com/item?id=50678186 Points: 53 # Comments: 57",
+      "summary": "Article URL: https://www.verysane.ai/p/ai-isnt-that-dangerous Comments URL: https://news.ycombinator.com/item?id=50678186 Points: 53 # Comments: 59",
       "date": "2026-11-28T14:42:41+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -347,7 +355,7 @@
     {
       "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
       "link": "https://github.com/RiccardoSottini/AffrescoUI",
-      "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50677861 Points: 42 # Comments: 39",
+      "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50677861 Points: 47 # Comments: 39",
       "date": "2026-11-28T14:09:39+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -355,7 +363,7 @@
     {
       "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
       "link": "https://koppar.ai/blog/lte-modem-bring-up/",
-      "summary": "Article URL: https://koppar.ai/blog/lte-modem-bring-up/ Comments URL: https://news.ycombinator.com/item?id=50677822 Points: 45 # Comments: 28",
+      "summary": "Article URL: https://koppar.ai/blog/lte-modem-bring-up/ Comments URL: https://news.ycombinator.com/item?id=50677822 Points: 45 # Comments: 29",
       "date": "2026-11-28T14:06:19+00:00",
       "image": "",
       "source": "Hacker News AI"
@@ -429,14 +437,6 @@
       "link": "https://folio-eta-bay-59.vercel.app",
       "summary": "Article URL: https://folio-eta-bay-59.vercel.app Comments URL: https://news.ycombinator.com/item?id=50676952 Points: 1 # Comments: 0",
       "date": "2026-11-28T12:28:38+00:00",
-      "image": "",
-      "source": "Hacker News AI"
-    },
-    {
-      "title": "Show HN: Agentic Signal – build AI agents from nodes, run them on local models",
-      "link": "https://github.com/code-forge-temple/agentic-signal",
-      "summary": "Article URL: https://github.com/code-forge-temple/agentic-signal Comments URL: https://news.ycombinator.com/item?id=50676922 Points: 2 # Comments: 0",
-      "date": "2026-11-28T12:24:19+00:00",
       "image": "",
       "source": "Hacker News AI"
     },
